@@ -1,0 +1,35 @@
+{
+	"Others": {
+		"urban-pulse": {
+			"title": "Urban Pulse",
+			"abstract": "Open source project with a web interface, based on the Urban Pulse: Capturing the Rhythm of Cities paper.",
+			"teaser": "urban-pulse/urban-pulse-web.png",
+            "image": "urban-pulse/urban-pulse-web-original.png",
+            "github": "https://github.com/ViDA-NYU/urban-pulse",
+            "more": false
+		},
+		"heatmap": {
+			"title": "Heatmap GL",
+			"abstract": "Simple heatmap visualization using WebGL, with support for spatiotemporal point data.",
+			"teaser": "heatmap/heatmap-teaser2.png",
+            "image": "heatmap/heatmap-teaser.png",
+            "github": "https://github.com/fabio-miranda/heatmapGL",
+            "more": false
+		},
+		"line-arrangement": {
+			"title": "Line Arrangement",
+			"abstract": "Interactive visualization to show steps of line arrangement algorithm as user adds lines. Using a DCEL structure, the algorithm iterate over faces intersected by an added line (zone), highlighting interesting elements of the DCEL structure as the algorithm proceeds to update the structure.",
+			"teaser": "line-arrangement/line-arrangement-teaser.png",
+			"github": "https://github.com/fabio-miranda/LineArrangement"
+		},
+		"color-gamut": {
+			"title": "Color Gamut Visualization",
+			"abstract": "Interactive visualization of different sets of colors (all visible colors, sRGB, Munsell) on three different color spaces : CIE XYZ, CIE Lab and sRGB. Segment Maxima Method for computing gamut boundary based on Morovic et al., 2000.",
+			"video": "https://www.youtube.com/watch?v=cvGCO9u_Ios",
+            "videoId": "cvGCO9u_Ios",
+			"teaser": "color-gamut/color-gamut-teaser2.png",
+            "image": "color-gamut/color-gamut-teaser.png",
+			"github": "https://github.com/fabio-miranda/ColorGamut"
+		}
+	}
+}

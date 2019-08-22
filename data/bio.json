@@ -1,0 +1,15 @@
+{
+	"name": "Fabio Miranda",
+	"image": "images/fabio-miranda-medium.jpg",
+	"bio": ["Currently, I am a postdoctoral researcher in the Computer Science department at NYU. I have obtained my Ph.D. from NYU in 2018, advised by Prof. Claudio T. Silva. In conjunction with my Ph.D., I have completed internships at Argonne National Lab, IBM Research, AT&T Labs Research, and Sandia National Labs. I have a M.Sc. from PUC-Rio, advised by Prof. Waldemar Celes. During my master studies, I worked as a researcher and software engineer developing visualization tools for the oil industry.",
+        "I am currently interested in understanding how cities change over time and space, through the use of visualization, computer graphics and data analysis."],
+	"contact": {
+		"e-mail": "mailto:fmiranda@nyu.edu",
+		"nyu people": "http://engineering.nyu.edu/people/fabio-miranda",
+		"linkedin": "http://www.linkedin.com/in/fabiomarkusmiranda",
+		"google scholar": "https://scholar.google.com/citations?user=9fR0LqAAAAAJ&hl=en",
+		"researchgate": "https://www.researchgate.net/profile/Fabio_Miranda13",
+		"github": "https://github.com/fabio-miranda",
+        "twitter": "https://twitter.com/fabiom_miranda"
+	}
+}

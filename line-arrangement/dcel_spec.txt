@@ -1,0 +1,56 @@
+====================================================================================
+DCEL Specification
+====================================================================================
+
+
+
+[Class Definition] =================================================================
+
+function DCEL()
+- function constructBoundingBox(var xmin, var xmax, var ymin, var ymax): as described in API
+- function leftmostEdgeBoundingBox(var a, var b): as described in API
+- function function insertEdge(var edgeFront, var edgeRear): as described in API
+
+function Face()
+- outerComponent: Outer Component, arbitrarily chosen half-edge on the outer boundary
+- innerComponent: Inner Component, arbitrarily chosen half-edge on the inner boundary (Only used for the unbounded face)
+*[NOT USED] isHighlighted: Whether the face is highlighted currently
+
+function Vertex()
+- x: x coordinate of vertex v
+- y: y coordinate of vertex v 
+*[NOT USED] incidentEdge: reference to an incident Edge arbitrarily chosen with v as its origin
+*[NOT USED] isHighlighted: Whether the vertex is highlighted currently
+
+function Edge()
+- origin: reference to the origin vertex of this edge
+- twin: reference to the twin edge of this edge
+- incidentFace: reference to the incident face that this edge bounds
+- next: reference to the next edge
+- prev: reference to the previous edge
+*[NOT USED] isHighlighted: Whether the edge is highlighted currently
+
+
+
+[API] ===============================================================================
+
+The lines are specified by triple <a, b, c> representing ax + by + c = 0. a, b, c have double/float values and a, b cannot both be zero.
+
+function constructBoundingBox(var xmin, var xmax, var ymin, var ymax)
+* This function constructs a bounding box with intially 4 segments (8 edges) as [xmin, xmax]X[ymin, ymax]. This function does not return anything. 
+
+function leftmostEdgeBoundingBox(var line)
+* This function returns a reference to the left most intersected edge on the bounding box. 
+The returned edge is incident to the INNER face.
+The returned edge shall be used to start a line insertion in the construction of line arrangement.
+
+function insertEdge(var edgeFront, var edgeRear, var line)
+* This function insert a new edge intersecting first with edgeFront and then edgeRear at point vertexFront and vertexRear. The edge comes from the line.
+It updates the edge lists accordingly. Note that edgeFront and edgeRear shall be incident to the same face. Do NOT pass in their twin edges.
+
+
+The program flow of inserting a new line L shall be:
+(1) Use leftmostEdgeBoundingBox to get an intial intersected edge E;
+(2) Use E's attributes to find the next edge E' that L intersects with. If E is incident to the unbounded face, terminate the algorithm.
+(3) Call insertEdge(E, E') to update the DCEL;
+(4) Assign E'.twin to E and repeat from (2).

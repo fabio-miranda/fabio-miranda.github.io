@@ -1,0 +1,62 @@
+
+/* All pages */
+
+body {
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: 16px;
+}
+
+.container {
+	padding-right: 5%;
+	padding-left: 5%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+ul {
+ 	list-style-type: none;
+}
+
+/* Main page */
+.img-thumbnail {
+	margin-bottom: 25px;
+    width:100%;
+    text-align:center;
+}
+
+.hr-large {
+	width: 100%;
+    border: 0;
+    height: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.hr-small {
+	width: 30%;
+	border: 0;
+    height: 0;
+    border-top: 0px;
+    border-bottom: 1px solid rgba(0, 0, 0, 1);
+}
+
+
+/* Content page */
+
+.video {
+	padding: 20px;
+}
+
+.image {
+	width: 30%;
+	margin-left: 20px;
+}
+
+.abstract {
+	margin-top: 20px;
+	white-space: pre-line;
+}
+
+.news {
+	font-size: 16px;
+}

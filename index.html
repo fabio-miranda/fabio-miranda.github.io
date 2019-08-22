@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="description" content="About me - Fabio Miranda">
+		<meta name="author" content="Fabio Miranda">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>fmiranda.me | Fabio Miranda | PhD candidate at NYU</title>
+		<link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" />
+		<link rel="stylesheet" href="css/style.css" type="text/css" />
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Vollkorn" >
+
+		<!-- Google Analytics -->
+		<script>
+		window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+		ga('create', 'UA-86919519-1', 'auto');
+		ga('send', 'pageview');
+		</script>
+		<script async src='https://www.google-analytics.com/analytics.js'></script>
+		<!-- End Google Analytics -->
+
+		<script type="text/javascript" src="lib/jquery.min.js"    ></script>
+		<script type="text/javascript" src="lib/bootstrap.min.js" ></script>
+		<script type="text/javascript" src="lib/d3.min.js"        ></script>
+		<script type="text/javascript" src="js/main.js"           ></script>
+		<script>
+			window.onload = function() {
+				loadHeader("data/header.json");
+				loadBio("data/bio.json");
+				loadNews("data/news.json");
+				loadTeaser("data/papers.json", function(){loadProject("data/projects.json");});
+				
+			};
+		</script>
+	</head>
+
+	<body>
+		<div class="container">
+			<div id="header"></div>
+			<div id="bio"></div>
+			<div id="news"></div>
+			<div id="content"></div>
+		</div>
+	</body>
+</html>
