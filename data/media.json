@@ -1,0 +1,40 @@
+{
+    "Selected Media Coverage": {
+        "1": {
+            "text": "Mapping the Shadows of New York City: Every Building, Every Block",
+            "teaser": "images/nyt.png",
+            "where": "The New York Times",
+            "more": "https://www.nytimes.com/interactive/2016/12/21/upshot/Mapping-the-Shadows-of-New-York-City.html"
+        },
+        "2": {
+            "text": "Map of New York City shadows",
+            "teaser": "images/flowingdata.png",
+            "where": "FlowingData",
+            "more": "https://flowingdata.com/2016/12/22/map-of-new-york-city-shadows/"
+        },
+        "3": {
+            "text": "A life in the shadows: Take a look at some of Manhattan's darkest and brightest streets",
+            "teaser": "images/architectnewspaper.png",
+            "where": "The Architect's Newspaper",
+            "more": "https://archpaper.com/2016/12/new-york-city-shadow-map/"
+        },
+        "4": {
+            "text": "Listen to the music of the traffic in the city",
+            "teaser": "images/economist.png",
+            "where": "The Economist",
+            "more": "https://www.economist.com/science-and-technology/2016/10/22/listen-to-the-music-of-the-traffic-in-the-city"
+        },
+        "5": {
+            "text": "New program wants to improve cities with the power of tweets and Flickr uploads",
+            "teaser": "images/curbed.png",
+            "where": "Curbed",
+            "more": "https://www.curbed.com/2017/9/22/16350214/urban-pulse-planning-design-cities-nyu"
+        },
+        "6": {
+            "text": "Urban Pulse Uses Social Media Data to Show Cities in a New Light",
+            "teaser": "images/architecturaldigest.png",
+            "where": "Architectural Digest",
+            "more": "https://www.architecturaldigest.com/story/urban-pulse-uses-social-media-data-to-show-cities-in-a-new-light"
+        }
+    }
+}

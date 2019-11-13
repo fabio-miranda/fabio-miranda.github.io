@@ -3,28 +3,33 @@ function loadHeader(fileName) {
 
 	$.getJSON( fileName, function( data ) {
 
-		var header = d3.select("#header");
-		var ul = header
-			.append("ul")
-			.attr("class", "nav nav-pills pull-right");
+		var header = d3.select("#header").append("div").attr("class", "row");
 
-		ul.selectAll("li")
-			.data(d3.entries(data["links"]))
-			.enter()
-			.append("li")
-			.append("a")
-			.attr("href", function(d){return d.value})
-			.text(function(d){return d.key});
-
-		header.append("h3")
-			.attr("class", "left")
+		header.append("div")
+			.attr("class", "col-sm-4")
+			.append("span")
+			.append("h2")
 			.append("a")
 			.attr("href", data["main"])
 			.text(data["name"]);
 
+		var div = header.append("div")
+			.attr("class", "col-sm-8 align-self-center")
+			.append("div")
+			.attr("class", "float-right");
+
+		div.selectAll("span")
+			.data(d3.entries(data["links"]))
+			.enter()
+			.append("span")
+			.attr("class", "px-2")
+			.append("a")
+			.attr("href", function(d){return d.value})
+			.text(function(d){return d.key});
+
 		d3.select("title").text(data["title"]);
 
-		header.append("hr").attr("class", "hr-large");
+		// header.append("hr").attr("class", "hr-large");
 	})
 	.fail(function(jqxhr, textStatus, error){
 		var err = textStatus + ", " + error;
@@ -38,40 +43,33 @@ function loadHeader(fileName) {
 
 function loadNews(fileName) {
 	$.getJSON( fileName, function( data ) {
-		
-		var div = d3.select("#news")
-			.append("div")
-			.attr("class", "row well");
+
+		var news = d3.select("#news").append("div").attr("class", "news row no-gutters");
 
 		for(var content in data) {
-			div
+			news
                 .append("div")
+                .attr("class", "col-sm-12")
                 .attr("id", content.toLowerCase())
-                .append("h4")
+                // .append("h4")
+                .append("div")
+                .attr("class", "font-weight-bold")
 				.text(content);
 
-			var ul = div.append("ul").attr("class", "news");
+			news = news.append("div").attr("class","cell no-gutters");
 
 			// div for all papers
-			var papers = ul.selectAll("li")
+			var newsitems = news
+				.append("div")
+				.attr("class", "col-sm-12")
+				.selectAll("div")
 				.data(d3.entries(data[content]));
 
-			papers
+			newsitems
 				.enter()
 				.append("div")
-
-			// paper description
-			var description = papers.append("div").append("li")
-				.attr("class", "col-sm");
-
-			description.append("span")
-				.attr("class", "news")
+				.attr("class", "newsitem")
 				.html(function(d){return "<b>"+d.value["date"] + "</b>: " + d.value["text"];});
-
-			description.append("span")
-                .html(function(d,i) {
-                    return ' [<a target="_new" href='+d.value["more"]+'>more</a>]';
-                });
 		}
 
 	})
@@ -85,23 +83,20 @@ function loadNews(fileName) {
 function loadBio(fileName) {
 	$.getJSON( fileName, function( data ) {
 
-		var bio = d3.select("#bio");
-			
-		var div = bio.append("div")
-			.attr("class", "row well");
+		var bio = d3.select("#bio").append("div").attr("class", "row bio align-items-center");
 
-		div.append("div")
-			.attr("class", "col-sm-4")
+		bio.append("div")
+			.attr("class", "col-sm-3")
 			.append("img")
-			.attr("class", "img-rounded")
+			.attr("class", "img-rounded align-middle")
 			.attr("src", data["image"])
 			.attr("alt", data["name"])
 			.attr("title", data["name"])
-			.style("width", "250px")
-			.style("height", "250px");
+			.style("width", "100%")
+			.style("filter", "grayscale(100%)");
 
-		var bioOutter = div.append("div")
-			.attr("class", "col-sm-8");
+		var bioOutter = bio.append("div")
+			.attr("class", "col-sm-9");
 
 		var bioInner = bioOutter.append("div")
 			.attr("class", "row");
@@ -113,19 +108,21 @@ function loadBio(fileName) {
 
 		var contact = bioInner.append("div")
 			.attr("class", "text-center")
+			.style("width", "100%")
 			.append("ul")
             .attr("class", "list-inline"); 
 
-		contact.selectAll("li")
+		contact.selectAll("span")
 			.data(d3.entries(data["contact"]))
 			.enter()
-			.append("li")
+			.append("span")
+			.attr("class", "px-2")
 			// .attr("class", "list-inline-item")
             .html(function(d,i) {
                 return "[<a href="+d.value+">"+d.key+"</a>]";
             });
 
-		bio.append("hr").attr("class", "hr-large");
+		// bio.append("hr").attr("class", "hr-large");
 	})
 	.fail(function(jqxhr, textStatus, error){
 		var err = textStatus + ", " + error;
@@ -133,21 +130,256 @@ function loadBio(fileName) {
 	});
 }
 
-function loadTeaser(fileName, callBack) {
+function loadResearchHighlights(fileName) {
+	$.getJSON( fileName, function( data ) {
+		var highlights = d3.select("#highlights").append("div").attr("class", "highlights row no-gutters");
+
+		for(var content in data) {
+			var div = highlights
+		        .append("div")
+		        .attr("class", "col-sm-12")
+		        .attr("id", content.toLowerCase())
+		        // .append("h4")
+		    div.append("span")
+		        .attr("class", "font-weight-bold")
+				.text(content);
+
+			div.append("span")
+				.attr("class", "researchitem font-weight-bold")
+				.style("float", "right")
+				.append("a")
+				.attr("href","/papers")
+				.text("See all papers");
+
+
+
+			highlights = highlights.append("div").attr("class","cell row py-0");
+
+			var items = highlights
+				.selectAll("div")
+				.data(d3.entries(data[content]));
+
+			item = items
+				.enter()
+				.append("span")
+				.attr("class", "col-sm-3 researchitem");
+
+			item.append("div")
+				.attr("class", "font-weight-bold")
+				.text(function(d){return d.value["title"]});
+			item.append("div")
+				.attr("class", "text-center text-justify")
+				.append("img")
+				.attr("class", "img-rounded")
+				.attr("src", function(d){return "publications/"+d.value["teaser"]})
+				.attr("alt", function(d){return d.value["name"]})
+				.attr("title", function(d){return d.value["name"]})
+				.style("max-width", "100%")
+				.style("height", "150px")
+				.style("object-fit", "contain")
+			item.append("div")
+				.attr("class", "researchitemauthors")
+				.text(function(d){return d.value["authors"]})
+			// item.append("div")
+				// .text(function(d){return d.value["text"]})
+
+			var links = item.append("div");
+			links.each(function(element) {
+				for(var i=0; i<element.value["where"].length; ++i) {
+					var aux;
+					if(i > 0) {
+						aux = d3.select(this).append("span").text(", ");
+					}
+					else {
+						aux = d3.select(this).append("span");
+					}
+
+					aux.append("span")
+						.style("white-space","nowrap")
+						.html(function(d) {
+							return ' [<a href='+element.value["more"][i]+'>'+element.value["where"][i]+'</a>]';
+						});
+				}
+			})
+			// d3.entries(data[content]).forEach(function(element) {
+			// 	console.log(element);
+			// 	for(var i=0; i<element.value["where"].length; ++i) {
+			// 		console.log(element.value["where"]);
+			// 		var aux;
+			// 		if(i > 0) {
+			// 			aux = links.append("span").text(", ");
+			// 		}
+			// 		else {
+			// 			aux = links.append("span");
+			// 		}
+
+			// 		aux.append("a")
+			// 			.attr("href",element.value["more"][i])
+			// 			.text(element.value["where"][i]);
+			// 	}
+			// })
+		}
+	});
+}
+
+function loadResearchAreas(fileName) {
+	$.getJSON( fileName, function( data ) {
+		var highlights = d3.select("#areas").append("div").attr("class", "areas row no-gutters");
+
+		for(var content in data) {
+			highlights
+		        .append("div")
+		        .attr("class", "col-sm-12")
+		        .attr("id", content.toLowerCase())
+		        // .append("h4")
+		        .append("div")
+		        .attr("class", "font-weight-bold")
+				.text(content);
+
+			highlights = highlights.append("div").attr("class","cell row py-0");
+
+			var items = highlights
+				.selectAll("div")
+				.data(d3.entries(data[content]));
+
+			item = items
+				.enter()
+				.append("span")
+				.attr("class", "col-sm-3 researchitem");
+
+			item.append("div")
+				.attr("class", "font-weight-bold")
+				.text(function(d){return d.value["title"]});
+			item.append("div")
+				.attr("class", "text-center text-justify");
+			item.append("div")
+				.text(function(d){return d.value["text"]})
+
+			var links = item.append("div");
+			links.each(function(element) {
+				for(var i=0; i<element.value["where"].length; ++i) {
+					var aux;
+					if(i > 0) {
+						aux = d3.select(this).append("span").text(", ");
+					}
+					else {
+						aux = d3.select(this).append("span");
+					}
+
+					aux.append("span")
+						.style("white-space","nowrap")
+						.html(function(d) {
+							return ' [<a href='+element.value["more"][i]+'>'+element.value["where"][i]+'</a>]';
+						});
+				}
+			})
+		}
+	});
+}
+
+
+function loadMedia(fileName) {
+	$.getJSON( fileName, function( data ) {
+		var highlights = d3.select("#media").append("div").attr("class", "medianews row no-gutters");
+
+		for(var content in data) {
+			highlights
+		        .append("div")
+		        .attr("class", "col-sm-12")
+		        .attr("id", content.toLowerCase())
+		        // .append("h4")
+		        .append("div")
+		        .attr("class", "font-weight-bold")
+				.text(content);
+
+			highlights = highlights.append("div").attr("class","cell row py-0");
+
+			var items = highlights
+				.selectAll("span")
+				.data(d3.entries(data[content]));
+
+			var links = items
+				.enter()
+				.append("div")
+				.attr("class", "col-sm-2 newsitem");
+			links
+				.append("div")
+				.attr("class", "text-center text-justify")
+				.append("img")
+				.attr("class", "img-rounded text-center")
+				.attr("src", function(d){return d.value["teaser"]})
+				.attr("alt", function(d){return d.value["name"]})
+				.attr("title", function(d){return d.value["name"]})
+				.style("max-width", "100%")
+				.style("height", "30px")
+				.style("object-fit", "contain")
+			links
+				.append("div")
+				.text(function(d){return d.value["text"]});
+
+			links.append("span")
+				.html(function(d) {
+					return ' [<a target="_new" href='+d.value["more"]+'>'+d.value["where"]+'</a>]';
+			});
+
+			// links.append("a")
+				// .attr("href",function(d){return d.value["more"]})
+				// .text(function(d){return d.value["where"]})
+				// .style("filter", "grayscale(100%)");
+				// .html(function(d){return "<b>"+d.value["date"] + "</b>: " + d.value["text"];});
+		}
+	});
+}
+
+function loadLinks(fileName) {
+	$.getJSON( fileName, function( data ) {
+		var highlights = d3.select("#links").append("div").attr("class", "links row no-gutters");
+
+		for(var content in data) {
+			var div = highlights
+		        .append("div")
+		        .attr("class", "col-sm-6");
+		    div.append("div")
+		        .attr("class", "font-weight-bold")
+				.text(content);
+
+			var items = div.append("div").attr("class","cell row py-0")
+				.selectAll("div")
+				.data(d3.entries(data[content]));
+
+			var links = items
+				.enter()
+				.append("div")
+				.attr("class", "linkitem");
+			links.append("div")
+				.attr("class", "font-weight-bold")
+				.text(function(d){return d.value["title"]});
+			links.append("span")
+				.text(function(d){return d.value["text"]});
+			links.append("span")
+				.html(function(d) {
+					return ' [<a target="_new" href='+d.value["more"]+'>'+d.value["where"]+'</a>]';
+				});
+		}
+	});
+}
+
+function loadTeaser(fileName) {
 	$.getJSON( fileName, function( data ) {
 		
 		var div = d3.select("#content")
 			.append("div")
-			.attr("class", "row well");
+			// .attr("class", "row col-sm-12");
 
 		for(var content in data) {
 			div
                 .append("div")
+                .attr("class", "col-sm-12")
                 .attr("id", content.toLowerCase())
                 .append("h4")
 				.text(content);
 
-			var ul = div.append("ul").attr("class", "paper");
+			var ul = div.append("ul");//.attr("class", "no-gutters");
 
 			// div for all papers
 			var papers = ul.selectAll("li")
@@ -159,62 +391,63 @@ function loadTeaser(fileName, callBack) {
 				.attr("class", "row")
 
 			papers
-				.append("hr").attr("class", "hr-small");
+				.append("hr").attr("class", "hr-small col-sm-6");
 
 			// paper description
-			var description = papers.append("div").append("li")
-				.attr("class", "col-sm-6");
+			var div = papers.append("div").attr("class", "col-sm-8");
+			// var description = div.append("li")
+				// .attr("class", "col-sm-4");
 
-			description.append("span")
-				.attr("class", "lead")
+			var row = div;//.append("div").attr("class", "row");
+			row.append("div")
+				.attr("class", "lead paperitem px-0")
 				.text(function(d){return d.value["title"];});
-			description.append("div")
+			div.append("div")
+				.attr("class", "px-0")
 				.text(function(d){return d.value["authors"];});
-			description.append("em")
+			div.append("div")
+				.attr("class", "px-0")
+				.append("em")
 				.text(function(d){return d.value["where"];});
 			
-			ul = description.append("ul")
-				.attr("class", "list-inline");
+			ul = div.append("ul")
+				.attr("class", "px-0");
 
-			ul.append("li")
-				.append("span")
+			ul.append("span")
                 .html(function(d,i) {
+                	console.log(d.value["doi"]);
                 	if(d.value["doi"] != null) 
-                    	return '[<a target="_new" href='+d.value["doi"]+'>DOI</a>]';
-                    else
-                    	return d3.select(this.parentNode).remove();
+                    	return '[<a target="_new" href='+d.value["doi"]+'>DOI</a>] ';
+                    // else
+                    	// return d3.select(this.parentNode).remove();
                 });
-            ul.append("li")
-				.append("span")
+            ul.append("span")
                 .html(function(d,i) {
                 	if(d.value["pdf"] != null)
-                    	return '[<a target="_new" href='+d.value["pdf"]+'>pdf</a>]';
-                    else
-                    	return d3.select(this.parentNode).remove();
+                    	return '[<a target="_new" href='+d.value["pdf"]+'>pdf</a>] ';
+                    // else
+                    	// return d3.select(this.parentNode).remove();
                 });
-            ul.append("li")
-				.append("span")
+            ul.append("span")
                 .html(function(d,i) {
                 	if(d.value["video"] != null)
-                    	return '[<a target="_new" href='+d.value["video"]+'>video</a>]';
-                    else
-                    	return d3.select(this.parentNode).remove();
+                    	return '[<a target="_new" href='+d.value["video"]+'>video</a>] ';
+                    // else
+                    	// return d3.select(this.parentNode).remove();
                 });
-            ul.append("li")
-				.append("span")
+            ul.append("span")
                 .html(function(d,i) {
                 	if(d.value["bibtex"] != null)
-                    	return '[<a target="_new" href='+d.value["bibtex"]+'>bibtex</a>]';
-                    else
-                    	return d3.select(this.parentNode).remove();
+                    	return '[<a target="_new" href='+d.value["bibtex"]+'>bibtex</a>] ';
+                    // else
+                    	// return d3.select(this.parentNode).remove();
                 });
-			ul.append("li")
-				.append("span")
+			ul.append("span")
                 .html(function(d,i) {
-                    return "[<a href="+d.key+">more</a>]";
+                    return "[<a href="+d.key+">more</a>] ";
                 });
 
-			var extra = description.selectAll(".col-sm-6")
+			var extra = div.selectAll(".paperitem")
 				.data(function(d){
 					if(d.value["extras"] == undefined)
 						return [];
@@ -237,12 +470,12 @@ function loadTeaser(fileName, callBack) {
 
 			// paper image
 			var image = papers.append("div")
-				.attr("class", "col-sm-6")
+				.attr("class", "col-sm-4")
 				.append("div")
 				.attr("class", "img-thumbnail");
 
 			image.append("img")
-				.attr("src", function(d){return d.value["teaser"]})
+				.attr("src", function(d){return "../publications/"+d.value["teaser"]})
 				.attr("alt", function(d){return d.value["title"]+" teaser"})
 				.attr("title", function(d){return d.value["title"]+" teaser"})
 				.style("max-width", "100%")
@@ -255,7 +488,7 @@ function loadTeaser(fileName, callBack) {
 		d3.select("#content").append("hr").attr("class", "hr-large");
 
 		// load rest of page
-		callBack();
+		// callBack();
 	})
 	.fail(function(jqxhr, textStatus, error){
 		var err = textStatus + ", " + error;
@@ -277,25 +510,26 @@ function loadContent(fileName, type, key) {
 
 		var div = d3.select("#content")
 			.append("div")
-			.attr("class", "well")
+			// .attr("class", "row well");
 
 		var content = data[type][key];
 		if(content == undefined) {
 			div.append("h4")
-				.text("Under construction...");
+				.text("Soon...");
 		}
 		else {
-			div.append("span")
-				.attr("class", "lead")
+			var divv = div.append("span")
+				.attr("class", "col-sm-12");
+			divv.append("h4")
 				.text(content["title"]);
 
-			div.append("div")
+			divv.append("div")
 				.text(content["authors"]);
 
-			div.append("em")
+			divv.append("div").append("em")
 				.text(content["where"]);
 
-			div.append("a")
+			divv.append("a")
 				.attr("alt", content["title"]+" paper")
 				.attr("href", content["pdf"])
 				.append("img")
@@ -303,10 +537,11 @@ function loadContent(fileName, type, key) {
 				.attr("alt", content["title"]+" image")
 				.attr("title", content["title"]+" image")
                 .attr("class", "pull-right image img-thumbnail")
-                .attr("xlink:href", content["pdf"]);
+                .attr("xlink:href", content["pdf"])
+                .style("float", "right");
 
 			div.append("div")
-				.attr("class", "abstract lead")
+				.attr("class", "abstract")
 				.text(content["abstract"]);
 
             if(content["videoId"] != undefined) {
@@ -321,16 +556,16 @@ function loadContent(fileName, type, key) {
 
 			// downloads
 			ul = div.append("ul")
-				.attr("class", "list-inline");
+				// .attr("class", "list-inline");
 
 			var downloads = ["doi", "pdf", "paper", "video", "github", "bibtex"];
 			for(var i in downloads) {
 				var d = downloads[i];
 				if(content[d] != undefined) {
-					ul.append("li")
+					ul.append("span")
 						.append("span")
 						.html(function() {
-							return '[<a target="_new" href='+content[d]+'>'+d+'</a>]';
+							return '[<a target="_new" href='+content[d]+'>'+d+'</a>] ';
 						});
 				}
 			}

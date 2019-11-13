@@ -1,11 +1,9 @@
 {
 	"name": "Fabio Miranda",
-	"title": "fmiranda.me | Fabio Miranda | Postdoctoral researcher at NYU",
+	"title": "Fabio Miranda",
 	"main": "https://fmiranda.me/",
 	"links": {
-		"Resume": "https://fmiranda.me/resume_fabio_miranda.pdf",
-		"Bio": "https://fmiranda.me/index.html#bio",
-		"Publications": "https://fmiranda.me/index.html#publications",
-		"Projects": "https://fmiranda.me/index.html#projects"
+		"CV": "https://fmiranda.me/fabio_miranda_cv.pdf",
+		"Publications": "https://fmiranda.me/publications/"
 	}
 }

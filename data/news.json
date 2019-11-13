@@ -1,46 +1,50 @@
 {
-	"News": {
+	"Recent Updates": {
 		"1": {
+			"text": "Paper 'Learning Geo-Contextual Embeddings for Commuting Flow Prediction' accepted to AAAI 2020.",
+			"date": "11/10/2019"
+		},
+		"2": {
 			"text": "Successfully defended my Ph.D.!",
 			"date": "08/24/2018",
 			"more": "https://fmiranda.me/phd-dissertation/"
 		},
-		"2": {
+		"3": {
 			"text": "SIGMOD 2018 Best Demonstration Award for the paper 'Interactive Visual Exploration of Spatio-Temporal Urban Data Sets using Urbane'",
 			"date": "06/14/2018",
 			"more": "https://sigmod.org/sigmod-awards/sigmod-best-demonstration-award/"
 		},
-		"3": {
+		"4": {
 			"text": "Pearl Brownstein Doctoral Research Award: Doctoral research that shows the greatest promise, given by NYU Tandon School of Engineering, in 2018.",
 			"date": "05/10/2018",
 			"more": "http://engineering.nyu.edu/academics/departments/computer-science-engineering/student-awards"
 		},
-		"4": {
+		"5": {
 			"text": "Urban Pulse featured on GCN.",
 			"date": "11/09/2017",
 			"more": "https://gcn.com/blogs/emerging-tech/2017/11/urban-pulse.aspx"
 		},
-		"5": {
+		"6": {
 			"text": "Urban Pulse featured on Architectural Digest.",
 			"date": "09/25/2017",
 			"more": "https://www.architecturaldigest.com/story/urban-pulse-uses-social-media-data-to-show-cities-in-a-new-light"
 		},
-		"6": {
+		"7": {
 			"text": "Urban Pulse featured on Curbed.",
 			"date": "09/22/2017",
 			"more": "https://www.curbed.com/2017/9/22/16350214/urban-pulse-planning-design-cities-nyu"
 		},
-		"7": {
+		"8": {
 			"text": "Urban Pulse code is now available on github, with a new web interface.",
 			"date": "08/01/2017",
 			"more": "https://github.com/ViDA-NYU/urban-pulse"
 		},
-		"8": {
+		"9": {
 			"text": "Shadow project featured on The New York Times (and later featured on several websites).",
 			"date": "12/21/2016",
 			"more": "https://www.nytimes.com/interactive/2016/12/21/upshot/Mapping-the-Shadows-of-New-York-City.html"
 		},
-		"9": {
+		"10": {
 			"text": "Urban Pulse featured on The Economist.",
 			"date": "10/22/2016",
 			"more": "https://www.economist.com/news/science-and-technology/21709002-places-people-have-pulsesif-only-you-know-how-measure-them-listen"

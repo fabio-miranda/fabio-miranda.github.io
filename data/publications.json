@@ -1,0 +1,183 @@
+{
+	"Publications": {
+        "spatio-temporal": {
+            "title": "Spatio-Temporal Urban Data Analysis: A Visual Analytics Perspective",
+            "authors": "Harish Doraiswamy, Juliana Freire, Marcos Lage, Fabio Miranda, Claudio T. Silva",
+            "where": "Computer Graphics and Applications",
+            "abstract": "Visual analytics systems can greatly help in the analysis of urban data allowing domain experts from academia and city governments to better understand cities, and thus enable better operations, informed planning and policies. Effectively designing these systems is challenging and requires bringing together methods from different domains. In this paper, we discuss the challenges involved in designing a visual analytics system to interactively explore large spatio-temporal data sets and give an overview of our research that combines visualization and data management to tackle these challenges.",
+            "teaser": "spatio-temporal/spatio-temporal-teaser.png",
+            "image": "spatio-temporal/spatio-temporal-paper.png",
+            "pdf": "https://fmiranda.me/publications/spatio-temporal/spatio-temporal.pdf",
+            "bibtex": "https://fmiranda.me/publications/spatio-temporal/spatio-temporal.bib",
+            "doi": "https://doi.org/10.1109/MCG.2018.053491728"
+        },
+		"phd-dissertation": {
+            "title": "Data Structures for the Interactive Visual Analysis of Urban Data",
+            "authors": "Fabio Miranda",
+            "where": "Ph.D. Dissertation",
+            "abstract": "A modern city is the combination of several complex and intertwined systems: transportation, street layouts, public utilities and land use all interact with one another in a process that shapes and forms the city, ultimately influencing how people occupy, move and utilize the many services provided by an urban center. The rapid increase in urbanization in the past century has made this process much more complex, as cities struggle to satisfy the demands imposed by an even larger number of people. It is therefore essential to have a better understanding of different aspects of the city, and how they change over time.\n Fortunately, technological innovations have enabled the automatic collection of a diverse set of data that captures the behavior of different components of a city, such as its residents, existing infrastructure and the environment. This creates new opportunities to better understand different dimensions and facets of the city. By exploring and analyzing urban data through visual analytics systems, domain experts and stakeholders can gain new insights about the data and ultimately the city. However, to be effective, these systems must be interactive, requiring sub-second response times in order to maximize data set coverage during analysis, as well as the rate in which users generate hypotheses. General approaches often fail to drive this interactivity, either because they do not efficiently handle the large size of the data or because they were not designed for a specific task. In this dissertation, we present solutions to enable the interactive exploration of different types of large urban data sets.\n First, we tackle the challenge of analyzing large temporal data. Advances in technology coupled with the availability of low-cost sensors have resulted in the continuous generation of large time series from several sources. In order to visually explore and compare these time series at different time scales, analysts need to execute online analytical processing (OLAP) queries that include constraints and group-by's at multiple temporal resolutions. To enable interactive OLAP queries over large time series, we propose Time Lattice, a memory-efficient data structure that makes use of the implicit temporal hierarchy; it materializes a subset of a data cube and is designed to handle streaming data.\n Second, we consider spatiotemporal data. Social media data usually contains not only a temporal (when) and spatial (where) dimensions, but also associated keywords describing what is the data. A popular way to analyze such data is through the ranking of the top objects within a spatial and temporal selection. For example, a popular way to analyze Twitter social media data is to compute the most popular hashtags in a given region (e.g. neighborhood) and time (e.g. summer). For this, we propose TopKube, a rank-aware data cube that enables the computation of such queries interactively by merging pre-computed ranked lists using an hybrid approach that combines a sweep merging algorithm with Fagin's Threshold Algorithm for Top-k queries.\n Next, we explore the challenges of analyzing 3D data. The rise of collaborative mapping initiatives has created data sets that go beyond the usual flatland spatiotemporal data, capturing also the 3D geometry of the city itself. This creates the perfect opportunity to explore new urban properties at a scale that was not possible before. One of these properties is the impact of shadows from buildings. Shadows can potentially infringe on the 'right to light' of other citizens in the community through the occlusion of direct sunlight by shading public spaces. Determining its effects requires the accumulation of shadows over time across different periods in a year. For this, we propose Shadow Accrual Maps, a data structure that uses the properties of sun movement to track the changing position of shadows within a fixed time interval in order to efficiently compute shadow accumulation.\n Finally, we present the first steps towards visualizing the different views of a city. Using a data set composed of over 40 million street-level images captured by cars in New York City over a period of one year, we create an interactive visualization framework for exploring the various visuals offered by a city. By integrating the images with urban data sets, we allow the interactive exploration of city views under different constraints, such as weather, building construction permits and noise complaints.\n We demonstrate the utility of our proposals through a number of case studies set in New York City, highlighting its usefulness in the study of common urban problems, such as noise and shadow impact on public spaces.",
+            "teaser": "phd-dissertation/phd-dissertation.gif",
+            "image": "phd-dissertation/phd-dissertation-paper.png",
+            "bibtex": "https://fmiranda.me/publications/phd-dissertation/fmiranda-thesis.bib",
+            "pdf": "https://fmiranda.me/publications/phd-dissertation/fmiranda-thesis.pdf"
+        },
+		"shadow-accrual-maps": {
+            "title": "Shadow Accrual Maps: Efficient Accumulation of City-Scale Shadows over Time",
+            "authors": "Fabio Miranda, Harish Doraiswamy, Marcos Lage, Luc Wilson, Mondrian Hsieh, Claudio T. Silva",
+            "where": "IEEE Transactions on Visualization and Computer Graphics, 2018",
+            "abstract": "Large scale shadows from buildings in a city play an important role in determining the environmental quality of public spaces. They can be both beneficial, such as for pedestrians during summer, and detrimental, by impacting vegetation and by blocking direct sunlight. Determining the effects of shadows requires the accumulation of shadows over time across different periods in a year. In this paper, we propose a simple yet efficient class of approach that uses the properties of sun movement to track the changing position of shadows within a fixed time interval. We use this approach to extend two commonly used shadowing techniques, shadow maps and ray tracing, and demonstrate the efficiency of our approach. Our technique is used to develop an interactive visual analysis system, Shadow Profiler, targeted at city planners and architects that allows them to test the impact of shadows for different development scenarios. We validate the usefulness of this system through case studies set in Manhattan, a dense borough of New York City.",
+            "video": "https://www.youtube.com/watch?v=LsZv23d1LyM",
+			"videoId": "LsZv23d1LyM",
+            "teaser": "shadow-accrual-maps/shadow-accrual-maps-teaser.png",
+            "image": "shadow-accrual-maps/shadow-accrual-maps-paper.png",
+            "pdf": "https://fmiranda.me/publications/shadow-accrual-maps/tvcg-2018-shadowaccrualmaps.pdf",
+            "bibtex": "https://fmiranda.me/publications/shadow-accrual-maps/shadow-accrual-maps.bib",
+            "doi": "https://doi.org/10.1109/TVCG.2018.2802945",
+            "extras": [
+                ["Featured on The New York Times", "https://www.nytimes.com/interactive/2016/12/21/upshot/Mapping-the-Shadows-of-New-York-City.html"],
+                ["Featured on New York City Patch", "https://patch.com/new-york/new-york-city/nyc-shadow-map-how-much-shade-cast-your-street-city-buildings"],
+                ["Featured on GeoAwesomeness", "http://geoawesomeness.com/amazing-map-shows-shadows-new-york-city/"],
+                ["Featured on The Architects Newspaper", "https://archpaper.com/2016/12/new-york-city-shadow-map/"],
+                ["Featured on Technical.ly", "https://technical.ly/brooklyn/2016/12/23/building-shadow-map-new-york-times/"],
+                ["Featured on Flowing Data", "https://flowingdata.com/2016/12/22/map-of-new-york-city-shadows/"],
+                ["Shadow data for NYC", "https://github.com/ViDA-NYU/shadow-accrual-maps/"]
+            ]
+        },
+		"time-lattice": {
+            "title": "Time Lattice: A Data Structure for the Interactive Visual Analysis of Large Time Series",
+            "authors": "Fabio Miranda, Marcos Lage, Harish Doraiswamy, Charlie Mydlarz, Justin Salamon, Yitzchak Lockerman, Juliana Freire, Claudio T. Silva",
+            "where": "Computer Graphics Forum, 2018",
+            "abstract": "Advances in technology coupled with the availability of low-cost sensors have resulted in the continuous generation of large time series from several sources. In order to visually explore and compare these time series at different scales, analysts need to execute online analytical processing (OLAP) queries that include constraints and group-by's at multiple temporal hierarchies. Effective visual analysis requires these queries to be interactive. However, while existing OLAP cube-based structures can support interactive query rates, the exponential memory requirement to materialize the data cube is often unsuitable for large data sets. Moreover, none of the recent space-efficient cube data structures allow for updates. Thus, the cube must be re-computed whenever there is new data, making them impractical in a streaming scenario. We propose Time Lattice, a memory-efficient data structure that makes use of the implicit temporal hierarchy to enable interactive OLAP queries over large time series. Time Lattice is a subset of a fully materialized cube and is designed to handle fast updates and streaming data. We perform an experimental evaluation which shows that the space efficiency of the data structure does not hamper its performance when compared to the state of the art. In collaboration with signal processing and acoustics research scientists, we use the Time Lattice data structure to design the Noise Profiler, a web-based visualization framework that supports the analysis of noise from cities. We demonstrate the utility of Noise Profiler through a set of case studies.",
+            "video": "https://www.youtube.com/watch?v=BLRZUQgvMCE",
+            "videoId": "BLRZUQgvMCE",
+            "teaser": "time-lattice/time-lattice-teaser.png",
+            "image": "time-lattice/time-lattice-paper.png",
+            "doi": "https://doi.org/10.1111/cgf.13398",
+            "pdf": "https://fmiranda.me/publications/time-lattice/cgf-2018-time-lattice.pdf",
+            "bibtex": "https://fmiranda.me/publications/time-lattice/time-lattice.bib"
+        },
+		"raster-join-demo": {
+            "title": "Interactive Visual Exploration of Spatio-Temporal Urban Data Sets using Urbane",
+            "authors": "Harish Doraiswamy, Eleni Tzirita Zacharatou, Fabio Miranda, Marcos Lage, Anastasia Ailamaki, Claudio T. Silva, Juliana Freire",
+            "where": "SIGMOD’18: 2018 International Conference on Management of Data",
+            "abstract": "The recent explosion in the number and size of spatio-temporal data sets from urban environments and social sensors creates new opportunities for data-driven approaches to understand and improve cities. Visual analytics systems like Urbane aim to  empower domain experts to explore multiple data sets, at different time and space resolutions. Since these systems rely on computationally-intensive spatial aggregation queries that slice and summarize the data over different regions, an important challenge is how to attain interactivity. While traditional pre-aggregation approaches support interactive exploration, they are unsuitable in this setting because they do not support ad-hoc query constraints or polygons of arbitrary shapes. To address this limitation, we have recently proposed Raster Join, an approach that converts a spatial aggregation query into a set of drawing operations on a canvas and leverages the rendering pipeline of the graphics hardware (GPU). By doing so, Raster Join evaluates queries on the fly at interactive speeds on commodity laptops and desktops.  In this demonstration, we showcase the efficiency of Raster Join by integrating it with Urbane and enabling interactivity. Demo visitors will interact with Urbane to filter and visualize several urban data sets over multiple resolutions.",
+            "teaser": "raster-join-demo/raster-join-demo-teaser.png",
+            "image": "raster-join-demo/raster-join-demo-paper.png",
+            "pdf": "https://fmiranda.me/publications/raster-join-demo/sigmod-2018-demo-raster-join.pdf",
+            "doi": "https://doi.org/10.1145/3183713.3193559",
+            "bibtex": "https://fmiranda.me/publications/raster-join-demo/raster-join-demo.bib",
+            "extras": [
+            	["SIGMOD 2018 Best Demonstration Award", "https://sigmod.org/sigmod-awards/sigmod-best-demonstration-award/"]
+            ]
+        },
+		"bus": {
+			"title": "Data Visualization Tool for Monitoring Transit Operation and Performance",
+			"authors": "Abdullah Kurkcu, Fabio Miranda, Kaan Ozbay, Claudio T. Silva",
+			"where": "2017 5th IEEE International Conference on Models and Technologies for Intelligent Transportation Systems (MT-ITS)",
+			"abstract": "Using the automated vehicle location data combined with other technologies such as automated incident reporting, transit decision makers can now execute a variety of real-time strategies and performance evaluations. In this study, we show that it is possible to develop an easy to use but powerful web-based tool which acquires, stores, processes, and visualizes bus trajectory data. The developed web-based tool makes it easy for the end users to access stored data and to query it without any delay or external help. Moreover, the tool allows the users to conduct a series of data visualization and analysis operations demonstrating the potential of a such web-based tool for future applications.",
+			"teaser": "bus/bus.png",
+			"image": "bus/bus-paper.png",
+			"pdf": "https://fmiranda.me/publications/bus/mt-its-2017-bus.pdf",
+			"doi": "https://doi.org/10.1109/MTITS.2017.8005584",
+			"bibtex": "https://fmiranda.me/publications/bus/bus.bib",
+			"extras": [
+				["Website", "https://vida-nyu.github.io/BusExplorer"],
+				["Open source code", "https://github.com/ViDA-NYU/BusExplorer"]
+			]
+		},
+		"topkube": {
+			"title": "TopKube: A Rank-Aware Data Cube for Real-Time Exploration of Spatiotemporal Datasets",
+			"authors": "Fabio Miranda, Lauro Lins, James Klosowski, Claudio T. Silva",
+			"where": "IEEE Transactions on Visualization and Computer Graphics, 2017",
+			"abstract": "From economics to sports to entertainment and social media, ranking objects according to some notion of importance is a fundamental tool we humans use all the time to better understand our world. With the ever-increasing amount of user-generated content found online, “what’s trending” is now a commonplace phrase that tries to capture the zeitgeist of the world by ranking the most popular microblogging hashtags in a given region and time. However, before we can understand what these rankings tell us about the world, we need to be able to more easily create and explore them, given the significant scale of today's data. In this paper, we describe the computational challenges in building a real-time visual exploratory tool for finding top-ranked objects; build on the recent work involving in-memory and rank-aware data cubes to propose TOPKUBE: a data structure that answers top-k queries up to one order of magnitude faster than the previous state of the art; demonstrate the usefulness of our methods using a set of real-world, publicly available datasets; and provide a new set of benchmarks for other researchers to validate their methods and compare to our own.",
+			"teaser": "topkube/topkube-teaser.png",
+			"image": "topkube/topkube-paper.png",
+			"bibtex": "https://fmiranda.me/publications/topkube/topkube.bib",
+			"pdf": "https://fmiranda.me/publications/topkube/tvcg-2017-topkube.pdf",
+			"doi": "https://doi.org/10.1109/TVCG.2017.2671341"
+		},
+		"urban-pulse": {
+			"title": "Urban Pulse: Capturing the Rhythm of Cities",
+			"authors": "Fabio Miranda, Harish Doraiswamy, Marcos Lage, Kai Zhao, Bruno Gonçalves, Luc Wilson, Mondrian Hsieh, Claudio T. Silva",
+			"where": "IEEE Transactions on Visualization and Computer Graphics, 2017",
+			"abstract": "Cities are inherently dynamic. Interesting patterns of behavior typically manifest at several key areas of a city over multiple temporal resolutions. Studying these patterns can greatly help a variety of experts ranging from city planners and architects to human behavioral experts. Recent technological innovations have enabled the collection of enormous amounts of data that can help in these studies. However, techniques using these data sets typically focus on understanding the data in the context of the city, thus failing to capture the dynamic aspects of the city. The goal of this work is to instead understand the city in the context of multiple urban data sets. To do so, we define the concept of an 'urban pulse' which captures the spatio-temporal activity in a city across multiple temporal resolutions. The prominent pulses in a city are obtained using the topology of the data sets, and are characterized as a set of beats. The beats are then used to analyze and compare different pulses. We also design a visual exploration framework that allows users to explore the pulses within and across multiple cities under different conditions. Finally, we present three case studies carried out by experts from two different domains that demonstrate the utility of our framework.",
+			"video": "https://www.youtube.com/watch?v=J70-Ns0cFnQ",
+			"videoId": "J70-Ns0cFnQ",
+			"teaser": "urban-pulse/urban-pulse-teaser.png",
+			"image": "urban-pulse/urban-pulse-paper.png",
+			"pdf": "https://fmiranda.me/publications/urban-pulse/tvcg-2017-urbanpulse.pdf",
+			"doi": "https://dx.doi.org/10.1109/TVCG.2016.2598585",
+			"github": "https://github.com/ViDA-NYU/urban-pulse",
+			"bibtex": "https://fmiranda.me/publications/urban-pulse/urban-pulse.bib",
+			"extras": [
+				["Website", "https://vida-nyu.github.io/urban-pulse"],
+				["Open source code", "https://github.com/ViDA-NYU/urban-pulse"],
+				["Live demo", "http://vgc.poly.edu/projects/urban-pulse"],
+				["Featured on The Economist", "http://www.economist.com/news/science-and-technology/21709002-places-people-have-pulsesif-only-you-know-how-measure-them-listen"],
+				["Featured on Curbed", "https://www.curbed.com/2017/9/22/16350214/urban-pulse-planning-design-cities-nyu"],
+				["Featured on Architectural Digest", "https://www.architecturaldigest.com/story/urban-pulse-uses-social-media-data-to-show-cities-in-a-new-light"],
+				["Featured on GCN", "https://gcn.com/blogs/emerging-tech/2017/11/urban-pulse.aspx"],
+				["Most interesting papers roundup from MIT Technology Review", "https://www.technologyreview.com/s/602291/the-best-of-the-physics-arxiv-week-ending-september-3-2016/"]
+			]
+		},
+		"topkube-short": {
+			"title": "TopKube: A Rank-Aware Data Cube for Real-Time Exploration of Spatiotemporal Datasets (short paper)",
+			"authors": "Fabio Miranda, Lauro Lins, James Klosowski, Claudio Silva",
+			"where": "Data Systems for Interactive Analysis (DSIA) 2015",
+			"abstract": "From economics to sports to entertainment and social media, ranking objects according to some notion of importance is a fundamental tool we humans use all the time to better understand our world. With the ever-increasing amount of user-generated content found online, “what’s trending” is now a commonplace phrase that tries to capture the zeitgeist of the world by ranking the most popular microblogging hashtags. However, before we can understand what these rankings tell us, we need to be able to more easily create and explore them, given the significant scale of today’s data. In this paper, we describe the computational challenges in building a real-time visual exploratory tool for finding top-ranked objects, build on the recent work involving in-memory and rank-aware data cubes to propse TOPKUBE, and demonstrate the usefulness of our methods using real-world, publicly available datasets.",
+			"teaser": "topkube-short/topkube-teaser.png",
+			"image": "topkube-short/topkube-paper.png",
+			"pdf": "https://fmiranda.me/publications/topkube-short/dsia-2016-topkube.pdf"
+		},
+		"unstructured-hexahedral": {
+			"title": "Volume Rendering of Unstructured Hexahedral Meshes",
+			"authors": "Fabio Miranda, Waldemar Celes",
+			"where": "The Visual Computer, 2012",
+			"abstract": "Important engineering applications use unstruc- tured hexahedral meshes for numerical simulations. Hexahedral cells, when compared to tetrahedral ones, tend to be more numerically stable and to require less mesh refinement. However, volume visualization of unstructured hexahedral meshes is challenging due to the trilinear variation of scalar fields inside the cells. The conventional solution consists in subdividing each hexahedral cell into five or six tetrahedra, approximating a trilinear variation by a nonadaptive piecewise linear function. This results in inaccurate images and increases the memory consumption. In this paper, we present an accurate ray-casting volume rendering algorithm for unstructured hexahedral meshes. In order to capture the trilinear variation along the ray, we propose the use of quadrature integration. A set of computational experiments demonstrates that our proposal produces accurate results, with reduced memory footprint. The entire algorithm is implemented on graphics cards, ensuring competitive performance. We also propose a faster approach that, as the tetrahedron subdivision scheme, also approximates the trilinear variation by a piecewise linear function, but in an adaptive and more accurate way, considering the points of minimum and maximum of the scalar function along the ray.",
+			"video": "https://www.youtube.com/watch?v=jamFvXPFTuw",
+			"videoId": "jamFvXPFTuw",
+			"teaser": "unstructured-hexahedral/unstructured-hexahedral-teaser.png",
+			"image": "unstructured-hexahedral/unstructured-hexahedral-paper.png",
+			"pdf": "https://fmiranda.me/publications/unstructured-hexahedral/tvc-unstructured-hexahedral.pdf",
+			"doi": "https://doi.org/10.1007/s00371-012-0742-8",
+			"github": "https://github.com/fabio-miranda/cudarc",
+			"bibtex": "https://fmiranda.me/publications/unstructured-hexahedral/unstructured-hexahedral.bib"
+		},
+        "ms-thesis": {
+            "title": "Volume Rendering of Unstructured Hexahedral Meshes",
+            "authors": "Fabio Miranda",
+            "where": "M.Sc. Thesis",
+            "abstract": "Important engineering applications use unstructured hexahedral meshes for numerical simulations. Hexahedral cells, when compared to tetrahedral ones, tend to be more numerically stable and to require less mesh refinement. However, volume visualization of unstructured hexahedral meshes is challenging due to the trilinear variation of scalar fields inside the cells. The conventional solution consists in subdividing each hexahedral cell into five or six tetrahedra, approximating a trilinear variation by an inadequate piecewise linear function. This results in inaccurate images and increases the memory consumption. In this thesis, we present an accurate ray-casting volume rendering algorithm for unstructured hexahedral meshes. In order to capture the trilinear variation along the ray, we propose the use of quadrature integration. We also propose a fast approach that better approximates the trilinear variation to a series of linear ones, considering the points of minimum and maximum of the scalar function along the ray. A set of computational experiments demonstrates that our proposal produces accurate results, with reduced memory footprint. The entire algorithm is implemented on graphics cards, ensuring competitive performance.",
+            "teaser": "ms-thesis/ms-thesis.png",
+            "image": "ms-thesis/ms-thesis-paper.png",
+            "pdf": "https://fmiranda.me/publications/ms-thesis/ms-thesis.pdf",
+            "doi": "https://doi.org/10.17771/PUCRio.acad.28921",
+            "github": "https://github.com/fabio-miranda/cudarc"
+        },
+		"accurate-hexahedral": {
+			"title": "Accurate Volume Rendering of Unstructured Hexahedral Meshes",
+			"authors": "Fabio Miranda, Waldemar Celes",
+			"where": "SIBGRAPI, 2011",
+			"abstract": "Important engineering applications use unstructured hexahedral meshes for numerical simulations. Hexahedral cells, when compared to tetrahedral ones, tend to be more numerically stable and to require less mesh refinement. However, volume visualization of unstructured hexahedral meshes is challenging due to the trilinear variation of scalar fields inside the cells. The conventional solution consists in subdividing each hexahedral cell into five or six tetrahedra, approximating a trilinear variation by a piecewise linear function. This results in inaccurate images and increases the memory consumption. In this paper, we present an accurate ray-casting volume rendering algorithm for unstructured hexahedral meshes. In order to capture the trilinear variation along the ray, we propose the use of quadrature integration. A set of computational experiments demonstrates that our proposal produces accurate results, with reduced memory footprint. The entire algorithm is implemented on graphics cards, ensuring competitive performance.",
+			"video": "https://www.youtube.com/watch?v=jamFvXPFTuw",
+			"videoId": "jamFvXPFTuw",
+			"teaser": "accurate-hexahedral/accurate-hexahedral-teaser.png",
+			"image": "accurate-hexahedral/accurate-hexahedral-paper.png",
+			"pdf": "http://sibgrapi.sid.inpe.br/col/sid.inpe.br/sibgrapi/2011/07.10.22.14/doc/paper.pdf",
+			"doi": "https://doi.org/10.1109/SIBGRAPI.2011.3",
+			"github": "https://github.com/fabio-miranda/cudarc",
+			"bibtex": "https://fmiranda.me/publications/accurate-hexahedral/accurate-hexahedral.bib"
+		},
+		"illustrative": {
+			"title": "Illustrative Volume Visualization for Unstructured Meshes Based on Photic Extremum Lines",
+			"authors": "Allan Rocha, Fabio Miranda, Waldemar Celes",
+			"where": "SIBGRAPI, 2011",
+			"abstract": "Scientific visualization techniques create images at- tempting to reveal complex structures and phenomena. Illustrative techniques have been incorporated to scientific visualization systems in order to improve the expressiveness of such images. The rendering of feature lines is an important technique for better conveying surface shapes. In this paper, we propose to combine volume visualization of unstructured meshes with direct rendering of illustrated isosurfaces. This is accomplished by extending a GPU-based ray-casting algorithm to incorporate illustration with photic extremum lines, a type of feature lines that captures sudden change of luminance, conveying shapes in a perceptually correct way.",
+			"teaser": "illustrative/illustrative-teaser.png",
+			"image": "illustrative/illustrative-paper.png",
+			"pdf": "http://sibgrapi.sid.inpe.br/col/sid.inpe.br/sibgrapi/2011/07.11.20.02/doc/vv-pel.pdf",
+			"doi": "https://doi.org/10.1109/SIBGRAPI.2011.20",
+			"bibtex": "https://fmiranda.me/publications/illustrative/illustrative.bib"
+		}
+	}
+}

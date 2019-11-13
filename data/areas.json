@@ -1,0 +1,29 @@
+{
+    "Research Areas": {
+        "1": {
+            "title": "3D Urban Analytics",
+            "text": "Techniques that use highly-accurate 3D geometry data to enable interactive urban analytics from a new perspective, and allow domain experts to mitigate important issues facing cities today.",
+            "where": ["PhD dissertation", "IEEE TVCG 2019", "CGA 2018"],
+            "more": ["https://fmiranda.me/phd-dissertation/", "https://fmiranda.me/shadow-accrual-maps/", "https://fmiranda.me/spatio-temporal/"]
+        },
+        "2": {
+            "title": "Data structures for interactive visual analytics of large data",
+            "text": "Data structures to drive interactive visual analysis of large data, both temporal and spatiotemporal.",
+            "where": ["SIGMOD 2018", "IEEE TVCG 2018", "CGF 2018"],
+            "more": ["https://fmiranda.me/raster-join-demo/", "https://fmiranda.me/topkube/", "https://fmiranda.me/time-lattice/"]
+        },
+        "3": {
+            "title": "Neural networks",
+            "text": "Models to predict urban properties, such as commuting flow and built environment similarity.",
+            "where": ["AAAI 2020"],
+            "more": ["https://fmiranda.me/gmel/"]
+        },
+        "4": {
+            "title": "Large-scale Data Analysis",
+            "text": "Methods for the analysis of large spatiotemporal data sets.",
+            "where": ["IEEE TVCG 2016", "MT-ITS 2017"],
+            "more": ["https://fmiranda.me/urban-pulse/", "https://fmiranda.me/bus/"]
+        }
+    }
+}
+

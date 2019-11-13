@@ -1,0 +1,48 @@
+{
+    "Open Source Projects": {
+        "1": {
+            "title": "New York City Shadow Data",
+            "text": "Shadow data for New York City, also used by The New York Times.",
+            "where": "github",
+            "more": "https://github.com/VIDA-NYU/shadow-accrual-maps"
+        },
+        "2": {
+            "title": "Urban Pulse",
+            "text": "Open-source version of Urban Pulse paper.",
+            "where": "github",
+            "more": "https://github.com/VIDA-NYU/urban-pulse"
+        },
+        "3": {
+            "title": "BusExplorer",
+            "text": "Open-source tool for the exploration of a large data set with bus tracking pings.",
+            "where": "github",
+            "more": "https://github.com/VIDA-NYU/BusExplorer"
+        }
+    },
+    "Others": {
+        "1": {
+            "title": "Line Arrange",
+            "text": "Interactive visualization to show steps of line arrangement algorithm.",
+            "where": "github",
+            "more": "https://github.com/fabio-miranda/LineArrangement"
+        },
+        "2": {
+            "title": "Heatmap GL",
+            "text": "Simple heatmap visualization using WebGL, with support for spatiotemporal point data.",
+            "where": "github",
+            "more": "https://github.com/fabio-miranda/heatmapGL"
+        },
+        "3": {
+            "title": "csv-to-influxdb",
+            "text": "Simple python script that inserts data points read from a csv file into a influxdb database.",
+            "where": "github",
+            "more": "https://github.com/fabio-miranda/csv-to-influxdb"
+        },
+        "4": {
+            "title": "Color Gamut Visualization",
+            "text": "Interactive visualization of different sets of colors on three color spaces (CIE XYZ, CIE Lab and sRGB)",
+            "where": "github",
+            "more": "https://github.com/fabio-miranda/ColorGamut"
+        }
+    }
+}

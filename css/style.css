@@ -2,8 +2,18 @@
 /* All pages */
 
 body {
-	font-family: Arial,Helvetica,sans-serif;
+	font-family: "Source Sans Pro", sans-serif;
 	font-size: 16px;
+    background: #f5f5f5; /*rgb(252,252,255)*/
+}
+
+a {
+    /*text-decoration: none !important;*/
+    color: rgb(51,122,182);
+}
+
+a:hover {
+    color: rgb(35,82,124);
 }
 
 .container {
@@ -11,6 +21,18 @@ body {
 	padding-left: 5%;
 	margin-right: auto;
 	margin-left: auto;
+    margin-top: 10px;
+    background: white;
+}
+
+.cell {
+    padding-top: 0px;
+    padding-right: auto;
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: 20px;
+    margin-top: 0px;
+    background: white;
 }
 
 ul {
@@ -18,10 +40,32 @@ ul {
 }
 
 /* Main page */
+
+.bio {
+    /*padding: 0px;*/
+}
+
+.news {
+    padding: 0px;
+}
+
+.highlights {
+    /*padding: 0px;*/
+}
+
+.areas {
+
+}
+
+.medianews {
+
+}
+
 .img-thumbnail {
 	margin-bottom: 25px;
     width:100%;
     text-align:center;
+    border: 0px;
 }
 
 .hr-large {
@@ -49,7 +93,7 @@ ul {
 
 .image {
 	width: 30%;
-	margin-left: 20px;
+	/*margin-left: 20px;*/
 }
 
 .abstract {
@@ -57,6 +101,33 @@ ul {
 	white-space: pre-line;
 }
 
+.row {
+    padding-top: 10px;
+}
+
 .news {
 	font-size: 16px;
+    /*padding: 0px;*/
+}
+
+.newsitem {
+    font-size: 12px;
+    padding-left: 0px;
+    /*margin-left: 5px;*/
+}
+
+.researchitem {
+    font-size: 12px;
+    padding-left: 0px;
+    /*margin-left: 5px;*/
+}
+
+.researchitemauthors {
+    font-size: 10px;
+    opacity: 0.75;
+}
+
+.linkitem {
+    font-size: 12px;
+    /*margin-left: 10px;*/
 }
