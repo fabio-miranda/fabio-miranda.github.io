@@ -93,7 +93,7 @@ function loadBio(fileName) {
 			.attr("alt", data["name"])
 			.attr("title", data["name"])
 			.style("width", "100%")
-			.style("padding-top", "15px")
+			.style("padding-bottom", "20px")
 			.style("filter", "grayscale(100%)");
 
 		var bioOutter = bio.append("div")
