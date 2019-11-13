@@ -53,7 +53,7 @@ function loadNews(fileName) {
                 .attr("id", content.toLowerCase())
                 // .append("h4")
                 .append("div")
-                .attr("class", "font-weight-bold")
+                .attr("class", "title font-weight-bold")
 				.text(content);
 
 			news = news.append("div").attr("class","cell no-gutters");
@@ -140,16 +140,19 @@ function loadResearchHighlights(fileName) {
 		        .attr("class", "col-sm-12")
 		        .attr("id", content.toLowerCase())
 		        // .append("h4")
-		    div.append("span")
-		        .attr("class", "font-weight-bold")
-				.text(content);
 
-			div.append("span")
-				.attr("class", "researchitem font-weight-bold")
+		    div.append("div")
+				.attr("class", "researchitem font-weight-bold align-item-center")
 				.style("float", "right")
+				.style("padding-left", "5px")
+				.style("padding-top", "3px")
 				.append("a")
-				.attr("href","/papers")
+				.attr("href","/publications")
 				.text("See all papers");
+
+		    div.append("div")
+		        .attr("class", "title font-weight-bold")
+				.text(content);
 
 
 
@@ -233,7 +236,7 @@ function loadResearchAreas(fileName) {
 		        .attr("id", content.toLowerCase())
 		        // .append("h4")
 		        .append("div")
-		        .attr("class", "font-weight-bold")
+		        .attr("class", "title font-weight-bold")
 				.text(content);
 
 			highlights = highlights.append("div").attr("class","cell row py-0");
@@ -289,7 +292,7 @@ function loadMedia(fileName) {
 		        .attr("id", content.toLowerCase())
 		        // .append("h4")
 		        .append("div")
-		        .attr("class", "font-weight-bold")
+		        .attr("class", "title font-weight-bold")
 				.text(content);
 
 			highlights = highlights.append("div").attr("class","cell row py-0");
@@ -340,7 +343,7 @@ function loadLinks(fileName) {
 		        .append("div")
 		        .attr("class", "col-sm-6");
 		    div.append("div")
-		        .attr("class", "font-weight-bold")
+		        .attr("class", "title font-weight-bold")
 				.text(content);
 
 			var items = div.append("div").attr("class","cell row py-0")

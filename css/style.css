@@ -68,6 +68,25 @@ ul {
     border: 0px;
 }
 
+.title {
+    overflow: hidden;
+    position: relative;
+    margin-left: 10px;
+}
+
+.title:after {
+  display: inline-block;
+  content: "";
+  height: 1px;
+  background: rgb(51,122,182);
+  position: absolute;
+  width: 100%;
+  top: 50%;
+  margin-top: 0px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
 .hr-large {
 	width: 100%;
     border: 0;
