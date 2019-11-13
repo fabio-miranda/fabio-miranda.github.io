@@ -7,14 +7,14 @@
             "more": ["https://fmiranda.me/publications/phd-dissertation/", "https://fmiranda.me/publications/shadow-accrual-maps/", "https://fmiranda.me/publications/spatio-temporal/"]
         },
         "2": {
-            "title": "Data structures for interactive visual analytics of large data",
+            "title": "Data structures for Visualization",
             "text": "Data structures to drive interactive visual analysis of large data, both temporal and spatiotemporal.",
             "where": ["SIGMOD 2018", "IEEE TVCG 2018", "CGF 2018"],
             "more": ["https://fmiranda.me/publications/raster-join-demo/", "https://fmiranda.me/publications/topkube/", "https://fmiranda.me/publications/time-lattice/"]
         },
         "3": {
-            "title": "Neural networks",
-            "text": "Models to predict urban properties, such as commuting flow and built environment similarity.",
+            "title": "Neural Networks",
+            "text": "Models to identify certain urban attributes, such as commuting flow and built environment characteristics",
             "where": ["AAAI 2020"],
             "more": ["https://fmiranda.me/publications/gmel/"]
         },
