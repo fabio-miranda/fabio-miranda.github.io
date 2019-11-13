@@ -148,7 +148,7 @@ function loadResearchHighlights(fileName) {
 				.style("padding-top", "3px")
 				.append("a")
 				.attr("href","/publications")
-				.text("See all papers");
+				.text("See all publications");
 
 		    div.append("div")
 		        .attr("class", "title font-weight-bold")
