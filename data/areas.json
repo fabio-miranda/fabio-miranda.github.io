@@ -2,25 +2,25 @@
     "Research Areas": {
         "1": {
             "title": "3D Urban Analytics",
-            "text": "Techniques that use highly-accurate 3D geometry data to enable interactive urban analytics from a new perspective, and allow domain experts to mitigate important issues facing cities today.",
+            "text": "Techniques that use highly-accurate 3D geometry data to compute important urban attributes and enable interactive visual analytics from a new perspective, allowing domain experts to investigate important issues facing cities today.",
             "where": ["PhD dissertation", "IEEE TVCG 2019", "CGA 2018"],
             "more": ["https://fmiranda.me/publications/phd-dissertation/", "https://fmiranda.me/publications/shadow-accrual-maps/", "https://fmiranda.me/publications/spatio-temporal/"]
         },
         "2": {
             "title": "Data structures for Visualization",
-            "text": "Data structures to drive interactive visual analysis of large data, both temporal and spatiotemporal.",
+            "text": "Data structures to drive interactive visual analysis of very large temporal and spatiotemporal data.",
             "where": ["SIGMOD 2018", "IEEE TVCG 2018", "CGF 2018"],
             "more": ["https://fmiranda.me/publications/raster-join-demo/", "https://fmiranda.me/publications/topkube/", "https://fmiranda.me/publications/time-lattice/"]
         },
         "3": {
             "title": "Neural Networks",
-            "text": "Models to identify certain urban attributes, such as commuting flow and built environment characteristics",
+            "text": "Models to assess the impact of built environment changes on the urban fabric, as well as on commuting flow patterns.",
             "where": ["AAAI 2020"],
             "more": ["https://fmiranda.me/publications/gmel/"]
         },
         "4": {
             "title": "Large-scale Data Analysis",
-            "text": "Methods for the analysis of large spatiotemporal data sets.",
+            "text": "Methods for the analysis of large spatiotemporal data sets, allowing for a data-driven approach to urban problems.",
             "where": ["IEEE TVCG 2016", "MT-ITS 2017"],
             "more": ["https://fmiranda.me/publications/urban-pulse/", "https://fmiranda.me/publications/bus/"]
         }
