@@ -15,8 +15,8 @@
         "3": {
             "title": "Neural Networks",
             "text": "Models to assess the impact of built environment changes on the urban fabric, as well as on commuting flow patterns.",
-            "where": ["AAAI 2020"],
-            "more": ["https://fmiranda.me/publications/gmel/"]
+            "where": ["AAAI 2020", "CHI 2020"],
+            "more": ["https://fmiranda.me/publications/gmel/", "https://fmiranda.me/publications/urban-mosaic/"]
         },
         "4": {
             "title": "Large-scale Data Analysis",
