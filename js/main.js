@@ -1,3 +1,16 @@
+function loadMarkdown(fileName) {
+
+	$.get( fileName, function( data ) {
+		d3.select("#content").node().innerHTML = marked(data);
+
+	})
+	.fail(function(jqxhr, textStatus, error){
+		var err = textStatus + ", " + error;
+		console.log( "Request Failed: " + err );
+	});
+
+}
+
 
 function loadHeader(fileName) {
 

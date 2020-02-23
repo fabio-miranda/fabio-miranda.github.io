@@ -21,6 +21,16 @@ a:hover {
     color: rgb(35,82,124);
 }
 
+/*h1 {
+    margin-left: 0px;
+    font-size: 1.5rem;
+}
+
+h2 {
+    margin-left: 10px;
+    font-size: 1.25rem;
+}*/
+
 .container {
 	padding-right: 5%;
 	padding-left: 5%;
