@@ -22,11 +22,11 @@
             "more": ["https://fmiranda.me/publications/urban-pulse/"]
         },
         "4": {
-            "title": "Time Lattice",
-            "authors": "F. Miranda, M. Lage, H. Doraiswamy, C. Mydlarz, J. Salamon, Y. Lockerman, J. Freire, C. Silva",
-            "teaser": "time-lattice/time-lattice-teaser.png",
-            "where": ["CGF 2018"],
-            "more": ["https://fmiranda.me/publications/time-lattice/"]
+            "title": "Urban Mosaic",
+            "authors": "F. Miranda, M. Hosseini, M. Lage, H. Doraiswamy, G. Dove, C. Silva",
+            "teaser": "urban-mosaic/urban-mosaic-teaser.png",
+            "where": ["CHI 2020"],
+            "more": ["https://fmiranda.me/publications/urban-mosaic/"]
         }
     }
 }

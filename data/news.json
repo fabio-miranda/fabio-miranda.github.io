@@ -2,11 +2,13 @@
 	"Recent Updates": {
         "1": {
             "text": "Paper 'Urban Mosaic: Visual Exploration of Streetscapes Using Large-Scale Image Data ' accepted to CHI 2020!",
-            "date": "12/09/2019"
+            "date": "12/09/2019",
+            "more": "https://fmiranda.me/publications/urban-mosaic/"
         },
 		"2": {
 			"text": "Paper 'Learning Geo-Contextual Embeddings for Commuting Flow Prediction' accepted to AAAI 2020!",
-			"date": "11/10/2019"
+			"date": "11/10/2019",
+			"more": "https://fmiranda.me/publications/gmel/"
 		},
 		"3": {
 			"text": "Successfully defended my Ph.D.!",
