@@ -9,7 +9,9 @@
             "image": "urban-mosaic/urban-mosaic-paper.png",
             "video": "https://www.youtube.com/watch?v=Nrhk7lb3GUo",
             "videoId": "Nrhk7lb3GUo",
-            "pdf": "https://fmiranda.me/publications/urban-mosaic/chi-2020-urban-mosaic.pdf"
+            "pdf": "https://fmiranda.me/publications/urban-mosaic/chi-2020-urban-mosaic.pdf",
+            "bibtex": "https://fmiranda.me/publications/urban-mosaic/urban-mosaic/urban-mosaic.bib",
+            "doi": "https://doi.org/10.1145/3313831.3376399"
         },
         "gmel": {
             "title": "Learning Geo-Contextual Embeddings for Commuting Flow Prediction",
