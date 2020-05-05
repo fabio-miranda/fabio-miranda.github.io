@@ -476,7 +476,7 @@ function loadTeaser(fileName) {
 
 			extra
 				.append("span")
-				.text(function(d){return d[0]+" ";})
+				.text(function(d){console.log(d[0]);return d[0]+" ";})
 				.attr("class", "text-muted");
 			extra
 				.append("a")
