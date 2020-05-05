@@ -470,9 +470,9 @@ function loadTeaser(fileName) {
 						return [];
 					else
 					 	return d.value["extras"];
-				})
-				.enter()
-				.append("div");
+				});
+
+			extra = extra.append("div");
 
 			extra
 				.append("span")
