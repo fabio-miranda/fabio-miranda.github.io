@@ -464,7 +464,15 @@ function loadTeaser(fileName) {
                     return "[<a href="+d.key+">more</a>] ";
                 });
 
-			var extra = div.selectAll(".paperitem")
+			// var extra = div.selectAll(".paperitem")
+			// 	.data(function(d){
+			// 		if(d.value["extras"] == undefined)
+			// 			return [];
+			// 		else
+			// 		 	return d.value["extras"];
+			// 	});
+
+			var extra = div.append("div").selectAll()
 				.data(function(d){
 					if(d.value["extras"] == undefined)
 						return [];
@@ -472,11 +480,11 @@ function loadTeaser(fileName) {
 					 	return d.value["extras"];
 				});
 
-			extra = extra.append("div");
+			extra = extra.enter().append("div");
 
 			extra
 				.append("span")
-				.text(function(d){console.log(d[0]);return d[0]+" ";})
+				.text(function(d){return d[0]+": ";})
 				.attr("class", "text-muted");
 			extra
 				.append("a")
