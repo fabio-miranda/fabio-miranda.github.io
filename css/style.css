@@ -59,7 +59,7 @@ ul {
 /* Main page */
 
 .bio {
-    font-size: 12px;
+    font-size: 14px;
     text-align: justify;
     text-justify: inter-word;
     /*padding: 0px;*/
@@ -78,7 +78,7 @@ ul {
 }
 
 .medianews {
-
+	font-size: 12px;
 }
 
 .img-thumbnail {
@@ -152,7 +152,7 @@ ul {
 }
 
 .newsitem {
-    font-size: 12px;
+    font-size: 14px;
     padding-left: 0px;
     /*margin-left: 5px;*/
 }

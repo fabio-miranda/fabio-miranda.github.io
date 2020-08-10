@@ -318,7 +318,7 @@ function loadMedia(fileName) {
 			var links = items
 				.enter()
 				.append("div")
-				.attr("class", "col-sm-2 newsitem");
+				.attr("class", "col-sm-2 medianews");
 			links
 				.append("div")
 				.attr("class", "text-center text-justify")
