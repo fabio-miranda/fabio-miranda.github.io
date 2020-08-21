@@ -22,6 +22,7 @@
             "image": "gmel/gmel-paper.png",
             "pdf": "https://fmiranda.me/publications/gmel/aaai-2020-gmel.pdf",
             "bibtex": "https://fmiranda.me/publications/gmel/aaai-2020-gmel.bib",
+            "doi": "https://doi.org/10.1609/aaai.v34i01.5425",
             "extras": [
                 ["Open source code", "https://github.com/jackmiemie/GMEL"]
             ]
