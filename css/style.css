@@ -78,7 +78,7 @@ ul {
 }
 
 .medianews {
-	font-size: 12px;
+    
 }
 
 .img-thumbnail {
@@ -143,7 +143,7 @@ ul {
 }
 
 .row {
-    padding-top: 10px;
+    /* padding-top: 10px; */
 }
 
 .news {
@@ -152,7 +152,7 @@ ul {
 }
 
 .newsitem {
-    font-size: 14px;
+    font-size: 12px;
     padding-left: 0px;
     /*margin-left: 5px;*/
 }
@@ -163,6 +163,36 @@ ul {
     /*margin-left: 5px;*/
     text-align: justify;
     text-justify: inter-word;
+}
+
+.researchprojectitem {
+    font-size: 12px;
+    padding-left: 0px;
+    /*margin-left: 5px;*/
+}
+
+.notices {
+    height: 1.5px;
+    margin-left: 0px;
+    padding-left: 0px;
+    padding-bottom: 5px;
+    /* padding-top: 0px; */
+    background: rgba(0,0,25,0.05);
+    border-radius: 5px;
+    border-width: thin;
+    border-color: rgb(51,122,182);
+    border-style: solid;
+}
+
+.noticeitem {
+    font-size: 16px;
+    padding-left: 0px;
+    padding-top: 10px;
+    /*margin-left: 5px;*/
+}
+
+ul {
+    list-style-type: square;
 }
 
 .researchitemauthors {

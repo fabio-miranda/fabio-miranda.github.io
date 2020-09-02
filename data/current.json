@@ -1,0 +1,25 @@
+{
+	"Research Currently in Progress": [
+		{
+            "text": "Visualization of Probability Distributions of Geographical Data"
+        },
+        {
+            "text": "Interactive Exploration of Large Image Databases"
+        },
+        {
+            "text": "Automatic Assessment of Sidewalk Quality from Street-level Images"
+        },
+        {
+            "text": "Urban Navigation in Virtual Reality"
+        },
+        {
+            "text": "Interactive Profiling of City Land Use Evolution"
+        },
+        {
+            "text": "Visual Data Exploration through User-Steerable Projections"
+        },
+        {
+            "text": "Commuting Trip Distribution Modeling using Graph Neural Network"
+        }
+    ]
+}

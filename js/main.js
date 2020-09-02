@@ -52,8 +52,6 @@ function loadHeader(fileName) {
 	
 }
 
-
-
 function loadNews(fileName) {
 	$.getJSON( fileName, function( data ) {
 
@@ -82,7 +80,16 @@ function loadNews(fileName) {
 				.enter()
 				.append("div")
 				.attr("class", "newsitem")
-				.html(function(d){return "<b>"+d.value["date"] + "</b>: " + d.value["text"];});
+				.html(
+					function(d){
+						if("more" in d.value) {
+							return "<b>"+d.value["date"] + "</b>: " + d.value["text"] + " [<a href="+d.value["more"]+">more</a>]";
+						}
+						else {
+							return "<b>"+d.value["date"] + "</b>: " + d.value["text"];
+						}
+						
+					});
 		}
 
 	})
@@ -239,6 +246,61 @@ function loadResearchHighlights(fileName) {
 	});
 }
 
+function loadNotices(fileName) {
+	$.getJSON( fileName, function( data ) {
+		var highlights = d3.select("#notices").append("div").attr("class", "row no-gutters");
+
+		for(var content in data) {
+			highlights
+				.append("div")
+				.attr("class", "title col-sm-12")
+				.style("height","1.5px");
+
+			highlights = highlights.append("ul").attr("class","cell no-gutters");
+
+			var items = highlights
+				.selectAll("div")
+				.attr("class", "col-sm-12")
+				.data(d3.entries(data[content]));
+
+			items
+				.enter()
+				.append("div")
+				.attr("class", "noticeitem")
+				.html(function(d){return  d.value["text"];});
+		}
+	});
+}
+
+function loadCurrentResearchProjects(fileName) {
+	$.getJSON( fileName, function( data ) {
+		var highlights = d3.select("#projects").append("div").attr("class", "projects row no-gutters");
+
+		for(var content in data) {
+			highlights
+				.append("div")
+				.attr("class", "col-sm-12")
+				.attr("id", content.toLowerCase())
+				.append("div")
+				.attr("class", "title font-weight-bold")
+				.text(content);
+
+			highlights = highlights.append("ul").attr("class","cell no-gutters");
+
+			var items = highlights
+				.selectAll("ul")
+				.attr("class", "col-sm-12")
+				.data(d3.entries(data[content]));
+
+			items
+				.enter()
+				.append("li")
+				.attr("class", "researchprojectitem")
+				.html(function(d){return  d.value["text"];});
+		}
+	});
+}
+
 function loadResearchAreas(fileName) {
 	$.getJSON( fileName, function( data ) {
 		var highlights = d3.select("#areas").append("div").attr("class", "areas row no-gutters");
@@ -318,7 +380,7 @@ function loadMedia(fileName) {
 			var links = items
 				.enter()
 				.append("div")
-				.attr("class", "col-sm-2 medianews");
+				.attr("class", "col-sm-2 newsitem");
 			links
 				.append("div")
 				.attr("class", "text-center text-justify")

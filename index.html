@@ -15,7 +15,7 @@
 		<meta name="description" content="About me - Fabio Miranda">
 		<meta name="author" content="Fabio Miranda">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>fmiranda.me | Fabio Miranda | PhD candidate at NYU</title>
+		<title>fmiranda.me | Fabio Miranda | University of Illinois at Chicago</title>
 		<link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" />
 		<link rel="stylesheet" href="css/style.css" type="text/css" />
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Vollkorn" >
@@ -28,13 +28,14 @@
 			window.onload = function() {
 				loadHeader("data/header.json");
 				loadBio("data/bio.json");
+				loadNotices("data/notices.json");
 				loadNews("data/news.json");
                 loadResearchHighlights("data/highlights.json");
                 loadResearchAreas("data/areas.json");
+                loadCurrentResearchProjects("data/current.json");
                 loadMedia("data/media.json");
                 loadLinks("data/links.json");
 				// loadTeaser("data/papers.json", function(){loadProject("data/projects.json");});
-				
 			};
 		</script>
 	</head>
@@ -43,9 +44,11 @@
 		<div class="container">
 			<div id="header"></div>
 			<div id="bio"></div>
+			<div id="notices"></div>
 			<div id="news"></div>
 			<div id="highlights"></div>
-            <div id="areas"></div>
+			<div id="areas"></div>
+			<div id="projects"></div>
             <div id="media"></div>
             <div id="links"></div>
 		</div>
