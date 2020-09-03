@@ -4,6 +4,11 @@
             "text": "I will be joining the <b>Dept. of Computer Science at the University of Illinois at Chicago</b> in October 2020 as an Assistant Professor!",
             "date": "09/01/2020",
             "more": "https://cs.uic.edu/news-stories/cs-department-welcomes-three-new-faculty-members/"
+		},
+		{
+            "text": "New shadow data for Chicago, Los Angeles, Washington D.C. and Boston.",
+            "date": "05/12/2020",
+            "more": "https://vgc.poly.edu/projects/shadows/?city=chi&day=jun-21"
         },
         {
             "text": "Paper 'Urban Mosaic: Visual Exploration of Streetscapes Using Large-Scale Image Data ' accepted to CHI 2020!",
