@@ -283,7 +283,8 @@ function loadCurrentResearchProjects(fileName) {
 				.attr("id", content.toLowerCase())
 				.append("div")
 				.attr("class", "title font-weight-bold")
-				.text(content);
+				.text(content)
+				.append("a").attr("name", "current");
 
 			highlights = highlights.append("ul").attr("class","cell no-gutters");
 
@@ -313,7 +314,8 @@ function loadResearchAreas(fileName) {
 		        // .append("h4")
 		        .append("div")
 		        .attr("class", "title font-weight-bold")
-				.text(content);
+				.text(content)
+				.append("a").attr("name", "areas")
 
 			highlights = highlights.append("div").attr("class","cell row py-0");
 
@@ -380,7 +382,7 @@ function loadMedia(fileName) {
 			var links = items
 				.enter()
 				.append("div")
-				.attr("class", "col-sm-2 newsitem");
+				.attr("class", "col-sm-2 medianewsitem");
 			links
 				.append("div")
 				.attr("class", "text-center text-justify")
