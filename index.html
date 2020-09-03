@@ -27,7 +27,6 @@
 		<script>
 			window.onload = function() {
 				$.getJSON( "data/json-ld.json", function( data ) {
-					console.log(data);
 					var script = document.createElement('script');
 					script.type = "application/ld+json";
 					script.innerHTML = JSON.stringify(data);
