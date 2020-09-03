@@ -1,7 +1,7 @@
 {
 	"Recent Updates": [
 		{
-            "text": "I will be joining the <b>Department of Computer Science at the University of Illinois at Chicago</b> in October 2020 as an Assistant Professor!",
+            "text": "I will be joining the <b>Dept. of Computer Science at the University of Illinois at Chicago</b> in October 2020 as an Assistant Professor!",
             "date": "09/01/2020",
             "more": "https://cs.uic.edu/news-stories/cs-department-welcomes-three-new-faculty-members/"
         },
@@ -21,12 +21,12 @@
 			"more": "https://fmiranda.me/phd-dissertation/"
 		},
 		{
-			"text": "SIGMOD 2018 Best Demonstration Award for the paper 'Interactive Visual Exploration of Spatio-Temporal Urban Data Sets using Urbane'",
+			"text": "SIGMOD 2018 Best Demo Award for the paper 'Interactive Visual Exploration of Spatio-Temporal Urban Data Sets using Urbane'",
 			"date": "06/14/2018",
 			"more": "https://sigmod.org/sigmod-awards/sigmod-best-demonstration-award/"
 		},
 		{
-			"text": "Pearl Brownstein Doctoral Research Award: Doctoral research that shows the greatest promise, given by NYU Tandon School of Engineering, in 2018.",
+			"text": "Pearl Brownstein Doctoral Research Award: Doctoral research that shows the greatest promise, given by NYU in 2018.",
 			"date": "05/10/2018",
 			"more": "http://engineering.nyu.edu/academics/departments/computer-science-engineering/student-awards"
 		},

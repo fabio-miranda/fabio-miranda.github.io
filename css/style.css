@@ -156,8 +156,9 @@ ul {
 }
 
 .newsitem {
-    font-size: 13px;
+    font-size: 14px;
     padding-left: 0px;
+    line-height: 1.6;
     /*margin-left: 5px;*/
 }
 
@@ -170,8 +171,9 @@ ul {
 }
 
 .researchprojectitem {
-    font-size: 13px;
+    font-size: 14px;
     padding-left: 0px;
+    line-height: 1.6;
     /*margin-left: 5px;*/
 }
 
