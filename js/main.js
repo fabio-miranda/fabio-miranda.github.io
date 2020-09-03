@@ -125,7 +125,9 @@ function loadBio(fileName) {
         for(b in data["bio"]) {
     		bioInner.append("div")
     			.text(data["bio"][b]);
-        }
+		}
+		
+		d3.selectAll("[name=\"description\"]").attr("content",data["bio"][0]);
 
 		var contact = bioInner.append("div")
 			.attr("class", "text-center")
