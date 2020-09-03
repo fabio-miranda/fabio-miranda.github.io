@@ -1,0 +1,75 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Person",
+  "@id": "https://fmiranda.me/",
+  "name": "Fabio Miranda",
+  "jobTitle": "Assistant Professor",
+  "gender": "Male",
+  "disambiguatingDescription": "Computer Scientist",
+  "url": "https://fmiranda.me/",
+  "description": "Assistant Professor at the Department of Computer Science at the University of Illinois - Chicago.",
+  "givenName": "Fabio",
+  "familyName": "Miranda",
+  "nationality": "Brazilian",
+  "sameAs": [
+      "https://scholar.google.com/citations?user=9fR0LqAAAAAJ",
+      "https://cs.uic.edu/profiles/miranda-fabio/",
+      "http://engineering.nyu.edu/people/fabio-miranda",
+      "https://www.linkedin.com/in/fabiomarkusmiranda",
+      "https://www.researchgate.net/profile/Fabio_Miranda13",
+      "https://dblp.uni-trier.de/pers/hd/m/Miranda_0001:Fabio",
+      "https://github.com/fabio-miranda",
+      "https://twitter.com/fabiom_miranda",
+      "https://medium.com/@fabio_miranda"
+      ],
+  "image": "https://fmiranda.me/images/fabio-miranda-2-cropped.jpg",
+  "birthPlace": "Belo Horizonte, Brazil",
+  "worksFor": [
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "University of Illinois at Chicago",
+      "url": "https://www.uic.edu/",
+      "sameAs": "https://en.wikipedia.org/wiki/University_of_Illinois_at_Chicago"
+    },
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "New York University",
+      "url": "https://www.nyu.edu/",
+      "sameAs": "https://en.wikipedia.org/wiki/New_York_University"
+    }
+  ],
+  "affiliation": [
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "University of Illinois at Chicago",
+      "url": "https://www.uic.edu/",
+      "sameAs": "https://en.wikipedia.org/wiki/University_of_Illinois_at_Chicago"
+    },
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "New York University",
+      "url": "https://www.nyu.edu/",
+      "sameAs": "https://en.wikipedia.org/wiki/New_York_University"
+    }
+  ],
+  "alumniOf": [
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "New York University",
+      "url": "https://www.nyu.edu/",
+      "sameAs": "https://en.wikipedia.org/wiki/New_York_University"
+    },
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "Pontifical Catholic University of Rio de Janeiro",
+      "url": "https://www.puc-rio.br/english/",
+      "sameAs": "https://en.wikipedia.org/wiki/Pontifical_Catholic_University_of_Rio_de_Janeiro"
+    },
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "Federal University of Minas Gerais",
+      "url": "https://ufmg.br/international-visitors",
+      "sameAs": "https://en.wikipedia.org/wiki/Federal_University_of_Minas_Gerais"
+    }
+  ]
+}
