@@ -67,7 +67,7 @@
                 ["Featured on The Architects Newspaper", "https://archpaper.com/2016/12/new-york-city-shadow-map/"],
                 ["Featured on Technical.ly", "https://technical.ly/brooklyn/2016/12/23/building-shadow-map-new-york-times/"],
                 ["Featured on Flowing Data", "https://flowingdata.com/2016/12/22/map-of-new-york-city-shadows/"],
-                ["Shadow data for NYC", "https://github.com/ViDA-NYU/shadow-accrual-maps/"]
+                ["Shadow data for several cities", "https://github.com/ViDA-NYU/shadow-accrual-maps/"]
             ]
         },
 		"time-lattice": {
