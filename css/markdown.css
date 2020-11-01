@@ -1,0 +1,22 @@
+
+.table td, .table th {
+    border-top: 0px;
+    padding: 5px;
+    text-align: center;
+}
+
+.table thead th {
+    border-bottom: 0px;
+}
+
+.table {
+    width:100%;
+    align-content: center;
+    display: grid;
+}
+
+.table hr {
+    width: calc(100% + 10px);
+    margin-left: -5px;
+    border-top: 2px solid rgb(51,122,182);
+}
