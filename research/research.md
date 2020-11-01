@@ -5,7 +5,7 @@
 
 The analysis of large and complex data is usually an exploratory process in which domain expertise plays a significant role. It is, therefore, essential to integrate the user into the analysis loop, enabling them to formulate hypotheses and gain new insights into domain-specific problems. Interactive visualization is central in the support of this process. My research focuses on proposing new methods and systems that allow for the interactive visual analysis of large data sets, combining **visualization**, **hci**, **computer graphics**, **data management**, and **machine learning** in order to tackle fundamental challenges in data science, enable effective analysis of large data and untangle real-world problems. I am particularly interested in making contributions that can help address different problems cities face by integrating data on different resolutions and from different sources. 
 
-In this page you will be able to find information about my research, the University of Illinois at Chicago, the city of Chicago, and open positions.
+On this page you will find information about my research, the city of Chicago, the University of Illinois at Chicago, and open positions.
 
 <img src="overview.png" alt="Visual Analytics Systems" title="Visual Analytics Systems" width="100%">
 <br />
@@ -14,7 +14,7 @@ In this page you will be able to find information about my research, the Univers
 The figure above highlights some of the papers I have published over the past few years, contributing new techniques, methods and tools for the analysis of large data:  
 **(a)** Fast accumulation of shadows to compute the shadow impact on public spaces from new proposed buildings and an alternate scenario (highlighted in purple) in Manhattan (NYC) ([paper](https://fmiranda.me/papers/shadow-accrual-maps/)).  
 **(b)** Comparison of locations across NYC and San Francisco using computational topology. *Pulses* are computed using a collection of time-varying scalar functions over different temporal resolutions ([paper](https://fmiranda.me/papers/urban-pulse/)).  
-**(c)** Using convolutional neural network features to assess the condition of curb cuts before and after snow fall in regions having a higher concentration of older adults ([paper](https://fmiranda.me/papers/urban-mosaic/)).  
+**(c)** Using convolutional neural network features to assess the condition of curb cuts before and after snowfall in regions having a higher concentration of older adults ([paper](https://fmiranda.me/papers/urban-mosaic/)).  
 **(d)** A graph neural network to model commuting flows between census tracts in NYC, considering geographic contextual information and urban indicators ([paper](https://fmiranda.me/papers/gmel/)).
 
 ***
@@ -34,13 +34,13 @@ The figure above highlights some of the papers I have published over the past fe
 
 ***
 ### Themes
-Below I highlight some of my current interests. Note that a paper (or research project) can fall under multiple themes, as it makes use of (or contributes to) multiple fields in computer science. Also note that this is a non-exhaustive list, and the main goal is to just give a general idea of my work and research.
+Below I highlight some of my current interests. Note that a paper (or research project) can fall under multiple themes, as it makes use of (or contributes to) multiple fields in computer science. Also, note that this is a non-exhaustive list, and the main goal is to give a general idea of my work and research.
 
 #### Visual data analysis
 
 <img style="float: right" src="../publications/raster-join-demo/raster-join-demo-teaser.png" alt="Urbane" title="Urbane" width="30%">
 
-Effective analysis and exploration of data require feedback loops and close collaboration with domain experts and stakeholders to understand their needs and expectations. Well-designed visualizations and interactions enable users to gain actionable insights into problems by formulating and testing hypotheses, and address domain specific challenges. In my research I am interested in proposing new visual representations, data mining techniques, and query models that enable easy and effective exploration of large data. 
+Effective analysis and exploration of data require feedback loops and close collaboration with domain experts and stakeholders to understand their needs and expectations. Well-designed visualizations and interactions enable users to gain actionable insights into problems by formulating and testing hypotheses, and address domain specific challenges. In my research I am interested in: proposing new visual representations, data mining techniques, and query models that enable easy and effective exploration of large data. 
 
 ##### Example of papers
 * *Shadow Accrual Maps: Efficient Accumulation of City-Scale Shadows over Time*, IEEE Transactions on Visualization and Computer Graphics ([link](https://fmiranda.me/papers/shadow-accrual-maps/))
@@ -92,7 +92,7 @@ In order to be most effective, visual analytics systems must be interactive, req
 
 <img style="float: right" src="../publications/urban-mosaic/urban-mosaic-teaser.png" alt="Urban Mosaic" title="Urban Mosaic" width="30%">
 
-New sources of data have enabled us to quantify the urban environment at unprecedent scale and detail, allowing us to tackle new questions in urban science. It is increasingly necessary to investigate and propose new machine learning technices that are able to 1) extract meaningful data from this urban data exhaust, and 2) model important urban phenomena.
+New sources of data have enabled us to quantify the urban environment at unprecedented scale and detail, allowing us to tackle new questions in urban science. It is increasingly necessary to investigate and propose new machine learning techniques that are able to 1) extract meaningful data from this urban data exhaust, and 2) model important urban phenomena.
 
 ##### Example of papers
 * *Urban Mosaic: Visual Exploration of Streetscapes Using Large-Scale Image Data*, CHI 2020 ([link](https://fmiranda.me/publications/urban-mosaic/))
@@ -109,7 +109,7 @@ New sources of data have enabled us to quantify the urban environment at unprece
 <br />
 <br />
 
-Chicago is an energectic and vibrant city located in the state of Illinois, with more than 600 [parks](https://www.chicagoparkdistrict.com/), 26 miles of [beaches](https://www.chicagoparkdistrict.com/parks-facilities/beaches), and home to world-renowed museums, including the [Field Museum](http://www.fieldmuseum.org/) and the [Chicago History Museum](http://www.chicagohistory.org/). Chicago is also home to an extensive transportation system, with accessible [trains and buses](http://www.transitchicago.com/), and [bikes](http://www.divvybikes.com/about). 
+Chicago is an energetic and vibrant city located in the state of Illinois, with more than 600 [parks](https://www.chicagoparkdistrict.com/), 26 miles of [beaches](https://www.chicagoparkdistrict.com/parks-facilities/beaches), and home to world-renowned museums, including the [Field Museum](http://www.fieldmuseum.org/) and the [Chicago History Museum](http://www.chicagohistory.org/). Chicago is also home to an extensive transportation system, with accessible [trains and buses](http://www.transitchicago.com/), and [bikes](http://www.divvybikes.com/about). 
 
 Chicago hosts [Lollapalooza](https://www.lollapalooza.com/), [Pitchfork Music Festival](https://pitchforkmusicfestival.com/), and has some of the most famous [jazz festivals](https://www.visittheusa.com/experience/all-jazz-7-us-cities-discover-music-and-more) and [clubs](https://www.timeout.com/chicago/music/13-best-jazz-clubs-in-chicago) in the world. To top it off, Chicago is home to the [Chicago Bulls](https://www.nba.com/bulls/), [Chicago White Sox](https://www.nba.com/bulls/), [Chicago Cubs](https://www.mlb.com/cubs), and the [Chicago Bears](https://www.chicagobears.com/).
 
@@ -131,15 +131,15 @@ UIC's Computer Science Department ranks 34th in the top CS departments in the US
 ***
 ### Open positions
 #### PhD students
-I have several open positions for PhD students. If you are interested in working with me, send me an email (fabiom {at} uic {dot} edu) with your CV and we will try to schedule a meeting to discuss your background, interests and goals. This will also be an opportunity for you to ask questions about my research, topics of interest, the application process, or PhD life in general. I am looking for motivated students with a strong programming background and *some* knowledge or interest in either one of my broad areas of interest (visualization, computer graphics, data management, or machine learning).
+I have several open positions for PhD students. If you are interested in working with me, send me an email (fabiom {at} uic {dot} edu) with your CV and we will try to schedule a meeting to discuss your background, interests and goals. This will also be an opportunity for you to ask questions about my research, topics of interest, the application process, or PhD life in general. I am looking for motivated students with a strong programming background and *some* knowledge or interest in either one of my broad areas of interest (visualization, computer graphics, data management, or machine learning - see details above).
 
 For more information about the Computer Science PhD program at UIC, please check [this link](https://cs.uic.edu/graduate/admissions/).
 
 #### MSc students
-If you are an UIC MSc student and you are interested in working on some of the topics listed above, please feel free to contact me and we will try to schedule a meeting. I am happy to advise MSc students that choose the [project option](http://cs.uic.edu/graduate/ms-program/project/) or [thesis option](http://cs.uic.edu/graduate/ms-program/thesis/), but note that I *generally* do not have funding available for master's students.
+If you are a UIC MSc student and you are interested in working on some of the topics listed above, please feel free to contact me and we will try to schedule a meeting. I am happy to advise MSc students that choose the [project option](http://cs.uic.edu/graduate/ms-program/project/) or [thesis option](http://cs.uic.edu/graduate/ms-program/thesis/), but note that I *generally* do not have funding available for master's students.
 
 #### Undergraduate students
-If you are an UIC student and you are interested in working on some of the topics described above, send me an email. I have several interesting projects that can be tackled by an undergraduate student in a way that there is a tangible product by the end of a few months. Also note that I *generally* do not have funding available for undergraduate students.
+If you are a UIC student and you are interested in working on some of the topics described above, send me an email. I have several interesting projects that can be tackled by an undergraduate student in a way that there is a tangible product by the end of a few months. Also, note that I *generally* do not have funding available for undergraduate students.
 
 #### Visiting researchers
 If you have been admitted to UIC in some other capacity (visiting scholar, visiting student, etc.), feel free to contact me and we can discuss interesting projects and topics of research.
