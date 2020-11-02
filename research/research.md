@@ -46,7 +46,7 @@ Effective analysis and exploration of data require feedback loops and close coll
 * *Shadow Accrual Maps: Efficient Accumulation of City-Scale Shadows over Time*, IEEE Transactions on Visualization and Computer Graphics ([link](https://fmiranda.me/publications/shadow-accrual-maps/))
 * *Time Lattice: A Data Structure for the Interactive Visual Analysis of Large Time Series*, Computer Graphics Forum ([link](https://fmiranda.me/papers/time-lattice/))
 * *Interactive Visual Exploration of Spatio-Temporal Urban Data Sets using Urbane*, SIGMOD 2018 Best Demo ([link](https://fmiranda.me/publications/raster-join-demo/))
-* *Urban Pulse: Capturing the Rhythm of Cities*, IEEE Transactions on Visualization and Computer Graphics ([paper](https://fmiranda.me/publications/urban-pulse/))
+* *Urban Pulse: Capturing the Rhythm of Cities*, IEEE Transactions on Visualization and Computer Graphics ([link](https://fmiranda.me/publications/urban-pulse/))
 
 ##### Current projects
 * Visualization of probability distributions of geographical data.
