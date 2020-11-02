@@ -131,9 +131,9 @@ UIC's Computer Science Department ranks 34th in the top CS departments in the US
 ***
 ### Open positions
 #### PhD students
-I have several open positions for PhD students. If you are interested in working with me, send me an email (fabiom {at} uic {dot} edu) with your CV and we will try to schedule a meeting to discuss your background, interests and goals. This will also be an opportunity for you to ask questions about my research, topics of interest, the application process, or PhD life in general. I am looking for motivated students with a strong programming background and *some* knowledge or interest in either one of my broad areas of interest (visualization, computer graphics, data management, or machine learning - see details above).
+I have several open positions for PhD students. If you have been already admitted or you are planning to apply to UIC and you are interested in working with me, **send me an email (fabiom {at} uic {dot} edu) with your CV** and we will try to schedule a meeting to discuss your background, interests and goals. This will also be an opportunity for you to ask questions about my research, topics of interest, the application process, or PhD life in general. I am looking for motivated students with a strong programming background and *some* knowledge or interest in either one of my broad areas of interest (visualization, computer graphics, data management, or machine learning - see details above).
 
-For more information about the Computer Science PhD program at UIC, please check [this link](https://cs.uic.edu/graduate/admissions/).
+For more information about the Computer Science PhD program at UIC (including deadlines), please check [this link](https://cs.uic.edu/graduate/admissions/).
 
 #### MSc students
 If you are a UIC MSc student and you are interested in working on some of the topics listed above, please feel free to contact me and we will try to schedule a meeting. I am happy to advise MSc students that choose the [project option](http://cs.uic.edu/graduate/ms-program/project/) or [thesis option](http://cs.uic.edu/graduate/ms-program/thesis/), but note that I *generally* do not have funding available for master's students.
