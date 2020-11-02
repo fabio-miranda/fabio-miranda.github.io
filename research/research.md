@@ -38,7 +38,7 @@ Below I highlight some of my current interests. Note that a paper (or research p
 
 #### Visual data analysis
 
-<img style="float: right" src="../publications/raster-join-demo/raster-join-demo-teaser.png" alt="Urbane" title="Urbane" width="30%">
+<img style="padding-left: 10px; float: right" src="../publications/raster-join-demo/raster-join-demo-teaser.png" alt="Urbane" title="Urbane" width="30%">
 
 Effective analysis and exploration of data require feedback loops and close collaboration with domain experts and stakeholders to understand their needs and expectations. Well-designed visualizations and interactions enable users to gain actionable insights into problems by formulating and testing hypotheses, and address domain specific challenges. In my research I am interested in: proposing new visual representations, data mining techniques, and query models that enable easy and effective exploration of large data. 
 
@@ -57,7 +57,7 @@ Effective analysis and exploration of data require feedback loops and close coll
 
 #### 3D Analytics
 
-<img style="float: right" src="../publications/shadow-accrual-maps/shadow-accrual-maps-teaser.png" alt="Shadow Accrual Maps" title="Shadow Accrual Maps" width="30%">
+<img style="padding-left: 10px; float: right" src="../publications/shadow-accrual-maps/shadow-accrual-maps-teaser.png" alt="Shadow Accrual Maps" title="Shadow Accrual Maps" width="30%">
 
 The rise of new sensing initiatives has created data sets that go beyond the usual flatland spatiotemporal data, capturing a new perspective of the city at an unprecedented scale. Examples of such initiatives are aerial surveys and collaborative mapping. The interactive analysis of such data creates the perfect opportunity to explore new urban features at a scale that was not possible before. In my research I make use of these novel data sets to propose new techniques and systems to virtually explore cities as well as analyze important problems facing cities today, such as shadow impact and accessibility.
 
@@ -73,7 +73,7 @@ The rise of new sensing initiatives has created data sets that go beyond the usu
 
 #### Data structures and indices
 
-<img style="float: right" src="../publications/topkube/topkube-teaser.png" alt="Topkube" title="Topkube" width="30%">
+<img style="padding-left: 10px; float: right" src="../publications/topkube/topkube-teaser.png" alt="Topkube" title="Topkube" width="30%">
 
 In order to be most effective, visual analytics systems must be interactive, requiring sub-second response times. General approaches often fail to drive this interactivity, as the scale of the data presents several challenges. In my research, I propose data structures and indices to enable the interactive visual analysis of various large data sets.
 
@@ -90,7 +90,7 @@ In order to be most effective, visual analytics systems must be interactive, req
 
 #### Machine learning
 
-<img style="float: right" src="../publications/urban-mosaic/urban-mosaic-teaser.png" alt="Urban Mosaic" title="Urban Mosaic" width="30%">
+<img style="padding-left: 10px; float: right" src="../publications/urban-mosaic/urban-mosaic-teaser.png" alt="Urban Mosaic" title="Urban Mosaic" width="30%">
 
 New sources of data have enabled us to quantify the urban environment at unprecedented scale and detail, allowing us to tackle new questions in urban science. It is increasingly necessary to investigate and propose new machine learning techniques that are able to 1) extract meaningful data from this urban data exhaust, and 2) model important urban phenomena.
 

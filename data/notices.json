@@ -1,7 +1,7 @@
 {
 	"Notices": [
 		{
-            "text": "<strong>Prospective students:</strong> send me an email if you are interested in conducting and publishing research in the areas of data science, human-computer interaction and visualization, including:<ul><li>Visual analytics, including interactive visual data analysis.</li><li>Data structures and indexing techniques for big data visualization, making use of new advancements in GPUs architectures.</li><li>Urban analytics, harnessing data sets of different types (images, land use information, 3D building geometry, etc.) to address concrete city problems.</li><li>Applied machine learning.</li></ul>(See <a href=\"https://fmiranda.me/research/\"><em>Research</em></a> and <a href=\"http://fmiranda.me/research/#open-positions\"><em>Open positions</em></a> for details)"
+            "text": "<strong>Prospective students:</strong> send me an email if you are interested in conducting and publishing research in the areas of data science, human-computer interaction and visualization, including:<ul><li>Visual analytics, including interactive visual data analysis.</li><li>Data structures and indexing techniques for big data visualization, making use of new advancements in GPUs architectures.</li><li>Urban analytics, harnessing data sets of different types (images, land use information, 3D building geometry, etc.) to address concrete city problems.</li><li>Applied machine learning, including image feature extraction and graph neural networks.</li></ul>(See <a href=\"https://fmiranda.me/research/\"><em>Research</em></a> and <a href=\"http://fmiranda.me/research/#open-positions\"><em>Open positions</em></a> for details)"
         }
 	]
 }
