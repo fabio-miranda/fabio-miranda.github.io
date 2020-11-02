@@ -120,7 +120,7 @@ You can find more information about Chicago [here](https://www.uic.edu/chicago).
 ***
 ### University of Illinois at Chicago
 
-<img style="float: right" src="uic.jpg" alt="University of Illinois at Chicago" title="University of Illinois at Chicago" width="30%">
+<img style="padding-left: 10px; float: right" src="uic.jpg" alt="University of Illinois at Chicago" title="University of Illinois at Chicago" width="30%">
 
 UIC is located in the heart of Chicago. It is the largest university in the Chicago area, with more than 33,000 students. It ranks 14th among public universities in the "QS World University Rankings: USA" (see [here](https://today.uic.edu/uic-ranks-14th-among-public-universities-in-qs-world-university-rankings-usa)), and top 10 best value, and top 25 public universities according to the Wall Street Journal / Times Higher Education's national rankings (see [here](https://today.uic.edu/uic-ranks-14th-among-public-universities-in-qs-world-university-rankings-usa)).
 
