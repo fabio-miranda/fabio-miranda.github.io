@@ -29,7 +29,10 @@
         <script>
             window.onload = function() {
                 loadHeader("../data/header.json");
-                loadMarkdown("research.md");
+
+                var url_string = window.location.href;
+                var url = new URL(url_string);
+                loadMarkdown("research.md", url.hash);
             };
         </script>
     </head>

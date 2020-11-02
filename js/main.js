@@ -1,8 +1,13 @@
-function loadMarkdown(fileName) {
+function loadMarkdown(fileName, jumphash) {
 
 	$.get( fileName, function( data ) {
 		d3.select("#content").node().innerHTML = marked(data);
 
+	})
+	.success(function(jqxhr, textStatus){
+		if(jumphash != "") {
+			$(jumphash)[0].scrollIntoView()
+		}
 	})
 	.fail(function(jqxhr, textStatus, error){
 		var err = textStatus + ", " + error;
