@@ -12,10 +12,10 @@ On this page you will find information about my research, the city of Chicago, t
 <br />
 
 The figure above highlights some of the papers I have published over the past few years, contributing new techniques, methods and tools for the analysis of large data:  
-**(a)** Fast accumulation of shadows to compute the shadow impact on public spaces from new proposed buildings and an alternate scenario (highlighted in purple) in Manhattan (NYC) ([paper](https://fmiranda.me/papers/shadow-accrual-maps/)).  
-**(b)** Comparison of locations across NYC and San Francisco using computational topology. *Pulses* are computed using a collection of time-varying scalar functions over different temporal resolutions ([paper](https://fmiranda.me/papers/urban-pulse/)).  
-**(c)** Using convolutional neural network features to assess the condition of curb cuts before and after snowfall in regions having a higher concentration of older adults ([paper](https://fmiranda.me/papers/urban-mosaic/)).  
-**(d)** A graph neural network to model commuting flows between census tracts in NYC, considering geographic contextual information and urban indicators ([paper](https://fmiranda.me/papers/gmel/)).
+**(a)** Fast accumulation of shadows to compute the shadow impact on public spaces from new proposed buildings and an alternate scenario (highlighted in purple) in Manhattan (NYC) ([paper](https://fmiranda.me/publications/shadow-accrual-maps/)).  
+**(b)** Comparison of locations across NYC and San Francisco using computational topology. *Pulses* are computed using a collection of time-varying scalar functions over different temporal resolutions ([paper](https://fmiranda.me/publications/urban-pulse/)).  
+**(c)** Using convolutional neural network features to assess the condition of curb cuts before and after snowfall in regions having a higher concentration of older adults ([paper](https://fmiranda.me/publications/urban-mosaic/)).  
+**(d)** A graph neural network to model commuting flows between census tracts in NYC, considering geographic contextual information and urban indicators ([paper](https://fmiranda.me/publications/gmel/)).
 
 ***
 #### Table of Contents
@@ -43,10 +43,10 @@ Below I highlight some of my current interests. Note that a paper (or research p
 Effective analysis and exploration of data require feedback loops and close collaboration with domain experts and stakeholders to understand their needs and expectations. Well-designed visualizations and interactions enable users to gain actionable insights into problems by formulating and testing hypotheses, and address domain specific challenges. In my research I am interested in: proposing new visual representations, data mining techniques, and query models that enable easy and effective exploration of large data. 
 
 ##### Example of papers
-* *Shadow Accrual Maps: Efficient Accumulation of City-Scale Shadows over Time*, IEEE Transactions on Visualization and Computer Graphics ([link](https://fmiranda.me/papers/shadow-accrual-maps/))
+* *Shadow Accrual Maps: Efficient Accumulation of City-Scale Shadows over Time*, IEEE Transactions on Visualization and Computer Graphics ([link](https://fmiranda.me/publications/shadow-accrual-maps/))
 * *Time Lattice: A Data Structure for the Interactive Visual Analysis of Large Time Series*, Computer Graphics Forum ([link](https://fmiranda.me/papers/time-lattice/))
 * *Interactive Visual Exploration of Spatio-Temporal Urban Data Sets using Urbane*, SIGMOD 2018 Best Demo ([link](https://fmiranda.me/publications/raster-join-demo/))
-* *Urban Pulse: Capturing the Rhythm of Cities*, IEEE Transactions on Visualization and Computer Graphics ([paper](https://fmiranda.me/papers/urban-pulse/))
+* *Urban Pulse: Capturing the Rhythm of Cities*, IEEE Transactions on Visualization and Computer Graphics ([paper](https://fmiranda.me/publications/urban-pulse/))
 
 ##### Current projects
 * Visualization of probability distributions of geographical data.
@@ -62,7 +62,7 @@ Effective analysis and exploration of data require feedback loops and close coll
 The rise of new sensing initiatives has created data sets that go beyond the usual flatland spatiotemporal data, capturing a new perspective of the city at an unprecedented scale. Examples of such initiatives are aerial surveys and collaborative mapping. The interactive analysis of such data creates the perfect opportunity to explore new urban features at a scale that was not possible before. In my research I make use of these novel data sets to propose new techniques and systems to virtually explore cities as well as analyze important problems facing cities today, such as shadow impact and accessibility.
 
 ##### Example of papers
-* *Shadow Accrual Maps: Efficient Accumulation of City-Scale Shadows over Time*, IEEE Transactions on Visualization and Computer Graphics ([link](https://fmiranda.me/papers/shadow-accrual-maps/))
+* *Shadow Accrual Maps: Efficient Accumulation of City-Scale Shadows over Time*, IEEE Transactions on Visualization and Computer Graphics ([link](https://fmiranda.me/publications/shadow-accrual-maps/))
 * *Interactive Visual Exploration of Spatio-Temporal Urban Data Sets using Urbane*, SIGMOD 2018 Best Demo ([link](https://fmiranda.me/publications/raster-join-demo/))
 
 
@@ -78,7 +78,7 @@ The rise of new sensing initiatives has created data sets that go beyond the usu
 In order to be most effective, visual analytics systems must be interactive, requiring sub-second response times. General approaches often fail to drive this interactivity, as the scale of the data presents several challenges. In my research, I propose data structures and indices to enable the interactive visual analysis of various large data sets.
 
 ##### Example of papers
-* *Time Lattice: A Data Structure for the Interactive Visual Analysis of Large Time Series*, Computer Graphics Forum ([link](https://fmiranda.me/papers/time-lattice/))
+* *Time Lattice: A Data Structure for the Interactive Visual Analysis of Large Time Series*, Computer Graphics Forum ([link](https://fmiranda.me/publications/time-lattice/))
 * *Interactive Visual Exploration of Spatio-Temporal Urban Data Sets using Urbane*, SIGMOD 2018 Best Demo ([link](https://fmiranda.me/publications/raster-join-demo/))
 * *TopKube: A Rank-Aware Data Cube for Real-Time Exploration of Spatiotemporal Datasets*, IEEE Transactions on Visualization and Computer Graphics ([link](https://fmiranda.me/publications/topkube/))
 
