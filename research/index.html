@@ -33,6 +33,7 @@
                 var url_string = window.location.href;
                 var url = new URL(url_string);
                 loadMarkdown("research.md", url.hash);
+                d3.select('head').select('title').text("fmiranda.me | Fabio Miranda | Research");
             };
         </script>
     </head>
