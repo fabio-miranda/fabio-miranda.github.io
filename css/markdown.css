@@ -1,7 +1,6 @@
-.body {
+#content {
     text-align: justify;
 }
-
 
 .table td, .table th {
     border-top: 0px;
