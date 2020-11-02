@@ -17,7 +17,7 @@ function loadMarkdown(fileName, jumphash) {
 }
 
 
-function loadHeader(fileName) {
+function loadHeader(fileName, title) {
 
 	$.getJSON( fileName, function( data ) {
 
@@ -45,7 +45,14 @@ function loadHeader(fileName) {
 			.attr("href", function(d){return d.value})
 			.text(function(d){return d.key});
 
-		d3.select("title").text(data["title"]);
+		if(title == null || title == "") {
+			d3.select("title").text(data["title"]);
+		}
+		else {
+			d3.select('head').select('title').text("fmiranda.me | Fabio Miranda | Research");
+		}
+
+		
 
 		// header.append("hr").attr("class", "hr-large");
 	})
