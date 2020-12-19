@@ -418,20 +418,6 @@ function loadCourses(fileName) {
 		        .attr("class", "title font-weight-bold")
 				.text(content);
 
-
-			// highlights
-		 //        .append("div")
-		 //        .attr("class", "col-sm-12")
-		 //        .attr("id", content.toLowerCase())
-		 //        // .append("h4")
-		 //        .append("div")
-		 //        .attr("class", "title font-weight-bold")
-			// 	.text(content)
-			// 	.append("a").attr("name", "areas")
-
-
-
-
 			highlights = highlights.append("ul").attr("class","cell no-gutters");
 
 			var items = highlights
