@@ -411,7 +411,7 @@ function loadCourses(fileName) {
 				.style("padding-left", "5px")
 				.style("padding-top", "3px")
 				.append("a")
-				.attr("href","/research")
+				.attr("href","/courses")
 				.text("See all courses");
 
 		    div.append("div")
