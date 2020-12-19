@@ -12,10 +12,36 @@
     border-bottom: 0px;
 }
 
-.table {
+table {
     width:100%;
     align-content: center;
-    display: grid;
+    border-collapse: collapse;
+    /*display: grid;*/
+}
+
+table th {
+    font-weight: bold;
+    border: 1px solid #dfe2e5;
+    padding: 6px 13px;
+    background-color: #f8f8f8;
+}
+
+table td {
+    border: 1px solid #dfe2e5;
+    padding: 6px 13px;
+}
+
+table tr:nth-child(even) {
+    background-color: #f8f8f8;
+}
+
+p {
+    margin-bottom: 0px;
+}
+
+h4, h5 {
+    margin-top: 1rem;
+    margin-bottom: .5rem
 }
 
 .table hr {

@@ -1,7 +1,7 @@
 function loadMarkdown(fileName, jumphash) {
 
 	$.get( fileName, function( data ) {
-		d3.select("#content").node().innerHTML = marked(data);
+		d3.select("#content").node().innerHTML = "<br /><br />" + marked(data);
 
 	})
 	.success(function(jqxhr, textStatus){
@@ -321,15 +321,36 @@ function loadResearchAreas(fileName) {
 		var highlights = d3.select("#areas").append("div").attr("class", "areas row no-gutters");
 
 		for(var content in data) {
-			highlights
+
+			var div = highlights
 		        .append("div")
 		        .attr("class", "col-sm-12")
 		        .attr("id", content.toLowerCase())
 		        // .append("h4")
-		        .append("div")
+
+		    div.append("div")
+				.attr("class", "researchitem font-weight-bold align-item-center")
+				.style("float", "right")
+				.style("padding-left", "5px")
+				.style("padding-top", "3px")
+				.append("a")
+				.attr("href","/research")
+				.text("See more details");
+
+		    div.append("div")
 		        .attr("class", "title font-weight-bold")
-				.text(content)
-				.append("a").attr("name", "areas")
+				.text(content);
+
+
+			// highlights
+		 //        .append("div")
+		 //        .attr("class", "col-sm-12")
+		 //        .attr("id", content.toLowerCase())
+		 //        // .append("h4")
+		 //        .append("div")
+		 //        .attr("class", "title font-weight-bold")
+			// 	.text(content)
+			// 	.append("a").attr("name", "areas")
 
 			highlights = highlights.append("div").attr("class","cell row py-0");
 
@@ -372,6 +393,62 @@ function loadResearchAreas(fileName) {
 	});
 }
 
+function loadCourses(fileName) {
+	$.getJSON( fileName, function( data ) {
+		var highlights = d3.select("#courses").append("div").attr("class", "areas row no-gutters");
+
+		for(var content in data) {
+
+			var div = highlights
+		        .append("div")
+		        .attr("class", "col-sm-12")
+		        .attr("id", content.toLowerCase())
+		        // .append("h4")
+
+		    div.append("div")
+				.attr("class", "researchitem font-weight-bold align-item-center")
+				.style("float", "right")
+				.style("padding-left", "5px")
+				.style("padding-top", "3px")
+				.append("a")
+				.attr("href","/research")
+				.text("See all courses");
+
+		    div.append("div")
+		        .attr("class", "title font-weight-bold")
+				.text(content);
+
+
+			// highlights
+		 //        .append("div")
+		 //        .attr("class", "col-sm-12")
+		 //        .attr("id", content.toLowerCase())
+		 //        // .append("h4")
+		 //        .append("div")
+		 //        .attr("class", "title font-weight-bold")
+			// 	.text(content)
+			// 	.append("a").attr("name", "areas")
+
+
+
+
+			highlights = highlights.append("ul").attr("class","cell no-gutters");
+
+			var items = highlights
+				.selectAll("ul")
+				.attr("class", "col-sm-12")
+				.data(d3.entries(data[content]));
+
+			items
+				.enter()
+				.append("li")
+				.attr("class", "researchprojectitem")
+				.html(function(d){return  d.value["title"] + ' [<a href='+d.value["more"]+'>more</a>]';});
+
+
+		}
+	});
+}
 
 function loadMedia(fileName) {
 	$.getJSON( fileName, function( data ) {

@@ -1,6 +1,3 @@
-<br />
-<br />
-
 ### Research Areas
 
 The analysis of large and complex data is usually an exploratory process in which domain expertise plays a significant role. It is, therefore, essential to integrate the user into the analysis loop, enabling them to formulate hypotheses and gain new insights into domain-specific problems. Interactive visualization is central in the support of this process. My research focuses on proposing new methods and systems that allow for the interactive visual analysis of large data sets, combining **visualization**, **hci**, **computer graphics**, **data management**, and **machine learning** in order to tackle fundamental challenges in data science, enable effective analysis of large data and untangle real-world problems. I am particularly interested in making contributions that can help address different problems cities face by integrating data on different resolutions and from different sources. 
