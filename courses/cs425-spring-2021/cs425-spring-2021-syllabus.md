@@ -150,8 +150,6 @@ There will be an initial WebGL assignment to make sure you are familiar with the
 
 Any other file (assets, 3D models, images) must be inside a folder called **assets**. Make sure that you can successfully run your code by just opening the index.html file.
 
-
-
 #### Late Days
 Late submissions will be penalized at a deduction rate of 20% per day (after 5 days you will have a maximum grade of zero). You can use five late-day points during the semester to make up for that; each late-day point extends an assignment deadline by one day.
 
