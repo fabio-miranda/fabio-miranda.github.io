@@ -54,7 +54,7 @@ This course is based on two computer graphics courses:
 - Computer Graphics by Professor [Daniele Panozzo](https://cs.nyu.edu/~panozzo/) at New York University
 - Interactive Computer Graphics by Professor [Claudio Silva](https://vgc.poly.edu/~csilva/) and Jonathas Costa at New York University
 
-CS 425 contains new lectures on WebGL, shadows, and spatial queries.
+CS 425 contains new assignments, and new lectures on WebGL, shadows, and spatial queries.
 
 ***
 

@@ -49,7 +49,7 @@ function loadHeader(fileName, title) {
 			d3.select("title").text(data["title"]);
 		}
 		else {
-			d3.select('head').select('title').text("fmiranda.me | Fabio Miranda | Research");
+			d3.select('head').select('title').text(title);
 		}
 
 		
