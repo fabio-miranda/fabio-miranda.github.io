@@ -1,4 +1,4 @@
-### CS 425 - Computer Graphics I (Spring 2021)
+### CS425 - Computer Graphics I (Spring 2021)
 
 #### Table of Contents
 1. [General Information](#general-information)
@@ -54,12 +54,14 @@ This course is based on two computer graphics courses:
 - Computer Graphics by Professor [Daniele Panozzo](https://cs.nyu.edu/~panozzo/) at New York University
 - Interactive Computer Graphics by Professor [Claudio Silva](https://vgc.poly.edu/~csilva/) and Jonathas Costa at New York University
 
-CS 425 contains new assignments, and new lectures on WebGL, shadows, and spatial queries.
+Some slides adapted from Angel and Shreiner: Interactive Computer Graphics 7th Ed.
+
+CS425 contains new assignments, and new lectures on WebGL, shadows, and spatial queries.
 
 ***
 
 ### Course Pre-Requisites
-CS 251 Data Structures.
+CS251 Data Structures.
 
 Previous experience with JavaScript is helpful (but not required).
 
@@ -142,7 +144,7 @@ This is a tentative course schedule and will be adjusted along the way. In the r
 There will be one take-home exam, composed of up to five questions. You will have 24 hours to submit your answers. You can use any textbooks or notes of your choice, but **you cannot discuss solutions with your colleagues**. You are expected to demonstrate ability to use critical thinking in explaining (and applying) the material covered in class and assignments. Make sure you are as detailed and through as possible.
 
 #### Assignment Considerations
-There will be an initial WebGL assignment to make sure you are familiar with the main components of web development. After that, there will be four main assignments covering different aspects of computer graphics. You must use Javascript or Typescript with WebGL to complete your assignments. **Do not use any high-level library, such as Three.js, unless clearly specified in the assignment**. Assignments must be turned in using Blackboard as a .zip containing the following files:
+There will be an initial WebGL assignment to make sure you are familiar with the main components of web development. After that, there will be four main assignments covering different aspects of computer graphics. You must use Javascript or Typescript with WebGL to complete your assignments. **Do not use any high-level library, such as Three.js, unless clearly specified in the assignment**. In order to submit your assignments, create a GitHub project with the name **uic-cs425-spring-2021**. Inside this project create a folder named **assignment-[x]** for each assignment, containing the following files:
 
 - **index.html**: main html file.
 - **assignment[x].js**: assignment main source code, where [x] is the assignment number.
