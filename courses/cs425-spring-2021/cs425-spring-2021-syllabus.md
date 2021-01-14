@@ -83,6 +83,7 @@ Useful websites:
 - https://open.gl
 - https://webgl2fundamentals.org/
 - https://songho.ca/opengl/
+- https://learnopengl.com/
 
 ***
 
@@ -91,7 +92,7 @@ This is a tentative course schedule and will be adjusted along the way. In the r
 
 | Week |        | Topic                                     | Resources                                          | Slides |
 | ---- | ------ | ----------------------------------------- | -------------------------------------------------- | ------ |
-| 1    | Jan 12 | Intro, raster images, color               | ICG7:  1<br />ICG6:  1<br />FCG4: 1, 2, 3          | [01-intro.pdf](https://fmiranda.me/courses/cs425-slides/01-intro.pdf)       |
+| 1    | Jan 12 | Intro, raster images, color               | ICG7:  1<br />ICG6:  1<br />FCG4: 1, 2, 3          | [01-intro.pdf](https://fmiranda.me/courses/cs425-slides/01-intro.pdf) [02-color.pdf](https://fmiranda.me/courses/cs425-slides/02-color.pdf)      |
 | 2    | Jan 19 | Javascript, web development, and WebGL    | ICG7:  2, 3<br />ICG6:  N/A<br />FCG4: N/A         |        |
 | 3    | Jan 26 | Javascript, web development, and WebGL    | ICG7:  2, 3<br />ICG6:  N/A<br />FCG4: N/A         |        |
 | 4    | Feb 2  | Linear algebra and  transformations       | ICG7:  4<br />ICG6:  3<br />FCG4: 5,6              |        |
