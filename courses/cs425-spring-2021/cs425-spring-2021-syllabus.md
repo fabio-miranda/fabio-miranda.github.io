@@ -5,7 +5,6 @@
     1. [Class Meeting Information](#class-meeting-information)
     2. [Course Instructor](#course-instructor)
 3. [Course Description](#course-description)
-    1. [Acknowledgements](#acknowledgements)
 4. [Course Pre-Requisites](#course-pre-requisites)
 5. [Course Objectives](#course-objectives)
 6. [Textbooks](#textbooks)
@@ -16,10 +15,11 @@
     3. [Exam Considerations](#exam-considerations)
     4. [Assignment Considerations](#assignment-considerations)
     5. [Late Days](#late-days)
-9. [Academic Integrity](#academic-integrity)
-9. [Inclusive Learning Environment](#inclusive-learning-environment)
-10. [Disability Accommodation Procedures](#disability-accomodation-procedures)
-11. [Disclaimer](#disclaimer)
+9. [Acknowledgements](#acknowledgements)
+10. [Academic Integrity](#academic-integrity)
+11. [Inclusive Learning Environment](#inclusive-learning-environment)
+12. [Disability Accommodation Procedures](#disability-accomodation-procedures)
+13. [Disclaimer](#disclaimer)
 
 ***
 
@@ -48,15 +48,6 @@ This course provides an introduction to the field of Computer Graphics, covering
 Course website: https://fmiranda.me/courses/cs425-spring-2021/
 
 Course syllabus: https://fmiranda.me/courses/cs425-spring-2021/cs425-spring-2021-syllabus.pdf
-
-#### Acknowledgements
-This course is based on two computer graphics courses: 
-- Computer Graphics by Professor [Daniele Panozzo](https://cs.nyu.edu/~panozzo/) at New York University
-- Interactive Computer Graphics by Professor [Claudio Silva](https://vgc.poly.edu/~csilva/) and Jonathas Costa at New York University
-
-Some slides adapted from Angel and Shreiner: Interactive Computer Graphics 7th Ed.
-
-CS425 contains new assignments, and new lectures on WebGL, shadows, and spatial queries.
 
 ***
 
@@ -88,6 +79,11 @@ Other books:
 - OpenGL Programming Guide 9th Ed., Addison Wesley
 - WebGL Programming Guide 1st Ed., Addison Wesley
 
+Useful websites:
+- https://open.gl
+- https://webgl2fundamentals.org/
+- https://songho.ca/opengl/
+
 ***
 
 ### Course Schedule
@@ -96,8 +92,8 @@ This is a tentative course schedule and will be adjusted along the way. In the r
 | Week |        | Topic                                     | Resources                                          | Slides |
 | ---- | ------ | ----------------------------------------- | -------------------------------------------------- | ------ |
 | 1    | Jan 12 | Intro, raster images, color               | ICG7:  1<br />ICG6:  1<br />FCG4: 1, 2, 3          | [01-intro.pdf](https://fmiranda.me/courses/cs425-slides/01-intro.pdf)       |
-| 2    | Jan 19 | WebGL                                     | ICG7:  2, 3<br />ICG6:  N/A<br />FCG4: N/A         |        |
-| 3    | Jan 26 | WebGL                                     | ICG7:  2, 3<br />ICG6:  N/A<br />FCG4: N/A         |        |
+| 2    | Jan 19 | Javascript, web development, and WebGL    | ICG7:  2, 3<br />ICG6:  N/A<br />FCG4: N/A         |        |
+| 3    | Jan 26 | Javascript, web development, and WebGL    | ICG7:  2, 3<br />ICG6:  N/A<br />FCG4: N/A         |        |
 | 4    | Feb 2  | Linear algebra and  transformations       | ICG7:  4<br />ICG6:  3<br />FCG4: 5,6              |        |
 | 5    | Feb 9  | Viewer transformations and rasterization  | ICG7:  5<br />ICG6:  4<br />FCG4: 7                |        |
 | 6    | Feb 16 | Graphics Pipeline 1                       | ICG7:  2, 8<br />ICG6:  2, 6<br />FCG4: 8, 17      |        |
@@ -154,6 +150,14 @@ Any other file (assets, 3D models, images) must be inside a folder called **asse
 
 #### Late Days
 Late submissions will be penalized at a deduction rate of 20% per day (after 5 days you will have a maximum grade of zero). You can use five late-day points during the semester to make up for that; each late-day point extends an assignment deadline by one day.
+
+***
+
+#### Acknowledgements
+Some of the figures used in the slides were adapted from:
+- Computer Graphics by Professor [Daniele Panozzo](https://cs.nyu.edu/~panozzo/) at New York University
+- Interactive Computer Graphics by Professor [Claudio Silva](https://vgc.poly.edu/~csilva/) and Jonathas Costa at New York University
+- Interactive Computer Graphics 7th Ed. by Professor Ed Angel and Dave Shreiner
 
 ***
 
