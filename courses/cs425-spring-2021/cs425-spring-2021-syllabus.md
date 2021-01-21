@@ -32,13 +32,18 @@ Discord will be the main platform for instructor / student communication, please
 
 #### Course Instructor
 Fabio Miranda
+
 fabiom [at] uic.edu
+
 https://fmiranda.me/
+
 Office hours: Friday 11am - 1pm, or by appointment (Zoom info on Discord).
 
 #### Teaching Assistant
 Krishna Bharadwaj
+
 kbhara5 [at] uic.edu
+
 Office hours: Monday 11am - 1pm (Zoom info on Discord).
 
 ***
