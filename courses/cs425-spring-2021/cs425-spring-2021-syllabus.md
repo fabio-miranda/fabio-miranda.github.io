@@ -24,30 +24,29 @@
 ***
 
 ### General Information
-Tentative course syllabus, some details might change before the start of the next term.
 
 #### Class Meeting Information
-Our course will take place synchronously (live) using Zoom. We will meet at the same time as indicated in the schedule of classes. Students are encouraged (but not required) to participate in these sessions; recordings will be made available a few hours after each session.
+Our course will take place synchronously (live) using Zoom. We will meet at the same time as indicated in the schedule of classes. Students are encouraged (but not required) to participate in these sessions; video recordings will be made available a few hours after each session. Office hours will also use Zoom.
 
-Office hours will use Zoom. Discord will be the main platform for instructor / student communications. 
+Discord will be the main platform for instructor / student communication, please check Blackboard for the Discord invitation link. Zoom meeting information, as well as video recordings, will be posted on Discord.
 
 #### Course Instructor
 Fabio Miranda
-
 fabiom [at] uic.edu
-
 https://fmiranda.me/
+Office hours: Friday 11am - 1pm, or by appointment (Zoom info on Discord).
 
-Office hours: TBD
+#### Teaching Assistant
+Krishna Bharadwaj
+kbhara5 [at] uic.edu
+Office hours: Monday 11am - 1pm (Zoom info on Discord).
 
 ***
 
 ### Course Description
-This course provides an introduction to the field of Computer Graphics, covering the fundamentals of computer graphics algorithms, real-time rendering, and OpenGL. Topics include: linear algebra, geometric transformations transformations, GPU graphics pipeline, ray tracing, shading, texture, antialiasing, spatial data structures. The course will also include a brief introduction to WebGL.
+This course provides an introduction to the field of Computer Graphics, covering the fundamentals of computer graphics algorithms, real-time rendering, and OpenGL. Topics include: linear algebra, geometric transformations transformations, GPU graphics pipeline, ray tracing, shading, texture, antialiasing, spatial data structures. The course will also include a brief introduction to JavaScript and WebGL.
 
 Course website: https://fmiranda.me/courses/cs425-spring-2021/
-
-Course syllabus: https://fmiranda.me/courses/cs425-spring-2021/cs425-spring-2021-syllabus.pdf
 
 ***
 
@@ -93,7 +92,7 @@ This is a tentative course schedule and will be adjusted along the way. In the r
 | Week |        | Topic                                     | Resources                                          | Slides |
 | ---- | ------ | ----------------------------------------- | -------------------------------------------------- | ------ |
 | 1    | Jan 12 | Intro, raster images, color               | ICG7:  1<br />ICG6:  1<br />FCG4: 1, 2, 3          | [01-intro.pdf](https://fmiranda.me/courses/cs425-slides/01-intro.pdf) [02-color.pdf](https://fmiranda.me/courses/cs425-slides/02-color.pdf)      |
-| 2    | Jan 19 | Javascript, web development, and WebGL    | ICG7:  2, 3<br />ICG6:  N/A<br />FCG4: N/A         |        |
+| 2    | Jan 19 | Javascript, web development, and WebGL    | ICG7:  2, 3<br />ICG6:  N/A<br />FCG4: N/A         | [03-web.pdf](https://fmiranda.me/courses/cs425-slides/03-web.pdf)       |
 | 3    | Jan 26 | Javascript, web development, and WebGL    | ICG7:  2, 3<br />ICG6:  N/A<br />FCG4: N/A         |        |
 | 4    | Feb 2  | Linear algebra and  transformations       | ICG7:  4<br />ICG6:  3<br />FCG4: 5,6              |        |
 | 5    | Feb 9  | Viewer transformations and rasterization  | ICG7:  5<br />ICG6:  4<br />FCG4: 7                |        |
