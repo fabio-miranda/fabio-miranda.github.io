@@ -26,7 +26,7 @@
 ### General Information
 
 #### Class Meeting Information
-Our course will take place synchronously (live) using Zoom. We will meet at the same time as indicated in the schedule of classes. Students are encouraged (but not required) to participate in these sessions; video recordings will be made available a few hours after each session. Office hours will also use Zoom.
+Our course will take place synchronously (live) using Zoom. We will meet at the same time as indicated in the schedule of classes. Students are encouraged (but not required) to participate in these sessions; video recordings will be made available a few hours after each session. Office hours will be held via Zoom.
 
 Discord will be the main platform for instructor / student communication, please check Blackboard for the Discord invitation link. Zoom meeting information, as well as video recordings, will be posted on Discord.
 
