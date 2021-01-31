@@ -96,7 +96,7 @@ This is a tentative course schedule and will be adjusted along the way. In the r
 
 | Week |        | Topic                                     | Resources                                          | Slides |
 | ---- | ------ | ----------------------------------------- | -------------------------------------------------- | ------ |
-| 1    | Jan 12 | Intro, raster images, color               | ICG7:  1<br />ICG6:  1<br />FCG4: 1, 2, 3          | [01-intro.pdf](https://fmiranda.me/courses/cs425-slides/01-intro.pdf) [02-color.pdf](https://fmiranda.me/courses/cs425-slides/02-color.pdf)      |
+| 1    | Jan 12 | Intro, raster images, color               | ICG7:  1<br />ICG6:  1<br />FCG4: 1, 2, 3          | [01-intro.pdf](https://fmiranda.me/courses/cs425-slides/01-intro.pdf), [02-color.pdf](https://fmiranda.me/courses/cs425-slides/02-color.pdf)      |
 | 2    | Jan 19 | Javascript, web development, and WebGL    | ICG7:  2, 3<br />ICG6:  N/A<br />FCG4: N/A         | [03-web.pdf](https://fmiranda.me/courses/cs425-slides/03-web.pdf)       |
 | 3    | Jan 26 | Rendering pipeline, and WebGL             | ICG7:  2, 3<br />ICG6:  N/A<br />FCG4: N/A         | [04-webgl.pdf](https://fmiranda.me/courses/cs425-slides/04-webgl.pdf)       |
 | 4    | Feb 2  | Linear algebra and  transformations       | ICG7:  4<br />ICG6:  3<br />FCG4: 5,6              |        |
@@ -145,13 +145,7 @@ This is a tentative course schedule and will be adjusted along the way. In the r
 There will be one take-home exam, composed of up to five questions. You will have 24 hours to submit your answers. You can use any textbooks or notes of your choice, but **you cannot discuss solutions with your colleagues**. You are expected to demonstrate ability to use critical thinking in explaining (and applying) the material covered in class and assignments. Make sure you are as detailed and through as possible.
 
 #### Assignment Considerations
-There will be an initial WebGL assignment to make sure you are familiar with the main components of web development. After that, there will be four main assignments covering different aspects of computer graphics. You must use Javascript or Typescript with WebGL to complete your assignments. **Do not use any high-level library, such as Three.js, unless clearly specified in the assignment**. In order to submit your assignments, create a GitHub project with the name **uic-cs425-spring-2021**. Inside this project create a folder named **assignment-[x]** for each assignment, containing the following files:
-
-- **index.html**: main html file.
-- **assignment[x].js**: assignment main source code, where [x] is the assignment number.
-- **readme.md**: markdown readme file with a description of the program. The goal of this file is to 1) explain how to run the program, and 2) detail the main methods and functionalities that were implemented. You are encouraged to use images and diagrams, make sure to reference them in the text itself.
-
-Any other file (assets, 3D models, images) must be inside a folder called **assets**. Make sure that you can successfully run your code by just opening the index.html file.
+There will be an initial WebGL assignment to make sure you are familiar with the main components of web development. After that, there will be four main assignments covering different aspects of computer graphics. You must use Javascript or Typescript with WebGL to complete your assignments. **Do not use any high-level library, such as Three.js, unless clearly specified in the assignment**. We will use [GitHub Classroom](https://github.com/uic-cs425) for the assignments.
 
 #### Late Days
 Late submissions will be penalized at a deduction rate of 20% per day (after 5 days you will have a maximum grade of zero). You can use five late-day points during the semester to make up for that; each late-day point extends an assignment deadline by one day.
