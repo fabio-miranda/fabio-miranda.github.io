@@ -99,7 +99,7 @@ This is a tentative course schedule and will be adjusted along the way. In the r
 | 1    | Jan 12 | Intro, raster images, color               | ICG7:  1<br />ICG6:  1<br />FCG4: 1, 2, 3          | [01-intro.pdf](https://fmiranda.me/courses/cs425-slides/01-intro.pdf), [02-color.pdf](https://fmiranda.me/courses/cs425-slides/02-color.pdf)      |
 | 2    | Jan 19 | Javascript, web development, and WebGL    | ICG7:  2, 3<br />ICG6:  N/A<br />FCG4: N/A         | [03-web.pdf](https://fmiranda.me/courses/cs425-slides/03-web.pdf)       |
 | 3    | Jan 26 | Rendering pipeline, and WebGL             | ICG7:  2, 3<br />ICG6:  N/A<br />FCG4: N/A         | [04-webgl.pdf](https://fmiranda.me/courses/cs425-slides/04-webgl.pdf)       |
-| 4    | Feb 2  | Linear algebra and  transformations       | ICG7:  4<br />ICG6:  3<br />FCG4: 5,6              |        |
+| 4    | Feb 2  | Linear algebra and  transformations       | ICG7:  4<br />ICG6:  3<br />FCG4: 5,6              | [05-linear-algebra.pdf](https://fmiranda.me/courses/cs425-slides/05-linear-algebra.pdf)       |
 | 5    | Feb 9  | Viewer transformations and rasterization  | ICG7:  5<br />ICG6:  4<br />FCG4: 7                |        |
 | 6    | Feb 16 | Rendering pipeline 1                       | ICG7:  2, 8<br />ICG6:  2, 6<br />FCG4: 8, 17      |        |
 | 7    | Feb 23 | Rendering pipeline 2                       | ICG7:  2, 8<br />ICG6:  2, 6<br />FCG4: 8, 17      |        |
@@ -123,9 +123,10 @@ This is a tentative course schedule and will be adjusted along the way. In the r
 - Take-home exam: 20%
 
 #### Evaluation Schedule
-- Initial assignment:
+- Assignment 0:
   - Topics: Introduction to web environment and WebGL.
-  - Week 3 (Jan 29), due week 5 (Feb 12).
+  - Week 3 (Jan 31), due week 5 (Feb 14).
+  - Link: https://github.com/uic-cs425/assignment-0
 - Assignment 1:
   - Topic: Triangle meshes rendering.
   - Week 7 (Feb 26), due week 9 (Mar 12).
