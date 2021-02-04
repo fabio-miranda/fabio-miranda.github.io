@@ -15,7 +15,7 @@
     3. [Exam Considerations](#exam-considerations)
     4. [Assignment Considerations](#assignment-considerations)
     5. [Late Days](#late-days)
-9. [Acknowledgements](#acknowledgements)
+9. [Acknowledgments](#acknowledgements)
 10. [Academic Integrity](#academic-integrity)
 11. [Inclusive Learning Environment](#inclusive-learning-environment)
 12. [Disability Accommodation Procedures](#disability-accomodation-procedures)
@@ -99,19 +99,19 @@ This is a tentative course schedule and will be adjusted along the way. In the r
 | 1    | Jan 12 | Intro, raster images, color               | ICG7:  1<br />ICG6:  1<br />FCG4: 1, 2, 3          | [01-intro.pdf](https://fmiranda.me/courses/cs425-slides/01-intro.pdf), [02-color.pdf](https://fmiranda.me/courses/cs425-slides/02-color.pdf)      |
 | 2    | Jan 19 | Javascript, web development, and WebGL    | ICG7:  2, 3<br />ICG6:  N/A<br />FCG4: N/A         | [03-web.pdf](https://fmiranda.me/courses/cs425-slides/03-web.pdf)       |
 | 3    | Jan 26 | Rendering pipeline, and WebGL             | ICG7:  2, 3<br />ICG6:  N/A<br />FCG4: N/A         | [04-webgl.pdf](https://fmiranda.me/courses/cs425-slides/04-webgl.pdf)       |
-| 4    | Feb 2  | Linear algebra and  transformations       | ICG7:  4<br />ICG6:  3<br />FCG4: 5,6              | [05-linear-algebra.pdf](https://fmiranda.me/courses/cs425-slides/05-linear-algebra.pdf)       |
-| 5    | Feb 9  | Viewer transformations and rasterization  | ICG7:  5<br />ICG6:  4<br />FCG4: 7                |        |
-| 6    | Feb 16 | Rendering pipeline 1                       | ICG7:  2, 8<br />ICG6:  2, 6<br />FCG4: 8, 17      |        |
-| 7    | Feb 23 | Rendering pipeline 2                       | ICG7:  2, 8<br />ICG6:  2, 6<br />FCG4: 8, 17      |        |
-| 8    | Mar 2  | Light and shading                         | ICG7:  6<br />ICG6:  5<br />FCG4: 10, 18           |        |
-| 9    | Mar 9  | Texture mapping                           | ICG7:  7<br />ICG6:  7<br />FCG4: 11               |        |
+| 4    | Feb 2  | Linear algebra and  transformations       | ICG7:  4<br />ICG6:  3<br />FCG4: 5,6              | [05-linear-algebra.pdf](https://fmiranda.me/courses/cs425-slides/05-linear-algebra.pdf), [06-transformations.pdf](https://fmiranda.me/courses/cs425-slides/06-transformations.pdf)       |
+| 5    | Feb 9  | Viewer transformations                    | ICG7:  5<br />ICG6:  4<br />FCG4: 7                |        |
+| 6    | Feb 16 | Rendering pipeline                        | ICG7:  2, 8<br />ICG6:  2, 6<br />FCG4: 8, 17      |        |
+| 7    | Feb 23 | Light and shading                         | ICG7:  6<br />ICG6:  5<br />FCG4: 10, 18           |        |
+| 8    | Mar 2  | Texture mapping                           | ICG7:  7<br />ICG6:  7<br />FCG4: 11               |        |
+| 9    | Mar 9  | Antialiasing                              | ICG7:  8.12<br />ICG6:  6.12<br />FCG4: 8.3        |        |
 | 10   | Mar 16 | Shadows                                   | ICG7:  5.10, 5.1<br />ICG6:  4.1<br />FCG4: 11.4.4 |        |
 | 11   | Mar 23 | Spring vacation                           |                                                    |        |
 | 12   | Mar 30 | Ray tracing 1                             | ICG7:  12<br />ICG6:  11<br />FCG4: 4              |        |
 | 13   | Apr 6  | Ray tracing 2                             | ICG7:  12<br />ICG6:  11<br />FCG4: 4              |        |
-| 14   | Apr 13 | Antialiasing                              | ICG7:  8.12<br />ICG6:  6.12<br />FCG4: 8.3        |        |
-| 15   | Apr 20 | Curves and surfaces                       | ICG7:  11<br />ICG6:  10<br />FCG4: 12.1, 15       |        |
-| 16   | Apr 27 | Spatial data structures                   | ICG7:  9<br />ICG6:  8<br />FCG4: 12               |        |
+| 14   | Apr 13 | Curves and surfaces                       | ICG7:  11<br />ICG6:  10<br />FCG4: 12.1, 15       |        |
+| 15   | Apr 20 | Spatial data structures                   | ICG7:  9<br />ICG6:  8<br />FCG4: 12               |        |
+| 16   | Apr 27 | Advanced topics                           |                                                    |        |
 | 17   | May 4  | Final exam week                           |                                                    |        |
 
 ***
@@ -153,7 +153,7 @@ Late submissions will be penalized at a deduction rate of 20% per day (after 5 d
 
 ***
 
-#### Acknowledgements
+#### Acknowledgments
 Some of the figures used in the slides were adapted from:
 - Computer Graphics by Professor [Daniele Panozzo](https://cs.nyu.edu/~panozzo/) at New York University
 - Interactive Computer Graphics by Professor [Claudio Silva](https://vgc.poly.edu/~csilva/) and Jonathas Costa at New York University
