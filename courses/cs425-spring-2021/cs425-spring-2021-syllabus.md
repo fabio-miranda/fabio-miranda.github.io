@@ -100,7 +100,7 @@ This is a tentative course schedule and will be adjusted along the way. In the r
 | 2    | Jan 19 | Javascript, web development, and WebGL    | ICG7:  2, 3<br />ICG6:  N/A<br />FCG4: N/A         | [03-web.pdf](https://fmiranda.me/courses/cs425-slides/03-web.pdf)       |
 | 3    | Jan 26 | Rendering pipeline, and WebGL             | ICG7:  2, 3<br />ICG6:  N/A<br />FCG4: N/A         | [04-webgl.pdf](https://fmiranda.me/courses/cs425-slides/04-webgl.pdf)       |
 | 4    | Feb 2  | Linear algebra and  transformations       | ICG7:  4<br />ICG6:  3<br />FCG4: 5,6              | [05-linear-algebra.pdf](https://fmiranda.me/courses/cs425-slides/05-linear-algebra.pdf), [06-transformations.pdf](https://fmiranda.me/courses/cs425-slides/06-transformations.pdf)       |
-| 5    | Feb 9  | Viewer transformations                    | ICG7:  5<br />ICG6:  4<br />FCG4: 7                |        |
+| 5    | Feb 9  | Viewing transformations                   | ICG7:  5<br />ICG6:  4<br />FCG4: 7                | [07-viewing.pdf](https://fmiranda.me/courses/cs425-slides/07-viewing.pdf)       |
 | 6    | Feb 16 | Rendering pipeline                        | ICG7:  2, 8<br />ICG6:  2, 6<br />FCG4: 8, 17      |        |
 | 7    | Feb 23 | Light and shading                         | ICG7:  6<br />ICG6:  5<br />FCG4: 10, 18           |        |
 | 8    | Mar 2  | Texture mapping                           | ICG7:  7<br />ICG6:  7<br />FCG4: 11               |        |
@@ -129,7 +129,7 @@ This is a tentative course schedule and will be adjusted along the way. In the r
   - Link: https://github.com/uic-cs425/assignment-0
 - Assignment 1:
   - Topic: Triangle meshes rendering.
-  - Week 7 (Feb 26), due week 9 (Mar 12).
+  - Week 6 (Feb 20), due week 9 (Mar 12).
 - Assignment 2:
   - Topics: Shading + texture + shadow.
   - Week 10 (Mar 19), due week 12 (Apr 2)
