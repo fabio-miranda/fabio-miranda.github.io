@@ -102,7 +102,7 @@ This is a tentative course schedule and will be adjusted along the way. In the r
 | 4    | Feb 2  | Linear algebra and  transformations       | ICG7:  4<br />ICG6:  3<br />FCG4: 5,6              | [05-linear-algebra.pdf](https://fmiranda.me/courses/cs425-slides/05-linear-algebra.pdf), [06-transformations.pdf](https://fmiranda.me/courses/cs425-slides/06-transformations.pdf)       |
 | 5    | Feb 9  | Viewing transformations                   | ICG7:  5<br />ICG6:  4<br />FCG4: 7                | [07-viewing.pdf](https://fmiranda.me/courses/cs425-slides/07-viewing.pdf)       |
 | 6    | Feb 16 | Rendering pipeline                        | ICG7:  2, 8<br />ICG6:  2, 6<br />FCG4: 8, 17      | [08-rendering-pipeline.pdf](https://fmiranda.me/courses/cs425-slides/08-rendering-pipeline.pdf), [09-rasterization.pdf](https://fmiranda.me/courses/cs425-slides/09-rasterization.pdf)       |
-| 7    | Feb 23 | Light and shading                         | ICG7:  6<br />ICG6:  5<br />FCG4: 10, 18           | [10-lighting.pdf](https://fmiranda.me/courses/cs425-slides/10-lighting.pdf)       |
+| 7    | Feb 23 | Light and shading                         | ICG7:  6<br />ICG6:  5<br />FCG4: 10, 18           | [10-lighting.pdf](https://fmiranda.me/courses/cs425-slides/10-lighting.pdf), [11-shading.pdf](https://fmiranda.me/courses/cs425-slides/11-shading.pdf)       |
 | 8    | Mar 2  | Texture mapping                           | ICG7:  7<br />ICG6:  7<br />FCG4: 11               |        |
 | 9    | Mar 9  | Antialiasing                              | ICG7:  8.12<br />ICG6:  6.12<br />FCG4: 8.3        |        |
 | 10   | Mar 16 | Shadows                                   | ICG7:  5.10, 5.1<br />ICG6:  4.1<br />FCG4: 11.4.4 |        |
