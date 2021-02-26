@@ -129,7 +129,8 @@ This is a tentative course schedule and will be adjusted along the way. In the r
   - Link: https://github.com/uic-cs425/assignment-0
 - Assignment 1:
   - Topic: Triangle meshes rendering.
-  - Week 6 (Feb 20), due week 9 (Mar 12).
+  - Week 7 (Feb 26), due week 10 (Mar 14).
+  - Link: https://github.com/uic-cs425/assignment-1
 - Assignment 2:
   - Topics: Shading + texture + shadow.
   - Week 10 (Mar 19), due week 12 (Apr 2)
