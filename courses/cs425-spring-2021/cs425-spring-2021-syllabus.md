@@ -136,10 +136,10 @@ This is a tentative course schedule and will be adjusted along the way. In the r
   - Week 10 (Mar 19), due week 12 (Apr 2)
 - Assignment 3:
   - Topics: Introduction to ray tracing.
-  - Week 13 (Apr 9), due week 15 (Apr 23)
+  - Week 12 (Apr 2), due week 14 (Apr 16)
 - Assignment 4:
   - Topic: Procedural meshes.
-  - Week 15 (Apr 23), due week 17 (Apr May 7)
+  - Week 14 (Apr 16), due week 16 (Apr 30)
 
 - Take-home exam: May 4
 
