@@ -5,7 +5,7 @@ Instructor: Fabio Miranda (fabiom@uic.edu)
 #### 1. Course rationale
 In the past decade, technological innovations have enabled the automatic collection of a diverse set of very large data sets, from user-generated content, such as tweets, to sensor data, such as noise decibel level or aerial surveys. As pointed out by Hal Varian, Google's Chief Economist, today data is not only free but ubiquitous, and the ability to understand, process, extract value from, and visualize it, is going to be hugely important in the next decades. As data grows in size and complexity, however, siloed solutions become less capable of conveying all the structure and information hidden in the data. Visual analytics systems have been successful at enabling users to obtain insights from large data [1,2]; Well-designed large-scale data visual analytics systems merge domain expertise and analytics techniques, enabling users to gain actionable insights into problems by formulating and testing hypotheses, and to address domain-specific challenges.
 
-This course will introduce students to big data visualization and analytics, focusing on the connections between visualization, data management, and data mining [3]. We will cover potential sources of big data, including audio, image, graph, geometry, and mobile data, both structured or unstructured. The course will discuss effective metaphors to visualize data that might span billions of records; data mining and machine learning techniques that can summarize the data, or extract patterns to guide users in their visual exploration; and the data management techniques that can effectively drive interactivity in the visual exploration of big data.
+This course will introduce students to big data visualization and analytics, focusing on the connections between visualization, data management, and data mining [3]. We will cover potential sources of big data, including audio, image, graph, geometry, and mobile data, both structured or unstructured. The course will discuss effective metaphors to visualize data that might span billions of records; data mining and machine learning techniques that can summarize the data, or extract patterns to guide users in their visual exploration; and the data management techniques that can effectively drive interactivity in the visual exploration of big data. See [here](https://fmiranda.me/research/) for a broader perspective.
 
 #### 2. Course objectives
 
@@ -43,10 +43,6 @@ There is no required textbook. The vast majority of the coursework will be based
 
 For the first \~10 weeks, the course will be lecture based (75 minutes twice per week), followed by \~5 weeks of paper presentations and discussions.
 
-
-#### 8. Overlap with existing courses
-
-This course will present a unique approach to data management, and data mining, *from a visualization and visual analytics perspective*. As far as I know, no other course focuses on the techniques and methods necessary to build visual analytics tools capable of handling large data. **CS418: Introduction to Data Science** and **CS494: Big Data Mining** discuss visualization in 1-2 lectures, but do not cover the techniques that must be employed to guide the user in the visual exploration process and drive interactive visualization of large data. **CS594: Visual Data Science** focuses on the principles of visualization and visual analytics, without discussing the data management techniques needed to handle big data. **CS594: Algorithm Methods for Big Data** focuses on the foundation of algorithms for big data, with no visualization discussion. Finally, **CS594: High-performance Data Systems** presents a low-level view of high-performance data systems, without connecting them to visualization systems.
 
 #### References
 
