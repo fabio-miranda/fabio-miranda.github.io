@@ -15,6 +15,8 @@ At the end of the course, students will have a good understanding of the state o
 
 #### 3. Course topics
 
+This is a tentative set of topics.
+
 * Visualization
   * Uncertainty vis
   * Progressive vis
