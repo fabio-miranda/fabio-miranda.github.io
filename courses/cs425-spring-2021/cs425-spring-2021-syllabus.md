@@ -105,7 +105,7 @@ This is a tentative course schedule and will be adjusted along the way. In the r
 | 7    | Feb 23 | Light and shading                         | ICG7:  6<br />ICG6:  5<br />FCG4: 10, 18           | [10-lighting.pdf](https://fmiranda.me/courses/cs425-slides/10-lighting.pdf), [11-shading.pdf](https://fmiranda.me/courses/cs425-slides/11-shading.pdf)       |
 | 8    | Mar 2  | Texture mapping                           | ICG7:  7<br />ICG6:  7<br />FCG4: 11               | [12-textures.pdf](https://fmiranda.me/courses/cs425-slides/12-textures.pdf)       |
 | 9    | Mar 9  | Shadows                                   | ICG7:  5.10, 5.1<br />ICG6:  4.1<br />FCG4: 11.4.4        | [13-shadows.pdf](https://fmiranda.me/courses/cs425-slides/13-shadows.pdf)       |
-| 10   | Mar 16 | Antialiasing                              | ICG7:  8.12<br />ICG6:  6.12<br />FCG4: 8.3 |        |
+| 10   | Mar 16 | Antialiasing and transparency             | ICG7:  8.12<br />ICG6:  6.12<br />FCG4: 8.3 | [14-visual-appearance.pdf](https://fmiranda.me/courses/cs425-slides/14-visual-appearance.pdf)       |
 | 11   | Mar 23 | Spring vacation                           |                                                    |        |
 | 12   | Mar 30 | Ray tracing 1                             | ICG7:  12<br />ICG6:  11<br />FCG4: 4              |        |
 | 13   | Apr 6  | Ray tracing 2                             | ICG7:  12<br />ICG6:  11<br />FCG4: 4              |        |
