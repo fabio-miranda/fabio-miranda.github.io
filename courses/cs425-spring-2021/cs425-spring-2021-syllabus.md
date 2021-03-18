@@ -134,6 +134,7 @@ This is a tentative course schedule and will be adjusted along the way. In the r
 - Assignment 2:
   - Topics: Shading + texture + shadow.
   - Week 10 (Mar 19), due week 12 (Apr 2)
+  - Link: https://github.com/uic-cs425/assignment-2
 - Assignment 3:
   - Topics: Introduction to ray tracing.
   - Week 12 (Apr 2), due week 14 (Apr 16)
