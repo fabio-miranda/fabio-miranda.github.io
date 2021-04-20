@@ -107,10 +107,10 @@ This is a tentative course schedule and will be adjusted along the way. In the r
 | 9    | Mar 9  | Shadows                                   | ICG7:  5.10, 5.1<br />ICG6:  4.1<br />FCG4: 11.4.4        | [13-shadows.pdf](https://fmiranda.me/courses/cs425-slides/13-shadows.pdf)       |
 | 10   | Mar 16 | Antialiasing and transparency             | ICG7:  8.12<br />ICG6:  6.12<br />FCG4: 8.3 | [14-visual-appearance.pdf](https://fmiranda.me/courses/cs425-slides/14-visual-appearance.pdf)       |
 | 11   | Mar 23 | Spring vacation                           |                                                    |        |
-| 12   | Mar 30 | Ray tracing 1                             | ICG7:  12<br />ICG6:  11<br />FCG4: 4              |        |
-| 13   | Apr 6  | Ray tracing 2                             | ICG7:  12<br />ICG6:  11<br />FCG4: 4              |        |
-| 14   | Apr 13 | Curves and surfaces                       | ICG7:  11<br />ICG6:  10<br />FCG4: 12.1, 15       |        |
-| 15   | Apr 20 | Spatial data structures                   | ICG7:  9<br />ICG6:  8<br />FCG4: 12               |        |
+| 12   | Mar 30 | Antialiasing and transparency             | ICG7:  8.12<br />ICG6:  6.12<br />FCG4: 8.3        | [14-visual-appearance.pdf](https://fmiranda.me/courses/cs425-slides/14-visual-appearance.pdf)       |
+| 13   | Apr 6  | Ray tracing                               | ICG7:  12<br />ICG6:  11<br />FCG4: 4              | [15-ray-tracing.pdf](https://fmiranda.me/courses/cs425-slides/15-ray-tracing.pdf)       |
+| 14   | Apr 13 | Curves and surfaces                       | ICG7:  11<br />ICG6:  10<br />FCG4: 12.1, 15       | [16-surfaces.pdf](https://fmiranda.me/courses/cs425-slides/16-surfaces.pdf)       |
+| 15   | Apr 20 | Spatial data structures                   | ICG7:  9<br />ICG6:  8<br />FCG4: 12               | [17-spatial-data-structures.pdf](https://fmiranda.me/courses/cs425-slides/17-spatial-data-structures.pdf)       |
 | 16   | Apr 27 | Advanced topics                           |                                                    |        |
 | 17   | May 4  | Final exam week                           |                                                    |        |
 
