@@ -111,7 +111,7 @@ This is a tentative course schedule and will be adjusted along the way. In the r
 | 13   | Apr 6  | Ray tracing                               | ICG7:  12<br />ICG6:  11<br />FCG4: 4              | [15-ray-tracing.pdf](https://fmiranda.me/courses/cs425-slides/15-ray-tracing.pdf)       |
 | 14   | Apr 13 | Curves and surfaces                       | ICG7:  11<br />ICG6:  10<br />FCG4: 12.1, 15       | [16-surfaces.pdf](https://fmiranda.me/courses/cs425-slides/16-surfaces.pdf)       |
 | 15   | Apr 20 | Spatial data structures                   | ICG7:  9<br />ICG6:  8<br />FCG4: 12               | [17-spatial-data-structures.pdf](https://fmiranda.me/courses/cs425-slides/17-spatial-data-structures.pdf)       |
-| 16   | Apr 27 | Advanced topics                           |                                                    |        |
+| 16   | Apr 27 | Modern rendering techniques               |                                                    | [18-modern-rendering-techniques.pdf](https://fmiranda.me/courses/cs425-slides/18-modern-rendering-techniques.pdf)       |
 | 17   | May 4  | Final exam week                           |                                                    |        |
 
 ***
