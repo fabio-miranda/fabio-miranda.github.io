@@ -105,13 +105,13 @@ This is a tentative course schedule and will be adjusted along the way. In the r
 | 7    | Feb 23 | Light and shading                         | ICG7:  6<br />ICG6:  5<br />FCG4: 10, 18           | [10-lighting.pdf](https://fmiranda.me/courses/cs425-slides/10-lighting.pdf), [11-shading.pdf](https://fmiranda.me/courses/cs425-slides/11-shading.pdf)       |
 | 8    | Mar 2  | Texture mapping                           | ICG7:  7<br />ICG6:  7<br />FCG4: 11               | [12-textures.pdf](https://fmiranda.me/courses/cs425-slides/12-textures.pdf)       |
 | 9    | Mar 9  | Shadows                                   | ICG7:  5.10, 5.1<br />ICG6:  4.1<br />FCG4: 11.4.4        | [13-shadows.pdf](https://fmiranda.me/courses/cs425-slides/13-shadows.pdf)       |
-| 10   | Mar 16 | Antialiasing and transparency             | ICG7:  8.12<br />ICG6:  6.12<br />FCG4: 8.3 | [14-visual-appearance.pdf](https://fmiranda.me/courses/cs425-slides/14-visual-appearance.pdf)       |
+| 10   | Mar 16 | Antialiasing and transparency             | ICG7:  8.12<br />ICG6:  6.12<br />FCG4: 8.3        | [14-visual-appearance.pdf](https://fmiranda.me/courses/cs425-slides/14-visual-appearance.pdf)       |
 | 11   | Mar 23 | Spring vacation                           |                                                    |        |
 | 12   | Mar 30 | Antialiasing and transparency             | ICG7:  8.12<br />ICG6:  6.12<br />FCG4: 8.3        | [14-visual-appearance.pdf](https://fmiranda.me/courses/cs425-slides/14-visual-appearance.pdf)       |
 | 13   | Apr 6  | Ray tracing                               | ICG7:  12<br />ICG6:  11<br />FCG4: 4              | [15-ray-tracing.pdf](https://fmiranda.me/courses/cs425-slides/15-ray-tracing.pdf)       |
 | 14   | Apr 13 | Curves and surfaces                       | ICG7:  11<br />ICG6:  10<br />FCG4: 12.1, 15       | [16-surfaces.pdf](https://fmiranda.me/courses/cs425-slides/16-surfaces.pdf)       |
 | 15   | Apr 20 | Spatial data structures                   | ICG7:  9<br />ICG6:  8<br />FCG4: 12               | [17-spatial-data-structures.pdf](https://fmiranda.me/courses/cs425-slides/17-spatial-data-structures.pdf)       |
-| 16   | Apr 27 | Modern rendering techniques               |                                                    | [18-modern-rendering-techniques.pdf](https://fmiranda.me/courses/cs425-slides/18-modern-rendering-techniques.pdf)       |
+| 16   | Apr 27 | Modern rendering techniques               | FCG4: 11.3, 20.1                                   | [18-modern-rendering-techniques.pdf](https://fmiranda.me/courses/cs425-slides/18-modern-rendering-techniques.pdf)       |
 | 17   | May 4  | Final exam week                           |                                                    |        |
 
 ***
@@ -138,6 +138,7 @@ This is a tentative course schedule and will be adjusted along the way. In the r
 - Assignment 3:
   - Topics: Introduction to ray tracing.
   - Week 12 (Apr 2), due week 14 (Apr 16)
+  - Link: https://github.com/uic-cs425/spring-2021-assignment-3
 - Assignment 4:
   - Topic: Procedural meshes.
   - Week 14 (Apr 16), due week 16 (Apr 30)
