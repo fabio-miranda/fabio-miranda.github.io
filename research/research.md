@@ -60,6 +60,7 @@ The rise of new sensing initiatives has created data sets that go beyond the usu
 
 ##### Example of papers
 * *Shadow Accrual Maps: Efficient Accumulation of City-Scale Shadows over Time*, IEEE Transactions on Visualization and Computer Graphics ([link](https://fmiranda.me/publications/shadow-accrual-maps/))
+* *UrbanRama: Navigating Cities in Virtual Reality*, IEEE Transactions on Visualization and Computer Graphics ([link](https://fmiranda.me/publications/urbanrama/))
 * *Interactive Visual Exploration of Spatio-Temporal Urban Data Sets using Urbane*, SIGMOD 2018 Best Demo ([link](https://fmiranda.me/publications/raster-join-demo/))
 
 
