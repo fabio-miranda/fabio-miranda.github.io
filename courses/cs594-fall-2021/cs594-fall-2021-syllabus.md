@@ -65,6 +65,8 @@ Students will be required to complete 3 assignments, where they will implement c
 
 #### Format and Teaching Methods
 
+The course is divided into four parts: 1) buildings blocks, where we will cover the current technologies, frameworks and libraries to build visual analytics systems for big data; 2) visualization, where we will discuss visualization implications of handling big data; 3) data, covering data management techniques to handle big data; and 4) analytics, covering the data mining and technical frameworks to extract patterns or insights that can drive visual analytics systems.
+
 The course will be driven by lectures and in-class discussion. Other relevant activities include reading research papers, programming and written assignments, and a final project.
 
 ***
@@ -102,9 +104,7 @@ This is a tentative course schedule and will be adjusted along the way.
 - Final project: 35%
 - Participation: 10%
 
-This course includes two initial assignments to make sure the student is familiar with the main components of front-end and back-end development. This course also includes a cumulative final project, where the student will need to demonstrate their research skills by combining visualization and data mining techniques, data structures and algorithms that work in tandem to enable interactive data exploration. There will be three milestones for this project spread throughout the semester that will allow the student to receive feedback: a project proposal, mid review and final presentation and report. The work will be evaluated with a focus on overall quality, rather than mechanical correctness. In the final project, the student will be able to work in teams of 2-3 students, as long as the team is not solely composed of PhD students. The final report must contain a detailed description of the contributions of each team member.
-
-Assignment and project instructions will be made available following the evaluation schedule.
+This course includes two initial assignments to make sure the student is familiar with the main components of front-end and back-end development. This course also includes a cumulative final project, where the student will need to demonstrate their research skills by combining visualization and data mining techniques, data structures and algorithms that work in tandem to enable interactive data exploration. There will be three milestones for this project spread throughout the semester that will allow the student to receive feedback: a project proposal, mid review and final presentation and report. The work will be evaluated with a focus on overall quality, rather than mechanical correctness. In the final project, the student will be able to work in teams of 2-3 students, as long as the team is not solely composed of PhD students. The final report must contain a detailed description of the contributions of each team member. Assignment and project instructions will be made available following the evaluation schedule.
 
 This course also includes a class participation grade that will take into consideration the student's contribution to a productive environment, either in the classroom, discord or office hours. This is a subjective assessment, and does not mean that the student needs to participate in *every* classroom discussion, but it does mean that they need to actively engage with the instructor or classmates in some capacity (classroom, discord, office hours, emails).
 
