@@ -83,7 +83,7 @@ This is a tentative course schedule and will be adjusted along the way.
 | 5    | Sep 20 | **Vis**: Progressive | [[1](https://drops.dagstuhl.de/opus/volltexte/2019/10346/pdf/dagrep_v008_i010_p001_18411.pdf)], [[2](http://idl.cs.washington.edu/files/2019-Falcon-CHI.pdf)] | |
 | 6    | Sep 27 | **Vis**: Uncertainty | [[1](https://research.tableau.com/sites/default/files/uncertainty_vis_eval.pdf)] |       |
 | 7    | Oct 4  | **Data**: approximate queries, hashing, learned indices | [[1](https://dl.acm.org/doi/10.1145/3318464.3389752)], [[2](https://www.cin.ufpe.br/~nivan/pdfs/qds.pdf)] | |
-| 8    | Oct 11 | **Data**: spatial structures | [[1](https://nanocubes.net/assets/pdf/nanocubes_paper.pdf)], [[2](http://vis.stanford.edu/files/2013-imMens-EuroVis.pdf)], [[3](https://fmiranda.me/publications/topkube/]tvcg-2017-topkube.pdf)], [[4](https://ieeexplore.ieee.org/document/7536648)] | |
+| 8    | Oct 11 | **Data**: spatial structures | [[1](https://nanocubes.net/assets/pdf/nanocubes_paper.pdf)], [[2](http://vis.stanford.edu/files/2013-imMens-EuroVis.pdf)], [[3](https://fmiranda.me/publications/topkube/tvcg-2017-topkube.pdf)], [[4](https://ieeexplore.ieee.org/document/7536648)] | |
 | 9    | Oct 18 | **Data**: spatial queries | [[1](https://www.harishd.com/home/assets/papers/raster-join.pdf)], [[2](https://fmiranda.me/publications/raster-join-demo/sigmod-2018-demo-raster-join.pdf)] | |
 | 10   | Oct 25 | Final project midterm review | | |
 | 11   | Nov 1  | **Data**: MapReduce, Hadoop, Spark | [[1](https://hadoop.apache.org/)], [[2](https://spark.apache.org/)] | |
