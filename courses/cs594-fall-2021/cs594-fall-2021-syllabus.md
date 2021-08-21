@@ -82,10 +82,10 @@ This is a tentative course schedule and will be adjusted along the way.
 | 4    | Sep 13 | **Vis**: Big data visual analytics systems | [[1](http://vgc.poly.edu/projects/taxivis/resources/paper.pdf)], [[2](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8740868)] | |
 | 5    | Sep 20 | **Vis**: Progressive | [[1](https://drops.dagstuhl.de/opus/volltexte/2019/10346/pdf/dagrep_v008_i010_p001_18411.pdf)], [[2](http://idl.cs.washington.edu/files/2019-Falcon-CHI.pdf)] | |
 | 6    | Sep 27 | **Vis**: Uncertainty | [[1](https://research.tableau.com/sites/default/files/uncertainty_vis_eval.pdf)] |       |
-| 7    | Oct 4  | Project proposals | | |
+| 7    | Oct 4  | **Data**: approximate queries, hashing, learned indices | [[1](https://dl.acm.org/doi/10.1145/3318464.3389752)], [[2](https://www.cin.ufpe.br/~nivan/pdfs/qds.pdf)] | |
 | 8    | Oct 11 | **Data**: spatial structures | [[1](https://nanocubes.net/assets/pdf/nanocubes_paper.pdf)], [[2](http://vis.stanford.edu/files/2013-imMens-EuroVis.pdf)], [[3](https://fmiranda.me/publications/topkube/]tvcg-2017-topkube.pdf)], [[4](https://ieeexplore.ieee.org/document/7536648)] | |
 | 9    | Oct 18 | **Data**: spatial queries | [[1](https://www.harishd.com/home/assets/papers/raster-join.pdf)], [[2](https://fmiranda.me/publications/raster-join-demo/sigmod-2018-demo-raster-join.pdf)] | |
-| 10   | Oct 25 | **Data**: approximate queries, hashing, learned indices | [[1](https://dl.acm.org/doi/10.1145/3318464.3389752)], [[2](https://www.cin.ufpe.br/~nivan/pdfs/qds.pdf)] |       |
+| 10   | Oct 25 | Final project midterm review | | |
 | 11   | Nov 1  | **Data**: MapReduce, Hadoop, Spark | [[1](https://hadoop.apache.org/)], [[2](https://spark.apache.org/)] | |
 | 12   | Nov 8  | Reproducibility & interactive computing | [[1](https://www.computer.org/csdl/magazine/cs/2021/02/09391750/1sq7sW0pjWM)] | |
 | 13   | Nov 15 | **Analytics**: computational topology | [[1](https://topology-tool-kit.github.io/)], [[2](https://arxiv.org/abs/1610.06978)], [[3](http://cs.arizona.edu/~nivanferreira/pdfs/taxi_patterns.pdf)] | |
@@ -104,7 +104,7 @@ This is a tentative course schedule and will be adjusted along the way.
 - Final project: 35%
 - Participation: 10%
 
-This course includes two initial assignments to make sure the student is familiar with the main components of front-end and back-end development. This course also includes a cumulative final project, where the student will need to demonstrate their research skills by combining visualization and data mining techniques, data structures and algorithms that work in tandem to enable interactive data exploration. There will be three milestones for this project spread throughout the semester that will allow the student to receive feedback: a project proposal, mid review and final presentation and report. The work will be evaluated with a focus on overall quality, rather than mechanical correctness. In the final project, the student will be able to work in teams of 2-3 students, as long as the team is not solely composed of PhD students. The final report must contain a detailed description of the contributions of each team member. Assignment and project instructions will be made available following the evaluation schedule.
+This course includes two initial assignments to make sure the student is familiar with the main components of front-end and back-end development. This course also includes a cumulative final project, where the student will need to demonstrate their research skills by combining visualization and data mining techniques, data structures and algorithms that work in tandem to enable interactive data exploration. There will be three milestones for this project spread throughout the semester that will allow the student to receive feedback: a project proposal, mid review and final presentation and report. The work will be evaluated with a focus on overall quality, rather than mechanical correctness. In the final project, the student will be able to work in groups of 2-3 students, as long as the group is not solely composed of PhD students. Each group must also attend a 30-minute meeting every two weeks during the office hours, where we will discuss overall direction and progress of the project. The final report must contain a detailed description of the contributions of each team member. Assignment and project instructions will be made available following the evaluation schedule.
 
 This course also includes a class participation grade that will take into consideration the student's contribution to a productive environment, either in the classroom, discord or office hours. This is a subjective assessment, and does not mean that the student needs to participate in *every* classroom discussion, but it does mean that they need to actively engage with the instructor or classmates in some capacity (classroom, discord, office hours, emails).
 
@@ -115,10 +115,10 @@ This course also includes a class participation grade that will take into consid
 - Assignment 2:
   - Back-end technologies and libraries.
   - Week 3 (Sep 10), due week 4 (Sep 17).
-- Project proposal:
+- Final project proposal:
   - 2-page document describing final project proposal.
   - Week 3 (Sep 6), due week 5 (Sep 24)
-- Final project mid review:
+- Final project midterm review:
   - ~10-minute presentation.
   - Due week 10 (presentations).
 - Final project:
