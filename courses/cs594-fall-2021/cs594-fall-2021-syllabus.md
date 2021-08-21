@@ -1,61 +1,162 @@
 ### CS594 Special Topics: Big Data Visualization and Analytics
 
+#### Table of Contents
+1. [General Information](#general-information)
+    1. [Class Meeting Information](#class-meeting-information)
+    2. [Course Instructor](#course-instructor)
+2. [Course Description](#course-description)
+    1. [Rationale](#rationale)
+    2. [Course Pre-requisites](#course-pre-requisites)
+    3. [Textbooks and Readings](#textbooks-and-readings)
+    4. [Objectives](#objectives)
+    5. [Deliverables](#deliverables)
+    6. [Format and Teaching Methods](#format-and-teaching-methods)
+3. [Course Schedule](#course-schedule)
+4. [Evaluation and Grading](#evaluation-and-grading)
+    1. [Grading Policy](#grading-policy)
+    2. [Evaluation Schedule](#evaluation-schedule)
+    3. [Assignment Considerations](#assignment-considerations)
+    4. [Late Days](#late-days)
+5. [COVID-19 Considerations](#covid-19-considerations)
+6. [Academic Integrity](#academic-integrity)
+7. [Inclusive Learning Environment](#inclusive-learning-environment)
+8. [Disability Accommodation Procedures](#disability-accomodation-procedures)
+9. [Disclaimer](#disclaimer)
+
+### General Information
+
+#### Class Meeting Information
+We will meet in-person in EVL's [Continuum room](https://www.evl.uic.edu/location), Mondays and Wednsdays at 9:30am-10:45am. Students are required to participate in these sessions; video recordings will be made available a few hours after each session. Office hours will be held via Zoom.
+
+Discord will be the main platform for instructor / student communication, please check Blackboard for the Discord invitation link. Zoom meeting information, as well as video recordings, will be posted on Discord.
+
+#### Course Instructor
+Fabio Miranda
+
+fabiom [at] uic.edu
+
+https://fmiranda.me/
+
+Office hours: Friday 11am - 1pm, or by appointment (Zoom info on Discord).
+
 Instructor: Fabio Miranda (fabiom@uic.edu)
 
-#### 1. Course rationale
+***
+
+### Course Description
+
+#### Rationale
 In the past decade, technological innovations have enabled the automatic collection of a diverse set of very large datasets, from user-generated content, such as tweets, to sensor data, such as noise decibel level or aerial surveys. As pointed out by Hal Varian, Google's Chief Economist, today data is not only free but ubiquitous, and the ability to understand, process, extract value from, and visualize it, is going to be hugely important in the next decades. As data grows in size and complexity, however, siloed solutions become less capable of conveying all the structure and information hidden in the data. Visual analytics systems have been successful at enabling users to obtain insights from large data [1,2]; Well-designed large-scale data visual analytics systems merge domain expertise and analytics techniques, enabling users to gain actionable insights into real-world problems by formulating and testing hypotheses, and to address domain-specific challenges.
 
-This course will introduce students to big data visualization and analytics, focusing on the connections between visualization, data management, and data mining [3]. We will cover potential sources of big data, including audio, image, graph, geometry, and mobile data, both structured or unstructured. The course will discuss effective metaphors to visualize data that might span billions of records; data mining and machine learning techniques that can summarize the data, or extract patterns to guide users in their visual exploration; and the data management techniques that can effectively drive interactivity in the visual exploration of big data. See [here](https://fmiranda.me/research/) for a broader perspective.
+This course will introduce students to big data visualization and analytics, focusing on the connections between visualization, data management, and data mining [3]. We will cover potential sources of big data, including audio, image, graph, geometry, and mobile data, both structured or unstructured. The course will discuss effective metaphors to visualize data that might span billions of records; data mining and machine learning techniques that can summarize the data, or extract patterns to guide users in their visual exploration; and the data management techniques that can effectively drive interactivity in the visual exploration of big data.
 
-#### 2. Course objectives
+#### Course Pre-requisites
+Even though there are no specific pre-requisite courses, students are expected to be comfortable with programming and be able to learn new programming languages as required by the assignments and projects, as well as write technical documents.
+
+#### Objectives
 
 This course will focus on the intersection between visualization, data management, and data mining, covering the necessary topics to build visual analytics tools to handle big data. For the purposes of this course, big data will include any dataset with size (or complexity) that goes beyond the ability of standard tools and techniques to interactively manage and process it with a latency below 0.5 second [4].
 
 At the end of the course, students will have a good understanding of the state of the art in visual analytics of large data, limitations of current techniques, and promising research directions. They will also be able to design and implement visual analytics systems capable of handling large data, by combining visualization and data mining techniques, data structures and algorithms that work in tandem to enable interactive data exploration and tackle real-world problems.
 
-#### 3. Course topics
-
-This is a tentative set of topics.
-
-* Visualization
-  * Uncertainty vis
-  * Progressive vis
-* Data management
-  * Data structures for vis, including data cubes
-  * Spatial queries using GPUs
-  * Approximate queries, hashing schemes, and learned indices
-* Data analytics
-  * Computational topology
-  * Wavelet-based techniques
-  * Incremental analytics
-* Domain-specific applications and tools
-
-
-#### 4. Student deliverables
+#### Deliverables
 
 Students will be required to complete 3 assignments, where they will implement concepts and techniques presented in class using large datasets, from high-resolution timeseries to image data. There will be a fourth and final assignment where students will have to identify a research problem under my guidance, and propose and implement a small-scale system for the interactive exploration of a large dataset (or multiple datasets). Students will be able to use external datasets, or select from a list of available datasets, including spatiotemporal audio, image, graph, and geometry data. Students will have to produce a short paper reporting preliminary results, and give a brief final presentation in class. Ideally, a project will have produced the initial stages of a research paper, capable of being accepted at a workshop.
 
+#### Format and Teaching Methods
 
-#### 5. Course pre-requisites
+The course will be driven by lectures and in-class discussion. Other relevant activities include reading research papers, programming and written assignments, and a final project.
 
-Programming experience, preferably in either C/C++, Java, Python or Javascript.
+***
+
+### Course Schedule
+This is a tentative course schedule and will be adjusted along the way.
+
+| Week |        | Topic                                     | Resources and readings                             | Slides |
+| ---- | ------ | ----------------------------------------- | -------------------------------------------------- | ------ |
+| 1    | Aug 23 | Intro to course and visualization         | [[1](https://drops.dagstuhl.de/opus/volltexte/2018/8670/pdf/dagrep_v007_i011_p046_17461.pdf)], [2](https://idl.cs.washington.edu/files/2014-Latency-InfoVis.pdf) |       |
+| 2    | Aug 30 | Building blocks: front-end technologies and libraries      | [[1](https://angular.io/)] |       |
+| 3    | Sep 6  | Building blocks: back-end technologies and libraries       | [[1](https://flask.palletsprojects.com/)], [[2](https://www.boost.org/)], [[3](https://developer.nvidia.com/cuda-toolkit)] |       |
+| 4    | Sep 13 | Vis: Big data visual analytics systems    | [[1](http://vgc.poly.edu/projects/taxivis/resources/paper.pdf)] |       |
+| 5    | Sep 20 | Vis: Progressive                          | [[1](https://drops.dagstuhl.de/opus/volltexte/2019/10346/pdf/dagrep_v008_i010_p001_18411.pdf)], [[2](http://idl.cs.washington.edu/files/2019-Falcon-CHI.pdf)] |       |
+| 6    | Sep 27 | Vis: Uncertainty                          | [[1](https://research.tableau.com/sites/default/files/uncertainty_vis_eval.pdf)] |       |
+| 7    | Oct 4  | Project proposals                         |                                                    |       |
+| 8    | Oct 11 | Data: spatial structures                  | [[1](https://nanocubes.net/assets/pdf/nanocubes_paper.pdf)], [[2](http://vis.stanford.edu/files/2013-imMens-EuroVis.pdf)], [[3](https://fmiranda.me/publications/topkube/]tvcg-2017-topkube.pdf)[4](https://ieeexplore.ieee.org/document/7536648)] |       |
+| 9    | Oct 18 | Data: spatial queries                     | [[1](https://www.harishd.com/home/assets/papers/raster-join.pdf)], [[2](https://fmiranda.me/publications/raster-join-demo/sigmod-2018-demo-raster-join.pdf)] |       |
+| 10   | Oct 25 | Data: approximate queries, hashing, learned indices        | [[1](https://dl.acm.org/doi/10.1145/3318464.3389752)], [[2](https://www.cin.ufpe.br/~nivan/pdfs/qds.pdf)]                                   |       |
+| 11   | Nov 1  | Reproducibility & interactive computing                    | [[1](https://www.computer.org/csdl/magazine/cs/2021/02/09391750/1sq7sW0pjWM)]                                  |       |
+| 12   | Nov 8  | Analytics: computational topology                          | [[1](https://topology-tool-kit.github.io/)], [[2](https://arxiv.org/abs/1610.06978)], [[3](http://cs.arizona.edu/~nivanferreira/pdfs/taxi_patterns.pdf)] |       |
+| 13   | Nov 15 | Analytics: wavelet                                         | [[1](https://link.springer.com/chapter/10.1007/978-3-030-03574-7_14)], [[2](https://ieeexplore.ieee.org/abstract/document/8024139)], [[3](https://ieeexplore.ieee.org/abstract/document/7347624)] |       |
+| 14   | Nov 22 | Analytics: streaming data                                  | [[1](https://dl.acm.org/doi/abs/10.14778/3137628.3137652)], [[2](https://www.sciencedirect.com/science/article/pii/S2665963820300403)] |       |
+| 15   | Nov 29 | Project presentations                                      |                                   |       |
+| 16   | Dec 6  | Project presentations                                      |                                   |       |
 
 
-#### 6. Readings
+***
 
-There is no required textbook. The vast majority of the coursework will be based on research papers from conferences and journals, including visualization (VIS, EuroVis, IEEE TVCG), database (SIGMOD, VLDB, IEEE Big Data), and related fields (IEEE TITS, AAAI).
+### Evaluation and Grading
+#### Grading Policy
+- Assignment 1: 15%
+- Assignment 2: 15%
+- Project proposal: 10%
+- Final project mid review: 15%
+- Final project: 35%
+- Participation: 10%
 
-#### 7. Method of instruction
+This course includes two initial assignments to make sure you are familiar with the main components of front-end and back-end development. This course also includes a cumulative final project, where you will need to demonstrate your research skills by combining visualization and data mining techniques, data structures and algorithms that work in tandem to enable interactive data exploration. There will be three milestones for this project spread throughout the semester that will allow you to receive feedback: a project proposal, mid review and final project. Your work will be evaluated focusing on its overall quality, beyond mechanical correctness. In the final project, you will be able to work in teams of 2-3 students, as long as the team is not solely composed of PhD students. The final report must contain a detailed description of the contributions of each team member.
 
-For the first \~10 weeks, the course will be lecture based (75 minutes twice per week), followed by \~5 weeks of paper presentations and discussions.
+Assignment and project instructions will be made available following the evaluation schedule.
 
+This course also includes a class participation grade that will take into consideration the student's contribution to a lively atmosphere, either in the classroom, discord or office hours. This is a subjective assessment, and does not mean that you need to participate in *every* classroom discussion, but it does mean that you need to actively engage with the instructor or classmates in some capacity (classroom, discord, office hours, emails).
 
-#### References
+#### Evaluation Schedule
+- Assignment 1:
+  - Front-end technologies and libraries.
+  - Week 2 (Sep 3), due week 3 (Sep 10).
+- Assignment 2:
+  - Back-end technologies and libraries.
+  - Week 3 (Sep 10), due week 4 (Sep 17).
+- Project proposal:
+  - 2-page document describing final project proposal.
+  - Week 4 (Sep 17), due week 5 (Sep 24)
+- Final project mid review:
+  - ~10-minute presentation.
+  - Due week 10 (presentations).
+- Final project:
+  - ~30-minute presentation and final report.
+  - Due weeks 15 and 16 (presentations) and week 16 (final report).
 
-[1] H. Doraiswamy, J. Freire, M. Lage, F. Miranda, and C. Silva, "Spatio-Temporal Urban Data Analysis: A Visual Analytics Perspective," *IEEE Computer Graphics and Applications*, 38(5):26-35, 2018
+#### Late Days
+Late submissions will be penalized at a deduction rate of 20% per day (after 5 days you will have a maximum grade of zero). You can use five late-day points during the semester to make up for that; each late-day point extends an assignment deadline by one day.
 
-[2] N. Ferreira, J. Poco, H. T. Vo, J. Freire, and C. T. Silva, "Visual exploration of big spatio-temporal urban data: A study of New York City taxi trips," *IEEE Transactions on Visualization and Computer Graphics*, 19(12):2149–2158, 2013
+***
 
-[3] R. Chang, J. D. Fekete, J. Freire, and C. E. Scheidegger, "Connecting visualization and data management research," *Dagstuhl Reports*, 7(11):46–58, 2017
+### COVID-19 Considerations
 
-[4] Z. Liu and J. Heer, "The effects of interactive latency on exploratory visual analysis," *IEEE Transactions on Visualization and Computer Graphics*, 20(12):2122–2131, 2014
+Face Masks: Masks covering both the mouth and nose must be worn at all times by all students, faculty, and staff while on campus and inside any building regardless of vaccination status.  If you do not wear a mask, you will be asked to leave the classroom and will not be allowed back in class unless or until you wear a mask. If you have forgotten your mask, you may pick one up from one of the student information desks on campus during the first two weeks of campus. Students who do not comply with the mask-wearing policy will be reported to the Dean of Students. Eating and drinking are not allowed in classrooms. For more information regarding COVID-19 safety measures and guidelines for the campus, please see [here](https://provost.uic.edu/guidance-for-fall-2021/).
+
+***
+
+### Academic Integrity
+UIC is an academic community committed to providing an environment in which research, learning, and scholarship can flourish and in which all endeavors are guided by academic and professional integrity. In this community, all members including faculty, administrators, staff, and students alike share the responsibility to uphold the highest standards of academic honesty and quality of academic work so that such a collegial and productive environment exists. 
+
+As a student and member of the UIC community, you are expected to adhere to the [Community Standards](https://dos.uic.edu/community-standards/) of integrity, accountability, and respect in all of your academic endeavors. When [accusations of academic dishonesty](https://dos.uic.edu/community-standards/academic-integrity/) occur, the Office of the Dean of Students investigates and adjudicates suspected violations of this student code. Unacceptable behavior includes cheating, unauthorized collaboration, fabrication or falsification, plagiarism, multiple submissions without instructor permission, using unauthorized study aids, coercion regarding grading or evaluation of coursework, and facilitating academic misconduct. Please review the [UIC Student Disciplinary Policy](https://dos.uic.edu/wp-content/uploads/sites/262/2018/10/DOS-Student-Disciplinary-Policy-2018-2019-FINAL.pdf) for additional information about the process by which instances of academic misconduct are handled towards the goal of developing responsible student behavior.
+
+By submitting your assignments for grading you acknowledge these terms, you declare that your work is solely your own, and you promise that, unless authorized by the instructor or proctor, you have not communicated with anyone in any way during an exam or other online assessment. Let’s embrace what it means to be a UIC community member and together be committed to the values of integrity.
+
+Please familiarize yourself with the [UIC Department of Computer Science Student Code of Conduct](https://www.cs.uic.edu/~grad/CS_Code_of_Conduct.pdf).
+
+***
+
+### Inclusive Learning Environment
+UIC values diversity and inclusion. Regardless of age, disability, ethnicity, race, gender, gender identity, sexual orientation, socioeconomic status, geographic background, religion, political ideology, language, or culture, we expect all members of this class to contribute to a respectful, welcoming, and inclusive environment for every other member of our class. If there are aspects of the instruction or design of this course that result in barriers to your inclusion, engagement, accurate assessment or achievement, please notify me as soon as possible.
+
+***
+
+### Disability Accommodation Procedures
+UIC is committed to full inclusion and participation of people with disabilities in all aspects of university life. If you face or anticipate disability-related barriers while at UIC, please connect with the Disability Resource Center (DRC) at [drc.uic.edu](https://drc.uic.edu/), via email at [drc@uic.edu](mailto:drc@uic.edu), or call (312) 413-2183 to create a plan for reasonable accommodations. In order to receive accommodations, you will need to disclose the disability to the DRC, complete an interactive registration process with the DRC, and provide me with a Letter of Accommodation (LOA). Upon receipt of a LOA, I will gladly work with you and the DRC to implement approved accommodations.
+
+***
+
+### Disclaimer
+This syllabus is intended to give the student guidance in what may be covered during the semester and will be followed as closely as possible. However, as the instructor, I reserve the right to modify, supplement and make changes as the course needs arise.
