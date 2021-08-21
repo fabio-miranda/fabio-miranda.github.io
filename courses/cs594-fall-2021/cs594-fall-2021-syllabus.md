@@ -46,9 +46,9 @@ Instructor: Fabio Miranda (fabiom@uic.edu)
 ### Course Description
 
 #### Rationale
-In the past decade, technological innovations have enabled the automatic collection of a diverse set of very large datasets, from user-generated content, such as tweets, to sensor data, such as noise decibel level or aerial surveys. As pointed out by Hal Varian, Google's Chief Economist, today data is not only free but ubiquitous, and the ability to understand, process, extract value from, and visualize it, is going to be hugely important in the next decades. As data grows in size and complexity, however, siloed solutions become less capable of conveying all the structure and information hidden in the data. Visual analytics systems have been successful at enabling users to obtain insights from large data [1,2]; Well-designed large-scale data visual analytics systems merge domain expertise and analytics techniques, enabling users to gain actionable insights into real-world problems by formulating and testing hypotheses, and to address domain-specific challenges.
+In the past decade, technological innovations have enabled the automatic collection of a diverse set of very large datasets, from user-generated content, such as tweets, to sensor data, such as noise decibel level or aerial surveys. As pointed out by Hal Varian, Google's Chief Economist, today data is not only free but ubiquitous, and the ability to understand, process, extract value from, and visualize it, is going to be hugely important in the next decades. As data grows in size and complexity, however, siloed solutions become less capable of conveying all the structure and information hidden in the data. Visual analytics systems have been successful at enabling users to obtain insights from large data; Well-designed large-scale data visual analytics systems merge domain expertise and analytics techniques, enabling users to gain actionable insights into real-world problems by formulating and testing hypotheses, and to address domain-specific challenges.
 
-This course will introduce students to big data visualization and analytics, focusing on the connections between visualization, data management, and data mining [3]. We will cover potential sources of big data, including audio, image, graph, geometry, and mobile data, both structured or unstructured. The course will discuss effective metaphors to visualize data that might span billions of records; data mining and machine learning techniques that can summarize the data, or extract patterns to guide users in their visual exploration; and the data management techniques that can effectively drive interactivity in the visual exploration of big data.
+This course will introduce students to big data visualization and analytics, focusing on the connections between visualization, data management, and data mining. We will cover potential sources of big data, including audio, image, graph, geometry, and mobile data, both structured or unstructured. The course will discuss effective metaphors to visualize data that might span billions of records; data mining and machine learning techniques that can summarize the data, or extract patterns to guide users in their visual exploration; and the data management techniques that can effectively drive interactivity in the visual exploration of big data.
 
 #### Course Pre-requisites
 Even though there are no specific pre-requisite courses, students are expected to be comfortable with programming and be able to learn new programming languages as required by the assignments and projects, as well as write technical documents.
@@ -74,10 +74,10 @@ This is a tentative course schedule and will be adjusted along the way.
 
 | Week |        | Topic                                     | Resources and readings                             | Slides |
 | ---- | ------ | ----------------------------------------- | -------------------------------------------------- | ------ |
-| 1    | Aug 23 | Intro to course and visualization         | [[1](https://drops.dagstuhl.de/opus/volltexte/2018/8670/pdf/dagrep_v007_i011_p046_17461.pdf)], [2](https://idl.cs.washington.edu/files/2014-Latency-InfoVis.pdf) |       |
-| 2    | Aug 30 | Building blocks: front-end technologies and libraries      | [[1](https://angular.io/)] |       |
+| 1    | Aug 23 | Intro to course and visualization         | [[1](https://drops.dagstuhl.de/opus/volltexte/2018/8670/pdf/dagrep_v007_i011_p046_17461.pdf)], [[2](https://idl.cs.washington.edu/files/2014-Latency-InfoVis.pdf)] |       |
+| 2    | Aug 30 | Building blocks: front-end technologies and libraries      | [[1](https://eloquentjavascript.net/)], [[2](http://speakingjs.com/)], [[3](https://angular.io/)] |       |
 | 3    | Sep 6  | Building blocks: back-end technologies and libraries       | [[1](https://flask.palletsprojects.com/)], [[2](https://www.boost.org/)], [[3](https://developer.nvidia.com/cuda-toolkit)] |       |
-| 4    | Sep 13 | Vis: Big data visual analytics systems    | [[1](http://vgc.poly.edu/projects/taxivis/resources/paper.pdf)] |       |
+| 4    | Sep 13 | Vis: Big data visual analytics systems    | [[1](http://vgc.poly.edu/projects/taxivis/resources/paper.pdf)], [[2](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8740868)] |       |
 | 5    | Sep 20 | Vis: Progressive                          | [[1](https://drops.dagstuhl.de/opus/volltexte/2019/10346/pdf/dagrep_v008_i010_p001_18411.pdf)], [[2](http://idl.cs.washington.edu/files/2019-Falcon-CHI.pdf)] |       |
 | 6    | Sep 27 | Vis: Uncertainty                          | [[1](https://research.tableau.com/sites/default/files/uncertainty_vis_eval.pdf)] |       |
 | 7    | Oct 4  | Project proposals                         |                                                    |       |
@@ -91,7 +91,6 @@ This is a tentative course schedule and will be adjusted along the way.
 | 15   | Nov 29 | Project presentations                                      |                                   |       |
 | 16   | Dec 6  | Project presentations                                      |                                   |       |
 
-
 ***
 
 ### Evaluation and Grading
@@ -103,11 +102,11 @@ This is a tentative course schedule and will be adjusted along the way.
 - Final project: 35%
 - Participation: 10%
 
-This course includes two initial assignments to make sure you are familiar with the main components of front-end and back-end development. This course also includes a cumulative final project, where you will need to demonstrate your research skills by combining visualization and data mining techniques, data structures and algorithms that work in tandem to enable interactive data exploration. There will be three milestones for this project spread throughout the semester that will allow you to receive feedback: a project proposal, mid review and final project. Your work will be evaluated focusing on its overall quality, beyond mechanical correctness. In the final project, you will be able to work in teams of 2-3 students, as long as the team is not solely composed of PhD students. The final report must contain a detailed description of the contributions of each team member.
+This course includes two initial assignments to make sure the student is familiar with the main components of front-end and back-end development. This course also includes a cumulative final project, where the student will need to demonstrate their research skills by combining visualization and data mining techniques, data structures and algorithms that work in tandem to enable interactive data exploration. There will be three milestones for this project spread throughout the semester that will allow the student to receive feedback: a project proposal, mid review and final presentation and report. The work will be evaluated with a focus on overall quality, rather than mechanical correctness. In the final project, the student will be able to work in teams of 2-3 students, as long as the team is not solely composed of PhD students. The final report must contain a detailed description of the contributions of each team member.
 
 Assignment and project instructions will be made available following the evaluation schedule.
 
-This course also includes a class participation grade that will take into consideration the student's contribution to a lively atmosphere, either in the classroom, discord or office hours. This is a subjective assessment, and does not mean that you need to participate in *every* classroom discussion, but it does mean that you need to actively engage with the instructor or classmates in some capacity (classroom, discord, office hours, emails).
+This course also includes a class participation grade that will take into consideration the student's contribution to a productive environment, either in the classroom, discord or office hours. This is a subjective assessment, and does not mean that the student needs to participate in *every* classroom discussion, but it does mean that they need to actively engage with the instructor or classmates in some capacity (classroom, discord, office hours, emails).
 
 #### Evaluation Schedule
 - Assignment 1:
@@ -118,7 +117,7 @@ This course also includes a class participation grade that will take into consid
   - Week 3 (Sep 10), due week 4 (Sep 17).
 - Project proposal:
   - 2-page document describing final project proposal.
-  - Week 4 (Sep 17), due week 5 (Sep 24)
+  - Week 3 (Sep 6), due week 5 (Sep 24)
 - Final project mid review:
   - ~10-minute presentation.
   - Due week 10 (presentations).
@@ -127,7 +126,7 @@ This course also includes a class participation grade that will take into consid
   - Due weeks 15 and 16 (presentations) and week 16 (final report).
 
 #### Late Days
-Late submissions will be penalized at a deduction rate of 20% per day (after 5 days you will have a maximum grade of zero). You can use five late-day points during the semester to make up for that; each late-day point extends an assignment deadline by one day.
+Late submissions will be penalized at a deduction rate of 20% per day (after 5 days the submission will have a maximum grade of zero). The student can use five late-day points during the semester to make up for that; each late-day point extends an assignment deadline by one day.
 
 ***
 
