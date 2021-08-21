@@ -55,7 +55,7 @@ Even though there are no specific pre-requisite courses, students are expected t
 
 #### Objectives
 
-This course will focus on the intersection between visualization, data management, and data mining, covering the necessary topics to build visual analytics tools to handle big data. For the purposes of this course, big data will include any dataset with size (or complexity) that goes beyond the ability of standard tools and techniques to interactively manage and process it with a latency below 0.5 second [4].
+This course will focus on the intersection between visualization, data management, and data mining, covering the necessary topics to build visual analytics tools to handle big data. For the purposes of this course, big data will include any dataset with size (or complexity) that goes beyond the ability of standard tools and techniques to interactively manage and process it with a latency below 0.5 second.
 
 At the end of the course, students will have a good understanding of the state of the art in visual analytics of large data, limitations of current techniques, and promising research directions. They will also be able to design and implement visual analytics systems capable of handling large data, by combining visualization and data mining techniques, data structures and algorithms that work in tandem to enable interactive data exploration and tackle real-world problems.
 
@@ -76,22 +76,22 @@ This is a tentative course schedule and will be adjusted along the way.
 
 | Week |        | Topic                                     | Resources and readings                             | Slides |
 | ---- | ------ | ----------------------------------------- | -------------------------------------------------- | ------ |
-| 1    | Aug 23 | Intro to course and visualization         | [[1](https://drops.dagstuhl.de/opus/volltexte/2018/8670/pdf/dagrep_v007_i011_p046_17461.pdf)], [[2](https://idl.cs.washington.edu/files/2014-Latency-InfoVis.pdf)] |       |
-| 2    | Aug 30 | Building blocks: front-end technologies and libraries      | [[1](https://eloquentjavascript.net/)], [[2](http://speakingjs.com/)], [[3](https://angular.io/)] |       |
-| 3    | Sep 6  | Building blocks: back-end technologies and libraries       | [[1](https://flask.palletsprojects.com/)], [[2](https://www.boost.org/)], [[3](https://developer.nvidia.com/cuda-toolkit)] |       |
-| 4    | Sep 13 | **Vis**: Big data visual analytics systems    | [[1](http://vgc.poly.edu/projects/taxivis/resources/paper.pdf)], [[2](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8740868)] |       |
-| 5    | Sep 20 | **Vis**: Progressive                          | [[1](https://drops.dagstuhl.de/opus/volltexte/2019/10346/pdf/dagrep_v008_i010_p001_18411.pdf)], [[2](http://idl.cs.washington.edu/files/2019-Falcon-CHI.pdf)] |       |
-| 6    | Sep 27 | **Vis**: Uncertainty                          | [[1](https://research.tableau.com/sites/default/files/uncertainty_vis_eval.pdf)] |       |
-| 7    | Oct 4  | Project proposals                         |                                                    |       |
-| 8    | Oct 11 | **Data**: spatial structures                  | [[1](https://nanocubes.net/assets/pdf/nanocubes_paper.pdf)], [[2](http://vis.stanford.edu/files/2013-imMens-EuroVis.pdf)], [[3](https://fmiranda.me/publications/topkube/]tvcg-2017-topkube.pdf)], [[4](https://ieeexplore.ieee.org/document/7536648)] |       |
-| 9    | Oct 18 | **Data**: spatial queries                     | [[1](https://www.harishd.com/home/assets/papers/raster-join.pdf)], [[2](https://fmiranda.me/publications/raster-join-demo/sigmod-2018-demo-raster-join.pdf)] |       |
-| 10   | Oct 25 | **Data**: approximate queries, hashing, learned indices        | [[1](https://dl.acm.org/doi/10.1145/3318464.3389752)], [[2](https://www.cin.ufpe.br/~nivan/pdfs/qds.pdf)]                                   |       |
-| 11   | Nov 1  | Reproducibility & interactive computing                    | [[1](https://www.computer.org/csdl/magazine/cs/2021/02/09391750/1sq7sW0pjWM)]                                  |       |
-| 12   | Nov 8  | **Analytics**: computational topology                          | [[1](https://topology-tool-kit.github.io/)], [[2](https://arxiv.org/abs/1610.06978)], [[3](http://cs.arizona.edu/~nivanferreira/pdfs/taxi_patterns.pdf)] |       |
-| 13   | Nov 15 | **Analytics**: wavelet                                         | [[1](https://link.springer.com/chapter/10.1007/978-3-030-03574-7_14)], [[2](https://ieeexplore.ieee.org/abstract/document/8024139)], [[3](https://ieeexplore.ieee.org/abstract/document/7347624)] |       |
-| 14   | Nov 22 | **Analytics**: streaming data                                  | [[1](https://dl.acm.org/doi/abs/10.14778/3137628.3137652)], [[2](https://www.sciencedirect.com/science/article/pii/S2665963820300403)] |       |
-| 15   | Nov 29 | Project presentations                                      |                                   |       |
-| 16   | Dec 6  | Project presentations                                      |                                   |       |
+| 1    | Aug 23 | Intro to course and visualization | [[1](https://drops.dagstuhl.de/opus/volltexte/2018/8670/pdf/dagrep_v007_i011_p046_17461.pdf)], [[2](https://idl.cs.washington.edu/files/2014-Latency-InfoVis.pdf)] | |
+| 2    | Aug 30 | Building blocks: front-end technologies and libraries | [[1](https://eloquentjavascript.net/)], [[2](http://speakingjs.com/)], [[3](https://angular.io/)] | |
+| 3    | Sep 6  | Building blocks: back-end technologies and libraries | [[1](https://flask.palletsprojects.com/)], [[2](https://www.boost.org/)], [[3](https://developer.nvidia.com/cuda-toolkit)] | |
+| 4    | Sep 13 | **Vis**: Big data visual analytics systems | [[1](http://vgc.poly.edu/projects/taxivis/resources/paper.pdf)], [[2](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8740868)] | |
+| 5    | Sep 20 | **Vis**: Progressive | [[1](https://drops.dagstuhl.de/opus/volltexte/2019/10346/pdf/dagrep_v008_i010_p001_18411.pdf)], [[2](http://idl.cs.washington.edu/files/2019-Falcon-CHI.pdf)] | |
+| 6    | Sep 27 | **Vis**: Uncertainty | [[1](https://research.tableau.com/sites/default/files/uncertainty_vis_eval.pdf)] |       |
+| 7    | Oct 4  | Project proposals | | |
+| 8    | Oct 11 | **Data**: spatial structures | [[1](https://nanocubes.net/assets/pdf/nanocubes_paper.pdf)], [[2](http://vis.stanford.edu/files/2013-imMens-EuroVis.pdf)], [[3](https://fmiranda.me/publications/topkube/]tvcg-2017-topkube.pdf)], [[4](https://ieeexplore.ieee.org/document/7536648)] | |
+| 9    | Oct 18 | **Data**: spatial queries | [[1](https://www.harishd.com/home/assets/papers/raster-join.pdf)], [[2](https://fmiranda.me/publications/raster-join-demo/sigmod-2018-demo-raster-join.pdf)] | |
+| 10   | Oct 25 | **Data**: approximate queries, hashing, learned indices | [[1](https://dl.acm.org/doi/10.1145/3318464.3389752)], [[2](https://www.cin.ufpe.br/~nivan/pdfs/qds.pdf)] |       |
+| 11   | Nov 1  | **Data**: MapReduce, Hadoop, Spark | [[1](https://hadoop.apache.org/)], [[2](https://spark.apache.org/)] | |
+| 12   | Nov 8  | Reproducibility & interactive computing | [[1](https://www.computer.org/csdl/magazine/cs/2021/02/09391750/1sq7sW0pjWM)] | |
+| 13   | Nov 15 | **Analytics**: computational topology | [[1](https://topology-tool-kit.github.io/)], [[2](https://arxiv.org/abs/1610.06978)], [[3](http://cs.arizona.edu/~nivanferreira/pdfs/taxi_patterns.pdf)] | |
+| 14   | Nov 22 | **Analytics**: wavelet | [[1](https://link.springer.com/chapter/10.1007/978-3-030-03574-7_14)], [[2](https://ieeexplore.ieee.org/abstract/document/8024139)], [[3](https://ieeexplore.ieee.org/abstract/document/7347624)] | |
+| 15   | Nov 29 | **Analytics**: streaming data | [[1](https://dl.acm.org/doi/abs/10.14778/3137628.3137652)], [[2](https://www.sciencedirect.com/science/article/pii/S2665963820300403)] | |
+| 16   | Dec 6  | Project presentations | | |
 
 ***
 
