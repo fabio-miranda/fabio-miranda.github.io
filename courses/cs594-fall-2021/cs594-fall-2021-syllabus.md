@@ -100,7 +100,7 @@ This is a tentative course schedule and will be adjusted along the way.
 - Assignment 1: 15%
 - Assignment 2: 15%
 - Project proposal: 10%
-- Final project mid review: 15%
+- Final project midterm review: 15%
 - Final project: 35%
 - Participation: 10%
 
@@ -117,7 +117,7 @@ This course also includes a class participation grade that will take into consid
   - Week 3 (Sep 10), due week 4 (Sep 17).
 - Final project proposal:
   - 2-page document describing final project proposal.
-  - Week 3 (Sep 6), due week 5 (Sep 24)
+  - Week 3 (Sep 6), due week 5 (Sep 24).
 - Final project midterm review:
   - ~10-minute presentation.
   - Due week 10 (presentations).
