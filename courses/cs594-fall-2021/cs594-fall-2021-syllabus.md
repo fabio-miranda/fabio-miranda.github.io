@@ -65,33 +65,33 @@ Students will be required to complete 3 assignments, where they will implement c
 
 #### Format and Teaching Methods
 
-The course is divided into four parts: 1) buildings blocks, where we will cover the current technologies, frameworks and libraries to build visual analytics systems for big data; 2) visualization, where we will discuss visualization implications of handling big data; 3) data, covering data management techniques to handle big data; and 4) analytics, covering the data mining and technical frameworks to extract patterns or insights that can drive visual analytics systems.
+The course is divided into four parts: 1) buildings blocks, where we will cover the current technologies, frameworks and libraries to build visual analytics systems for big data; 2) visualization, where we will discuss visualization implications of handling big data; 3) data, covering data management techniques to handle big data; and 4) analytics, covering the data mining and technical frameworks to extract patterns or features that can drive visual analytics systems.
 
 The course will be driven by lectures and in-class discussion. Other relevant activities include reading research papers, programming and written assignments, and a final project.
 
 ***
 
 ### Course Schedule
-This is a tentative course schedule and will be adjusted along the way.
+This is a tentative course schedule and will be adjusted along the way. Slides will be made available after each lecture.
 
 | Week |        | Topic                                     | Resources and readings                             | Slides |
 | ---- | ------ | ----------------------------------------- | -------------------------------------------------- | ------ |
-| 1    | Aug 23 | Intro to course and visualization | [[1](https://drops.dagstuhl.de/opus/volltexte/2018/8670/pdf/dagrep_v007_i011_p046_17461.pdf)], [[2](https://idl.cs.washington.edu/files/2014-Latency-InfoVis.pdf)] | |
-| 2    | Aug 30 | Building blocks: front-end technologies and libraries | [[1](https://eloquentjavascript.net/)], [[2](http://speakingjs.com/)], [[3](https://angular.io/)] | |
-| 3    | Sep 6  | Building blocks: back-end technologies and libraries | [[1](https://flask.palletsprojects.com/)], [[2](https://www.boost.org/)], [[3](https://developer.nvidia.com/cuda-toolkit)] | |
-| 4    | Sep 13 | **Vis**: Big data visual analytics systems | [[1](http://vgc.poly.edu/projects/taxivis/resources/paper.pdf)], [[2](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8740868)] | |
-| 5    | Sep 20 | **Vis**: Progressive | [[1](https://drops.dagstuhl.de/opus/volltexte/2019/10346/pdf/dagrep_v008_i010_p001_18411.pdf)], [[2](http://idl.cs.washington.edu/files/2019-Falcon-CHI.pdf)] | |
-| 6    | Sep 27 | **Vis**: Uncertainty | [[1](https://research.tableau.com/sites/default/files/uncertainty_vis_eval.pdf)] |       |
-| 7    | Oct 4  | **Data**: approximate queries, hashing, learned indices | [[1](https://dl.acm.org/doi/10.1145/3318464.3389752)], [[2](https://www.cin.ufpe.br/~nivan/pdfs/qds.pdf)] | |
-| 8    | Oct 11 | **Data**: spatial structures | [[1](https://nanocubes.net/assets/pdf/nanocubes_paper.pdf)], [[2](http://vis.stanford.edu/files/2013-imMens-EuroVis.pdf)], [[3](https://fmiranda.me/publications/topkube/tvcg-2017-topkube.pdf)], [[4](https://ieeexplore.ieee.org/document/7536648)] | |
-| 9    | Oct 18 | **Data**: spatial queries | [[1](https://www.harishd.com/home/assets/papers/raster-join.pdf)], [[2](https://fmiranda.me/publications/raster-join-demo/sigmod-2018-demo-raster-join.pdf)] | |
-| 10   | Oct 25 | Final project midterm review | | |
-| 11   | Nov 1  | **Data**: MapReduce, Hadoop, Spark | [[1](https://hadoop.apache.org/)], [[2](https://spark.apache.org/)] | |
-| 12   | Nov 8  | Reproducibility & interactive computing | [[1](https://www.computer.org/csdl/magazine/cs/2021/02/09391750/1sq7sW0pjWM)] | |
-| 13   | Nov 15 | **Analytics**: computational topology | [[1](https://topology-tool-kit.github.io/)], [[2](https://arxiv.org/abs/1610.06978)], [[3](http://cs.arizona.edu/~nivanferreira/pdfs/taxi_patterns.pdf)] | |
-| 14   | Nov 22 | **Analytics**: wavelet | [[1](https://link.springer.com/chapter/10.1007/978-3-030-03574-7_14)], [[2](https://ieeexplore.ieee.org/abstract/document/8024139)], [[3](https://ieeexplore.ieee.org/abstract/document/7347624)] | |
-| 15   | Nov 29 | **Analytics**: streaming data | [[1](https://dl.acm.org/doi/abs/10.14778/3137628.3137652)], [[2](https://www.sciencedirect.com/science/article/pii/S2665963820300403)] | |
-| 16   | Dec 6  | Project presentations | | |
+| 1  | Aug 23 | Intro to course and visualization | [[1](https://drops.dagstuhl.de/opus/volltexte/2018/8670/pdf/dagrep_v007_i011_p046_17461.pdf)], [[2](https://idl.cs.washington.edu/files/2014-Latency-InfoVis.pdf)] | [01-intro.pdf](https://fmiranda.me/courses/cs594-slides/01-intro.pdf) |
+| 2  | Aug 30 | Building blocks: front-end technologies and libraries | [[1](https://eloquentjavascript.net/)], [[2](http://speakingjs.com/)], [[3](https://angular.io/)] | |
+| 3  | Sep 6  | Building blocks: back-end technologies and libraries | [[1](https://flask.palletsprojects.com/)], [[2](https://www.boost.org/)], [[3](https://developer.nvidia.com/cuda-toolkit)] | |
+| 4  | Sep 13 | **Vis**: Big data visual analytics systems | [[1](http://vgc.poly.edu/projects/taxivis/resources/paper.pdf)], [[2](https://hdc.cs.arizona.edu/papers/infovis_2020_dbsurvey.pdf)] | |
+| 5  | Sep 20 | **Vis**: Progressive | [[1](https://drops.dagstuhl.de/opus/volltexte/2019/10346/pdf/dagrep_v008_i010_p001_18411.pdf)], [[2](http://idl.cs.washington.edu/files/2019-Falcon-CHI.pdf)] | |
+| 6  | Sep 27 | **Vis**: Uncertainty | [[1](https://research.tableau.com/sites/default/files/uncertainty_vis_eval.pdf)] |       |
+| 7  | Oct 4  | **Data**: approximate queries, hashing, learned indices | [[1](https://dl.acm.org/doi/10.1145/3318464.3389752)], [[2](https://www.cin.ufpe.br/~nivan/pdfs/qds.pdf)] | |
+| 8  | Oct 11 | **Data**: spatial structures | [[1](https://nanocubes.net/assets/pdf/nanocubes_paper.pdf)], [[2](http://vis.stanford.edu/files/2013-imMens-EuroVis.pdf)], [[3](https://fmiranda.me/publications/topkube/tvcg-2017-topkube.pdf)], [[4](https://ieeexplore.ieee.org/document/7536648)] | |
+| 9  | Oct 18 | **Data**: spatial queries | [[1](https://www.harishd.com/home/assets/papers/raster-join.pdf)], [[2](https://fmiranda.me/publications/raster-join-demo/sigmod-2018-demo-raster-join.pdf)] | |
+| 10 | Oct 25 | Final project midterm review | | |
+| 11 | Nov 1  | **Data**: MapReduce, Hadoop, Spark | [[1](https://hadoop.apache.org/)], [[2](https://spark.apache.org/)] | |
+| 12 | Nov 8  | Reproducibility & interactive computing | [[1](https://www.computer.org/csdl/magazine/cs/2021/02/09391750/1sq7sW0pjWM)] | |
+| 13 | Nov 15 | **Analytics**: computational topology | [[1](https://topology-tool-kit.github.io/)], [[2](https://arxiv.org/abs/1610.06978)], [[3](http://cs.arizona.edu/~nivanferreira/pdfs/taxi_patterns.pdf)] | |
+| 14 | Nov 22 | **Analytics**: wavelet | [[1](https://link.springer.com/chapter/10.1007/978-3-030-03574-7_14)], [[2](https://ieeexplore.ieee.org/abstract/document/8024139)], [[3](https://ieeexplore.ieee.org/abstract/document/7347624)] | |
+| 15 | Nov 29 | **Analytics**: streaming data | [[1](https://dl.acm.org/doi/abs/10.14778/3137628.3137652)], [[2](https://www.sciencedirect.com/science/article/pii/S2665963820300403)] | |
+| 16 | Dec 6  | Project presentations | | |
 
 ***
 
@@ -111,10 +111,10 @@ This course also includes a class participation grade that will take into consid
 #### Evaluation Schedule
 - Assignment 1:
   - Front-end technologies and libraries.
-  - Week 2 (Sep 3), due week 3 (Sep 10).
+  - Week 3 (Sep 6), due week 4 (Sep 13).
 - Assignment 2:
   - Back-end technologies and libraries.
-  - Week 3 (Sep 10), due week 4 (Sep 17).
+  - Week 4 (Sep 13), due week 5 (Sep 20).
 - Final project proposal:
   - 2-page document describing final project proposal.
   - Week 3 (Sep 6), due week 5 (Sep 24).
