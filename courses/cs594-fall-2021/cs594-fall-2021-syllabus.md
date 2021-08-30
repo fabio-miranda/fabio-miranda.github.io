@@ -76,8 +76,8 @@ This is a tentative course schedule and will be adjusted along the way. Slides w
 
 | Week |        | Topic                                     | Resources and readings                             | Slides |
 | ---- | ------ | ----------------------------------------- | -------------------------------------------------- | ------ |
-| 1  | Aug 23 | Intro to course and visualization | [[1](https://drops.dagstuhl.de/opus/volltexte/2018/8670/pdf/dagrep_v007_i011_p046_17461.pdf)], [[2](https://idl.cs.washington.edu/files/2014-Latency-InfoVis.pdf)], [[3](https://hal-lirmm.ccsd.cnrs.fr/lirmm-00272779/document)] | [01-intro.pdf](https://fmiranda.me/courses/cs594-slides/01-intro.pdf) |
-| 2  | Aug 30 | Building blocks: front-end technologies and libraries | [[1](https://eloquentjavascript.net/)], [[2](http://speakingjs.com/)], [[3](https://angular.io/)] | |
+| 1  | Aug 23 | Intro to course and visualization | [[1](https://drops.dagstuhl.de/opus/volltexte/2018/8670/pdf/dagrep_v007_i011_p046_17461.pdf)], [[2](https://idl.cs.washington.edu/files/2014-Latency-InfoVis.pdf)], [[3](https://hal-lirmm.ccsd.cnrs.fr/lirmm-00272779/document)] | [01-intro.pdf](https://fmiranda.me/courses/cs594-slides/01-intro.pdf), [02-vis.pdf](https://fmiranda.me/courses/cs594-slides/02-vis.pdf) |
+| 2  | Aug 30 | Building blocks: front-end technologies and libraries | [[1](https://eloquentjavascript.net/)], [[2](http://speakingjs.com/)], [[3](https://angular.io/)] | [03-d3.pdf](https://fmiranda.me/courses/cs594-slides/03-d3.pdf) |
 | 3  | Sep 6  | Building blocks: back-end technologies and libraries | [[1](https://flask.palletsprojects.com/)], [[2](https://www.boost.org/)], [[3](https://developer.nvidia.com/cuda-toolkit)] | |
 | 4  | Sep 13 | **Vis**: Big data visual analytics systems | [[1](http://vgc.poly.edu/projects/taxivis/resources/paper.pdf)], [[2](https://hdc.cs.arizona.edu/papers/infovis_2020_dbsurvey.pdf)] | |
 | 5  | Sep 20 | **Vis**: Progressive | [[1](https://drops.dagstuhl.de/opus/volltexte/2019/10346/pdf/dagrep_v008_i010_p001_18411.pdf)], [[2](http://idl.cs.washington.edu/files/2019-Falcon-CHI.pdf)] | |
