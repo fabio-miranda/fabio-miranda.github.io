@@ -126,19 +126,19 @@ This is a tentative course schedule and will be adjusted along the way. In the r
 - Assignment 0:
   - Topics: Introduction to web environment and WebGL.
   - Week 3 (Jan 31), due week 5 (Feb 14).
-  - Link: https://github.com/uic-cs425/spring-2021-assignment-0
+  - Link: https://fmiranda.me/courses/cs425-spring-2021/assignment-0/
 - Assignment 1:
   - Topics: Triangle meshes rendering.
   - Week 7 (Feb 26), due week 10 (Mar 14).
-  - Link: https://github.com/uic-cs425/spring-2021-assignment-1
+  - Link: https://fmiranda.me/courses/cs425-spring-2021/assignment-1/
 - Assignment 2:
   - Topics: Shading + texture + shadow.
   - Week 10 (Mar 19), due week 12 (Apr 2).
-  - Link: https://github.com/uic-cs425/spring-2021-assignment-2
+  - Link: https://fmiranda.me/courses/cs425-spring-2021/assignment-2/
 - Assignment 3:
   - Topics: Introduction to ray tracing.
   - Week 12 (Apr 2), due week 14 (Apr 16).
-  - Link: https://github.com/uic-cs425/spring-2021-assignment-3
+  - Link: https://fmiranda.me/courses/cs425-spring-2021/assignment-3/
 - Assignment 4:
   - Topic: Procedural meshes.
   - Week 14 (Apr 16), due week 16 (Apr 30).

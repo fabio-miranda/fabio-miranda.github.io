@@ -79,7 +79,7 @@ This is a tentative course schedule and will be adjusted along the way. Slides w
 | 1  | Aug 23 | Intro to course and visualization | [[1](https://drops.dagstuhl.de/opus/volltexte/2018/8670/pdf/dagrep_v007_i011_p046_17461.pdf)], [[2](https://idl.cs.washington.edu/files/2014-Latency-InfoVis.pdf)], [[3](https://hal-lirmm.ccsd.cnrs.fr/lirmm-00272779/document)] | [01-intro.pdf](https://fmiranda.me/courses/cs594-slides/01-intro.pdf), [02-vis.pdf](https://fmiranda.me/courses/cs594-slides/02-vis.pdf) |
 | 2  | Aug 30 | Building blocks: front-end technologies and libraries | [[1](https://eloquentjavascript.net/)], [[2](http://speakingjs.com/)], [[3](https://angular.io/)] | [03-d3.pdf](https://fmiranda.me/courses/cs594-slides/03-d3.pdf), [04-angular.pdf](https://fmiranda.me/courses/cs594-slides/04-angular.pdf) |
 | 3  | Sep 6  | Building blocks: back-end technologies and libraries | [[1](https://flask.palletsprojects.com/)], [[2](https://www.boost.org/)], [[3](https://developer.nvidia.com/cuda-toolkit)] | [05-back-end.pdf](https://fmiranda.me/courses/cs594-slides/05-back-end.pdf) |
-| 4  | Sep 13 | **Vis**: Big data visual analytics systems | [[1](http://vgc.poly.edu/projects/taxivis/resources/paper.pdf)], [[2](https://hdc.cs.arizona.edu/papers/infovis_2020_dbsurvey.pdf)] | |
+| 4  | Sep 13 | **Vis**: Big data visual analytics systems | [[1](https://ieeexplore.ieee.org/document/1333623)], [[2](https://kops.uni-konstanz.de/bitstream/handle/123456789/5631/Visual_Analytics_Scope_and_Challenges.pdf)], [[3](http://vgc.poly.edu/projects/taxivis/resources/paper.pdf)], [[4](https://hdc.cs.arizona.edu/papers/infovis_2020_dbsurvey.pdf)] | |
 | 5  | Sep 20 | **Vis**: Progressive | [[1](https://drops.dagstuhl.de/opus/volltexte/2019/10346/pdf/dagrep_v008_i010_p001_18411.pdf)], [[2](http://idl.cs.washington.edu/files/2019-Falcon-CHI.pdf)] | |
 | 6  | Sep 27 | **Vis**: Uncertainty | [[1](https://research.tableau.com/sites/default/files/uncertainty_vis_eval.pdf)] |       |
 | 7  | Oct 4  | **Data**: approximate queries, hashing, learned indices | [[1](https://dl.acm.org/doi/10.1145/3318464.3389752)], [[2](https://www.cin.ufpe.br/~nivan/pdfs/qds.pdf)] | |
@@ -115,10 +115,12 @@ This course also includes a class participation grade that will take into consid
   - Link: https://github.com/uic-cs425/spring-2021-assignment-1
 - Assignment 2:
   - Back-end technologies and libraries.
-  - Week 4 (Sep 13), due week 5 (Sep 20).
+  - Week 5 (Sep 18), due week 6 (Sep 27).
+  - Link: https://github.com/uic-cs425/spring-2021-assignment-1
 - Final project proposal:
   - 2-page document describing final project proposal.
   - Week 3 (Sep 6), due week 5 (Sep 24).
+  - Link: https://fmiranda.me/courses/cs594-fall-2021/final-project
 - Final project midterm review:
   - ~10-minute presentation.
   - Due week 10 (presentations).

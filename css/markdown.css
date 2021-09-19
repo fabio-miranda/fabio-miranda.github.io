@@ -36,16 +36,29 @@ table tr:nth-child(even) {
 }
 
 p {
-    margin-bottom: 0px;
+    margin-bottom: 10px;
 }
 
 h4, h5 {
-    margin-top: 1rem;
-    margin-bottom: .5rem
+    margin-top: 24px;
+    margin-bottom: 16px;
 }
 
 .table hr {
     width: calc(100% + 10px);
     margin-left: -5px;
     border-top: 2px solid rgb(51,122,182);
+}
+
+img {
+    display:block;
+    margin: auto;
+}
+
+pre {
+    padding: 16px;
+    overflow: auto;
+    background-color: #f6f8fa;
+    border-radius: 6px;
+    font-size: 85%;
 }
