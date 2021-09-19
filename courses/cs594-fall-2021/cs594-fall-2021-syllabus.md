@@ -112,11 +112,11 @@ This course also includes a class participation grade that will take into consid
 - Assignment 1:
   - Front-end technologies and libraries.
   - Week 3 (Sep 6), due week 4 (Sep 13).
-  - Link: https://github.com/uic-cs425/spring-2021-assignment-1
+  - Link: https://fmiranda.me/courses/cs594-fall-2021/assignment-1
 - Assignment 2:
   - Back-end technologies and libraries.
   - Week 5 (Sep 18), due week 6 (Sep 27).
-  - Link: https://github.com/uic-cs425/spring-2021-assignment-1
+  - Link: https://fmiranda.me/courses/cs594-fall-2021/assignment-2
 - Final project proposal:
   - 2-page document describing final project proposal.
   - Week 3 (Sep 6), due week 5 (Sep 24).
