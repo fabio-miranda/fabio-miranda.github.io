@@ -19,13 +19,25 @@ ng generate component chart
 ng generate component data
 ```
 
-The code makes use of [D3.js](https://d3js.org/) and [OpenLayers](https://openlayers.org/):
+The front-end code makes use of [D3.js](https://d3js.org/) and [OpenLayers](https://openlayers.org/):
 
 ```
 npm install --save-dev d3 ol @types/d3 @types/ol
 ```
 
 Even if using the skeleton code, you should run ```npm install``` inside the ```vis``` folder.
+
+The back-end code makes use of [GeoPandas](https://geopandas.org/) and [Flask](https://flask.palletsprojects.com/). You can install it using [Conda](https://docs.conda.io/en/latest/) (or [Miniconda](https://docs.conda.io/en/latest/miniconda.html)):
+
+```
+conda install geopandas flask
+```
+
+If you want, you can create a new environment before installing GeoPandas and Flask:
+```
+conda create --name geopandas
+conda activate geopandas
+```
 
 GitHub link: https://github.com/uic-big-data/fall-2021-assignment-2
 
