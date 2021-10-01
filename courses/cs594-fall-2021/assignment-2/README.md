@@ -48,7 +48,7 @@ Using Flask, create a new server (``server.py``) that loads the street network g
 * ``serve_network``: ``get`` method that should return the street network (loaded in the ``load`` function) .
 * ``serve_distribution``: ``post`` method that receives a polygon (i.e., set of lat/lng coordinates) and returns the shadow distribution of all street segments **inside** the polygon. Read task 4 for a more detailed description of the shadow distribution.
 
-Rather than use angular's server (i.e., ``ng serve``), ``server.py`` should serve all required files. Note that the skeleton code **already** implements two methods to serve .html and .js files, and a ``load`` method to load the street network.
+Rather than use angular's server (i.e., ``ng serve``), ``server.py`` should serve all required files (see [ng build](https://angular.io/cli/build) for information on how to compile an app into an output directory). Note that the skeleton code **already** implements two methods to serve .html and .js files, and a ``load`` method to load the street network.
 
 
 #### Task 2
