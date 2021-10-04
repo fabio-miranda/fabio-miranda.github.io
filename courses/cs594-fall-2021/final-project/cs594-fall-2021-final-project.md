@@ -76,9 +76,9 @@ In this milestone, you will:
 
 #### M2 Deliverables
 
-Your group will need to present your proposal and intermediate results. Your presentation should clearly explain the problem (why it is important, and how you plan to address it), briefly cover prior work, describe the data, your proposal and intermediate results. Each group presentation should last 15 minutes, with 5 minutes for questions. Your group will be randomly assigned to present on Monday or Wednesday, but you are expected to attend *both* presentation days. It is up to you and your teammates to decide how the presentation will be divided between each member of the team. On top of that, you are also expected to ask *at least* one question to two different groups.
+Your group should present the proposal and intermediate results. The presentation should clearly explain the problem (why it is important, and how you plan to address it), briefly cover prior work, describe the data, proposal and intermediate results. Each group presentation should last 15 minutes *plus* 5 minutes for questions (20 minutes total). Your group will be randomly assigned to present on Monday or Wednesday, but you are expected to attend *both* presentation days. It is up to you and your teammates to decide how the presentation will be divided between each member of the team. On top of that, you are expected to pose *at least* two questions to two different groups.
 
-Submit your presentation using GitHub (PPTX or KEY presentations) and please note that this midterm review will be an opportunity to assess the progress of your team, so optimize your time to ensure that you have meaningful results by the day of your presentation.
+Submit your presentation using GitHub (PPTX or KEY presentations) and note that this midterm review will be an opportunity to assess the progress of your team, so optimize your time to ensure that you have meaningful results by the day of your presentation.
 
 ### Teams 
 
