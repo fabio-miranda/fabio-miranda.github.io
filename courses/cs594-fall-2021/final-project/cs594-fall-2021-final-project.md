@@ -76,25 +76,24 @@ In this milestone, you will:
 
 #### M2 Deliverables
 
-Your group should present the proposal and intermediate results. The presentation should clearly explain the problem (why it is important, and how you plan to address it), briefly cover prior work, describe the data, proposal and intermediate results. Each group presentation should last 15 minutes *plus* 5 minutes for questions (20 minutes total). Your group will be randomly assigned to present on Monday or Wednesday, but you are expected to attend *both* presentation days. It is up to you and your teammates to decide how the presentation will be divided between each member of the team. On top of that, you are expected to pose *at least* two questions to two different groups.
+Your group should present the proposal and intermediate results. The presentation should clearly explain the problem (why it is important, and how you plan to address it), briefly cover prior work, describe the data, proposal and intermediate results. Each group presentation should last 13 minutes *plus* 2 minutes for questions (15 minutes total). Your group will be randomly assigned to present on Monday or Wednesday, but you are expected to attend *both* presentation days. It is up to you and your teammates to decide how the presentation will be divided between each member of the team. On top of that, you are expected to pose *at least* two questions to two different groups.
 
 Submit your presentation using GitHub (PPTX or KEY presentations) and note that this midterm review will be an opportunity to assess the progress of your team, so optimize your time to ensure that you have meaningful results by the day of your presentation.
 
 ##### Presentation Order
 
 Monday November 1st:
-1. Flow
-2. Taxi
-3. Viscor
-4. Covid
-5. Urban
+1. Flow (9:30am)
+2. Taxi (9:45am)
+3. Viscor (10:00am)
+4. Covid (10:15am)
+5. Urban (10:30am)
 
 Wednesday November 3rd:
-6. Art
-7. Noise
-8. Fishing
-9. Real estate
-
+6. Art (9:30am)
+7. Noise (9:45am)
+8. Fishing (10:00am)
+9. Real estate (10:15am)
 
 ### Teams 
 
