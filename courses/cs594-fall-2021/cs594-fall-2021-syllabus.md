@@ -120,10 +120,11 @@ This course also includes a class participation grade that will take into consid
 - Final project proposal:
   - 2-page document describing final project proposal.
   - Week 3 (Sep 6), due week 5 (Sep 24).
-  - Link: https://fmiranda.me/courses/cs594-fall-2021/final-project
+  - Link: https://fmiranda.me/courses/cs594-fall-2021/final-project/#milestone-1-project-proposal
 - Final project midterm review:
   - ~10-minute presentation.
-  - Due week 10 (presentations).
+  - Due week 11 (presentations).
+  - Link: https://fmiranda.me/courses/cs594-fall-2021/final-project/#milestone-2-midterm-review
 - Final project:
   - ~30-minute presentation and final report.
   - Due weeks 15 and 16 (presentations) and week 16 (final report).

@@ -78,7 +78,7 @@ In this milestone, you will:
 
 Your group will need to present your proposal and intermediate results. Your presentation should clearly explain the problem (why it is important, and how you plan to address it), briefly cover prior work, describe the data, your proposal and intermediate results. Each group presentation should last 15 minutes, with 5 minutes for questions. Your group will be randomly assigned to present on Monday or Wednesday, but you are expected to attend *both* presentation days. It is up to you and your teammates to decide how the presentation will be divided between each member of the team. On top of that, you are also expected to ask *at least* one question to two different groups.
 
-You are expected to also submit your presentation using GitHub (PPTX or KEY presentations). Please note that this midterm review will be an opportunity to assess the progress of your team, so optimize your time to ensure that you have meaningful results by the day of the presentation.
+Submit your presentation using GitHub (PPTX or KEY presentations) and please note that this midterm review will be an opportunity to assess the progress of your team, so optimize your time to ensure that you have meaningful results by the day of your presentation.
 
 ### Teams 
 
