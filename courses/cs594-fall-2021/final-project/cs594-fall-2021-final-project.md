@@ -90,10 +90,10 @@ Monday November 1st:
 5. Urban (10:30am)
 
 Wednesday November 3rd:
-6. Art (9:30am)
-7. Noise (9:45am)
-8. Fishing (10:00am)
-9. Real estate (10:15am)
+1. Art (9:30am)
+2. Noise (9:45am)
+3. Fishing (10:00am)
+4. Real estate (10:15am)
 
 ### Teams 
 
