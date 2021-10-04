@@ -80,6 +80,22 @@ Your group should present the proposal and intermediate results. The presentatio
 
 Submit your presentation using GitHub (PPTX or KEY presentations) and note that this midterm review will be an opportunity to assess the progress of your team, so optimize your time to ensure that you have meaningful results by the day of your presentation.
 
+##### Presentation Order
+
+Monday November 1st:
+1. Flow
+2. Taxi
+3. Viscor
+4. Covid
+5. Urban
+
+Wednesday November 3rd:
+6. Art
+7. Noise
+8. Fishing
+9. Real estate
+
+
 ### Teams 
 
 In the final project, you will be able to work in groups of 2 or 3, with a *maximum* of 1 PhD student per group. Each group must also attend a 30-minute meeting every two weeks during the office hours, where we will discuss the overall direction and progress of the project. The final report must contain a detailed description of the contributions of each team member.
