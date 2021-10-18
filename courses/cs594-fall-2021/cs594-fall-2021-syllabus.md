@@ -82,16 +82,17 @@ This is a tentative course schedule and will be adjusted along the way. Slides w
 | 4  | Sep 13 | **Vis**: Big data visual analytics systems | [[1](https://ieeexplore.ieee.org/document/1333623)], [[2](https://kops.uni-konstanz.de/bitstream/handle/123456789/5631/Visual_Analytics_Scope_and_Challenges.pdf)], [[3](http://vgc.poly.edu/projects/taxivis/resources/paper.pdf)], [[4](https://hdc.cs.arizona.edu/papers/infovis_2020_dbsurvey.pdf)] | [06-vis-analytics-systems.pdf](https://fmiranda.me/courses/cs594-slides/06-vis-analytics-systems.pdf) |
 | 5  | Sep 20 | **Vis**: Uncertainty | [[1](http://space.ucmerced.edu/Downloads/publications/Uncertainty_Visualization_Padilla_Kay_Hullman_2020.pdf)], [[2](https://damassets.autodesk.net/content/dam/autodesk/www/autodesk-reasearch/Publications/pdf/same-stats-different-graphs.pdf)], [[3](http://jonathanstray.com/papers/wickham.pdf)], [[4](https://research.tableau.com/sites/default/files/uncertainty_vis_eval.pdf)] | [07-uncertainty.pdf](https://fmiranda.me/courses/cs594-slides/07-uncertainty.pdf)   |
 | 6  | Sep 27 | **Vis**: Progressive | [[1](https://drops.dagstuhl.de/opus/volltexte/2019/10346/pdf/dagrep_v008_i010_p001_18411.pdf)], [[2](http://idl.cs.washington.edu/files/2019-Falcon-CHI.pdf)], [[3](http://data.jku-vds-lab.at/papers/2014_vast_opening-black-box.pdf)], [[4](https://perer.org/papers/adamPerer-Progressive-VAST2014.pdf)] | [08-progressive.pdf](https://fmiranda.me/courses/cs594-slides/08-progressive.pdf) |
-| 7  | Oct 4  | **Data**: approximate queries, hashing, learned indices | [[1](https://dl.acm.org/doi/10.1145/3318464.3389752)], [[2](https://www.cin.ufpe.br/~nivan/pdfs/qds.pdf)] | |
-| 8  | Oct 11 | **Data**: spatial structures | [[1](https://nanocubes.net/assets/pdf/nanocubes_paper.pdf)], [[2](http://vis.stanford.edu/files/2013-imMens-EuroVis.pdf)], [[3](https://fmiranda.me/publications/topkube/tvcg-2017-topkube.pdf)], [[4](https://ieeexplore.ieee.org/document/7536648)] | |
-| 9  | Oct 18 | **Data**: spatial queries | [[1](https://www.harishd.com/home/assets/papers/raster-join.pdf)], [[2](https://fmiranda.me/publications/raster-join-demo/sigmod-2018-demo-raster-join.pdf)] | |
-| 10 | Oct 25  | **Data**: MapReduce, Hadoop, Spark | [[1](https://hadoop.apache.org/)], [[2](https://spark.apache.org/)] | |
+| 7 | Oct 4  | Reproducibility & interactive computing | [[1](https://www.computer.org/csdl/magazine/cs/2021/02/09391750/1sq7sW0pjWM)] | [09-interactive-computing.pdf](https://fmiranda.me/courses/cs594-slides/09-interactive-computing.pdf) |
+| 8 | Oct 11 | **Analytics**: computational topology | [[1](https://topology-tool-kit.github.io/)], [[2](https://arxiv.org/abs/1610.06978)], [[3](http://cs.arizona.edu/~nivanferreira/pdfs/taxi_patterns.pdf)] | [10-topological-data-analysis.pdf](https://fmiranda.me/courses/cs594-slides/10-topological-data-analysis.pdf) |
+| 9 | Oct 18 | **Data**: spatial structures | [[1](https://nanocubes.net/assets/pdf/nanocubes_paper.pdf)], [[2](http://vis.stanford.edu/files/2013-imMens-EuroVis.pdf)], [[3](https://fmiranda.me/publications/topkube/tvcg-2017-topkube.pdf)], [[4](https://ieeexplore.ieee.org/document/7536648)] | |
+| 10 | Oct 25 | **Data**: spatial queries | [[1](https://www.harishd.com/home/assets/papers/raster-join.pdf)], [[2](https://fmiranda.me/publications/raster-join-demo/sigmod-2018-demo-raster-join.pdf)] | |
 | 11 | Nov 1 | Final project midterm review | | |
-| 12 | Nov 8  | Reproducibility & interactive computing | [[1](https://www.computer.org/csdl/magazine/cs/2021/02/09391750/1sq7sW0pjWM)] | |
-| 13 | Nov 15 | **Analytics**: computational topology | [[1](https://topology-tool-kit.github.io/)], [[2](https://arxiv.org/abs/1610.06978)], [[3](http://cs.arizona.edu/~nivanferreira/pdfs/taxi_patterns.pdf)] | |
-| 14 | Nov 22 | **Analytics**: wavelet | [[1](https://link.springer.com/chapter/10.1007/978-3-030-03574-7_14)], [[2](https://ieeexplore.ieee.org/abstract/document/8024139)], [[3](https://ieeexplore.ieee.org/abstract/document/7347624)] | |
-| 15 | Nov 29 | **Analytics**: streaming data | [[1](https://dl.acm.org/doi/abs/10.14778/3137628.3137652)], [[2](https://www.sciencedirect.com/science/article/pii/S2665963820300403)] | |
+| 12 | Nov 8  | **Data**: approximate queries, hashing, learned indices | [[1](https://dl.acm.org/doi/10.1145/3318464.3389752)], [[2](https://www.cin.ufpe.br/~nivan/pdfs/qds.pdf)] | |
+| 13 | Nov 15  | **Data**: MapReduce, Hadoop, Spark | [[1](https://hadoop.apache.org/)], [[2](https://spark.apache.org/)] | |
+| 14 | Nov 2 | **Analytics**: wavelet | [[1](https://link.springer.com/chapter/10.1007/978-3-030-03574-7_14)], [[2](https://ieeexplore.ieee.org/abstract/document/8024139)], [[3](https://ieeexplore.ieee.org/abstract/document/7347624)] | |
+| 15 | Nov 29 | **Analytics**: streaming data | [[1](https://dl.acm.org/doi/abs/10.14778/3137628.3137652)], [[2](https://www.sciencedirect.com/science/article/pii/S2665963820300403)] | | 
 | 16 | Dec 6  | Project presentations | | |
+
 
 ***
 
