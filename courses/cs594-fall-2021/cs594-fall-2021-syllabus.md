@@ -90,7 +90,6 @@ This is a tentative course schedule and will be adjusted along the way. Slides w
 | 12 | Nov 8 | **Data**: Spatial queries | [[1](https://www.harishd.com/home/assets/papers/raster-join.pdf)], [[2](https://fmiranda.me/publications/raster-join-demo/sigmod-2018-demo-raster-join.pdf)] | [13-spatial-data-processing.pdf](https://fmiranda.me/courses/cs594-slides/13-spatial-data-processing.pdf) |
 | 13 | Nov 15  | **Data**: MapReduce, Hadoop, Spark, Dask | [[1](https://hadoop.apache.org/)], [[2](https://spark.apache.org/)] | [14-mapreduce-spark.pdf](https://fmiranda.me/courses/cs594-slides/14-mapreduce-spark.pdf) |
 | 14 | Nov 22  | **Data**: Approximate queries, hashing, learned indices | [[1](https://dl.acm.org/doi/10.1145/3318464.3389752)], [[2](https://www.cin.ufpe.br/~nivan/pdfs/qds.pdf)] | |
-<!--- | 14 | Nov 22 | **Analytics**: wavelet, streaming data | [[1](https://link.springer.com/chapter/10.1007/978-3-030-03574-7_14)], [[2](https://ieeexplore.ieee.org/abstract/document/8024139)], [[3](https://ieeexplore.ieee.org/abstract/document/7347624)], [[4](https://dl.acm.org/doi/abs/10.14778/3137628.3137652)], [[5](https://www.sciencedirect.com/science/article/pii/S2665963820300403)] | | -->
 | 15 | Nov 29 | Project presentations |  | | 
 
 
@@ -129,6 +128,7 @@ This course also includes a class participation grade that will take into consid
 - Final project:
   - ~10-minute presentation and final report.
   - Due weeks 15 (presentations) and week 16 (final report).
+  - Link: https://fmiranda.me/courses/cs594-fall-2021/final-project/#milestone-3-final-project
 
 #### Late Days
 Late submissions will be penalized at a deduction rate of 20% per day (after 5 days the submission will have a maximum grade of zero). The student can use five late-day points during the semester to make up for that; each late-day point extends an assignment deadline by one day.

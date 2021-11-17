@@ -135,17 +135,17 @@ You are expected to submit your proposal using GitHub. You should create a repos
 ##### Presentation Order
 
 Monday November 29th:
-1. 
-2. 
-3. 
-4. 
-5. 
+1. Urban (9:30am)
+2. Noise (9:45am)
+3. Real estate (10:00am)
+4. Flow (10:15am)
+5. Covid (10:30am)
 
 Wednesday December 1st:
-1. 
-2. 
-3. 
-4. 
+1. Art (9:30am)
+2. Taxi (9:45am)
+3. Viscor (10:00am)
+4. Fishing (10:15am)
 
 ### Teams 
 
