@@ -9,9 +9,9 @@
 2. [Milestone 2: Midterm Review](#milestone-2-midterm-review)
     1. [M2 Objectives](#m2-objectives)
     2. [M2 Deliverables](#m2-deliverables)
-<!-- 3. [Milestone 3: Final Report and Presentation] -->
-    <!-- 1. [Objectives] -->
-    <!-- 2. [Deliverables] -->
+3. [Milestone 3: Final Report and Presentation](#milestone-3-final-project)
+    1. [M3 Objectives](#m3-objectives)
+    2. [M3 Deliverables](#m3-deliverables)
 4. [Teams](#teams)
 5. [Evaluation and Grading](#evaluation-and-grading)
 
@@ -132,6 +132,20 @@ You have four pages to cover **all** of the topics.
 
 You are expected to submit your proposal using GitHub. You should create a repository for your team on GitHub Classroom (see Discord for invitation link), and include **all** proposal files inside the **proposal** folder. You should also include a ``Makefile`` to build the document into a PDF file (i.e., ``make pdf`` command should generate a PDF file). The [template repository](https://github.com/uic-big-data/fall-2021-final-project) already includes some of the files you will need.
 
+##### Presentation Order
+
+Monday November 29th:
+1. Flow (9:30am)
+2. Taxi (9:45am)
+3. Viscor (10:00am)
+4. Covid (10:15am)
+5. Urban (10:30am)
+
+Wednesday December 1st:
+1. Art (9:30am)
+2. Noise (9:45am)
+3. Fishing (10:00am)
+4. Real estate (10:15am)
 
 ### Teams 
 
