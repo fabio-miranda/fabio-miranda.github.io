@@ -134,7 +134,18 @@ You are expected to submit your proposal using GitHub. You should create a repos
 
 ##### Presentation Order
 
-TBD
+Monday November 29th:
+1. 
+2. 
+3. 
+4. 
+5. 
+
+Wednesday December 1st:
+1. 
+2. 
+3. 
+4. 
 
 ### Teams 
 
