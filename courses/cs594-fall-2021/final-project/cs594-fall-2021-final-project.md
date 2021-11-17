@@ -124,7 +124,7 @@ In the ``04-research.tex`` file, discuss how you have tackled the problem. Clear
 
 In the ``05-results.tex`` file, detail your results.
 
-In the ``06-conclusion.tex`` file, add a conclusion and, especially, potential future work.
+In the ``06-conclusion.tex`` file, add a conclusion paying close attention to potential future work discussion.
 
 In this report, you should **clearly** articulate how your work tackled the problem and highlight how your results can point to future research directions. Besides concrete results, it is also important to discuss future work that you were able to identify throughout the semester.
 
