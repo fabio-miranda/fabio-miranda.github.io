@@ -88,7 +88,7 @@ This is a tentative course schedule and will be adjusted along the way. Slides w
 | 10 | Oct 25 | **Data**: Visualization data structures | [[1](https://nanocubes.net/assets/pdf/nanocubes_paper.pdf)], [[2](http://vis.stanford.edu/files/2013-imMens-EuroVis.pdf)], [[3](https://fmiranda.me/publications/topkube/tvcg-2017-topkube.pdf)], [[4](https://ieeexplore.ieee.org/document/7536648)] | [12-visualization-data-structures.pdf](https://fmiranda.me/courses/cs594-slides/12-visualization-data-structures.pdf) |
 | 11 | Nov 1 | Final project midterm review | | |
 | 12 | Nov 8 | **Data**: Spatial queries | [[1](https://www.harishd.com/home/assets/papers/raster-join.pdf)], [[2](https://fmiranda.me/publications/raster-join-demo/sigmod-2018-demo-raster-join.pdf)] | [13-spatial-data-processing.pdf](https://fmiranda.me/courses/cs594-slides/13-spatial-data-processing.pdf) |
-| 13 | Nov 15  | **Data**: MapReduce, Hadoop, Spark, Dask | [[1](https://hadoop.apache.org/)], [[2](https://spark.apache.org/)] | [14-mapreduce-spark.pdf](https://fmiranda.me/courses/cs594-slides/14-mapreduce-spark.pdf) |
+| 13 | Nov 15  | **Data**: MapReduce, Hadoop, Spark, Dask | [[1](https://hadoop.apache.org/)], [[2](https://spark.apache.org/)], [[3](https://dask.org/)] | [14-mapreduce-spark.pdf](https://fmiranda.me/courses/cs594-slides/14-mapreduce-spark.pdf) |
 | 14 | Nov 22  | **Data**: Approximate queries, hashing, learned indices | [[1](https://dl.acm.org/doi/10.1145/3318464.3389752)], [[2](https://www.cin.ufpe.br/~nivan/pdfs/qds.pdf)] | |
 | 15 | Nov 29 | Project presentations |  | | 
 
