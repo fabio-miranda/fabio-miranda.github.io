@@ -64,7 +64,7 @@ If this is the first time using LaTeX, go through [this](https://www.overleaf.co
 
 ### Milestone 2: Midterm Review
 
-The second milestone for the final project is presenting your proposal and intermediate results.
+In the second milestone, you will present your proposal and intermediate results.
 
 #### M2 Objectives
 
@@ -94,6 +94,44 @@ Wednesday November 3rd:
 2. Noise (9:45am)
 3. Fishing (10:00am)
 4. Real estate (10:15am)
+
+
+### Milestone 3: Final Project
+
+In the final milestone, you will present your final results.
+
+
+#### M3 Objectives
+
+In this milestone, you will:
+
+1. Summarize and present your final project.
+2. Submit a 4-page (plus references) project report.
+
+#### M3 Deliverables
+
+Your group should present the final results of your project. The presentation should briefly explain the problem, cover prior work, describe data, proposal, final results, conclusion and future work. Each group presentation should last 10 minutes. Just like the previous presentations, your group will be randomly assigned to present on Monday or Wednesday, but you are expected to attend both presentation days.
+
+Your group should also submit a 4-page (plus references) report following the same [template](https://tc.computer.org/vgtc/publications/journal/) used for the proposal document. The final report should contain the following files: ``01-introduction.tex``, ``02-related.tex``, ``03-data.tex``, ``04-research.tex``, ``05-results.tex``, ``06-conclusion.tex``, and ``proposal.bib`` with the references. You can also add figures inside the ``figs`` repository.
+
+In the ``01-introduction.tex`` file, clearly describe the problem, why it is important, and how you plan to address it.
+
+In the ``02-related.tex`` file, briefly describe prior work, and how the proposal work differs from it.
+
+In the ``03-data.tex`` file, summarize the most important points (e.g., size, attributes) of the dataset you plan to use.
+
+In the ``04-research.tex`` file, discuss how you have tackled the problem. Clearly describe how your project solved (or tried to solve) some of the limitations of related work.
+
+In the ``05-results.tex`` file, detail your results.
+
+In the ``06-conclusion.tex`` file, add a conclusion and, especially, potential future work.
+
+In this report, you should **clearly** articulate how your work tackled the problem and highlight how your results can point to future research directions. Besides concrete results, it is also important to discuss future work that you were able to identify throughout the semester.
+
+You have four pages to cover **all** of the topics.
+
+You are expected to submit your proposal using GitHub. You should create a repository for your team on GitHub Classroom (see Discord for invitation link), and include **all** proposal files inside the **proposal** folder. You should also include a ``Makefile`` to build the document into a PDF file (i.e., ``make pdf`` command should generate a PDF file). The [template repository](https://github.com/uic-big-data/fall-2021-final-project) already includes some of the files you will need.
+
 
 ### Teams 
 
