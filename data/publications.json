@@ -5,7 +5,7 @@
             "authors": "Maryam Hosseini, Iago B. Araujo, Hamed Yazdanpanah, Eric K. Tokuda, Fabio Miranda, Claudio T. Silva, Roberto M. Cesar Jr.",
             "where": "2nd Spatial Data Science Symposium",
             "abstract": "Large-scale analysis of pedestrian infrastructures, particularly sidewalks, is critical to human-centric urban planning and design. Benefiting from the rich data set of planimetric features and high-resolution orthoimages provided through the New York City Open Data portal, we train a computer vision model to detect sidewalks, roads, and buildings from remote-sensing imagery and achieve 83% mIoU over held-out test set. We apply shape analysis techniques to study different attributes of the extracted sidewalks. More specifically, we do a tile-wise analysis of the width, angle, and curvature of sidewalks, which aside from their general impacts on walkability and accessibility of urban areas, are known to have significant roles in the mobility of wheelchair users. The preliminary results are promising, glimpsing the potential of the proposed approach to be adopted in different cities, enabling researchers and practitioners to have a more vivid picture of the pedestrian realm.",
-            "paper": "sidewalk-sdss/sidewalk_measurements_paper.png",
+            "image": "sidewalk-sdss/sidewalk_measurements_paper.png",
             "pdf": "https://fmiranda.me/publications/sidewalk-sdss/sidewalk_measurements.pdf",
             "bibtex": "https://fmiranda.me/publications/sidewalk-sdss/sidewalk_measurements.bib",
             "doi": "https://doi.org/10.25436/E2QG6F"
