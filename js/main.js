@@ -573,7 +573,6 @@ function loadTeaser(fileName) {
 
 			ul.append("span")
                 .html(function(d,i) {
-                	console.log(d.value["doi"]);
                 	if(d.value["doi"] != null) 
                     	return '[<a target="_new" href='+d.value["doi"]+'>DOI</a>] ';
                     // else
@@ -641,9 +640,9 @@ function loadTeaser(fileName) {
 				.attr("class", "img-thumbnail");
 
 			image.append("img")
-				.attr("src", function(d){return "../publications/"+d.value["teaser"]})
-				.attr("alt", function(d){return d.value["title"]+" teaser"})
-				.attr("title", function(d){return d.value["title"]+" teaser"})
+				.attr("src", function(d){if(d.value["teaser"] != null) return "../publications/"+d.value["teaser"]})
+				.attr("alt", function(d){if(d.value["teaser"] != null) return d.value["title"]+" teaser"})
+				.attr("title", function(d){if(d.value["teaser"] != null) return d.value["title"]+" teaser"})
 				.style("max-width", "100%")
 				.style("max-height", "250px")
 				.style("width", "auto");

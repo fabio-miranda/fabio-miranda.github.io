@@ -1,6 +1,11 @@
 {
 	"Recent Updates": [
         {
+            "text": "'Sidewalk Measurements from Satellite Images: Preliminary Findings' and 'Visualizing Environmental Justice Issues in Urban Areas with a Community-based Approach' accepted to Spatial Data Science Symposium.",
+            "date": "12/06/2021",
+            "more": "https://fmiranda.me/publications/"
+        },
+        {
             "text": "'Transportation Scenario Planning with Graph Neural Networks' accepted to UrbComp 2021 and 'COVID-19 EnsembleVis: Visual Analysis of County-level Ensemble Forecast Models' accepted to VAHC 2021",
             "date": "11/01/2021"
         },

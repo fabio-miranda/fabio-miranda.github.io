@@ -1,5 +1,45 @@
 {
 	"Publications": {
+        "sidewalk-sdss": {
+            "title": "Sidewalk Measurements from Satellite Images: Preliminary Findings",
+            "authors": "Maryam Hosseini, Iago B. Araujo, Hamed Yazdanpanah, Eric K. Tokuda, Fabio Miranda, Claudio T. Silva, Roberto M. Cesar Jr.",
+            "where": "2nd Spatial Data Science Symposium",
+            "abstract": "Large-scale analysis of pedestrian infrastructures, particularly sidewalks, is critical to human-centric urban planning and design. Benefiting from the rich data set of planimetric features and high-resolution orthoimages provided through the New York City Open Data portal, we train a computer vision model to detect sidewalks, roads, and buildings from remote-sensing imagery and achieve 83% mIoU over held-out test set. We apply shape analysis techniques to study different attributes of the extracted sidewalks. More specifically, we do a tile-wise analysis of the width, angle, and curvature of sidewalks, which aside from their general impacts on walkability and accessibility of urban areas, are known to have significant roles in the mobility of wheelchair users. The preliminary results are promising, glimpsing the potential of the proposed approach to be adopted in different cities, enabling researchers and practitioners to have a more vivid picture of the pedestrian realm.",
+            "paper": "sidewalk-sdss/sidewak_measurements_paper.png",
+            "pdf": "https://fmiranda.me/publications/sidewalk-sdss/sidewak_measurements.pdf",
+            "bibtex": "https://fmiranda.me/publications/sidewalk-sdss/sidewak_measurements.bib",
+            "doi": "https://doi.org/10.25436/E2QG6F"
+        },
+        "env-justice-sdss": {
+            "title": "Visualizing Environmental Justice Issues in Urban Areas with a Community-based Approach",
+            "authors": "Joel Flax-Hatch, Sanjana Srabanti, Fabio Miranda, Apostolis Sambanis, Michael D. Cailas",
+            "where": "2nd Spatial Data Science Symposium",
+            "abstract": "According to environmental justice, environmental degradation and benefits should not be disproportionately shared between communities. Identifying disparities in the spatial distribution of environmental degradation is therefore a prerequisite for validating the state of environmental justice in a geographic region. Under ideal circumstances, environmental risk assessment is a preferred metric, but only when exposure levels have been quantified reliably after estimating the risk. In this study, we adopt a proximity burden metric caused by adjacent hazardous sources, allowing us to evaluate the environmental burden distribution and vulnerability to pollution sources. In close collaboration with a predominantly Latinx community in Chicago, we highlight the usefulness of our approach through a case study that shows how certain community areas in the city are likely to bear a disproportionate burden of environmental pollution caused by industrial roads.",
+            "image": "env-justice-sdss/env-justice-sdss_paper.png",
+            "pdf": "https://fmiranda.me/publications/env-justice-sdss/env-justice-sdss.pdf",
+            "bibtex": "https://fmiranda.me/publications/env-justice-sdss/env-justice-sdss.bib",
+            "doi": "https://doi.org/10.25436/E2Z30J"
+        },
+        "gmel-urbcomp": {
+            "title": "Transportation Scenario Planning with Graph Neural Networks",
+            "authors": "Ana Alice Peregrino, Soham Pradhan, Zhicheng Liu, Nivan Ferreira, Fabio Miranda",
+            "where": "10th International Workshop on Urban Computing",
+            "abstract": "Providing efficient human mobility services and infrastructure is one of the major concerns of most mid-sized to large cities around the world. A proper understanding of the dynamics of commuting flows is, therefore, a requisite to better plan urban areas. In this context, an important task is to study hypothetical scenarios in which possible future changes are evaluated. For instance, how the increase in residential units or transportation modes in a neighborhood will change the commuting flows to or from that region? In this paper, we propose to leverage GMEL, a recently introduced graph neural network model, to evaluate changes in commuting flows taking into account different land use and infrastructure scenarios. We validate the usefulness of our methodology through real-world case studies set in two large cities in Brazil.",
+            "image": "gmel-urbcomp/scenario_planning_gmel_paper.png",
+            "pdf": "https://fmiranda.me/publications/gmel-urbcomp/scenario_planning_gmel.pdf",
+            "bibtex": "https://fmiranda.me/publications/gmel-urbcomp/scenario_planning_gmel.bib"
+        },
+        "covid-19-vahc": {
+            "title": "COVID-19 EnsembleVis: Visual Analysis of County-level Ensemble Forecast Models",
+            "authors": "Sanjana Srabanti, G. Elisabeta Marai, Fabio Miranda",
+            "where": "2021 IEEE Workshop on Visual Analytics in Healthcare (VAHC)",
+            "abstract": "The spread of the SARS-CoV-2 virus and its contagious disease COVID-19 has impacted countries to an extent not seen since the 1918 flu pandemic. In the absence of an effective vaccine and as cases surge worldwide, governments were forced to adopt measures to inhibit the spread of the disease. To reduce its impact and to guide policy planning and resource allocation, researchers have been developing models to forecast the infectious disease. Ensemble models, by aggregating forecasts from multiple individual models, have been shown to be a useful forecasting method. However, these models can still provide less-than-adequate forecasts at higher spatial resolutions. In this paper, we built COVID-19 EnsembleVis, a web-based interactive visual interface that allows the assessment of the errors of ensembles and individual models by enabling users to effortlessly navigate through and compare the outputs of models considering their space and time dimensions. COVID-19 EnsembleVis enables a more detailed understanding of uncertainty and the range of forecasts generated by individual models.",
+            "teaser": "covid-19-vahc/covid-19-teaser.png",
+            "image": "covid-19-vahc/covid-19-paper.png",
+            "pdf": "https://fmiranda.me/publications/covid-19-vahc/covid_ensemble.pdf",
+            "bibtex": "https://fmiranda.me/publications/covid-19-vahc/covid-19.bib",
+            "doi": "https://doi.org/10.1109/VAHC53616.2021.00005"
+        },
         "urbanrama": {
             "title": "UrbanRama: Navigating Cities in Virtual Reality",
             "authors": "Shaoyu Chen, Fabio Miranda, Nivan Ferreira, Marcos Lage, Harish Doraiswamy, Corinne Brenner, Connor Defanti, Michael Koutsoubis, Luc Wilson, Kenneth Perlin, Claudio Silva",
