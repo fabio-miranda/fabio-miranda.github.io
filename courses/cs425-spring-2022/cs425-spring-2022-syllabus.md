@@ -28,7 +28,7 @@
 #### Class Meeting Information
 We will meet in-person in EVL's [Continuum room](https://www.evl.uic.edu/location), at the time indicated in the schedule of classes. Discord will be the main platform for instructor / student communication, please check Blackboard for the Discord invitation link.
 
-** Important: Because of COVID-19, classes will be online for the first two weeks. In-person classes are expected to resume Monday, Jan. 24 (please check [here](https://today.uic.edu/spring-semester-online-start-and-testing-updates) and Discord for updates). **
+**Important: Because of COVID-19, classes will be online for the first two weeks. In-person classes are expected to resume Monday, Jan. 24 (please check [here](https://today.uic.edu/spring-semester-online-start-and-testing-updates) and Discord for updates).**
 
 #### Course Instructor
 Fabio Miranda
