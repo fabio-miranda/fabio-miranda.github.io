@@ -137,7 +137,7 @@ This is a tentative course schedule and will be adjusted along the way. In the r
 - Final exam: Week 17
 
 #### Exam Considerations
-There will be one take-home exam, composed of up to five questions. You will have 24 hours to submit your answers. You can use any textbooks or notes of your choice, but **you cannot discuss solutions with your colleagues**. You are expected to demonstrate ability to use critical thinking in explaining (and applying) the material covered in class and assignments. Make sure you are as detailed and through as possible.
+There will be one final exam. You are expected to demonstrate ability to use critical thinking in explaining (and applying) the material covered in class and assignments. Make sure you are as detailed and through as possible.
 
 #### Assignment Considerations
 There will be an initial WebGL assignment to make sure you are familiar with the main components of web development. After that, there will be four main assignments covering different aspects of computer graphics. You must use Javascript or Typescript with WebGL to complete your assignments. **Do not use any high-level library, such as Three.js, unless clearly specified in the assignment**. We will use [GitHub Classroom](https://github.com/uic-cs425) for the assignments.
