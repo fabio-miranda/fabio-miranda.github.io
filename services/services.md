@@ -5,7 +5,13 @@
 
 [VIS 2021 Chicago Satellite Event](https://www.evl.uic.edu/vis-chicago/), Co-chair (2021)
 
+#### Program chair
+
+[SIBGRAPI 2022](https://www.natalnet.br/sibgrapi2022/)
+
 #### Program committees
+
+IEEE VIS (2022)
 
 EuroVis (2022)
 

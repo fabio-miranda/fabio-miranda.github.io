@@ -72,6 +72,8 @@ ul {
 
 .news {
     padding: 0px;
+    height: 400px;
+    overflow-y: auto;
 }
 
 .highlights {
