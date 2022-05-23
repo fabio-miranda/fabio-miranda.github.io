@@ -1,11 +1,11 @@
 {
     "Research Highlights": {
         "1": {
-            "title": "Data Structures for the Interactive Visual Analysis of Urban Data",
-            "authors": "F. Miranda",
-            "teaser": "phd-dissertation/phd-dissertation.gif",
-            "where": ["PhD dissertation"],
-            "more": ["https://fmiranda.me/publications/phd-dissertation/"]
+            "title": "CitySurfaces: City-scale semantic segmentation of sidewalk materials",
+            "authors": "M. Hosseini, F. Miranda, J. Lin, C. T. Silva",
+            "teaser": "citysurfaces/citysurfaces.png",
+            "where": ["Sustainable Cities and Society (2022)"],
+            "more": ["https://fmiranda.me/publications/citysurfaces/"]
         },
         "2": {
             "title": "Shadow Accrual Maps",
