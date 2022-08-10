@@ -25,9 +25,7 @@
 ### General Information
 
 #### Class Meeting Information
-We will meet in-person in EVL's [Continuum room](https://www.evl.uic.edu/location), at the time indicated in the schedule of classes. Please read the [evaluation](#evaluation-and-grading) section for details on attendance.
-
-Students are required to participate in these sessions. Office hours will be held via Zoom.
+We will meet in-person in EVL's [Continuum room](https://www.evl.uic.edu/location), at the time indicated in the schedule of classes. Please read the [evaluation](#evaluation-and-grading) section for details on attendance. Office hours will be held via Zoom.
 
 Discord will be the main platform for instructor / student communication, please check Blackboard for the Discord invitation link. Zoom meeting information will be posted on Discord.
 
@@ -138,7 +136,7 @@ Attendance is important. Note that this course includes a class participation gr
 
 
 #### Late Days
-Since students will need to present their projects to the class, it is very important that they are finished by the deadline, otherwise it will be difficult to schedule new presentation slots.
+Since students will need to present their projects to the class, it is very important that they are finished by the deadlines, otherwise it will be difficult to schedule new presentation slots.
 
 ***
 
