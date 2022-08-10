@@ -110,20 +110,17 @@ We will meet in-person in EVL's Continuum room, except in week 9 (presentations 
 
 This course includes three projects to make sure the student is familiar with the main components of visualization and visual analytics systems. The projects will balance theory and practice, covering both design and implementation aspects. The student can either choose a different dataset for each project, or re-use the same dataset over the three projects -- potentially further exploring and augmenting findings, insights, techniques, and/or methods. A list of datasets will be made available, but students are free to use their own dataset of interest.
 
-
 Students will need to present their projects to the class, following the course schedule. Also, students will have to present and write a critical evaluation of two different visualizations, from well-known sources. For both projects and visualization evaluations, students can optionally work in a pair with a colleague. Detailed instructions will be made available following the evaluation schedule. We will use [GitHub Classroom](https://github.com/uic-cs424) for the projects.
 
-Attendance is important. Note that this course includes a class participation grade that will take into consideration the student's contribution to a productive environment, either in the classroom, discord or office hours. **This is a subjective assessment**, and does not mean that the student needs to participate in *every* classroom discussion, but it does mean that they need to actively engage with the instructor or classmates in some capacity (classroom, discord, office hours, emails).
+Attendance is important. Note that this course includes a class participation grade that will take into consideration the student's contribution to a productive environment, either in the classroom, discord or office hours. **This is a subjective assessment**, and does not mean that the student needs to participate in *every* classroom discussion, but it does mean that they need to actively engage with the instructor or classmates in some capacity (classroom, discord, office hours, emails). Students who struggle with the material and activities, but that take advantage of other opportunities provided (e.g., office hours, mentoring), can be successful in this course.
 
 #### Evaluation Schedule
 - Project 1:
   - Exploratory data analysis
   - Week 3, due week 6.
-  - Link: 
 - Project 2:
   - Coordinated views.
   - Week 8, due week 11.
-  - Link: 
 - Project 3:
   - Spatial data visualization
   - Week 12, due week 15
@@ -136,7 +133,7 @@ Attendance is important. Note that this course includes a class participation gr
 
 
 #### Late Days
-Since students will need to present their projects to the class, it is very important that they are finished by the deadlines, otherwise it will be difficult to schedule new presentation slots.
+Since students will need to present their projects to the class, it is very important that they are submitted by the deadlines, otherwise it will be difficult to schedule new presentation slots. If you are unable to complete a project by the deadline, a documented compelling excuse (such as illness, hospitalization) is required.
 
 ***
 
