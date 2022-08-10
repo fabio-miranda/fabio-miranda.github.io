@@ -81,12 +81,12 @@ This is a tentative course schedule and will be adjusted along the way. Slides w
 | Week |        | Topic                                     | Resources and readings                             | Slides |
 | ---- | ------ | ----------------------------------------- | -------------------------------------------------- | ------ |
 | 1  | Aug 23 | Course introduction & Why vis? | | |
-| 2  | Aug 30 | Building blocks: Git, Pandas, GeoPandas, Jupyter | | |
+| 2  | Aug 30 | Building blocks with Git, Pandas, GeoPandas, Jupyter | | |
 | 3  | Sep 6  | Introduction to visualization: Data & attribute types, channels, tasks, analysis loop | | |
 | 4  | Sep 13 | Exploratory data analysis with Jupyter | | |
 | 5  | Sep 20 | Data management for visualization | | |
 | 6  | Sep 27 | **Project 1 presentation: exploratory data analysis** | | |
-| 7 | Oct 4  | Building blocks: Web technologies for visualization (D3, React, Dask)  | | |
+| 7 | Oct 4  | Building blocks: Web technologies for visualization with D3, React and Dask  | | |
 | 8 | Oct 11 | Embedded, juxtaposed and coordinated views with Observable | | |
 | 9 | Oct 18 | **Vis critique presentation** | | |
 | 10 | Oct 25 | Visual analytics systems: integrating visualization and analytics | | |
@@ -108,7 +108,7 @@ This is a tentative course schedule and will be adjusted along the way. Slides w
 - Vis critique written report: 10%
 - Participation: 10%
 
-This course includes three projects to make sure the student is familiar with the main components of visualization and visual analytics systems. The projects will balance theory and practice, covering both design and implementation aspects. Students will need to present their projects to the class, following the course schedule. We will use [GitHub Classroom](https://github.com/uic-cs424) for the projects. Also, students will have to present and write a critical evaluation of two different visualizations, from well-known sources. Detailed instructions will be made available following the evaluation schedule.
+This course includes three projects to make sure the student is familiar with the main components of visualization and visual analytics systems. The projects will balance theory and practice, covering both design and implementation aspects. Students will need to present their projects to the class, following the course schedule. We will use [GitHub Classroom](https://github.com/uic-cs424) for the projects. Also, students will have to present and write a critical evaluation of two different visualizations, from well-known sources. Students will be able to work in pairs. Detailed instructions will be made available following the evaluation schedule.
 
 Attendance is important. This course includes a class participation grade that will take into consideration the student's contribution to a productive environment, either in the classroom, discord or office hours. This is a subjective assessment, and does not mean that the student needs to participate in *every* classroom discussion, but it does mean that they need to actively engage with the instructor or classmates in some capacity (classroom, discord, office hours, emails).
 
