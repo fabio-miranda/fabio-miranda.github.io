@@ -7,8 +7,8 @@
 2. [Course Description](#course-description)
     1. [Rationale](#rationale)
     2. [Course Pre-requisites](#course-pre-requisites)
-    3. [Textbooks and Readings](#textbooks-and-readings)
-    4. [Objectives](#objectives)
+    3. [Objectives](#objectives)
+    4. [Textbooks and Readings](#textbooks)
     5. [Deliverables](#deliverables)
     6. [Format and Teaching Methods](#format-and-teaching-methods)
 3. [Course Schedule](#course-schedule)
@@ -17,16 +17,18 @@
     2. [Evaluation Schedule](#evaluation-schedule)
     3. [Assignment Considerations](#assignment-considerations)
     4. [Late Days](#late-days)
-5. [COVID-19 Considerations](#covid-19-considerations)
-6. [Academic Integrity](#academic-integrity)
-7. [Inclusive Learning Environment](#inclusive-learning-environment)
-8. [Disability Accommodation Procedures](#disability-accomodation-procedures)
-9. [Disclaimer](#disclaimer)
+5. [Academic Integrity](#academic-integrity)
+6. [Inclusive Learning Environment](#inclusive-learning-environment)
+7. [Disability Accommodation Procedures](#disability-accomodation-procedures)
+8. [Disclaimer](#disclaimer)
 
 ### General Information
 
 #### Class Meeting Information
-We will meet in-person in EVL's [Continuum room](https://www.evl.uic.edu/location), at the time indicated in the schedule of classes. Students are required to participate in these sessions. Office hours will be held via Zoom.
+We will meet in-person in EVL's [Continuum room](https://www.evl.uic.edu/location), at the time indicated in the schedule of classes. Please read regarding [evaluation](#evaluation-and-grading) for details on attendance.
+
+
+Students are required to participate in these sessions. Office hours will be held via Zoom.
 
 Discord will be the main platform for instructor / student communication, please check Blackboard for the Discord invitation link. Zoom meeting information will be posted on Discord.
 
@@ -96,6 +98,7 @@ This is a tentative course schedule and will be adjusted along the way. Slides w
 | 14 | Nov 22  | Towards complex and big data: OLAP cubes, MapReduce, Hadoop, Spark, Dask | | |
 | 15 | Nov 29 | **Project 3 presentation: spatial data visualization** |  | | 
 
+We will meet in-person in EVL's Continuum room, except in week 9 (presentations will happen over Zoom) and week 10 (two invited talks over Zoom).
 
 ***
 
