@@ -90,8 +90,8 @@ This is a tentative course schedule and will be adjusted along the way. Slides w
 | 6  | Sep 27 | **Project 1 presentation: exploratory data analysis** | | |
 | 7 | Oct 4  | Building blocks: Web technologies for visualization with D3, React and Dask  | | |
 | 8 | Oct 11 | Embedded, juxtaposed and coordinated views with Observable | | |
-| 9 | Oct 18 | **Vis critique presentation** | | |
-| 10 | Oct 25 | Visual analytics systems: integrating visualization and analytics | | |
+| 9 | Oct 18 | **Vis critique presentation** (Zoom) | | |
+| 10 | Oct 25 | Visual analytics systems: integrating visualization and analytics (Invited talks, Zoom) | | |
 | 11 | Nov 1 | **Project 2 presentation: coordinated views** | | |
 | 12 | Nov 8 |  Spatial and uncertainty visualization | | |
 | 13 | Nov 15  | Machine learning for visualization + **Vis critique report** | | |
