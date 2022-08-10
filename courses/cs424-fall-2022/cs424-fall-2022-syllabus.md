@@ -78,7 +78,7 @@ The course is divided into three parts: 1) basic principles of visualization and
 ### Course Schedule
 This is a tentative course schedule and will be adjusted along the way. Slides will be made available after each lecture.
 
-| Week |        | Topic                                     | Resources and readings                             | Slides |
+| Week |        | Topic                                     | Resources                             | Slides |
 | ---- | ------ | ----------------------------------------- | -------------------------------------------------- | ------ |
 | 1  | Aug 23 | Course introduction & Why vis? | | |
 | 2  | Aug 30 | Building blocks with Git, Pandas, GeoPandas, Jupyter | | |
