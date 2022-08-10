@@ -38,8 +38,6 @@ https://fmiranda.me/
 
 Office hours: Friday 11am - 1pm (Zoom info on Discord).
 
-Instructor: Fabio Miranda (fabiom@uic.edu)
-
 ***
 
 ### Course Description
