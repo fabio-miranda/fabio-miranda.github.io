@@ -25,8 +25,7 @@
 ### General Information
 
 #### Class Meeting Information
-We will meet in-person in EVL's [Continuum room](https://www.evl.uic.edu/location), at the time indicated in the schedule of classes. Please read regarding [evaluation](#evaluation-and-grading) for details on attendance.
-
+We will meet in-person in EVL's [Continuum room](https://www.evl.uic.edu/location), at the time indicated in the schedule of classes. Please read the [evaluation](#evaluation-and-grading) section for details on attendance.
 
 Students are required to participate in these sessions. Office hours will be held via Zoom.
 
@@ -47,7 +46,7 @@ Instructor: Fabio Miranda (fabiom@uic.edu)
 
 ### Course Description
 
-This course provides an introduction to the field of visualization, including scientific visualization, information visualization, visual analytics, and the effective use of interactive visualization for analytical reasoning. The course is designed to balance theory and practice, covering both design and implementation aspects of visual analytics systems. Topics include: basic principles of data visualization; exploratory data analysis; data management for visualization; embedded, juxtaposed and coordinated views; visual analytics systems; machine learning for visualization; spatial and uncertainty visualization; techniques for big data visualization. The course will also include an introduction to data analysis libraries, and web technologies for visualization.
+This course provides an introduction to the field of visualization, including scientific visualization, information visualization, visual analytics, and the effective use of interactive visualization for analytical reasoning. The course is designed to balance theory and practice, covering both design and implementation aspects of visual analytics systems. Topics include: basic principles of data visualization; exploratory data analysis; data management for visualization; embedded, juxtaposed and coordinated views; visual analytics systems; machine learning for visualization; spatial and uncertainty visualization; techniques for big data visualization. The course will also include an introduction to data analysis libraries and frameworks, and web technologies for visualization.
 
 Course website: https://fmiranda.me/courses/cs424-fall-2022/
 
@@ -62,9 +61,9 @@ CS 251 (Data Structures) and solid grasp of programming in a language like C, C+
 
 By the end of the course, students will have a good understanding of the basic principles of visualization and visual analytics and will be able to articulate advantages and disadvantages of visual design choices for different data types. They will also be able to design and implement web-based visual analytics systems by combining visualization, data management, data mining and machine learning techniques that work in tandem to enable interactive exploration of multidimensional and heterogeneous datasets.
 
-#### Textbooks
+#### Textbook
 
-- Visualization Analysis and Design, AK Peters
+- Visualization Analysis and Design, AK Peters (Optional)
 
 
 #### Deliverables
@@ -111,9 +110,12 @@ We will meet in-person in EVL's Continuum room, except in week 9 (presentations 
 - Vis critique written report: 10%
 - Participation: 10%
 
-This course includes three projects to make sure the student is familiar with the main components of visualization and visual analytics systems. The projects will balance theory and practice, covering both design and implementation aspects. Students will need to present their projects to the class, following the course schedule. We will use [GitHub Classroom](https://github.com/uic-cs424) for the projects. Also, students will have to present and write a critical evaluation of two different visualizations, from well-known sources. Students will be able to work in pairs. Detailed instructions will be made available following the evaluation schedule.
+This course includes three projects to make sure the student is familiar with the main components of visualization and visual analytics systems. The projects will balance theory and practice, covering both design and implementation aspects. The student can either choose a different dataset for each project, or re-use the same dataset over the three projects -- potentially further exploring and augmenting findings, insights, techniques, and/or methods. A list of datasets will be made available, but students are free to use their own dataset of interest.
 
-Attendance is important. This course includes a class participation grade that will take into consideration the student's contribution to a productive environment, either in the classroom, discord or office hours. This is a subjective assessment, and does not mean that the student needs to participate in *every* classroom discussion, but it does mean that they need to actively engage with the instructor or classmates in some capacity (classroom, discord, office hours, emails).
+
+Students will need to present their projects to the class, following the course schedule. Also, students will have to present and write a critical evaluation of two different visualizations, from well-known sources. For both projects and visualization evaluations, students can optionally work in a pair with a colleague. Detailed instructions will be made available following the evaluation schedule. We will use [GitHub Classroom](https://github.com/uic-cs424) for the projects.
+
+Attendance is important. Note that this course includes a class participation grade that will take into consideration the student's contribution to a productive environment, either in the classroom, discord or office hours. **This is a subjective assessment**, and does not mean that the student needs to participate in *every* classroom discussion, but it does mean that they need to actively engage with the instructor or classmates in some capacity (classroom, discord, office hours, emails).
 
 #### Evaluation Schedule
 - Project 1:
