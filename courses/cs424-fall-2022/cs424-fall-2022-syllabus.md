@@ -91,7 +91,7 @@ This is a tentative course schedule and will be adjusted along the way. Slides w
 | 12 | Nov 8 |  Spatial and uncertainty visualization | | |
 | 13 | Nov 15  | Machine learning for visualization + **Vis critique (one-page report)** | | |
 | 14 | Nov 22  | Visualization for complex and big data: OLAP cubes, MapReduce, Hadoop, Spark, Dask | | |
-| 15 | Nov 29 | **Project 3 presentation: spatial data visualization** |  | | 
+| 15 | Nov 29 | **Final project presentation: spatial data visualization** |  | | 
 
 We will meet in-person in EVL's Continuum room, except in week 9 (presentations will happen over Zoom) and week 10 (two invited talks over Zoom).
 
@@ -100,10 +100,10 @@ We will meet in-person in EVL's Continuum room, except in week 9 (presentations 
 ### Evaluation and Grading
 #### Grading Policy
 - Project 1: 20%
-- Project 2: 25%
+- Project 2: 20%
 - Project 3: 25%
-- Vis critique presentation: 10%
-- Vis critique written report: 10%
+- Vis critique presentation: 12.5%
+- Vis critique written report: 12.5%
 - Participation: 10%
 
 This course includes three projects to make sure the student is familiar with the main components of visualization and visual analytics systems. The projects will balance theory and practice, covering both design and implementation aspects. The student can either choose a different dataset for each project, or re-use the same dataset over the three projects -- potentially further exploring and augmenting findings, insights, techniques, and/or methods. A list of datasets will be made available, but students are free to use their own dataset of interest.
@@ -121,7 +121,7 @@ Attendance is important. Note that this course includes a class participation gr
   - Coordinated views
   - Observable
   - Week 8, due week 11.
-- Project 3:
+- Final project:
   - Spatial data visualization
   - React
   - Week 12, due week 15
