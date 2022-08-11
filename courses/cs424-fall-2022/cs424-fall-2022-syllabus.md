@@ -64,7 +64,7 @@ By the end of the course, students will have a good understanding of the basic p
 
 #### Deliverables
 
-Students will be required to complete three projects, where they will implement concepts and techniques covered in class using real-world datasets. Students will need to present their projects to the class, so it is very important that they are finished by the deadlines. The first project will cover exploratory data analysis using interactive computing frameworks (e.g., Jupyter); the second project will cover coordinated views using collaborative environments (e.g., ObservableHQ); the third project will cover spatial data visualization using web technologies (e.g., React). On top of that, students will also need to select two visualizations (from well-known sources), and critically evaluate them, presenting their conclusions through a class presentation and written report.
+Students will be required to complete three projects, where they will implement concepts and techniques covered in class using real-world datasets. Students will need to present their projects to the class, so it is very important that they are finished by the deadlines. The first project will cover exploratory data analysis using interactive computing frameworks (e.g., Jupyter); the second project will cover coordinated views using collaborative environments (e.g., Observable); the third project will cover spatial data visualization using web technologies (e.g., React). On top of that, students will also need to select two visualizations (from well-known sources), and critically evaluate them, presenting their conclusions through a class presentation and written report.
 
 #### Format and Teaching Methods
 
@@ -85,11 +85,11 @@ This is a tentative course schedule and will be adjusted along the way. Slides w
 | 6  | Sep 27 | **Project 1 presentation: exploratory data analysis** | | |
 | 7 | Oct 4  | Building blocks: Web technologies for visualization with D3, React and Dask  | | |
 | 8 | Oct 11 | Embedded, juxtaposed and coordinated views with Observable | | |
-| 9 | Oct 18 | **Vis critique presentation** (Zoom) | | |
+| 9 | Oct 18 | **Vis critique (presentation)** (Zoom) | | |
 | 10 | Oct 25 | Visual analytics systems: integrating visualization and analytics (Invited talks, Zoom) | | |
 | 11 | Nov 1 | **Project 2 presentation: coordinated views** | | |
 | 12 | Nov 8 |  Spatial and uncertainty visualization | | |
-| 13 | Nov 15  | Machine learning for visualization + **Vis critique report** | | |
+| 13 | Nov 15  | Machine learning for visualization + **Vis critique (one-page report)** | | |
 | 14 | Nov 22  | Towards complex and big data: OLAP cubes, MapReduce, Hadoop, Spark, Dask | | |
 | 15 | Nov 29 | **Project 3 presentation: spatial data visualization** |  | | 
 
@@ -108,19 +108,22 @@ We will meet in-person in EVL's Continuum room, except in week 9 (presentations 
 
 This course includes three projects to make sure the student is familiar with the main components of visualization and visual analytics systems. The projects will balance theory and practice, covering both design and implementation aspects. The student can either choose a different dataset for each project, or re-use the same dataset over the three projects -- potentially further exploring and augmenting findings, insights, techniques, and/or methods. A list of datasets will be made available, but students are free to use their own dataset of interest.
 
-Students will need to present their projects to the class, following the course schedule. Also, students will have to present and write a critical evaluation of two different visualizations, from well-known sources. For both projects and visualization evaluations, students can optionally work in a pair with a colleague. Detailed instructions will be made available following the evaluation schedule. We will use [GitHub Classroom](https://github.com/uic-cs424) for the projects.
+Students will present their projects to the class, following the course schedule. Students will also present and write a one-page report evaluating of two different visualizations, from well-known sources. *For both projects and visualization evaluations, students can optionally work in pairs*. Detailed instructions will be made available following the evaluation schedule. We will use [GitHub Classroom](https://github.com/uic-cs424) for the projects.
 
 Attendance is important. Note that this course includes a class participation grade that will take into consideration the student's contribution to a productive environment, either in the classroom, discord or office hours. **This is a subjective assessment**, and does not mean that the student needs to participate in *every* classroom discussion, but it does mean that they need to actively engage with the instructor or classmates in some capacity (classroom, discord, office hours, emails). Students who struggle with the material and activities, but that take advantage of other opportunities provided (e.g., office hours, mentoring), can be successful in this course.
 
 #### Evaluation Schedule
 - Project 1:
   - Exploratory data analysis
+  - Jupyter
   - Week 3, due week 6.
 - Project 2:
-  - Coordinated views.
+  - Coordinated views
+  - Observable
   - Week 8, due week 11.
 - Project 3:
   - Spatial data visualization
+  - React
   - Week 12, due week 15
 - Vis critique presentation:
   - ~5 minute presentation.
