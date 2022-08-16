@@ -64,7 +64,7 @@ By the end of the course, students will have a good understanding of the basic p
 
 #### Deliverables
 
-Students will be required to complete three projects, where they will implement concepts and techniques covered in class using real-world datasets. Students will need to present their projects to the class, so it is very important that they are finished by the deadlines. The first project will cover exploratory data analysis using interactive computing frameworks (e.g., Jupyter); the second project will cover coordinated views using collaborative environments (e.g., Observable); the third project will cover spatial data visualization using web technologies (e.g., React). On top of that, students will also need to select two visualizations (from well-known sources), and critically evaluate them, presenting their conclusions through a class presentation and written report.
+Students will be required to complete three projects, where they will implement concepts and techniques covered in class using real-world datasets. Students will need to present their projects to the class, so it is very important that they are finished by the deadlines. The first project will cover exploratory data analysis using interactive computing frameworks (e.g., Jupyter); the second project will cover coordinated views using collaborative environments (e.g., Observable); the third project will cover spatial data visualization using web technologies (e.g., React). Project repositories should also contain a ~500 word markdown report, giving an overview of the dataset, approach and detailing findings. On top of that, students will also need to select two visualizations (from well-known sources), and critically evaluate them, presenting their conclusions through a class presentation and written report.
 
 #### Format and Teaching Methods
 
@@ -101,7 +101,7 @@ We will meet in-person in EVL's Continuum room, except in week 9 (presentations 
 #### Grading Policy
 - Project 1: 20%
 - Project 2: 20%
-- Project 3: 25%
+- Final project: 25%
 - Vis critique presentation: 12.5%
 - Vis critique written report: 12.5%
 - Participation: 10%
