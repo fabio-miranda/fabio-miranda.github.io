@@ -110,7 +110,9 @@ This course includes three projects to make sure the student is familiar with th
 
 Students will present their projects to the class, following the course schedule. Students will also present and write a one-page report evaluating of two different visualizations, from well-known sources. *For both projects and visualization evaluations, students can optionally work in pairs*. Detailed instructions will be made available following the evaluation schedule. We will use [GitHub Classroom](https://github.com/uic-cs424) for the projects.
 
-Attendance is important. Note that this course includes a class participation grade that will take into consideration the student's contribution to a productive environment, either in the classroom, discord or office hours. **This is a subjective assessment**, and does not mean that the student needs to participate in *every* classroom discussion, but it does mean that they need to actively engage with the instructor or classmates in some capacity (classroom, discord, office hours, emails). Students who struggle with the material and activities, but that take advantage of other opportunities provided (e.g., office hours, mentoring), can be successful in this course.
+Note that this course includes a class participation grade that will take into consideration the student's contribution to a productive environment, either in the classroom, discord or office hours. Attendance is important, but **this is a subjective assessment**, and does not mean that the student needs to participate in *every* classroom discussion. It does mean, however, that they need to actively engage with the instructor or classmates in some capacity (classroom, discord, office hours, emails). **More importantly, rather than strictly penalize absences (by subtracting points), students will be rewarded for good attendance and participation.**
+
+Students who struggle with the material and activities, but that take advantage of other opportunities provided (e.g., office hours, mentoring), can be successful in this course.
 
 #### Evaluation Schedule
 - Project 1:
@@ -123,7 +125,7 @@ Attendance is important. Note that this course includes a class participation gr
   - Week 8, due week 11.
 - Final project:
   - Spatial data visualization
-  - React
+  - Javascript + React
   - Week 12, due week 15
 - Vis critique presentation:
   - ~5 minute presentation.
