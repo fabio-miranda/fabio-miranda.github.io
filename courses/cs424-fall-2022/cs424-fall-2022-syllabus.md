@@ -81,9 +81,9 @@ This is a tentative course schedule and will be adjusted along the way. Slides w
 | 2  | Aug 30 | Building blocks with Git, Pandas, GeoPandas, Jupyter | | |
 | 3  | Sep 6  | Introduction to visualization: Data & attribute types, channels, tasks, analysis loop | | |
 | 4  | Sep 13 | Exploratory data analysis | | |
-| 5  | Sep 20 | Data management for visualization | | |
+| 5  | Sep 20 | Building blocks: Web technologies for visualization | | |
 | 6  | Sep 27 | **Project 1 presentation: exploratory data analysis** | | |
-| 7 | Oct 4  | Building blocks: Web technologies for visualization  | | |
+| 7 | Oct 4  | Data management for visualization | | |
 | 8 | Oct 11 | Embedded, juxtaposed and coordinated views | | |
 | 9 | Oct 18 | **Vis critique (presentation)** (Zoom) | | |
 | 10 | Oct 25 | Visual analytics systems: integrating visualization and analytics (Invited talks, Zoom) | | |
