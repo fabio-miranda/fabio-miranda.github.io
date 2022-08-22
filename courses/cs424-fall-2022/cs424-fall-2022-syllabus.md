@@ -80,16 +80,16 @@ This is a tentative course schedule and will be adjusted along the way. Slides w
 | 1  | Aug 23 | Course introduction & Why vis? | | |
 | 2  | Aug 30 | Building blocks with Git, Pandas, GeoPandas, Jupyter | | |
 | 3  | Sep 6  | Introduction to visualization: Data & attribute types, channels, tasks, analysis loop | | |
-| 4  | Sep 13 | Exploratory data analysis | | |
+| 4  | Sep 13 | Exploratory data analysis + **Lab** | | |
 | 5  | Sep 20 | Building blocks: Web technologies for visualization | | |
 | 6  | Sep 27 | **Project 1 presentation: exploratory data analysis** | | |
 | 7 | Oct 4  | Data management for visualization | | |
-| 8 | Oct 11 | Embedded, juxtaposed and coordinated views | | |
+| 8 | Oct 11 | Embedded, juxtaposed and coordinated views + **Lab** | | |
 | 9 | Oct 18 | **Vis critique (presentation)** (Zoom) | | |
 | 10 | Oct 25 | Visual analytics systems: integrating visualization and analytics (Invited talks, Zoom) | | |
 | 11 | Nov 1 | **Project 2 presentation: coordinated views** | | |
 | 12 | Nov 8 |  Spatial and uncertainty visualization | | |
-| 13 | Nov 15  | Machine learning & data mining for visualization + **Vis critique (one-page report)** | | |
+| 13 | Nov 15  | Machine learning & data mining for visualization + **Lab** + **Vis critique (one-page report)** | | |
 | 14 | Nov 22  | Visualization for complex and big data: OLAP cubes, MapReduce, Hadoop, Spark, Dask | | |
 | 15 | Nov 29 | **Final project presentation: spatial data visualization** |  | | 
 
