@@ -64,7 +64,7 @@ By the end of the course, students will have a good understanding of the basic p
 
 #### Deliverables
 
-Students will be required to complete three projects, where they will implement concepts and techniques covered in class using real-world datasets. Students will need to present their projects to the class, so it is very important that they are finished by the deadlines. The first project will cover exploratory data analysis using interactive computing frameworks (e.g., Jupyter); the second project will cover coordinated views using collaborative environments (e.g., Observable); the third project will cover spatial data visualization using web technologies (e.g., Javascript, React). Project repositories should also contain a ~500 word markdown report, giving an overview of the dataset, approach and detailing findings. On top of that, students will also need to select two visualizations (from well-known sources), and critically evaluate them, presenting their conclusions through a class presentation and written report.
+Students will be required to complete three projects, where they will implement concepts and techniques covered in class using real-world datasets. Students will need to present their projects to the class, so it is very important that they are finished by the deadlines. The first project will cover exploratory data analysis using interactive computing frameworks (e.g., Jupyter); the second project will cover coordinated views using collaborative environments (e.g., Observable); the third project will cover spatial data visualization using web technologies (e.g., Javascript, React). Project repositories should also contain a ~500 word markdown report, giving an overview of the dataset, approach and detailing findings. On top of that, students will also need to select one visualization (from a well-known source), and critically evaluate it, presenting their conclusions through a class presentation.
 
 #### Format and Teaching Methods
 
@@ -89,7 +89,7 @@ This is a tentative course schedule and will be adjusted along the way. Slides w
 | 10 | Oct 25 | Visual analytics systems: integrating visualization and analytics (Invited talks, Zoom) | | |
 | 11 | Nov 1 | **Project 2 presentation: coordinated views** | | |
 | 12 | Nov 8 |  Spatial and uncertainty visualization | | |
-| 13 | Nov 15  | Machine learning & data mining for visualization + **Lab** + **Vis critique (one-page report)** | | |
+| 13 | Nov 15  | Machine learning & data mining for visualization + **Lab** | | |
 | 14 | Nov 22  | Visualization for complex and big data: OLAP cubes, MapReduce, Hadoop, Spark, Dask | | |
 | 15 | Nov 29 | **Final project presentation: spatial data visualization** |  | | 
 
@@ -100,11 +100,10 @@ We will meet in-person in EVL's Continuum room, except in week 9 (presentations 
 ### Evaluation and Grading
 #### Grading Policy
 - Project 1: 20%
-- Project 2: 20%
+- Project 2: 25%
 - Final project: 25%
-- Vis critique presentation: 12.5%
-- Vis critique written report: 12.5%
-- Participation: 10%
+- Vis critique presentation: 15%
+- Participation: 15%
 
 This course includes three projects to make sure the student is familiar with the main components of visualization and visual analytics systems. The projects will balance theory and practice, covering both design and implementation aspects. The student can either choose a different dataset for each project, or re-use the same dataset over the three projects -- potentially further exploring and augmenting findings, insights, techniques, and/or methods. A list of datasets will be made available, but students are free to use their own dataset of interest.
 
@@ -130,9 +129,6 @@ Students who struggle with the material and activities, but that take advantage 
 - Vis critique presentation:
   - ~5 minute presentation.
   - Due week 9
-- Vis critique one-page report:
-  - One-page report.
-  - Due week 13
 
 
 #### Late Days
