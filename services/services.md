@@ -2,11 +2,9 @@
 
 #### Organized workshops & events
 
-[The 1st ASSETS'22 workshop on The Future of Urban Accessibility](https://accessiblecities.github.io/UrbanAccess2022/), Co-organizer (2022)
-
-[The Future of Global‑Scale Spatial Data Collection and Analyses on Urban (in)Accessibility for People with Disabilities Workshop](http://wp1066709.server-he.de/sdss2021/), Co-organizer (2021)
-
-[VIS 2021 Chicago Satellite Event](https://www.evl.uic.edu/vis-chicago/), Co-chair (2021)
+- [The 1st ASSETS'22 workshop on The Future of Urban Accessibility](https://accessiblecities.github.io/UrbanAccess2022/), Co-organizer (2022)
+- [The Future of Global‑Scale Spatial Data Collection and Analyses on Urban (in)Accessibility for People with Disabilities Workshop](http://wp1066709.server-he.de/sdss2021/), Co-organizer (2021)
+- [VIS 2021 Chicago Satellite Event](https://www.evl.uic.edu/vis-chicago/), Co-chair (2021)
 
 #### Program chair
 
