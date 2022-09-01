@@ -8,57 +8,37 @@
 
 #### Program chair
 
-[SIBGRAPI 2022](https://www.natalnet.br/sibgrapi2022/)
+- [SIBGRAPI 2022](https://www.natalnet.br/sibgrapi2022/)
 
 #### Program committees
 
-IEEE VIS (2022)
-
-EuroVis (2022)
-
-Visualization and Data Analysis Conference (2022)
-
-Sibgrapi (2021, 2020, 2019)
-
-IEEE VIS Short papers (2021, 2020, 2019)
+- IEEE VIS (2022)
+- EuroVis (2022)
+- Visualization and Data Analysis Conference (2022)
+- Sibgrapi (2021, 2020, 2019)
+- IEEE VIS Short papers (2021, 2020, 2019)
 
 #### Invited talks
 
-*Interactive Visual Analysis at Scale: From Data to Actionable Insights*, Kavli Frontiers of Science Symposium, Davis, United States (2022)
-
-*Visualizing Environmental Justice Issues in Urban Areas with a Community-based Approach*, Green Building Initiative, Chicago, United States (2022)
-
-*Interactive Visual Analysis of Urban Data: Immersive Analytics Opportunities*, VRAR CHICAGO, Chicago, United States (2022)
-
-*Interactive Visual Analysis of Urban Data: Beyond Flatland*, Urban Initiative Program, New York, United States (2022)
-
-*Interactive Visual Analysis of Urban Data: Beyond Flatland*, Department of Energy Computer Graphics Forum (2021)
-
-*Interactive Visual Analysis of Urban Data: A Computational Perspective on Cities*, Federal University of Rio Grande do Sul, Brazil (2021)
-
-*Interactive Visual Analysis of Urban Data: A Computational Perspective on Cities*, Fluminense Federal University, Brazil (2021)
+- *Interactive Visual Analysis at Scale: From Data to Actionable Insights*, Kavli Frontiers of Science Symposium, Davis, United States (2022)
+- *Visualizing Environmental Justice Issues in Urban Areas with a Community-based Approach*, Green Building Initiative, Chicago, United States (2022)
+- *Interactive Visual Analysis of Urban Data: Immersive Analytics Opportunities*, VRAR CHICAGO, Chicago, United States (2022)
+- *Interactive Visual Analysis of Urban Data: Beyond Flatland*, Urban Initiative Program, New York, United States (2022)
+- *Interactive Visual Analysis of Urban Data: Beyond Flatland*, Department of Energy Computer Graphics Forum (2021)
+- *Interactive Visual Analysis of Urban Data: A Computational Perspective on Cities*, Federal University of Rio Grande do Sul, Brazil (2021)
+- *Interactive Visual Analysis of Urban Data: A Computational Perspective on Cities*, Fluminense Federal University, Brazil (2021)
 
 
 #### Reviewer
 
-IEEE Transactions on Visualization and Computer Graphics
-
-IEEE Transactions on Big Data
-
-IEEE Transactions on Intelligent Transportation Systems
-
-The Visual Computer Journal
-
-Transportation Research Record Journal
-
-International Journal of Geo‑Information
-
-International Conference on Pattern Recognition
-
-IEEE VIS
-
-Sibgrapi
-
-VLDB
-
-WWW
+- IEEE Transactions on Visualization and Computer Graphics
+- IEEE Transactions on Big Data
+- IEEE Transactions on Intelligent Transportation Systems
+- The Visual Computer Journal
+- Transportation Research Record Journal
+- International Journal of Geo‑Information
+- International Conference on Pattern Recognition
+- IEEE VIS
+- Sibgrapi
+- VLDB
+- WWW
