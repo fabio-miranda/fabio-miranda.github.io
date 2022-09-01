@@ -78,8 +78,8 @@ This is a tentative course schedule and will be adjusted along the way. Slides w
 | Week |        | Topic                                     | Resources                             | Slides |
 | ---- | ------ | ----------------------------------------- | -------------------------------------------------- | ------ |
 | 1  | Aug 23 | Course introduction & Why vis? | | [01-intro.pdf](https://fmiranda.me/courses/cs424-slides/01-intro.pdf), [02-why-vis.pdf](https://fmiranda.me/courses/cs424-slides/02-why-vis.pdf) |
-| 2  | Aug 30 | Building blocks with Git, Pandas, GeoPandas, Jupyter | | |
-| 3  | Sep 6  | Introduction to visualization: Data & attribute types, channels, tasks, analysis loop | | |
+| 2  | Aug 30 | Introduction to visualization: Data & attribute types, channels, tasks, analysis loop | | [03-vis.pdf](https://fmiranda.me/courses/cs424-slides/03-vis.pdf) |
+| 3  | Sep 6  | Building blocks with Git, Pandas, GeoPandas, Jupyter | | |
 | 4  | Sep 13 | Exploratory data analysis + **Lab** | | |
 | 5  | Sep 20 | Building blocks: Web technologies for visualization | | |
 | 6  | Sep 27 | **Project 1 presentation: exploratory data analysis** | | |
