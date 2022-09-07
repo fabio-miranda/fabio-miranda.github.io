@@ -125,6 +125,7 @@ Students who struggle with the material and activities, but that take advantage 
 - Project 1:
   - Exploratory data analysis
   - Jupyter
+  - Link: https://fmiranda.me/courses/cs424-fall-2022/project-1/
   - Week 3, due week 6.
 - Project 2:
   - Coordinated views
