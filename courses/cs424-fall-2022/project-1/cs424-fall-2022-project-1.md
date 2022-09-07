@@ -1,17 +1,17 @@
-#### CS424 - Visualization & Visual Analytics (Fall 2022)
+### CS424 - Visualization & Visual Analytics (Fall 2022)
 
 Instructor: Fabio Miranda
 
 Course webpage: https://fmiranda.me/courses/cs424-fall-2022/
 
-##### Project 1
+#### Project 1
 The goal of this project is to get you familiar with visual data exploration. We will use Pandas, GeoPandas and Jupyter to import, transform, visualize and analyze a dataset. Some of the operations you will need to perform in this exploratory process have been covered in the lectures, other operations have not. Please, familiarize yourself with GeoPandas' [documentation](https://geopandas.org/en/stable/docs.html). Also note that, depending of your exploration, you will need to use *multiple* datasets; The most straightforward case is if you want to perform a spatial aggregation over neighborhoods -- in this case you will also need a Shapefile (or GeoJSON) with the description of the neighborhoods.
 
 We will use GitHub to manage code and documentation. You should create a repository for your team on GitHub Classroom (see Piazza for invitation link).
 
-##### Tasks
+#### Tasks
 
-###### Task 0: Selecting a dataset
+##### Task 0: Selecting a dataset
 
 Select a dataset that is of interest to you. You can either choose one from the list below, or pick your own. Note that tasks 1 and 2 offer a suggested guideline for the exploration, heavily biased towards spatiotemporal datasets; However, you are free to choose any other dataset, just be mindful to follow a similar guideline. Make sure you choose a dataset that contains detailed metadata information describing its columns, types, etc. It is also important to balance dataset complexity and size and the project timeline. If you identify a dataset that is either too large or too complex, make sure you can select a manageable subset of the data where you can still find interesting insights.
 
@@ -32,7 +32,7 @@ Suggested datasets:
 
 After selecting the dataset, make sure you enter your selection in the shared spreadsheet (see Piazza for link).
 
-###### Task 0: Setting up your environment
+##### Task 0: Setting up your environment
 
 We will be using Pandas, Geopandas, Matplotlib and Jupyter Notebook (or Jupyter Lab). Projects should be submitted using git.
 
@@ -53,7 +53,7 @@ git push
 ```
 
 
-###### Task 1: Data importing & transformation
+##### Task 1: Data importing & transformation
 
 In this task, you will need to perform at least three subtasks (depending of your data):
 * Load the data: Use Pandas and GeoPandas to load and view the data to have an initial idea of what it contains. For instance, what are the columns in the dataset? Is there a spatial or temporal component? What are the categorial and numerical columns? For each data point, if there are multiple categories, is there a specific one you want to focus? What is the spatial and temporal coverage of the dataset? Percentage of missing values? Depending of the size of the data, you will need to filter the data and only consider a more manageable subset (e.g., a month or a week, or a spatial region).
@@ -62,7 +62,7 @@ In this task, you will need to perform at least three subtasks (depending of you
 
 * Clean the data: Remove data rows with NaN or missing values.
 
-###### Task 2: Data visualization & analytics
+##### Task 2: Data visualization & analytics
 
 Based on the attributes of interest in the dataset, you will need to perform the following subtasks:
 
@@ -75,7 +75,7 @@ Based on the attributes of interest in the dataset, you will need to perform the
 * Distributions: If your dataset has a numerical column, aggregate the data to compute distributions, considering potentially interesting spatial and temporal subsets of the data.
 
 
-###### Task 3: Deliverables
+##### Task 3: Deliverables
 
 In this project, there will be three deliverables:
 
@@ -86,6 +86,6 @@ In this project, there will be three deliverables:
 3) A Jupyter Notebook, with each step of your exploratory process. Make sure it is *easily* reproducible and well documented, including both comments and plots.
 
 
-###### Grading
+##### Grading
 
 Your submission will be graded according to the quality and coverage of the results and presentation. You need to make sure that both your deliverables (presentation and documentation) and notebooks clearly show your findings. Visualizations need to be well constructed, with good color and font choices and proper labeling.
