@@ -79,11 +79,11 @@ Based on the attributes of interest in the dataset, you will need to perform the
 
 In this project, there will be three deliverables:
 
-1) A markdown document, with a clear description of the dataset, summarizing the most important points (size, attributes) and initial findings. Clearly describe each step of your exploratory process.
+1) A markdown document, with a clear description of the dataset, summarizing the most important points (size, attributes) and initial findings. Clearly describe each step of your exploratory process. You should include plots with meaningful captions. Please put some effort into it, it can be very helpful later as you build your portfolio. The document should have 500-800 words.
 
 2) A ~5 minute presentation, also describing the dataset and summarizing your most important findings.
 
-3) A Jupyter Notebook, with each step of your exploratory process. Make sure it is *easily* reproducible.
+3) A Jupyter Notebook, with each step of your exploratory process. Make sure it is *easily* reproducible and well documented, including both comments and plots.
 
 
 ###### Grading
