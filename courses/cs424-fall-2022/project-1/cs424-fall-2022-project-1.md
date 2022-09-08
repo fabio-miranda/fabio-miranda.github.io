@@ -17,7 +17,7 @@ We will use GitHub to manage code and documentation. You should create a reposit
 
 #### Task 0a: Selecting a dataset
 
-Select a dataset that is of interest to you. You can either choose one from the list below, or pick your own. Note that tasks 1 and 2 offer a suggested guideline for the exploration, heavily biased towards spatiotemporal datasets; however, you are free to choose any other dataset, but you should try to follow a similar guideline as the one detailed in the tasks. Also, make sure you choose a dataset that contains detailed metadata describing its columns, types, etc. It is also important to balance dataset complexity and size and the project timeline -- if you identify a dataset that is either too large or too complex, make sure you can select a manageable subset of the data where you can still find interesting insights.
+Select a dataset that is of interest to you. You can either choose one from the list below, or pick your own. Note that tasks 1 and 2 offer a suggested guideline for the exploration, heavily biased towards spatiotemporal datasets; however, you are free to choose any other dataset, but you should try to follow the guideline detailed in the tasks. Also, make sure you choose a dataset that contains detailed metadata describing its columns, types, etc. It is also important to balance dataset complexity and size and the project timeline -- if you identify a dataset that is either too large or too complex, make sure you can select a manageable subset of the data where you can still find interesting insights.
 
 Suggested datasets:
 
@@ -80,6 +80,10 @@ Based on the attributes of interest in the dataset, you will need to perform the
 * Space + Time: If the dataset contains both space and time, visualize both of these attributes. For instance, are temporal trends different when considering different regions?
 
 * Distributions: If your dataset has a numerical column, aggregate the data to compute distributions, considering potentially interesting spatial and temporal subsets of the data.
+
+* Comparison: Select two subsets of the data (e.g., two regions, two time ranges), and compare them.
+
+Make sure you choose appropriate channels and visual marks when plotting the data in all subtasks.
 
 ---
 
