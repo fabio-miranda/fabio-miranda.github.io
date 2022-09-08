@@ -83,7 +83,7 @@ Based on the attributes of interest in the dataset, you will need to perform the
 
 * Comparison: Select two subsets of the data (e.g., two regions, two time ranges), and compare them.
 
-Make sure you choose appropriate channels and visual marks when plotting the data in all subtasks.
+Make sure you choose appropriate channels and visual marks when plotting the data in all subtasks. Even though there is no minimum number of plots, you should *comprehensively* explore the dataset, and it is difficult to do so with just a handful of plots. Make sure you visualize multiple attributes (or combinations of attributes) of the dataset.
 
 ---
 
@@ -93,7 +93,7 @@ In this project, there will be three deliverables:
 
 1) A markdown document, with a clear description of the dataset, summarizing the most important points (size, attributes) and initial findings. Clearly describe each step of your exploratory process. You should include plots with meaningful captions. Please put some effort into it, it can be very helpful later as you build your portfolio. The document should have 500-800 words.
 
-2) A ~5 minute presentation, also describing the dataset and summarizing your most important findings.
+2) A ~5 minute presentation, also describing the dataset and summarizing your most important findings. You should upload the presentation pdf to your github project.
 
 3) A Jupyter Notebook, with each step of your exploratory process. Make sure it is *easily* reproducible and well documented, including both comments and plots.
 
@@ -101,4 +101,4 @@ In this project, there will be three deliverables:
 
 #### Grading
 
-Your submission will be graded according to the quality and coverage of the results and presentation. You need to make sure that both your deliverables (presentation and documentation) and notebooks clearly show your findings. Visualizations need to be well constructed, with good color and font choices and proper labeling.
+Your submission will be graded according to the quality and coverage of the results and presentation. You need to make sure that your deliverables (presentation, documentation and notebooks) clearly show your findings. Visualizations need to be well constructed, with good color and font choices and proper labeling.
