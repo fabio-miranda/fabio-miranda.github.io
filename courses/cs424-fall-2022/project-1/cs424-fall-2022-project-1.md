@@ -19,6 +19,8 @@ We will use GitHub to manage code and documentation. You should create a reposit
 
 Select a dataset that is of interest to you. You can either choose one from the list below, or pick your own. Note that tasks 1 and 2 offer a suggested guideline for the exploration, heavily biased towards spatiotemporal datasets; however, you are free to choose any other dataset, but you should try to follow the guideline detailed in the tasks. Also, make sure you choose a dataset that contains detailed metadata describing its columns, types, etc. It is also important to balance dataset complexity and size and the project timeline -- if you identify a dataset that is either too large or too complex, make sure you can select a manageable subset of the data where you can still find interesting insights.
 
+Throughout the process, make sure you highlight a few hypotheses you have regarding the dataset or phenomena of interest, and then explore these in the project.
+
 Suggested datasets:
 
 * [Chicago taxi trips](https://data.cityofchicago.org/Transportation/Taxi-Trips/wrvz-psew)
@@ -71,7 +73,7 @@ To complete this task, you will need to complete at least three subtasks (depend
 
 #### Task 2: Data visualization & analytics
 
-Based on the attributes of interest in the dataset, you will need to perform the following subtasks:
+In this task, you will need to visualize attributes of interest of the dataset. You can use the following steps as a *general* guideline in this exploration:
 
 * Time: If your dataset has a temporal attribute, aggregate and plot the data at a chosen level (e.g., days, weeks, months). If you don't notice any noticeable pattern, try a different aggregation level, or different subset of the data. Are there any trends? Outliers?
 
@@ -91,7 +93,7 @@ Make sure you choose appropriate channels and visual marks when plotting the dat
 
 In this project, there will be three deliverables:
 
-1) A markdown document, with a clear description of the dataset, summarizing the most important points (size, attributes) and initial findings. Clearly describe each step of your exploratory process. You should include plots with meaningful captions. Please put some effort into it, it can be very helpful later as you build your portfolio. The document should have 500-800 words.
+1) A markdown document, with a clear description of the dataset, summarizing the most important points (size, attributes), potential hypotheses and initial findings. Clearly describe each step of your exploratory process. You should include plots with meaningful captions. Please put some effort into it, it can be very helpful later as you build your portfolio. The document should have 500-800 words.
 
 2) A ~5 minute presentation, also describing the dataset and summarizing your most important findings. You should upload the presentation pdf to your github project.
 
