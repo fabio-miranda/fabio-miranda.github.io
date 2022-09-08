@@ -17,7 +17,7 @@ We will use GitHub to manage code and documentation. You should create a reposit
 
 #### Task 0a: Selecting a dataset
 
-Select a dataset that is of interest to you. You can either choose one from the list below, or pick your own. Note that tasks 1 and 2 offer a suggested guideline for the exploration, heavily biased towards spatiotemporal datasets; However, you are free to choose any other dataset, just be mindful to follow a similar guideline. Make sure you choose a dataset that contains detailed metadata information describing its columns, types, etc. It is also important to balance dataset complexity and size and the project timeline. If you identify a dataset that is either too large or too complex, make sure you can select a manageable subset of the data where you can still find interesting insights.
+Select a dataset that is of interest to you. You can either choose one from the list below, or pick your own. Note that tasks 1 and 2 offer a suggested guideline for the exploration, heavily biased towards spatiotemporal datasets; however, you are free to choose any other dataset, but you should try to follow a similar guideline as the one detailed in the tasks. Also, make sure you choose a dataset that contains detailed metadata describing its columns, types, etc. It is also important to balance dataset complexity and size and the project timeline -- if you identify a dataset that is either too large or too complex, make sure you can select a manageable subset of the data where you can still find interesting insights.
 
 Suggested datasets:
 
@@ -60,7 +60,7 @@ git push
 
 #### Task 1: Data importing & transformation
 
-In this task, you will need to perform at least three subtasks (depending of your data):
+To complete this task, you will need to complete at least three subtasks (depending of your data):
 * Load the data: Use Pandas and GeoPandas to load and view the data to have an initial idea of what it contains. For instance, what are the columns in the dataset? Is there a spatial or temporal component? What are the categorial and numerical columns? For each data point, if there are multiple categories, is there a specific one you want to focus? What is the spatial and temporal coverage of the dataset? Percentage of missing values? Depending of the size of the data, you will need to filter the data and only consider a more manageable subset (e.g., a month or a week, or a spatial region).
 
 * Profile the data: Compute interesting statistics from the dataset. For example: For a numerical column of interest, compute max, min, std. deviation, etc; For a categorical column, find the unique categories.
