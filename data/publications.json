@@ -1,6 +1,20 @@
 {
 	"Publications": {
 
+        "urban3d": {
+            "title": "A Comparison of Spatiotemporal Visualizations for 3D Urban Analytics",
+            "authors": "Roberta Mota, Nivan Ferreira, Julio Daniel Silva, Marius Horga, Marcos Lage, Luis Ceferino, Usman Alim, Ehud Sharlin, Fabio Miranda",
+            "where": "IEEE VIS 2022",
+            "doi": "https://doi.org/10.48550/arXiv.2208.05370"
+        },
+
+        "uncertainty": {
+            "title": "A Comparative Study of Methods for the Visualization of Probability Distributions of Geographical Data",
+            "authors": "Sanjana Srabanti, Carolina Veiga, Edcley Silva, Marcos Lage, Nivan Ferreira, Fabio Miranda",
+            "where": "Multimodal Technol. Interact. 2022, 6(7), 53;",
+            "doi": "https://doi.org/10.3390/mti6070053"
+        },
+
         "nearfall": {
             "title": "Near-Fall Detection in Unexpected Slips during Over-Ground Locomotion with Body-Worn Sensors among Older Adults",
             "authors": "Shuaijie Wang, Fabio Miranda, Yiru Wang, Rahiya Rasheed, Tanvi Bhatt",
@@ -10,19 +24,21 @@
 
         "rhapsody": {
             "title": "Urban Rhapsody: Large-scale Visual Exploration of Urban Soundscapes",
-            "authors": "Maryam Hosseini, Iago B. Araujo, Hamed Yazdanpanah, Eric K. Tokuda, Fabio Miranda, Claudio T. Silva, Roberto M. Cesar Jr.",
-            "where": "EuroVis 2022 (Accepted, to appear)"
+            "authors": "Joao Rulff, Fabio Miranda, Maryam Hosseini, Marcos Lage, Mark Cartwright, Graham Dove, Juan Bello, Claudio T Silva",
+            "where": "EuroVis 2022",
+            "doi": "https://doi.org/10.1111/cgf.14534"
         },
 
         "twocities": {
             "title": "A Tale of Two Centers: Visual Exploration of Health Disparities in Cancer Care",
-            "where": "PacificVis 2022 (Accepted, to appear)"
+            "where": "PacificVis 2022 (Accepted, to appear)",
+            "doi": "https://doi.org/10.1109/pacificvis53943.2022.00019"
         },
 
 
         "xweather": {
             "title": "Visualizing simulation ensembles of extreme weather events",
-            "authors": "Carolina Veiga Ferreira de Souza, Priscila da Cunha Luz Barcellos, Lhaylla Crissaff, MarcioCataldi, FabioMiranda, MarcosLage",
+            "authors": "Carolina Veiga Ferreira de Souza, Priscila da Cunha Luz Barcellos, Lhaylla Crissaff, Marcio Cataldi, Fabio Miranda, Marcos Lage",
             "where": "Computers & Graphics (2022)",
             "doi": "https://doi.org/10.1016/j.cag.2022.01.007"
         },
