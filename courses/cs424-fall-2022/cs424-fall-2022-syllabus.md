@@ -89,7 +89,7 @@ This is a tentative course schedule and will be adjusted along the way. Slides w
 | 2  | Aug 30 | Introduction to visualization: Data & attribute types, channels, tasks, analysis loop | | [03-vis.pdf](https://fmiranda.me/courses/cs424-slides/03-vis.pdf) |
 | 3  | Sep 6  | Building blocks with Git, Pandas, GeoPandas, Jupyter | [Intro to Git](https://rogerdudler.github.io/git-guide/), [Intro to GeoPandas](https://geopandas.org/en/stable/getting_started/introduction.html) | [04-pandas.pdf](https://fmiranda.me/courses/cs424-slides/04-pandas.pdf) |
 | 4  | Sep 13 | Exploratory data analysis + **Lab** | | |
-| 5  | Sep 20 | Building blocks: Web technologies for visualization | [Intro to Observable and D3](https://observablehq.com/collection/@fmiranda/intro-to-observable-and-d3) | [05-pandas.pdf](https://fmiranda.me/courses/cs424-slides/05-d3.pdf) |
+| 5  | Sep 20 | Building blocks: Web technologies for visualization | [Intro to Observable and D3](https://observablehq.com/collection/@fmiranda/intro-to-observable-and-d3) | [05-d3.pdf](https://fmiranda.me/courses/cs424-slides/05-d3.pdf) |
 | 6  | Sep 27 | **Project 1 presentation: exploratory data analysis** | | |
 | 7 | Oct 4  | Embedded, juxtaposed and coordinated views + **Lab** | | |
 | 8 | Oct 11 | Data management for visualization | | |
