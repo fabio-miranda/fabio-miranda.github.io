@@ -51,7 +51,7 @@ If you are using Windows, you can use [Git for Windows](https://gitforwindows.or
 We will provide a GitHub Classroom link for each assignment. Follow the link to create a repository. Use `git clone` to get a local copy of the newly created repository. After writing your code, you can push your modifications to the server using `git commit` followed by `git push`. For example, if your username is `uic-user`:
 
 ```
-git clone git@github.com:uic-vis/assignment-0-uic-user.git
+git clone git@github.com:uic-vis/project-1-uic-user.git
 touch index.html
 git add README.md
 git commit -am "README.md file"
