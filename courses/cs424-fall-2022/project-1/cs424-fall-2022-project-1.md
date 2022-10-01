@@ -93,7 +93,7 @@ Make sure you choose appropriate channels and visual marks when plotting the dat
 
 In this project, there will be three deliverables:
 
-1) A markdown document (``.md``), with a clear description of the dataset, summarizing the most important points (size, attributes), potential hypotheses and initial findings. Clearly describe each step of your exploratory process. You should include plots with meaningful captions. Please put some effort into it, it can be very helpful later as you build your portfolio. The document should have 500-800 words.
+1) A [markdown document](https://www.markdownguide.org/getting-started/) (``.md``), with a clear description of the dataset, summarizing the most important points (size, attributes), potential hypotheses and initial findings. Clearly describe each step of your exploratory process. You should include plots with meaningful captions. Please put some effort into it, it can be very helpful later as you build your portfolio. The document should have 500-800 words.
 
 2) A ~5 minute presentation, also describing the dataset and summarizing your most important findings. You should upload the presentation (``.pdf`` or ``.pptx``) to your github project.
 
