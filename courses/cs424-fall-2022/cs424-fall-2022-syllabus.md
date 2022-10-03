@@ -91,7 +91,7 @@ This is a tentative course schedule and will be adjusted along the way. Slides w
 | 4  | Sep 13 | Exploratory data analysis + **Lab** | | |
 | 5  | Sep 20 | Building blocks: Web technologies for visualization | [Intro to Observable and D3](https://observablehq.com/collection/@fmiranda/intro-to-observable-and-d3) | [05-d3.pdf](https://fmiranda.me/courses/cs424-slides/05-d3.pdf) |
 | 6  | Sep 27 | **Project 1 presentation: exploratory data analysis** | | |
-| 7 | Oct 4  | Embedded, juxtaposed and coordinated views + **Lab** | | |
+| 7 | Oct 4  | Colors, layouts & interactions + **Lab** | | |
 | 8 | Oct 11 | Data management for visualization | | |
 | 9 | Oct 18 | **Vis critique (presentation)** (Zoom) | | |
 | 10 | Oct 25 | Visual analytics systems: integrating visualization and analytics (Invited talks, Zoom) | | |
