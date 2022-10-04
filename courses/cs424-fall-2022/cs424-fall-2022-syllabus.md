@@ -146,7 +146,7 @@ Since students will need to present their projects to the class, it is very impo
 
 ***
 
-#### Acknowledgments
+#### Acknowledgements
 Some of the figures and slides were adapted from [Enrico Bertini's great visualization course](http://enrico.bertini.io/teaching).
 
 ***
