@@ -91,14 +91,14 @@ This is a tentative course schedule and will be adjusted along the way. Slides w
 | 4  | Sep 13 | Exploratory data analysis + **Lab** | | |
 | 5  | Sep 20 | Building blocks: Web technologies for visualization | [Intro to Observable and D3](https://observablehq.com/collection/@fmiranda/intro-to-observable-and-d3) | [05-d3.pdf](https://fmiranda.me/courses/cs424-slides/05-d3.pdf) |
 | 6  | Sep 27 | **Project 1 presentation: exploratory data analysis** | | |
-| 7 | Oct 4  | Colors, layouts & interactions + **Lab** | | |
-| 8 | Oct 11 | Data management for visualization | | |
+| 7 | Oct 4  | Data transformation & colors + **Lab** | | |
+| 8 | Oct 11 | Interaction & multiple views | | |
 | 9 | Oct 18 | **Vis critique (presentation)** (Zoom) | | |
 | 10 | Oct 25 | Visual analytics systems: integrating visualization and analytics (Invited talks, Zoom) | | |
 | 11 | Nov 1 | **Project 2 presentation: coordinated views** | | |
-| 12 | Nov 8 |  Spatial and uncertainty visualization | | |
+| 12 | Nov 8 |  Spatial data visualization | | |
 | 13 | Nov 15  | Machine learning & data mining for visualization + **Lab** | | |
-| 14 | Nov 22  | Visualization for complex and big data: OLAP cubes, MapReduce, Hadoop, Spark, Dask | | |
+| 14 | Nov 22  | Data management for visualization | | |
 | 15 | Nov 29 | **Final project presentation: spatial data visualization** |  | | 
 
 We will meet in-person in EVL's Continuum room, except in week 9 (presentations will happen over Zoom) and week 10 (two invited talks over Zoom).
