@@ -17,6 +17,7 @@
     2. [Evaluation Schedule](#evaluation-schedule)
     3. [Assignment Considerations](#assignment-considerations)
     4. [Late Days](#late-days)
+4. [Acknowledgments](#acknowledgements)
 5. [Academic Integrity](#academic-integrity)
 6. [Inclusive Learning Environment](#inclusive-learning-environment)
 7. [Disability Accommodation Procedures](#disability-accomodation-procedures)
@@ -91,8 +92,8 @@ This is a tentative course schedule and will be adjusted along the way. Slides w
 | 4  | Sep 13 | Exploratory data analysis + **Lab** | | |
 | 5  | Sep 20 | Building blocks: Web technologies for visualization | [Intro to Observable and D3](https://observablehq.com/collection/@fmiranda/intro-to-observable-and-d3) | [05-d3.pdf](https://fmiranda.me/courses/cs424-slides/05-d3.pdf) |
 | 6  | Sep 27 | **Project 1 presentation: exploratory data analysis** | | |
-| 7 | Oct 4  | Data transformation & colors + **Lab** | | |
-| 8 | Oct 11 | Interaction & multiple views | | |
+| 7 | Oct 4  | Data questions & transformations | | |
+| 8 | Oct 11 | Interaction & multiple views + **Lab** | | |
 | 9 | Oct 18 | **Vis critique (presentation)** (Zoom) | | |
 | 10 | Oct 25 | Visual analytics systems: integrating visualization and analytics (Invited talks, Zoom) | | |
 | 11 | Nov 1 | **Project 2 presentation: coordinated views** | | |
@@ -142,6 +143,11 @@ Students who struggle with the material and activities, but that take advantage 
 
 #### Late Days
 Since students will need to present their projects to the class, it is very important that they are submitted by the deadlines, otherwise it will be difficult to schedule new presentation slots. If you are unable to complete a project by the deadline, a documented compelling excuse (such as illness, hospitalization) is required.
+
+***
+
+#### Acknowledgments
+Some of the figures and slides were adapted from [Enrico Bertini's great visualization course](http://enrico.bertini.io/teaching).
 
 ***
 
