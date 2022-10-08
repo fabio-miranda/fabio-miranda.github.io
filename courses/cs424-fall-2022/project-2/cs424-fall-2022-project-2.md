@@ -37,7 +37,7 @@ Based on the attributes identified in the previous task, create the most appropr
 
 Create at least one *interactive* and *linked* juxtaposed visualization using faceting, following the steps shown in class. Your visualization must be interactive -- for example, if selecting / brushing one (or multiple) data points, the other plots that compose the visualization should be updated, highlighting the appropriate *linked* data points.
 
-Here is an example of interaction between three scatterplots:
+Here is an *example* of interaction between three scatterplots:
 
 ![Example](example.gif)
 
