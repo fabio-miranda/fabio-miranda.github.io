@@ -10,7 +10,7 @@ Course webpage: https://fmiranda.me/courses/cs424-fall-2022/
 
 In this assignment, you will need to select a visualization that you think is particularly interesting and critique it, considering what we have seen in class.
 
-First, you should find a visualization that you think is interesting and complex enough that you can effectively critique it. This visualization should be interactive, i.e., the user must be able to change the content of the visualization through interactions.
+First, you should find a visualization that you think is **interesting and complex enough** that you can effectively critique it. This visualization should be interactive, i.e., the user must be able to change the content of the visualization through interactions.
 
 Here are a few places to look for interesting visualizations, but feel free to go beyond those:
 
