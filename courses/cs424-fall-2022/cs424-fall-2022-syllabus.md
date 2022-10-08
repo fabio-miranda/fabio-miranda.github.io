@@ -131,6 +131,7 @@ Students who struggle with the material and activities, but that take advantage 
 - Project 2:
   - Coordinated views
   - Observable
+  - Link: https://fmiranda.me/courses/cs424-fall-2022/project-2/
   - Week 8, due week 11.
 - Final project:
   - Spatial data visualization
