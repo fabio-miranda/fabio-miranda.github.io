@@ -45,3 +45,5 @@ In this project, there will be three deliverables:
 ###### Grading
 
 Your submission will be graded according to the quality and coverage of the results and presentation. You need to make sure that both your deliverables (presentation and documentation) and notebooks clearly show your findings. Visualizations need to be well constructed, with good color and font choices and proper labeling.
+
+To get a C on the assignment, you must complete task 1 and at least two plots in task 2. To get a B, you must complete tasks 1 and 2, plus the deliverables. To get an A on the assignment, you must complete all tasks.
