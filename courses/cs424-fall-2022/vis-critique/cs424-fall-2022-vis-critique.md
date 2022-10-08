@@ -18,6 +18,8 @@ Here are a few places to look for interesting visualizations, but feel free to g
 * [The New York Times](https://ride.divvybikes.com/system-data)
 * [FiveThirtyEight](https://fivethirtyeight.com/)
 
+Once you have selected a visualization, please add a link to it to the spreadsheet shared on Piazza. **Each team must present a unique visualization**, so make sure no other team has already selected your proposed visualization.
+
 Based on what we have seen in class, you should critically evaluate the visualization. Here are a few topics you can use to frame your evaluation:
 
 * What is the purpose of the visualization?
