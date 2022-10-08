@@ -139,6 +139,7 @@ Students who struggle with the material and activities, but that take advantage 
   - Week 12, due week 15
 - Vis critique presentation:
   - ~5 minute presentation.
+  - Link: https://fmiranda.me/courses/cs424-fall-2022/vis-critique/
   - Due week 9
 
 
