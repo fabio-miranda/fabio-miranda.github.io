@@ -14,8 +14,9 @@ First, you should find a visualization that you think is **interesting and compl
 
 Here are a few places to look for interesting visualizations, but feel free to go beyond those:
 
-* [FlowingData](https://data.cityofchicago.org/Transportation/Taxi-Trips/wrvz-psew)
-* [The New York Times](https://ride.divvybikes.com/system-data)
+* [FlowingData](https://flowingdata.com/)
+* [The New York Times](https://nyt.com)
+* [Chicago Tribune](https://www.chicagotribune.com/)
 * [FiveThirtyEight](https://fivethirtyeight.com/)
 
 Once you have selected a visualization, please add it to the spreadsheet shared on Piazza. **Each team must present a unique visualization** (i.e., no two teams can present the same visualization), so make sure no other team has already selected your proposed visualization.
