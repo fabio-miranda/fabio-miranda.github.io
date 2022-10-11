@@ -35,7 +35,7 @@ Based on the attributes identified in the previous task, create the most appropr
 
 #### Task 3: Interaction techniques
 
-Create at least **two** *interactive* and *linked* juxtaposed visualizations using multiple linked views, following the steps shown in class. Your visualization must be interactive -- for example, if selecting / brushing one (or multiple) data points, the other plots that compose the visualization should be updated, highlighting the appropriate *linked* data points. For each visualization, use a different interaction mechanism (i.e., manipulating the data, manipulating the visual mapping, manipulating the view) and method (i.e., aggregation, filtering, change mapping, selection, navigation, spatial arrangement).
+Create at least **two** *interactive* visualizations -- one using single view and another using multiple linked views, following the steps shown in class. Your visualization must be interactive -- for example, if selecting / brushing one (or multiple) data points, the other plots that compose the visualization should be updated, highlighting the appropriate *linked* data points. For each visualization, use a different interaction mechanism (i.e., manipulating the data, manipulating the visual mapping, manipulating the view) and method (i.e., aggregation, filtering, change mapping, selection, navigation, spatial arrangement).
 
 Here is an *example* of one multiple linked views visualization with three linked scatterplots:
 
