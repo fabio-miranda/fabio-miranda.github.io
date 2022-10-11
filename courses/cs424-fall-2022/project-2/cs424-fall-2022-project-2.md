@@ -35,9 +35,9 @@ Based on the attributes identified in the previous task, create the most appropr
 
 #### Task 3: Interaction techniques
 
-Create at least one *interactive* and *linked* juxtaposed visualization using faceting, following the steps shown in class. Your visualization must be interactive -- for example, if selecting / brushing one (or multiple) data points, the other plots that compose the visualization should be updated, highlighting the appropriate *linked* data points.
+Create at least one *interactive* and *linked* juxtaposed visualization using faceting, following the steps shown in class. Your visualization must be interactive -- for example, if selecting / brushing one (or multiple) data points, the other plots that compose the visualization should be updated, highlighting the appropriate *linked* data points. It is up to you to decide and justify the use of one interaction mechanism (i.e., manipulating the data, manipulating the visual mapping, manipulating the view).
 
-Here is an *example* of interaction between three scatterplots:
+Here is an *example* of interaction between three linked scatterplots:
 
 ![Example](example.gif)
 
