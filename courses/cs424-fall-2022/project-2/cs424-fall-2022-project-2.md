@@ -49,7 +49,7 @@ In this project, there will be three deliverables:
 
 1) A [markdown document](https://www.markdownguide.org/getting-started/) (``.md``), with a clear description of the dataset, summarizing the most important points, questions, data transformations, encodings, interactions and initial findings. Make sure you explain *each* design choice, particularly the interaction ones. The document should have 500-800 words.
 
-2) A ~5 minute presentation, presenting the dataset, questions, transformations, encodings, interactions, and findings. You should upload the presentation (``.pdf`` or ``.pptx``) to your github project.
+2) A ~5 minute presentation, presenting the dataset, questions, transformations, encodings, interactions, and findings. Make sure you explain *each* design choice, particularly the interaction ones. You should upload the presentation (``.pdf`` or ``.pptx``) to your github project.
 
 3) One or more Observable Notebooks, with each step of your exploratory process. Make sure it is *easily* reproducible and well documented, including both comments and plots.
 
