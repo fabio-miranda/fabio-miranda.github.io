@@ -95,7 +95,7 @@ This is a tentative course schedule and will be adjusted along the way. Slides w
 | 7 | Oct 4  | Data questions & transformations | | [06-data-questions.pdf](https://fmiranda.me/courses/cs424-slides/06-data-questions.pdf) |
 | 8 | Oct 11 | Interaction & multiple views + **Lab** | | [07-interaction.pdf](https://fmiranda.me/courses/cs424-slides/07-interaction.pdf) |
 | 9 | Oct 18 | **Vis critique (presentation)** (Zoom) | | |
-| 10 | Oct 25 | Visual analytics systems: integrating visualization and analytics (Invited talks, Zoom) | | [Joao Rulff](rulff.pdf), [Carolina Veiga](veiga.pdf) |
+| 10 | Oct 25 | Visual analytics systems: integrating visualization and analytics (Invited talks, Zoom) | | [Joao Rulff](https://fmiranda.me/courses/cs424-slides/rulff.pdf), [Carolina Veiga](https://fmiranda.me/courses/cs424-slides/veiga.pdf) |
 | 11 | Nov 1 | **Project 2 presentation: coordinated views** | | |
 | 12 | Nov 8 |  Spatial data visualization | | [08-spatial-vis.pdf](https://fmiranda.me/courses/cs424-slides/08-spatial-vis.pdf) |
 | 13 | Nov 15  | Machine learning & data mining for visualization + **Lab** | | |
