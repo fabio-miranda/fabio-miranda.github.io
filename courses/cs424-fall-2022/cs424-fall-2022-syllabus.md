@@ -97,7 +97,7 @@ This is a tentative course schedule and will be adjusted along the way. Slides w
 | 9 | Oct 18 | **Vis critique (presentation)** (Zoom) | | |
 | 10 | Oct 25 | Visual analytics systems: integrating visualization and analytics (Invited talks, Zoom) | | |
 | 11 | Nov 1 | **Project 2 presentation: coordinated views** | | |
-| 12 | Nov 8 |  Spatial data visualization | | |
+| 12 | Nov 8 |  Spatial data visualization | | [08-spatial-vis.pdf](https://fmiranda.me/courses/cs424-slides/08-spatial-vis.pdf) |
 | 13 | Nov 15  | Machine learning & data mining for visualization + **Lab** | | |
 | 14 | Nov 22  | Data management for visualization | | |
 | 15 | Nov 29 | **Final project presentation: spatial data visualization** |  | | 
