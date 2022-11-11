@@ -7,7 +7,7 @@ Course webpage: https://fmiranda.me/courses/cs424-fall-2022/
 ---
 
 ### Project 3
-The goal of this project is to build a complete web-based visualization system leveraging outcomes from Project 1 and Project3. We will use JavaScript and D3 to visualize and interactively analyze a dataset. Your visualization should be hosted on a publicly available website and you can use any web hosting service you prefer. Options include [GitHub](https://pages.github.com/), [Heroku](https://www.heroku.com/students), and [Google Sites](https://sites.google.com/). Once again, we will use GitHub to manage documentation and code. You should create a repository for your team on GitHub Classroom (see Piazza for invitation link).
+The goal of this project is to build a complete web-based visualization system leveraging outcomes from Project 1 and Project 2. We will use JavaScript and D3 to visualize and interactively analyze a dataset. Your visualization should be hosted on a publicly available website and you can use any web hosting service you prefer. Options include [GitHub](https://pages.github.com/), [Heroku](https://www.heroku.com/students), and [Google Sites](https://sites.google.com/). Once again, we will use GitHub to manage documentation and code. You should create a repository for your team on GitHub Classroom (see Piazza for invitation link).
 
 ---
 
@@ -37,6 +37,8 @@ In Project 2 you have already created a set of interactive visualizations. Re-us
 #### Task 3: New multiple linked view
 
 Create a new multiple linked view visualization, using a different interaction mechanism (i.e., manipulating the data, manipulating the visual mapping, manipulating the view) or method (i.e., aggregation, filtering, change mapping, selection, navigation, spatial arrangement) from the ones you used in the previous task. Again, make sure your plots avoid common problems, such as overplotting.
+
+---
 
 #### Task 4: New spatial view
 
