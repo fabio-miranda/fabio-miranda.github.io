@@ -134,8 +134,9 @@ Students who struggle with the material and activities, but that take advantage 
   - Link: https://fmiranda.me/courses/cs424-fall-2022/project-2/
   - Week 8, due week 11.
 - Final project:
-  - Spatial data visualization
-  - Javascript + React
+  - Web visualization interface
+  - Link: https://fmiranda.me/courses/cs424-fall-2022/project-3/
+  - Javascript
   - Week 12, due week 15
 - Vis critique presentation:
   - ~5 minute presentation.
