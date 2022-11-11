@@ -44,15 +44,15 @@ Create a new multiple linked view visualization, using a different interaction m
 
 In this project, there will be five deliverables:
 
-1) A [markdown document](https://www.markdownguide.org/getting-started/) (``.md``), with a clear description of the dataset, summarizing the most important points, questions, data transformations, encodings, interactions and initial findings (feel free to re-use text from Project 1 and 2). Also include a link to your visualization solution (see deliverable 4). You should include screenshots with meaningful captions. Please put some effort into it as outcomes like this can be helpful when building up a portfolio.
+1) A [markdown document](https://www.markdownguide.org/getting-started/) (``.md``), with a clear description of the dataset, summarizing the most important points, questions, data transformations, encodings, interactions and initial findings (feel free to re-use text from Projects 1 and 2). Also include a link to your visualization solution (see deliverable 4). You should include screenshots with meaningful captions. **Please put some effort into it as outcomes like this can be helpful when building up a portfolio.**
 
 2) Source code and any necessary data files.
 
-3) A png image showing your visualization interface. I will be linking your web page to the course notes, so please make sure to have a good screenshot.
+3) A png image showing your visualization interface. I will use your screenshot to link your web page in the course notes, so please make sure to have a good screenshot.
 
 4) A web page hosting your visualization interface.
 
-5) A ~5 minute presentation, presenting your visualization interface. For the presentation, you should present your interface, interactions and findings, **without** relying on a Powerpoint presentation. In other words, in your presentation you should open the webpage hosting your visualization and present it live.
+5) A ~5 minute presentation, presenting your visualization interface. For the presentation, you should present your interface, interactions and findings, **without** relying on a Powerpoint presentation. In other words, for your presentation you should open the webpage hosting your visualization and present it live.
 
 (1), (2) and (3) should be uploaded to GitHub. You should use a web hosting service for (4). Presentations will take place in the week of Nov 29.
 
