@@ -38,9 +38,13 @@ In Project 2 you have already created a set of interactive visualizations. Re-us
 
 Create a new multiple linked view visualization, using a different interaction mechanism (i.e., manipulating the data, manipulating the visual mapping, manipulating the view) or method (i.e., aggregation, filtering, change mapping, selection, navigation, spatial arrangement) from the ones you used in the previous task. Again, make sure your plots avoid common problems, such as overplotting.
 
+#### Task 4: New spatial view
+
+Create a visualization leveraging the spatial information of your dataset. You are free to use any library for this task, such as [Leaflet](https://leafletjs.com/). For extra points, you should link the spatial view with the views from the previous tasks.
+
 ---
 
-#### Task 4: Deliverables
+#### Task 5: Deliverables
 
 In this project, there will be five deliverables:
 
@@ -62,4 +66,4 @@ In this project, there will be five deliverables:
 
 Your submission will be graded according to the quality and coverage of the results and presentation. You need to make sure that both your deliverables and visualizations clearly show your findings. Visualizations need to be well constructed, with good color and font choices and proper labeling.
 
-To get a C on the assignment, you must complete tasks 0, 1 and part of task 2. To get a B, you must complete tasks 0, 1 and 2. To get an A on the assignment, you must complete all tasks.
+To get a C on the assignment, you must complete tasks 0, 1 and 2. To get a B, you must complete tasks 0, 1, 2 and 3. To get an A on the assignment, you must complete all tasks.
