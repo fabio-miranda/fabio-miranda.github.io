@@ -7,7 +7,7 @@ Course webpage: https://fmiranda.me/courses/cs424-fall-2022/
 ---
 
 ### Project 3
-The goal of this project is build a complete web-based visualization system leveraging outcomes from Project 1 and Project3. We will use JavaScript and D3 to visualize and interactively analyze a dataset. Your visualization should be hosted on a publicly available website and you can use any web hosting service you prefer. Options include [GitHub](https://pages.github.com/), [Heroku](https://www.heroku.com/students), and [Google Sites](https://sites.google.com/). Once again, we will use GitHub to manage documentation and code. You should create a repository for your team on GitHub Classroom (see Piazza for invitation link).
+The goal of this project is to build a complete web-based visualization system leveraging outcomes from Project 1 and Project3. We will use JavaScript and D3 to visualize and interactively analyze a dataset. Your visualization should be hosted on a publicly available website and you can use any web hosting service you prefer. Options include [GitHub](https://pages.github.com/), [Heroku](https://www.heroku.com/students), and [Google Sites](https://sites.google.com/). Once again, we will use GitHub to manage documentation and code. You should create a repository for your team on GitHub Classroom (see Piazza for invitation link).
 
 ---
 
