@@ -98,7 +98,7 @@ This is a tentative course schedule and will be adjusted along the way. Slides w
 | 10 | Oct 25 | Visual analytics systems: integrating visualization and analytics (Invited talks, Zoom) | | [Joao Rulff](https://fmiranda.me/courses/cs424-slides/rulff.pdf), [Carolina Veiga](https://fmiranda.me/courses/cs424-slides/veiga.pdf) |
 | 11 | Nov 1 | **Project 2 presentation: coordinated views** | | |
 | 12 | Nov 8 |  Spatial data visualization | | [08-spatial-vis.pdf](https://fmiranda.me/courses/cs424-slides/08-spatial-vis.pdf) |
-| 13 | Nov 15  | Machine learning & data mining for visualization + **Lab** | | |
+| 13 | Nov 15  | Machine learning & data mining for visualization + **Lab** | | [09-ml-vis.pdf](https://fmiranda.me/courses/cs424-slides/09-ml-vis.pdf) |
 | 14 | Nov 22  | Data management for visualization | | |
 | 15 | Nov 29 | **Final project presentation: spatial data visualization** |  | | 
 
