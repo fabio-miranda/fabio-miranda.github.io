@@ -58,7 +58,7 @@ In this project, there will be five deliverables:
 
 4) A web page hosting your visualization interface.
 
-5) A ~5 minute presentation, presenting your visualization interface. For the presentation, you should present your interface, interactions and findings, **without** relying on a Powerpoint presentation. In other words, for your presentation you should open the webpage hosting your visualization (see task 0) and present it live.
+5) A ~5 minute presentation, presenting your visualization interface. For the presentation, you should present your interface, interactions and findings, **without** relying on a Powerpoint presentation. In other words, for your presentation you should open the webpage hosting your visualization (see task 1) and present it live.
 
 (1), (2) and (3) should be uploaded to GitHub. You should use a web hosting service for (4). Presentations will take place in the week of Nov 29.
 
