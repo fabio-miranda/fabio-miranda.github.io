@@ -1,28 +1,28 @@
 {
     "Research Areas": {
         "1": {
-            "title": "3D Urban Analytics",
+            "title": "3D urban analytics",
             "text": "Techniques that use highly-accurate 3D geometry data to compute important urban attributes and enable interactive visual analytics from a new perspective, allowing domain experts to investigate important issues facing cities today.",
-            "where": ["PhD dissertation", "IEEE TVCG 2021", "IEEE TVCG 2019", "CGA 2018"],
-            "more": ["https://fmiranda.me/publications/phd-dissertation/", "https://fmiranda.me/publications/urbanrama/", "https://fmiranda.me/publications/shadow-accrual-maps/", "https://fmiranda.me/publications/spatio-temporal/"]
+            "where": ["IEEE VIS 2022", "IEEE TVCG 2021", "IEEE TVCG 2019", "CGA 2018"],
+            "more": ["publications/pdfs/3D_urban_vis_Vis2022.pdf", "publications/urbanrama/urbanrama.pdf", "publications/shadow-accrual-maps/tvcg-2018-shadowaccrualmaps.pdf", "publications/spatio-temporal/spatio-temporal.pdf"]
         },
         "2": {
             "title": "Data structures for Visualization",
             "text": "Data structures to drive interactive visual analysis of very large temporal and spatiotemporal data.",
             "where": ["SIGMOD 2018", "IEEE TVCG 2018", "CGF 2018"],
-            "more": ["https://fmiranda.me/publications/raster-join-demo/", "https://fmiranda.me/publications/topkube/", "https://fmiranda.me/publications/time-lattice/"]
+            "more": ["publications/raster-join-demo/sigmod-2018-demo-raster-join.pdf", "publications/topkube/tvcg-2017-topkube.pdf", "publications/time-lattice/cgf-2018-time-lattice.pdf"]
         },
         "3": {
-            "title": "Neural Networks",
+            "title": "Machine learning",
             "text": "Models to assess the impact of built environment changes on the urban fabric, as well as on commuting flow patterns.",
-            "where": ["AAAI 2020", "CHI 2020"],
-            "more": ["https://fmiranda.me/publications/gmel/", "https://fmiranda.me/publications/urban-mosaic/"]
+            "where": ["SCS 2022", "AAAI 2020", "CHI 2020"],
+            "more": ["publications/pdfs/citysurfaces_2022.pdf", "publications/gmel/aaai-2020-gmel.pdf", "publications/urban-mosaic/chi-2020-urban-mosaic.pdf"]
         },
         "4": {
             "title": "Large-scale Data Analysis",
             "text": "Methods for the analysis of large spatiotemporal data sets, allowing for a data-driven approach to urban problems.",
-            "where": ["IEEE TVCG 2016", "MT-ITS 2017"],
-            "more": ["https://fmiranda.me/publications/urban-pulse/", "https://fmiranda.me/publications/bus/"]
+            "where": ["Eurovis 2022", "IEEE TVCG 2016", "MT-ITS 2017"],
+            "more": ["publications/pdfs/urban_rhapsody_2022.pdf", "publications/urban-pulse/tvcg-2017-urbanpulse.pdf", "publications/bus/mt-its-2017-bus.pdf"]
         }
     }
 }

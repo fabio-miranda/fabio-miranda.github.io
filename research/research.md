@@ -14,6 +14,8 @@ The figure above highlights some of the papers I have published over the past fe
 **(c)** Using convolutional neural network features to assess the condition of curb cuts before and after snowfall in regions having a higher concentration of older adults ([paper](https://fmiranda.me/publications/urban-mosaic/)).  
 **(d)** A graph neural network to model commuting flows between census tracts in NYC, considering geographic contextual information and urban indicators ([paper](https://fmiranda.me/publications/gmel/)).
 
+**Please check [here](../publications/) for latest publications.**
+
 ***
 #### Table of Contents
 1. [Themes](#themes)

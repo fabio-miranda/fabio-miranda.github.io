@@ -64,6 +64,47 @@ function loadHeader(fileName, title) {
 	
 }
 
+function loadGrants(fileName) {
+	$.getJSON( fileName, function( data ) {
+
+		var news = d3.select("#parentgrants").append("div").attr("class", "grants row no-gutters");
+
+		for(var content in data) {
+			news
+                .append("div")
+                .attr("class", "col-sm-12")
+                .attr("id", content.toLowerCase())
+                // .append("h4")
+                .append("div")
+                .attr("class", "title font-weight-bold")
+				.text(content);
+
+			news = news.append("div").attr("class","cell no-gutters");
+
+			// div for all papers
+			var newsitems = news
+				.append("div")
+				.attr("class", "col-sm-12")
+				.selectAll("div")
+				.data(d3.entries(data[content]));
+
+			newsitems
+				.enter()
+				.append("div")
+				.attr("class", "newsitem")
+				.html(
+					function(d){
+						return d.value["text"];
+					});
+		}
+
+	})
+	.fail(function(jqxhr, textStatus, error){
+		var err = textStatus + ", " + error;
+		console.log( "Request Failed: " + err );
+	});
+}
+
 function loadNews(fileName) {
 	$.getJSON( fileName, function( data ) {
 

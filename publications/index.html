@@ -18,16 +18,21 @@
 		<title>fmiranda.me | Fabio Miranda | University of Illinois at Chicago</title>
 		<link rel="stylesheet" href="../css/bootstrap.min.css" type="text/css" />
 		<link rel="stylesheet" href="../css/style.css" type="text/css" />
+		<link rel="stylesheet" href="../css/markdown.css" type="text/css" />
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Vollkorn" >
 
 		<script type="text/javascript" src="../lib/jquery.min.js"    ></script>
 		<script type="text/javascript" src="../lib/bootstrap.min.js" ></script>
 		<script type="text/javascript" src="../lib/d3.min.js"        ></script>
+		<script type="text/javascript" src="../js/marked.min.js"     ></script>
 		<script type="text/javascript" src="../js/main.js"           ></script>
 		<script>
 			window.onload = function() {
-				loadHeader("../data/header.json");
-				loadTeaser("../data/publications.json");
+				loadHeader("../../data/header.json", "Publications | fmiranda.me | Fabio Miranda");
+
+                var url_string = window.location.href;
+                var url = new URL(url_string);
+                loadMarkdown("publications.md", url.hash);
 				
 			};
 		</script>

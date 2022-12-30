@@ -1,32 +1,32 @@
 {
     "Research Highlights": {
         "1": {
-            "title": "CitySurfaces: City-scale semantic segmentation of sidewalk materials",
-            "authors": "M. Hosseini, F. Miranda, J. Lin, C. T. Silva",
-            "teaser": "citysurfaces/citysurfaces.png",
-            "where": ["Sustainable Cities and Society (2022)"],
-            "more": ["https://fmiranda.me/publications/citysurfaces/"]
+            "title": "3D Urban Analytics",
+            "authors": "Mota et al.",
+            "teaser": "urban-3d/urban-3d.png",
+            "where": ["IEEE VIS 2022"],
+            "more": ["publications/pdfs/3D_urban_vis_Vis2022.pdf"]
         },
         "2": {
-            "title": "Shadow Accrual Maps",
-            "authors": "F. Miranda, H. Doraiswamy, M. Lage, L. Wilson, M. Hsieh, C. T. Silva",
-            "teaser": "shadow-accrual-maps/shadow-accrual-maps-teaser.png",
-            "where": ["IEEE TVCG 2019"],
-            "more": ["https://fmiranda.me/publications/shadow-accrual-maps/"]
+            "title": "CitySurfaces",
+            "authors": "Hosseini et al.",
+            "teaser": "citysurfaces/citysurfaces.png",
+            "where": ["Sustainable Cities and Society (2022)"],
+            "more": ["publications/pdfs/citysurfaces_2022.pdf"]
         },
         "3": {
-            "title": "Urban Pulse",
-            "authors": "F. Miranda, H. Doraiswamy, M. Lage, K. Zhao, B. Gonçalves, L. Wilson, M. Hsieh, C. Silva",
-            "teaser": "urban-pulse/urban-pulse-web.png",
-            "where": ["IEEE TVCG 2017"],
-            "more": ["https://fmiranda.me/publications/urban-pulse/"]
+            "title": "Shadow Accrual Maps",
+            "authors": "Miranda et al.",
+            "teaser": "shadow-accrual-maps/shadow-accrual-maps-teaser.png",
+            "where": ["IEEE TVCG 2019"],
+            "more": ["publications/shadow-accrual-maps/tvcg-2018-shadowaccrualmaps.pdf"]
         },
         "4": {
             "title": "Urban Mosaic",
-            "authors": "F. Miranda, M. Hosseini, M. Lage, H. Doraiswamy, G. Dove, C. Silva",
+            "authors": "Miranda et al.",
             "teaser": "urban-mosaic/urban-mosaic-teaser.png",
             "where": ["CHI 2020"],
-            "more": ["https://fmiranda.me/publications/urban-mosaic/"]
+            "more": ["publications/urban-mosaic/chi-2020-urban-mosaic.pdf"]
         }
     }
 }

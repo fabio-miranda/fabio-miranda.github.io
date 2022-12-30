@@ -1,24 +1,30 @@
 {
     "Open Source Projects": {
         "1": {
+            "title": "CitySurfaces",
+            "text": "CitySurfaces ML model.",
+            "where": "github",
+            "more": "https://github.com/VIDA-NYU/city-surfaces"
+        },
+        "2": {
             "title": "Learning Geo-Contextual Embeddings for Commuting Flow Prediction",
             "text": "Open-source version of GMEL paper.",
             "where": "github",
             "more": "https://github.com/jackmiemie/GMEL"
         },
-        "2": {
+        "3": {
             "title": "New York City Shadow Data",
             "text": "Shadow data for New York City, also used by The New York Times.",
             "where": "github",
             "more": "https://github.com/VIDA-NYU/shadow-accrual-maps"
         },
-        "3": {
+        "4": {
             "title": "Urban Pulse",
             "text": "Open-source version of Urban Pulse paper.",
             "where": "github",
             "more": "https://github.com/VIDA-NYU/urban-pulse"
         },
-        "4": {
+        "5": {
             "title": "BusExplorer",
             "text": "Open-source tool for the exploration of a large data set with bus tracking pings.",
             "where": "github",
