@@ -5,7 +5,7 @@
 **Mapping Sidewalk Fall Risks Using Big Data And Machine Learning**<br>
 &emsp;F. Miranda, M. Hosseini<br>
 &emsp;*Innovation in Aging (6)*<br>
-&emsp;[[DOI](https://doi.org/10.1093/geroni/igac059.1104)] &#x2022;
+&emsp;[[DOI](https://doi.org/10.1093/geroni/igac059.1104)]
 
 **Crowdsourcing and Sidewalk Data: A Preliminary Study on the Trustworthiness of OpenStreetMap Data in the US**<br>
 &emsp;K. Omar, G. Moreira, D. Hodczak, M. Hosseini, F. Miranda<br>
