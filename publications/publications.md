@@ -118,8 +118,8 @@
 [[PDF](urban-mosaic/chi-2020-urban-mosaic.pdf)]
 
 **Learning Geo‑Contextual Embeddings for Commuting Flow Prediction**<br>
-Z. Liu, F. Miranda, W. Xiong, J. Yang, Q. Wang, C. T. Silva<br>
-*Thirty‑Fourth AAAI Conference on Artificial Intelligence*<br>
+&emsp;Z. Liu, F. Miranda, W. Xiong, J. Yang, Q. Wang, C. T. Silva<br>
+&emsp;*Thirty‑Fourth AAAI Conference on Artificial Intelligence*<br>
 &emsp;[[DOI](https://doi.org/10.1609/aaai.v34i01.5425)] &#x2022; 
 [[Arxiv](https://arxiv.org/abs/2005.01690)] &#x2022; 
 [[Code](https://github.com/jackmiemie/GMEL)] &#x2022;
