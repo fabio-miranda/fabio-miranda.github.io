@@ -91,8 +91,8 @@ This is a tentative course schedule and will be adjusted along the way. Slides w
 | 1  | Intro to course and visualization | [[1](https://drops.dagstuhl.de/opus/volltexte/2018/8670/pdf/dagrep_v007_i011_p046_17461.pdf)], [[2](https://idl.cs.washington.edu/files/2014-Latency-InfoVis.pdf)], [[3](https://hal-lirmm.ccsd.cnrs.fr/lirmm-00272779/document)] |  |
 | 2  | Building blocks: technologies and libraries | [[1](https://eloquentjavascript.net/)], [[2](http://speakingjs.com/)], [[3](https://angular.io/)] | |
 | 3  | **Vis**: Big data visual analytics systems | [[1](https://ieeexplore.ieee.org/document/1333623)], [[2](https://kops.uni-konstanz.de/bitstream/handle/123456789/5631/Visual_Analytics_Scope_and_Challenges.pdf)], [[3](http://vgc.poly.edu/projects/taxivis/resources/paper.pdf)], [[4](https://hdc.cs.arizona.edu/papers/infovis_2020_dbsurvey.pdf)] | |
-| 4  | Proposal presentations |  |  |
-| 5  | **Vis**: Progressive & Uncertainty | [[1](http://space.ucmerced.edu/Downloads/publications/Uncertainty_Visualization_Padilla_Kay_Hullman_2020.pdf)], [[2](https://damassets.autodesk.net/content/dam/autodesk/www/autodesk-reasearch/Publications/pdf/same-stats-different-graphs.pdf)], [[3](http://jonathanstray.com/papers/wickham.pdf)], [[4](https://research.tableau.com/sites/default/files/uncertainty_vis_eval.pdf)], [[5](https://drops.dagstuhl.de/opus/volltexte/2019/10346/pdf/dagrep_v008_i010_p001_18411.pdf)], [[6](http://idl.cs.washington.edu/files/2019-Falcon-CHI.pdf)], [[7](http://data.jku-vds-lab.at/papers/2014_vast_opening-black-box.pdf)], [[8](https://perer.org/papers/adamPerer-Progressive-VAST2014.pdf)] |  |
+| 4  | **Vis**: Progressive & Uncertainty | [[1](http://space.ucmerced.edu/Downloads/publications/Uncertainty_Visualization_Padilla_Kay_Hullman_2020.pdf)], [[2](https://damassets.autodesk.net/content/dam/autodesk/www/autodesk-reasearch/Publications/pdf/same-stats-different-graphs.pdf)], [[3](http://jonathanstray.com/papers/wickham.pdf)], [[4](https://research.tableau.com/sites/default/files/uncertainty_vis_eval.pdf)], [[5](https://drops.dagstuhl.de/opus/volltexte/2019/10346/pdf/dagrep_v008_i010_p001_18411.pdf)], [[6](http://idl.cs.washington.edu/files/2019-Falcon-CHI.pdf)], [[7](http://data.jku-vds-lab.at/papers/2014_vast_opening-black-box.pdf)], [[8](https://perer.org/papers/adamPerer-Progressive-VAST2014.pdf)] |  |
+| 5  | Proposal presentations |  |  |
 | 6  | **Vis**: Vis for machine learning |  |  |
 | 7 | Paper presentations |  |  |
 | 8  | **Analytics**: Machine learning for vis |  |  |
@@ -128,7 +128,7 @@ This course also includes a class participation grade that will take into consid
   - Week 3, due week 4.
 - Final project proposal (5%):
   - ~10-minute presentation.
-  - Due week 4.
+  - Due week 5.
 - Research paper presentation (25%):
   - ~10-minute presentation.
   - Due week 7.
