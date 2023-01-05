@@ -95,7 +95,7 @@ This is a tentative course schedule and will be adjusted along the way. Slides w
 | 5  | Proposal presentations |  |  |
 | 6  | **Vis**: Vis for machine learning | [[1](https://ieeexplore.ieee.org/abstract/document/8440124)] |  |
 | 7 | Paper presentations |  |  |
-| 8  | **Analytics**: Machine learning for vis | [[1](https://ieeexplore.ieee.org/abstract/document/9523770)] |  |
+| 8  | **Analytics**: Machine learning for vis | [[1](https://ieeexplore.ieee.org/abstract/document/9523770)], [[2](https://arxiv.org/abs/2205.13064)] |  |
 | 9 | **Analytics**: Computational topology | [[1](https://topology-tool-kit.github.io/)], [[2](https://arxiv.org/abs/1610.06978)], [[3](http://cs.arizona.edu/~nivanferreira/pdfs/taxi_patterns.pdf)] |  |
 | 10 | Final project midterm review | | |
 | 11 | **Data**: Visualization data structures | [[1](https://nanocubes.net/assets/pdf/nanocubes_paper.pdf)], [[2](http://vis.stanford.edu/files/2013-imMens-EuroVis.pdf)], [[3](https://fmiranda.me/publications/topkube/tvcg-2017-topkube.pdf)], [[4](https://ieeexplore.ieee.org/document/7536648)] |  |
