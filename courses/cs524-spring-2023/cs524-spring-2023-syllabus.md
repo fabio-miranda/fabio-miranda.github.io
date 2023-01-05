@@ -135,7 +135,7 @@ This course also includes a class participation grade that will take into consid
 - Final project midterm review (25%):
   - ~10-minute presentation.
   - Due week 10.
-- Final project (35%):
+- Final project (25%):
   - ~10-minute presentation and final report.
   - Due week 15.
 
