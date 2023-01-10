@@ -94,7 +94,7 @@ This is a tentative course schedule and will be adjusted along the way. Slides w
 | 4  | **Vis**: Progressive & Uncertainty | Required: [[1](http://space.ucmerced.edu/Downloads/publications/Uncertainty_Visualization_Padilla_Kay_Hullman_2020.pdf)]; Others: [[2](https://damassets.autodesk.net/content/dam/autodesk/www/autodesk-reasearch/Publications/pdf/same-stats-different-graphs.pdf)], [[3](http://jonathanstray.com/papers/wickham.pdf)], [[4](https://research.tableau.com/sites/default/files/uncertainty_vis_eval.pdf)], [[5](https://drops.dagstuhl.de/opus/volltexte/2019/10346/pdf/dagrep_v008_i010_p001_18411.pdf)], [[6](http://idl.cs.washington.edu/files/2019-Falcon-CHI.pdf)], [[7](http://data.jku-vds-lab.at/papers/2014_vast_opening-black-box.pdf)], [[8](https://perer.org/papers/adamPerer-Progressive-VAST2014.pdf)] |  |
 | 5  | Proposal presentations |  |  |
 | 6  | **Vis**: Vis for machine learning | Required: [[1](https://ieeexplore.ieee.org/abstract/document/8440124)] |  |
-| 7 | Paper presentations |  |  |
+| 7 | Research paper presentations |  |  |
 | 8  | **Analytics**: Machine learning for vis | Required: [[1](https://ieeexplore.ieee.org/abstract/document/9523770)], [[2](https://arxiv.org/abs/2205.13064)] |  |
 | 9 | **Analytics**: Computational topology | Required: [[1](http://cs.arizona.edu/~nivanferreira/pdfs/taxi_patterns.pdf)], [[2](https://arxiv.org/abs/1610.06978)]; Others: [[1](https://topology-tool-kit.github.io/)] |  |
 | 10 | Final project midterm review | | |
