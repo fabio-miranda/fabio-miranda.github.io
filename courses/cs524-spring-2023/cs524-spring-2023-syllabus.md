@@ -101,7 +101,7 @@ This is a tentative course schedule and will be adjusted along the way. Slides w
 | 11 | **Data**: Visualization data structures | Required: [[1](https://nanocubes.net/assets/pdf/nanocubes_paper.pdf)]; Others: [[2](http://vis.stanford.edu/files/2013-imMens-EuroVis.pdf)], [[3](https://fmiranda.me/publications/topkube/tvcg-2017-topkube.pdf)], [[4](https://ieeexplore.ieee.org/document/7536648)] |  |
 | 12 | **Data**: Spatial queries | Required: [[1](https://fmiranda.me/publications/raster-join-demo/sigmod-2018-demo-raster-join.pdf)]; Others:  [[2](https://www.harishd.com/home/assets/papers/raster-join.pdf)] |  |
 | 13 | **Data**: MapReduce, Hadoop, Spark, Dask | [[1](https://hadoop.apache.org/)], [[2](https://spark.apache.org/)], [[3](https://dask.org/)] | |
-| 14 | **Data**: Approximate queries, hashing, learned indices | [[**1**](https://dl.acm.org/doi/10.1145/3318464.3389752)], [[2](https://www.cin.ufpe.br/~nivan/pdfs/qds.pdf)] | |
+| 14 | **Data**: Approximate queries, hashing, learned indices | Required: [[1](https://dl.acm.org/doi/10.1145/3318464.3389752)]; Others:  [[2](https://www.cin.ufpe.br/~nivan/pdfs/qds.pdf)] | |
 | 15 | Project presentations |  | | 
 
 
