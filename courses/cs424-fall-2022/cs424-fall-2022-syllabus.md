@@ -155,7 +155,7 @@ Since students will need to present their projects to the class, it is very impo
 #### Highlights
 
 | Title| Group | Code & Doc | Web viewer | Preview |
-| --- | --- | --- | --- |---|
+| :--- | :--- | --- | --- |---|
 |Movie body counts|Md Nafiul Nipu & Farah Kamleh|[Github](https://github.com/uic-vis/project-3-traffic-crashes-farah-nafiul)|[Website](https://nafiul-nipu.github.io/cs424-final-project/)|![movie 1](screenshots/resized/movie-1.jpg)|
 |311 service requests|Gustavo Moreira & Sanjana Srabanti|[Github](https://github.com/uic-vis/project-3-gustavo)|[Website](https://gmmuller.github.io/)|![311 1](screenshots/resized/311-1.jpg)|
 |Divvy bike|Raka Primardika & Khanh Duy Nguyen|[Github](https://github.com/uic-vis/project-3-raka-s-team)|[Website](https://duynguyen2001.github.io/Project3CS424/)|![divvy 4](screenshots/resized/divvy-4.jpg)|
@@ -163,7 +163,7 @@ Since students will need to present their projects to the class, it is very impo
 #### Others
 
 | Title| Group | Code & Doc | Web viewer | Preview |
-| --- | --- | --- | --- |---|
+| :--- | :--- | --- | --- |---|
 | Traffic crashes | Anantha Rohan Parankusham & Venkata Likith Ayyagari | [Github](https://github.com/uic-vis/project-3-848) | [Website](https://anantharohan.github.io/) | ![traffic 1](screenshots/resized/traffic-1.jpg)|
 |Divvy bike|Angelica Villegas Salazar|[Github](https://github.com/uic-vis/project-3-a)|[Website](https://sites.google.com/uic.edu/cs424-p3)|![divvy 1](screenshots/resized/divvy-1.jpg)|
 |Chicago 'L' rideship|Adam Beigel & Logan Stein| [Github](https://github.com/uic-vis/project-3-adam-and-logan) |[Website](https://abeige.github.io/cs424-project3/site/index.html)|![Chicago L](screenshots/resized/chicago-l.jpg)|
