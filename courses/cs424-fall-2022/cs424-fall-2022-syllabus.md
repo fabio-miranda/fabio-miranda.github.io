@@ -17,11 +17,12 @@
     2. [Evaluation Schedule](#evaluation-schedule)
     3. [Assignment Considerations](#assignment-considerations)
     4. [Late Days](#late-days)
-4. [Acknowledgments](#acknowledgements)
-5. [Academic Integrity](#academic-integrity)
-6. [Inclusive Learning Environment](#inclusive-learning-environment)
-7. [Disability Accommodation Procedures](#disability-accomodation-procedures)
-8. [Disclaimer](#disclaimer)
+5. [Final Project Gallery](#final-project-gallery)
+6. [Acknowledgments](#acknowledgements)
+7. [Academic Integrity](#academic-integrity)
+8. [Inclusive Learning Environment](#inclusive-learning-environment)
+9. [Disability Accommodation Procedures](#disability-accomodation-procedures)
+10. [Disclaimer](#disclaimer)
 
 ### General Information
 
@@ -149,10 +150,50 @@ Since students will need to present their projects to the class, it is very impo
 
 ***
 
+### Final Project Gallery
+
+#### Highlights
+
+| Title| Group | Code & Doc | Web viewer | Preview |
+| --- | --- | --- | --- |---|
+|Movie body counts|Md Nafiul Nipu & Farah Kamleh|[Github](https://github.com/uic-vis/project-3-traffic-crashes-farah-nafiul)|[Website](https://nafiul-nipu.github.io/cs424-final-project/)|![movie 1](screenshots/resized/movie-1.jpg)|
+|311 service requests|Gustavo Moreira & Sanjana Srabanti|[Github](https://github.com/uic-vis/project-3-gustavo)|[Website](https://gmmuller.github.io/)|![311 1](screenshots/resized/311-1.jpg)|
+|Divvy bike|Raka Primardika & Khanh Duy Nguyen|[Github](https://github.com/uic-vis/project-3-raka-s-team)|[Website](https://duynguyen2001.github.io/Project3CS424/)|![divvy 4](screenshots/resized/divvy-4.jpg)|
+
+#### Others
+
+| Title| Group | Code & Doc | Web viewer | Preview |
+| --- | --- | --- | --- |---|
+| Traffic crashes | Anantha Rohan Parankusham & Venkata Likith Ayyagari | [Github](https://github.com/uic-vis/project-3-848) | [Website](https://anantharohan.github.io/) | ![traffic 1](screenshots/resized/traffic-1.jpg)|
+|Divvy bike|Angelica Villegas Salazar|[Github](https://github.com/uic-vis/project-3-a)|[Website](https://sites.google.com/uic.edu/cs424-p3)|![divvy 1](screenshots/resized/divvy-1.jpg)|
+|Chicago 'L' rideship|Adam Beigel & Logan Stein| [Github](https://github.com/uic-vis/project-3-adam-and-logan) |[Website](https://abeige.github.io/cs424-project3/site/index.html)|![Chicago L](screenshots/resized/chicago-l.jpg)|
+|Divvy bike|Saksham Ayush & Deepanshu Raghuvanshi|[Github](https://github.com/uic-vis/project-3-afc-richmond)|[Website](https://sayush2.people.uic.edu/CS424/project-3-afc-richmond/)|![divvy 2](screenshots/resized/divvy-2.jpg)|
+|Traffic crashes|Jibreel Mohamed & Sajal Chandra|[Github](https://github.com/uic-vis/project-3-crime-analyst-s)|[Website](https://zofi107.github.io/project-3-crime-analyst-s/map.html)|![traffic 2](screenshots/resized/traffic-2.jpg)|
+|Chicago taxi|Keshav & Dakshya|[Github](https://github.com/uic-vis/project-3-d-and-k-divvybike-data)|[Website](https://sites.google.com/uic.edu/422project3/home?authuser=0)|![taxi 1](screenshots/resized/taxi-1.jpg)|
+|Traffic crashes|Mary Ashley & Daniel Quirke|[Github](https://github.com/uic-vis/project-3-data-goblins)|[Website](https://sites.google.com/uic.edu/cs424-project3/home)|![crash 1](screenshots/resized/crash-1.jpg)|
+|Divvy bike|Sylvia Joseph & Kartik Maheshwari|[Github](https://github.com/uic-vis/project-3-dream-team)|[Website](https://sjosep419.github.io/)|![divvy 3](screenshots/resized/divvy-3.jpg)|
+|Red light violations|Hamza Sheikh|[Github](https://github.com/uic-vis/project-3-hamza)|[Website](https://redlightviolations.herokuapp.com/)|![red light 1](screenshots/resized/red-light-1.jpg)|
+|Chicago taxi|Yingyi Luo & Haoxuan Zeng|[Github](https://github.com/uic-vis/project-3-hzeng)|[Website](https://hzeng98.github.io/)|![taxi 2](screenshots/resized/taxi-2.jpg)|
+|COVID-19|Justin Stanly|[Github](https://github.com/uic-vis/project-3-justin/tree/main/CS424_FP)|[Website](https://cs424.jusstanly.repl.co/)|![covid 1](screenshots/resized/covid-1.jpg)|
+|Deaths caused by gun|Marius Horga|[Github](https://github.com/uic-vis/project-3-marius)|||
+|Traffic crashes|Ming Yu Liew|[Github](https://github.com/uic-vis/project-3-ming-yu)|[Website](https://mliew2.github.io/424/)|![traffic 3](screenshots/resized/traffic-3.jpg)|
+|Red light violations|Neil Chawla|[Github](https://github.com/uic-vis/project-3-neil)|[Website](https://neilchawla.github.io/cs422_portfolio/)|![red light 2](screenshots/resized/red-light-2.jpg)|
+|Crimes|Aliasgar Zakir Merchant & Siham Shweikani|[Github](https://github.com/uic-vis/project-3-siham-and-ali)|[Website](https://aliasgar-m.github.io/project-3-siham-and-ali/)|![Crime 1](screenshots/resized/crime-1.jpg)|
+|Chicago taxi trips|Simin Li & Ke Li|[Github](https://github.com/uic-vis/project-3-sli)|[Website](https://chloelili22.github.io/index.html)|![divvy 1](screenshots/resized/divvy-1.jpg)|
+|COVID-19||[Github](https://github.com/uic-vis/project-3-team-a-t/blob/main/Project%203%20Documentation.md)|[Website](https://sites.google.com/uic.edu/team-a-t-project3/)|![covid 2](screenshots/resized/covid-2.jpg)|
+|Speed violations|Shiva Praveen Donga & Indu Reddy Pati|[Github](https://github.com/uic-vis/project-3-team-cod)|[Website](https://indureddypati.github.io/ChicagoSpeedViolations.github.io/)|![speed 1](screenshots/resized/speed-1.jpg)|
+|Traffic crashes|Yash Varma|[Github](https://github.com/uic-vis/project-3-vidyut-yash)|[Website](https://vrawal3.github.io/bubble.html)|![traffic 3](screenshots/resized/traffic-3.jpg)|
+|Traffic crashes|Vivek Nadimpalli & Jahnavi Eega|[Github](https://github.com/uic-vis/project-3-visualizers)|[Website](https://vivekkvn.github.io/CS424_Final/)|![traffic 5](screenshots/resized/traffic-5.jpg)|
+|Chicago taxi|Swetha Jayakumar & Nihal Chandra|[Github](https://github.com/uic-vis/project-3-viz-comrades)|[Website](https://nchand26.github.io/project-3-viz-comrades/)|![taxi 4](screenshots/resized/taxi-4.jpg)|
+
+
+***
+
 #### Acknowledgements
 Some of the figures and slides were adapted from [Enrico Bertini's great visualization course](http://enrico.bertini.io/teaching).
 
 ***
+
 
 ### Academic Integrity
 UIC is an academic community committed to providing an environment in which research, learning, and scholarship can flourish and in which all endeavors are guided by academic and professional integrity. In this community, all members including faculty, administrators, staff, and students alike share the responsibility to uphold the highest standards of academic honesty and quality of academic work so that such a collegial and productive environment exists. 
