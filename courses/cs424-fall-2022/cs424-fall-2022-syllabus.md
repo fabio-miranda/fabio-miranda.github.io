@@ -158,7 +158,7 @@ Since students will need to present their projects to the class, it is very impo
 | :--- | :--- | --- | --- |---|
 |Movie body counts|Md Nafiul Nipu & Farah Kamleh|[Github](https://github.com/uic-vis/project-3-traffic-crashes-farah-nafiul)|[Website](https://nafiul-nipu.github.io/cs424-final-project/)|![movie 1](screenshots/resized/movie-1.jpg)|
 |311 service requests|Gustavo Moreira & Sanjana Srabanti|[Github](https://github.com/uic-vis/project-3-gustavo)|[Website](https://gmmuller.github.io/)|![311 1](screenshots/resized/311-1.jpg)|
-|Divvy bike|Raka Primardika & Khanh Duy Nguyen|[Github](https://github.com/uic-vis/project-3-raka-s-team)|[Website](https://duynguyen2001.github.io/Project3CS424/)|![divvy 4](screenshots/resized/divvy-4.jpg)|
+|Divvy bike|Raka Primardika & Khanh Duy Nguyen|[Github](https://github.com/duynguyen2001/Divvy-data-exploration-tool)|[Website](https://duynguyen2001.github.io/Divvy-data-exploration-tool/)|![divvy 4](screenshots/resized/divvy-4.jpg)|
 
 #### Others
 
