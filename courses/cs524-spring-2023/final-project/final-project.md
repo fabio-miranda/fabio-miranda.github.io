@@ -28,7 +28,7 @@ You are expected to submit your deliverables using GitHub. You should create a r
 
 ### Milestone 1: Project Proposal
 
-The first milestone for the final project is proposing what you and your team will work on. You should start by brainstorming ideas with your teammates, and then reaching out for feedback.
+The first milestone for the final project is proposing what you and your team will work on. You should start by brainstorming ideas with your teammate, and then reaching out for feedback.
 
 #### M1 Objectives
 
@@ -40,16 +40,19 @@ In this milestone, you will:
 
 #### M1 Tentative Topics
 
-There are several topics that cover visualization, analytics and data management of big data. You should frame your proposal in terms of how your contribution effectively tackles the problem from one (or more) of the angles covered in the course. For a concrete description of the types of contributions expected from a visualization researcher, read Lee et al's [Broadening Intellectual Diversity in Visualization Research Papers](https://cmci.colorado.edu/visualab/papers/19-CGA-ContributionTypes.pdf).
+There are several topics that cover visualization, analytics and data management of big data. You should frame your proposal in terms of how your contribution effectively tackles data problems from one (or more) of the angles covered in the course. For a concrete description of the types of contributions expected from a visualization researcher, read Lee et al's [Broadening Intellectual Diversity in Visualization Research Papers](https://cmci.colorado.edu/visualab/papers/19-CGA-ContributionTypes.pdf).
 
-For a tentative list of topics and datasets, please see the ``final-project.pdf`` presentation shared on Piazza. I highly recommend you choose a topic (or dataset) that you are personally interested in and that you want to understand in more detail.
+At the very least, you should articulate your proposal around one of the six visualization areas (defined [here](https://ieeevis.org/year/2022/info/call-participation/area-model#the-vis-area-model)), broadly reviewing limitations with current approaches and how your potential contributions will advance an area. Please refer to the course schedule for required readings that can give you a better idea for topics.
 
+For a tentative list of datasets and topics, please see the ``final-project.pdf`` presentation shared on Piazza. I highly recommend you choose a topic (or dataset) that you are personally interested in and that you want to understand in more detail.
+
+**Please attend the office hours to discuss ideas and papers that might be useful to your team, depending of your topic. Make sure you email me two days before the office hour with a general description of your topic, dataset, problems or questions so that I have enough time to collect supplemental readings or resources that may help you.**
 
 #### M1 Deliverables
 
 Your group should present the proposal, clearly explaining the problem (why it is important, and how you plan to address it), briefly cover prior work, describe the data, proposal and **timeline**. Each group presentation should last ~10 minutes. Your group will be randomly assigned to present on Tuesday or Thursday, but you are expected to attend *both* presentation days. It is up to you and your teammate to decide how the presentation will be divided between each member of the team. On top of that, you are expected to pose *at least* two questions to two different groups.
 
-In this project proposal, you should **clearly** articulate how your proposal will tackle some of the problems related to the dataset. Spend some time thinking and discussing potential challenges and solutions. Make sure that you are comfortable with the problem, dataset, and proposal. 
+In this project proposal, you should **clearly** articulate how your proposal will tackle some of the problems related to the dataset, framing it around one of the areas of visualization research. Spend some time thinking and discussing potential challenges and solutions. Make sure that you are comfortable with the problem, dataset, and proposal. 
 
 ### Milestone 2: Midterm Review
 

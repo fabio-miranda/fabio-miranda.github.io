@@ -38,7 +38,7 @@ fabiom [at] uic.edu
 
 https://fmiranda.me/
 
-Office hours: Friday 10am - 12pm, or by appointment (Zoom info on Discord).
+Office hours: Friday 10am - 12pm, or by appointment (Zoom info on Piazza).
 
 
 ***
@@ -117,7 +117,7 @@ This is a tentative course schedule and will be adjusted along the way. Slides w
 
 This course includes two *simple* initial assignments to make sure the student is familiar with the main components of front-end and back-end development. This course also includes a cumulative final project, where the student will need to demonstrate their research skills by combining visualization and data mining techniques, data structures and algorithms that work in tandem to enable interactive data exploration. There will be three milestones for this project spread throughout the semester that will allow the student to receive feedback: a project proposal, mid review and final presentation and report. The work will be evaluated with a focus on overall quality, rather than mechanical correctness. In the final project, the student will be able to work in groups of 2. Detailed assignment and project instructions will be made available following the evaluation schedule.
 
-This course also includes a class participation grade that will take into consideration the student's contribution to a productive environment, either in the classroom, discord or office hours. This is a subjective assessment, and does not mean that the student needs to participate in *every* classroom discussion, but it does mean that they need to actively engage with the instructor or classmates in some capacity (classroom, discord, office hours, emails).
+This course also includes a class participation grade that will take into consideration the student's contribution to a productive environment, either in the classroom, Piazza or office hours. This is a subjective assessment, and does not mean that the student needs to participate in *every* classroom discussion, but it does mean that they need to actively engage with the instructor or classmates in some capacity (classroom, Piazza, office hours, emails).
 
 #### Evaluation Schedule
 - Assignment 1 (5%):
