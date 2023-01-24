@@ -123,21 +123,25 @@ This course also includes a class participation grade that will take into consid
 - Assignment 1 (5%):
   - Front-end technologies and libraries.
   - Week 2, due week 3.
+  - Link: https://github.com/uic-big-data/assignment-1/
 - Assignment 2 (5%):
   - Back-end technologies and libraries.
   - Week 3, due week 4.
 - Final project proposal (5%):
   - ~10-minute presentation.
   - Due week 5.
+  - Link: https://fmiranda.me/courses/cs524-spring-2023/final-project/#milestone-1-project-proposal
 - Research paper presentation (25%):
   - ~10-minute presentation.
   - Due week 7.
 - Final project midterm review (25%):
   - ~10-minute presentation.
   - Due week 10.
+  - Link: https://fmiranda.me/courses/cs524-spring-2023/final-project/#milestone-2-midterm-review
 - Final project (25%):
   - ~10-minute presentation and final report.
   - Due week 15.
+  - Link: https://fmiranda.me/courses/cs524-spring-2023/final-project/#milestone-3-final-project
 
 
 #### Late Days
