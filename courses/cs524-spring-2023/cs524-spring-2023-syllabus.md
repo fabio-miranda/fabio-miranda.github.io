@@ -127,6 +127,7 @@ This course also includes a class participation grade that will take into consid
 - Assignment 2 (5%):
   - Back-end technologies and libraries.
   - Week 3, due week 4.
+  - Link: https://github.com/uic-big-data/assignment-2/
 - Final project proposal (5%):
   - ~10-minute presentation.
   - Due week 5.
