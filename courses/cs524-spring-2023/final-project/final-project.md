@@ -20,7 +20,7 @@
 
 The goal of the final project is to get you familiar with the main components of big data visual analytics systems. You will need to demonstrate your research skills by combining visualization, analytics, data mining, data structures and algorithms that work in tandem to enable interactive data exploration. There will be three milestones for this project spread throughout the semester: [project proposal](#milestone-1-project-proposal), [midterm review](#milestone-2-midterm-review), and [final presentation and report](#milestone-3-final-report-and-presentation). In the final project, you will be able to work in groups of 2.
 
-We will use GitHub to manage code and documentation. You should create a repository for your team on GitHub Classroom (see Piazza for invitation link), and include **all** deliverables throughout the semester. You should also include a ``Makefile`` to build the document into a PDF file (i.e., ``make pdf`` command should generate a PDF file). The [template repository](https://github.com/uic-big-data/fall-2021-final-project) already includes some of the files you will need.
+We will use GitHub to manage code and documentation. You should create a repository for your team on GitHub Classroom (see Piazza for invitation link), and include **all** deliverables throughout the semester. You should also include a ``Makefile`` to build the document into a PDF file (i.e., ``make pdf`` command should generate a PDF file). The [template repository](https://github.com/uic-big-data/final-project) already includes some of the files you will need.
 
 
 ### Submission of Deliverables
