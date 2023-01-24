@@ -26,6 +26,8 @@ We will use GitHub to manage code and documentation. You should create a reposit
 ### Submission of Deliverables
 You are expected to submit your deliverables using GitHub. You should create a repository for your team on GitHub Classroom (see Piazza for invitation link). Make sure you organize the different deliverables, including code, in different folders. **The GitHub project should contain a well-written description of the project.**
 
+---
+
 ### Milestone 1: Project Proposal
 
 The first milestone for the final project is proposing what you and your team will work on. You should start by brainstorming ideas with your teammate, and then reaching out for feedback.
@@ -54,6 +56,8 @@ Your group should present the proposal, clearly explaining the problem (why it i
 
 In this project proposal, you should **clearly** articulate how your proposal will tackle some of the problems related to the dataset, framing it around one of the areas of visualization research. Spend some time thinking and discussing potential challenges and solutions. Make sure that you are comfortable with the problem, dataset, and proposal. 
 
+---
+
 ### Milestone 2: Midterm Review
 
 In the second milestone, you will present your proposal and intermediate results.
@@ -72,6 +76,7 @@ Your group should present the proposal and intermediate results. The presentatio
 
 Note that this midterm review will be an opportunity to assess the progress of your team, so optimize your time to ensure that you have meaningful results by the day of your presentation.
 
+---
 
 ### Milestone 3: Final Project
 
@@ -117,6 +122,7 @@ You have four pages to cover **all** of the topics.
 
 On top of the presentation and project report, you should also create a well-documented GitHub project page (using [Markdown](https://www.markdownguide.org/)). The document should include: (1) A high-level description of the problem, why it is important; (2) A summary of the data; (3) Research challenges; (4) Instructions on how to run your code; and (5) Results. For good examples of GitHub project descriptions, see [here](https://github.com/VIDA-NYU/urban-pulse), [here](https://github.com/VIDA-NYU/city-surfaces), [here](https://github.com/uic-vis/project-3-traffic-crashes-farah-nafiul), or [here](https://github.com/duynguyen2001/Divvy-data-exploration-tool).
 
+---
 
 ### Latex
 
