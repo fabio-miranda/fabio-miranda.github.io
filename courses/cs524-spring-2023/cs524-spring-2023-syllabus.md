@@ -135,6 +135,7 @@ This course also includes a class participation grade that will take into consid
 - Research paper presentation (25%):
   - ~10-minute presentation.
   - Due week 7.
+  - Link: https://fmiranda.me/courses/cs524-spring-2023/research-presentation/
 - Final project midterm review (25%):
   - ~10-minute presentation.
   - Due week 10.
