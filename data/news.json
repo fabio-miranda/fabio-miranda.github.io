@@ -1,5 +1,10 @@
 {
 	"Recent Updates": [
+{
+       "text": "'Mapping the Walk' covered by MIT News.",
+       "date": "03/2023",
+	"more": "https://news.mit.edu/2023/open-source-tool-mapping-sidewalks-0315"
+    },
     {
        "text": "'Mapping the Walk: A Scalable Computer Vision Approach for Generating Sidewalk Network Datasets from Aerial Imagery' accepted at the Computers, Environment and Urban Systems journal.",
             "date": "02/2023"
