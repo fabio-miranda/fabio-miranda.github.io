@@ -100,8 +100,8 @@ This is a tentative course schedule and will be adjusted along the way. Slides w
 | 10 | Final project midterm review | | |
 | 11 | **Analytics**: Computational topology | Required: [[1](http://cs.arizona.edu/~nivanferreira/pdfs/taxi_patterns.pdf)], [[2](https://arxiv.org/abs/1610.06978)]; Others: [[3](https://topology-tool-kit.github.io/)] | [09-topological-data-analysis.pdf](https://fmiranda.me/courses/cs524-slides/09-topological-data-analysis.pdf) |
 | 12 | **Data**: Visualization data structures and spatial queries | Required: [[1](https://nanocubes.net/assets/pdf/nanocubes_paper.pdf)], [[2](https://fmiranda.me/publications/raster-join-demo/sigmod-2018-demo-raster-join.pdf)]; Others: [[3](http://vis.stanford.edu/files/2013-imMens-EuroVis.pdf)], [[4](https://fmiranda.me/publications/topkube/tvcg-2017-topkube.pdf)], [[5](https://ieeexplore.ieee.org/document/7536648)],  [[6](https://www.harishd.com/home/assets/papers/raster-join.pdf)] | [10-spatial-data-structures.pdf](https://fmiranda.me/courses/cs524-slides/10-spatial-data-structures.pdf), [11-visualization-data-structures.pdf](https://fmiranda.me/courses/cs524-slides/11-visualization-data-structures.pdf) |
-| 13 | **Data**: MapReduce, Hadoop, Spark, Dask | [[1](https://hadoop.apache.org/)], [[2](https://spark.apache.org/)], [[3](https://dask.org/)] | |
-| 14 | **Data**: Approximate queries, hashing, learned indices | Required: [[1](https://dl.acm.org/doi/10.1145/3318464.3389752)]; Others:  [[2](https://www.cin.ufpe.br/~nivan/pdfs/qds.pdf)] | |
+| 13 | **Data**: MapReduce, Hadoop, Spark, Dask | [[1](https://hadoop.apache.org/)], [[2](https://spark.apache.org/)], [[3](https://dask.org/)] | [12-mapreduce-spark.pdf](https://fmiranda.me/courses/cs524-slides/12-mapreduce-spark.pdf) |
+| 14 | **Data**: Approximate queries, hashing, learned indices | Required: [[1](https://dl.acm.org/doi/10.1145/3318464.3389752)]; Others:  [[2](https://www.cin.ufpe.br/~nivan/pdfs/qds.pdf)] | [13-probabilistic-data-structures.pdf](https://fmiranda.me/courses/cs524-slides/13-probabilistic-data-structures.pdf) |
 | 15 | Project presentations |  | | 
 
 
