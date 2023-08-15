@@ -1,9 +1,18 @@
 {
 	"Recent Updates": [
+        {
+            "text": "CS 424 - Big Data Visualization & Visual Analytics (Fall 2023) website. ",
+                 "date": "08/2023",
+                 "more": "http://fmiranda:me/courses/cs424-fall-2023"
+         },
 {
        "text": "Two full papers accepted at VIS 2023! 'The Urban Toolkit: A Grammar-based Framework for Urban Visual Analytics' and 'ProWis: A visual approach for building, managing, and analyzing weather simulation ensembles in runtime'.",
        "date": "07/2023"
     },
+    {
+        "text": "Two full papers accepted at Sibgrapi 2023! 'Visual Analytics for Profiling Land Use Changes' and 'Visual Analytics Using Heterogeneous Urban Data'.",
+        "date": "07/2023"
+     },
   {
        "text": "'Does a quieter city mean less complaints? The sounds of New York City during COVID-19 lockdown' accepted at ICASSP 2023",
        "date": "04/2023"
