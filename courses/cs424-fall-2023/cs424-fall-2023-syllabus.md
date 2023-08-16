@@ -86,100 +86,115 @@ The course is divided into three parts: 1) basic principles of visualization and
 ### Course Schedule
 
 ###### Week 1
-- Topic: Course introduction & Why vis?
+- **Topic: Course introduction & Why vis?**
 - Slides:  
-- Required reading:  
+- Reading:  
 
 ###### Week 2
-- Topic: Data & attribute types, channels, tasks, analysis loop
+- **Topic: Data & attribute types, channels, tasks, analysis loop**
 - Slides:  
-- Required reading:  
+- Reading:  
 
 ###### Week 3
-Topic: Data questions and transformations  
+- **Topic: Data questions and transformations**
 - Slides:  
-- Required reading:  
-<span style="color:blue">Assignment 1 released</span>
+- Reading:
+
+![Static Badge](https://img.shields.io/badge/Assignment%201%20released-2171b5)
+
 
 ###### Week 4
-Topic: Exploratory data analysis with computational notebooks + Lab  
+- **Topic: Exploratory data analysis with computational notebooks**
 - Slides:  
-- Required reading:  
+- Reading:  
+
+![Static Badge](https://img.shields.io/badge/Lab%20session%20(Thu)-2f8a70)
 
 ###### Week 5
-Topic: Web technologies for visualization (JavaScript + D3 + Svelte.js) + Lab  
+- **Topic: Web technologies for visualization (JavaScript + D3 + Svelte.js)**
 - Slides:  
-- Required reading:  
-<span style="color:red">Assignment 1 due</span>  
-<span style="color:blue">Assignment 2 released</span>
+- Reading:  
+
+![Static Badge](https://img.shields.io/badge/Lab%20session%20(Thu)-2f8a70)
+![Static Badge](https://img.shields.io/badge/Assignment%201%20due-aa2721)
+![Static Badge](https://img.shields.io/badge/Assignment%202%20released-2171b5)
 
 ###### Week 6
-Topic: Interaction & multiple views + Lab  
+- **Topic: Interaction & multiple views**
 - Slides:  
-- Required reading:  
+- Reading:  
+
+![Static Badge](https://img.shields.io/badge/Lab%20session%20(Thu)-2f8a70)
 
 ###### Week 7
-Topic: Grammars for visualization (Part 1) + Lab  
+- **Topic: Grammars for visualization (Part 1)**
 - Slides:  
-- Required reading:  
+- Reading:  
+
+![Static Badge](https://img.shields.io/badge/Lab%20session%20(Thu)-2f8a70)
 
 ###### Week 8
-Topic: Spatial visualization (Part 1)  
+- **Topic: Spatial visualization (Part 1)**
 - Slides:  
-- Required reading:  
-<span style="color:red">Written critique due</span>  
-<span style="color:red">Assignment 2 due</span>  
-<span style="color:blue">Assignment 3 released</span>
+- Reading:  
+
+![Static Badge](https://img.shields.io/badge/Written%20critique%20due%20-aa2721)
+![Static Badge](https://img.shields.io/badge/Assignment%202%20due-aa2721)
+![Static Badge](https://img.shields.io/badge/Assignment%203%20released-2171b5)
 
 ###### Week 9
-Topic: Project updates  
+- **Topic: Project updates**
 - Slides:  
-- Required reading:  
+- Reading:  
 
 ###### Week 10
-Topic: Spatial visualization (Part 2) + Lab  
+- **Topic: Spatial visualization (Part 2)**
 - Slides:  
-- Required reading:  
+- Reading:  
+
+![Static Badge](https://img.shields.io/badge/Lab%20session%20(Thu)-2f8a70)
 
 ###### Week 11
-Topic: Visual analytics systems -- integrating visualization and analytics (invited talks)  
+- **Topic: Visual analytics systems -- integrating visualization and analytics (invited talks)**
 - Slides:  
-- Required reading:  
-<span style="color:red">Assignment 3 due</span>  
-<span style="color:blue">Assignment 4 released</span>
+- Reading:  
+
+![Static Badge](https://img.shields.io/badge/Assignment%203%20due-aa2721)
+![Static Badge](https://img.shields.io/badge/Assignment%204%20released-2171b5)
 
 ###### Week 12
-Topic: Grammars for visualization (Part 2) + Lab  
+- **Topic: Grammars for visualization (Part 2)**
 - Slides:  
-- Required reading:  
+- Reading:  
+![Static Badge](https://img.shields.io/badge/Lab%20session%20(Thu)-2f8a70)
 
 ###### Week 13
-Topic: Data management for visualization  
+- **Topic: Data management for visualization**
 - Slides:  
-- Required reading:  
+- Reading:  
 
 ###### Week 14
-Topic: Machine learning & data mining for visualization  
+- **Topic: Machine learning & data mining for visualization**
 - Slides:  
-- Required reading:  
+- Reading:  
 
 ###### Week 15
-Topic: Final project presentations  
+- **Topic: Final project presentations**
 - Slides:  
-- Required reading:  
-<span style="color:red">Assignment 4 due</span>
+- Reading:  
+![Static Badge](https://img.shields.io/badge/Assignment%204%20due-aa2721)
 
 
 ***
 
 ### Evaluation and Grading
 #### Grading Policy
-- Assignment 1: 10%
+- Assignment 1: 15%
 - Assignment 2: 20%
 - Assignment 3: 20%
 - Assignment 4 / final project: 25%
 - Vis critique report: 15%
-- Participation: 10%
+- Participation: 5%
 
 This course includes four assignments to make sure the student is familiar with the main components of visualization and visual analytics systems. The assignments will balance theory and practice, covering both design and implementation aspects. The student can either choose a different dataset for each assignment, or re-use the same dataset over the four assignments -- potentially further exploring and augmenting findings, insights, techniques, and/or methods. A list of datasets will be made available, but students are free to use their own dataset of interest.
 
