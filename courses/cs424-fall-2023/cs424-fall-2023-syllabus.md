@@ -165,7 +165,8 @@ The course is divided into three parts: 1) basic principles of visualization and
 ###### Week 12
 - **Topic: Grammars for visualization (Part 2)**
 - Slides:  
-- Reading:  
+- Reading:
+
 ![Static Badge](https://img.shields.io/badge/Lab%20session%20(Thu)-2f8a70)
 
 ###### Week 13
@@ -181,7 +182,8 @@ The course is divided into three parts: 1) basic principles of visualization and
 ###### Week 15
 - **Topic: Final project presentations**
 - Slides:  
-- Reading:  
+- Reading:
+
 ![Static Badge](https://img.shields.io/badge/Assignment%204%20due-aa2721)
 
 
