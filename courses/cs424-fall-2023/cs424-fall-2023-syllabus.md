@@ -190,13 +190,15 @@ The course is divided into three parts: 1) basic principles of visualization and
 - Vis critique report: 15%
 - Participation: 5%
 
-This course includes four assignments to make sure the student is familiar with the main components of visualization and visual analytics systems. The assignments will balance theory and practice, covering both design and implementation aspects. The student can either choose a different dataset for each assignment, or re-use the same dataset over the four assignments -- potentially further exploring and augmenting findings, insights, techniques, and/or methods. A list of datasets will be made available, but students are free to use their own dataset of interest.
+This course includes four assignments to make sure the student is familiar with the main components of visualization and visual analytics systems. The assignments will balance theory and practice, covering both design and implementation aspects. The student can either choose a different dataset for each assignment, or re-use the same dataset over the four assignments -- potentially further exploring and augmenting findings, insights, techniques, and/or methods. A list of datasets will be made available.
 
-Students will present their final assignments to the class, following the course schedule. Students will also present and write a one-page report evaluating of two different visualizations, from well-known sources. *For assignments and visualization evaluations, students can optionally work in groups*. Detailed instructions will be made available following the evaluation schedule. We will use [GitHub Classroom](https://github.com/uic-cs424) for the projects.
+Assignment 1 will not involve any programming. Assignment 2 will use Python. Assignments 3 and 4 will use Javascript / Typescript.
+
+Students will present their final assignments to the class, following the course schedule. Students will also write a one-page evaluating of two different visualizations, from well-known sources. *For assignments and visualization evaluations, students can optionally work in groups*. Detailed instructions will be made available following the evaluation schedule. We will use [GitHub Classroom](https://github.com/uic-cs424) for the projects.
 
 #### Participation
 
-This course includes a class participation grade that will take into consideration the student's contribution to a productive environment, either in the classroom, discord or office hours. Attendance is important, but **this is a subjective assessment**, and does not mean that the student needs to participate in *every* classroom discussion. It does mean, however, that they need to actively engage with the instructor or classmates in some capacity (classroom, discord, office hours, emails). **More importantly, rather than only penalize absences (by subtracting points), students will be rewarded for good attendance and participation.**
+This course includes a class participation grade that will take into consideration the student's contribution to a productive environment, either in the classroom, Piazza or office hours. Attendance is important, but this is a subjective assessment, and does not mean that the student needs to participate in *every* classroom discussion. It does mean that they need to actively engage with the instructor or classmates in some capacity (classroom, Piazza, office hours, emails). More importantly, rather than only penalize absences (by subtracting points), students will be rewarded for good attendance and participation.
 
 Students who struggle with the material and activities, but that take advantage of other opportunities provided (e.g., office hours, mentoring), can be successful in this course.
 
