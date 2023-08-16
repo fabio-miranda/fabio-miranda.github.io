@@ -92,27 +92,27 @@ Topic: Course introduction & Why vis?
 Topic: Data & attribute types, channels, tasks, analysis loop
 
 ###### Week 3
-Topic: Data questions and transformations
+Topic: Data questions and transformations  
 <span style="color:blue">Assignment 1 released</span>
 
 ###### Week 4
 Topic: Exploratory data analysis with computational notebooks + Lab
 
 ###### Week 5
-Topic: Web technologies for visualization (JavaScript + D3 + Svelte.js) + Lab
-<span style="color:red">Assignment 1 due</span>
+Topic: Web technologies for visualization (JavaScript + D3 + Svelte.js) + Lab  
+<span style="color:red">Assignment 1 due</span>  
+<span style="color:blue">Assignment 2 released</span>
 
 ###### Week 6
-Topic: Interaction & multiple views + Lab
-<span style="color:blue">Assignment 2 released</span>
+Topic: Interaction & multiple views + Lab  
 
 ###### Week 7
 Topic: Grammars for visualization (Part 1) + Lab
 
 ###### Week 8
-Topic: Spatial visualization (Part 1)
-<span style="color:red">Written critique due</span>
-<span style="color:red">Assignment 2 due</span>
+Topic: Spatial visualization (Part 1)  
+<span style="color:red">Written critique due</span>  
+<span style="color:red">Assignment 2 due</span>  
 <span style="color:blue">Assignment 3 released</span>
 
 ###### Week 9
@@ -122,8 +122,8 @@ Topic: Project updates
 Topic: Spatial visualization (Part 2) + Lab
 
 ###### Week 11
-Topic: Visual analytics systems -- integrating visualization and analytics (invited talks)
-<span style="color:red">Assignment 3 due</span>
+Topic: Visual analytics systems -- integrating visualization and analytics (invited talks)  
+<span style="color:red">Assignment 3 due</span>  
 <span style="color:blue">Assignment 4 released</span>
 
 ###### Week 12
@@ -178,7 +178,7 @@ If the class mean is 75% or higher, letter grades will be based on a straight sc
   - Coordinated views
   - Observable
   - Due week 11
-- Assignment 3 / final project:
+- Assignment 4 / final project:
   - Web visualization interface
   - Due week 15
 - Vis critique presentation:
@@ -201,6 +201,7 @@ By submitting your assignments for grading you acknowledge these terms, you decl
 
 Our class (in person and online) will follow the [CS Code of Conduct](https://www.cs.uic.edu/~grad/CS_Code_of_Conduct.pdf).   If you are not adhering to our course norms, a case of behavior misconduct will be submitted to the Dean of Students and to the Director of Undergraduate Studies in the department of Computer Science.  If you are not adhering to our course norms, you will not get full credit for your work in this class.  For extreme cases of violating the course norms, credit for the course will not be given. 
 
+All the work you submit must be your own; you should not use paraphrasing software like (QuillBot), or AI software for writing (like ChatGPT), or any AI tool for content generation (spell-checkers are allowed) – unless explicitly allowed to do so. If in doubt about a specific tool, ask.
 
 ***
 
