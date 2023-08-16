@@ -86,57 +86,87 @@ The course is divided into three parts: 1) basic principles of visualization and
 ### Course Schedule
 
 ###### Week 1
-Topic: Course introduction & Why vis?
+- Topic: Course introduction & Why vis?
+- Slides:  
+- Required reading:  
 
 ###### Week 2
-Topic: Data & attribute types, channels, tasks, analysis loop
+- Topic: Data & attribute types, channels, tasks, analysis loop
+- Slides:  
+- Required reading:  
 
 ###### Week 3
 Topic: Data questions and transformations  
+- Slides:  
+- Required reading:  
 <span style="color:blue">Assignment 1 released</span>
 
 ###### Week 4
-Topic: Exploratory data analysis with computational notebooks + Lab
+Topic: Exploratory data analysis with computational notebooks + Lab  
+- Slides:  
+- Required reading:  
 
 ###### Week 5
 Topic: Web technologies for visualization (JavaScript + D3 + Svelte.js) + Lab  
+- Slides:  
+- Required reading:  
 <span style="color:red">Assignment 1 due</span>  
 <span style="color:blue">Assignment 2 released</span>
 
 ###### Week 6
 Topic: Interaction & multiple views + Lab  
+- Slides:  
+- Required reading:  
 
 ###### Week 7
-Topic: Grammars for visualization (Part 1) + Lab
+Topic: Grammars for visualization (Part 1) + Lab  
+- Slides:  
+- Required reading:  
 
 ###### Week 8
 Topic: Spatial visualization (Part 1)  
+- Slides:  
+- Required reading:  
 <span style="color:red">Written critique due</span>  
 <span style="color:red">Assignment 2 due</span>  
 <span style="color:blue">Assignment 3 released</span>
 
 ###### Week 9
-Topic: Project updates
+Topic: Project updates  
+- Slides:  
+- Required reading:  
 
 ###### Week 10
-Topic: Spatial visualization (Part 2) + Lab
+Topic: Spatial visualization (Part 2) + Lab  
+- Slides:  
+- Required reading:  
 
 ###### Week 11
 Topic: Visual analytics systems -- integrating visualization and analytics (invited talks)  
+- Slides:  
+- Required reading:  
 <span style="color:red">Assignment 3 due</span>  
 <span style="color:blue">Assignment 4 released</span>
 
 ###### Week 12
-Topic: Grammars for visualization (Part 2) + Lab
+Topic: Grammars for visualization (Part 2) + Lab  
+- Slides:  
+- Required reading:  
 
 ###### Week 13
-Topic: Data management for visualization
+Topic: Data management for visualization  
+- Slides:  
+- Required reading:  
 
 ###### Week 14
-Topic: Machine learning & data mining for visualization
+Topic: Machine learning & data mining for visualization  
+- Slides:  
+- Required reading:  
 
 ###### Week 15
-Topic: Final project presentations
+Topic: Final project presentations  
+- Slides:  
+- Required reading:  
 <span style="color:red">Assignment 4 due</span>
 
 
