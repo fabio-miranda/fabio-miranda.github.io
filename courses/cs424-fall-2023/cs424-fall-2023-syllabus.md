@@ -7,22 +7,24 @@
 2. [Course Description](#course-description)
     1. [Rationale](#rationale)
     2. [Course Pre-requisites](#course-pre-requisites)
-    3. [Objectives](#objectives)
-    4. [Textbooks and Readings](#textbooks)
-    5. [Deliverables](#deliverables)
-    6. [Format and Teaching Methods](#format-and-teaching-methods)
+    3. [Course Objectives](#course-objectives)
+    4. [Learning Outcomes](#learning-outcomes)
+    5. [Textbook](#textbook)
+    6. [Deliverables](#deliverables)
+    7. [Format and Teaching Methods](#format-and-teaching-methods)
 3. [Course Schedule](#course-schedule)
 4. [Evaluation and Grading](#evaluation-and-grading)
     1. [Grading Policy](#grading-policy)
-    2. [Evaluation Schedule](#evaluation-schedule)
-    3. [Assignment Considerations](#assignment-considerations)
-    4. [Late Days](#late-days)
-5. [Final Project Gallery](#final-project-gallery)
-6. [Acknowledgments](#acknowledgements)
+    2. [Participation](#participation)
+    3. [Letter Grades](#letter-grades)
+    4. [Evaluation Schedule](#evaluation-schedule)
+    5. [Late Days](#late-days)
 7. [Academic Integrity](#academic-integrity)
 8. [Inclusive Learning Environment](#inclusive-learning-environment)
 9. [Disability Accommodation Procedures](#disability-accomodation-procedures)
-10. [Disclaimer](#disclaimer)
+10. [Religious Holidays](#religious-holidays)
+11. [Mental and Emotional Wellness](#mental-and-emotional-wellness)
+13. [Disclaimer](#disclaimer)
 
 ### General Information
 
@@ -88,33 +90,30 @@ The course is divided into three parts: 1) basic principles of visualization and
 ###### Week 1
 - **Topic: Course introduction & Why vis?**
 - Slides:  
-- Reading:  
+- Reading:
 
 ###### Week 2
 - **Topic: Data & attribute types, channels, tasks, analysis loop**
 - Slides:  
-- Reading:  
+- Reading:
 
 ###### Week 3
 - **Topic: Data questions and transformations**
 - Slides:  
 - Reading:
-
 ![Static Badge](https://img.shields.io/badge/Assignment%201%20released-2171b5)
 
 
 ###### Week 4
 - **Topic: Exploratory data analysis with computational notebooks**
 - Slides:  
-- Reading:  
-
+- Reading:
 ![Static Badge](https://img.shields.io/badge/Lab%20session%20(Thu)-2f8a70)
 
 ###### Week 5
 - **Topic: Web technologies for visualization (JavaScript + D3 + Svelte.js)**
 - Slides:  
-- Reading:  
-
+- Reading:
 ![Static Badge](https://img.shields.io/badge/Lab%20session%20(Thu)-2f8a70)
 ![Static Badge](https://img.shields.io/badge/Assignment%201%20due-aa2721)
 ![Static Badge](https://img.shields.io/badge/Assignment%202%20released-2171b5)
@@ -122,22 +121,19 @@ The course is divided into three parts: 1) basic principles of visualization and
 ###### Week 6
 - **Topic: Interaction & multiple views**
 - Slides:  
-- Reading:  
-
+- Reading:
 ![Static Badge](https://img.shields.io/badge/Lab%20session%20(Thu)-2f8a70)
 
 ###### Week 7
 - **Topic: Grammars for visualization (Part 1)**
 - Slides:  
-- Reading:  
-
+- Reading:
 ![Static Badge](https://img.shields.io/badge/Lab%20session%20(Thu)-2f8a70)
 
 ###### Week 8
 - **Topic: Spatial visualization (Part 1)**
 - Slides:  
-- Reading:  
-
+- Reading:
 ![Static Badge](https://img.shields.io/badge/Written%20critique%20due%20-aa2721)
 ![Static Badge](https://img.shields.io/badge/Assignment%202%20due-aa2721)
 ![Static Badge](https://img.shields.io/badge/Assignment%203%20released-2171b5)
@@ -145,20 +141,18 @@ The course is divided into three parts: 1) basic principles of visualization and
 ###### Week 9
 - **Topic: Project updates**
 - Slides:  
-- Reading:  
-
+- Reading:
+  
 ###### Week 10
 - **Topic: Spatial visualization (Part 2)**
 - Slides:  
-- Reading:  
-
+- Reading:
 ![Static Badge](https://img.shields.io/badge/Lab%20session%20(Thu)-2f8a70)
 
 ###### Week 11
 - **Topic: Visual analytics systems -- integrating visualization and analytics (invited talks)**
 - Slides:  
-- Reading:  
-
+- Reading:
 ![Static Badge](https://img.shields.io/badge/Assignment%203%20due-aa2721)
 ![Static Badge](https://img.shields.io/badge/Assignment%204%20released-2171b5)
 
@@ -166,24 +160,22 @@ The course is divided into three parts: 1) basic principles of visualization and
 - **Topic: Grammars for visualization (Part 2)**
 - Slides:  
 - Reading:
-
 ![Static Badge](https://img.shields.io/badge/Lab%20session%20(Thu)-2f8a70)
 
 ###### Week 13
 - **Topic: Data management for visualization**
 - Slides:  
-- Reading:  
+- Reading:
 
 ###### Week 14
 - **Topic: Machine learning & data mining for visualization**
 - Slides:  
-- Reading:  
+- Reading:
 
 ###### Week 15
 - **Topic: Final project presentations**
 - Slides:  
 - Reading:
-
 ![Static Badge](https://img.shields.io/badge/Assignment%204%20due-aa2721)
 
 
