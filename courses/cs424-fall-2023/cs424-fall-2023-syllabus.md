@@ -87,6 +87,8 @@ The course is divided into three parts: 1) basic principles of visualization and
 
 ### Course Schedule
 
+This schedule will be updated throughout the semester with links for slides and reading material.
+
 ###### Week 1
 - **Topic: Course introduction & Why vis?**
 - Slides:  
@@ -192,7 +194,7 @@ The course is divided into three parts: 1) basic principles of visualization and
 
 This course includes four assignments to make sure the student is familiar with the main components of visualization and visual analytics systems. The assignments will balance theory and practice, covering both design and implementation aspects. The student can either choose a different dataset for each assignment, or re-use the same dataset over the four assignments -- potentially further exploring and augmenting findings, insights, techniques, and/or methods. A list of datasets will be made available.
 
-Assignment 1 will not involve any programming. Assignment 2 will use Python. Assignments 3 and 4 will use Javascript / Typescript.
+Assignment 1 will not involve any programming. Assignment 2 will use Python. For Assignments 3 and 4 the student will be able to choose between high-level grammars or Javascript / Typescript.
 
 Students will present their final assignments to the class, following the course schedule. Students will also write a one-page evaluating of two different visualizations, from well-known sources. *For assignments and visualization evaluations, students can optionally work in groups*. Detailed instructions will be made available following the evaluation schedule. We will use [GitHub Classroom](https://github.com/uic-cs424) for the projects.
 
