@@ -91,7 +91,7 @@ This schedule will be updated throughout the semester with links for slides and 
 
 ###### Week 1
 - **Topic: Course introduction & Why vis?**
-- Slides: [Introduction and overview](https://fmiranda.me/courses/cs424-slides/01-intro.pdf)
+- Slides: [Introduction and overview](https://fmiranda.me/courses/cs424-slides/01-intro.pdf), [Why visualize data?](https://fmiranda.me/courses/cs424-slides/02-why.pdf)
 - Reading: Munzner, Ch. 1
 
 ###### Week 2
