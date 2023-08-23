@@ -91,25 +91,24 @@ This schedule will be updated throughout the semester with links for slides and 
 
 ###### Week 1
 - **Topic: Course introduction & Why vis?**
-- Slides:  
-- Reading:
+- Slides: [Introduction and overview](https://fmiranda.me/courses/cs424-slides/01-intro.pdf)
+- Reading: Munzner, Ch. 1
 
 ###### Week 2
 - **Topic: Data & attribute types, channels, tasks, analysis loop**
 - Slides:  
-- Reading:
+- Reading: Munzner, Ch. 2, 5
 
 ###### Week 3
 - **Topic: Data questions and transformations**
 - Slides:  
-- Reading:
-![Static Badge](https://img.shields.io/badge/Assignment%201%20released-2171b5)
-
+- Reading: Munzner, Ch. 3, 5
 
 ###### Week 4
 - **Topic: Exploratory data analysis with computational notebooks**
 - Slides:  
-- Reading:
+- Reading: [Perer and Schneiderman, 2008](https://dl.acm.org/doi/10.1145/1357054.1357101); 
+![Static Badge](https://img.shields.io/badge/Assignment%201%20released-2171b5)
 ![Static Badge](https://img.shields.io/badge/Lab%20session%20(Thu)-2f8a70)
 
 ###### Week 5
