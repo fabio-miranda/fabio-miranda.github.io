@@ -103,12 +103,12 @@ This schedule will be updated throughout the semester with links for slides and 
 - **Topic: Data questions and transformations**
 - Slides:  
 - Reading: Munzner, Ch. 3, 5
+![Static Badge](https://img.shields.io/badge/Assignment%201%20released-2171b5)
 
 ###### Week 4
 - **Topic: Exploratory data analysis with computational notebooks**
 - Slides:  
 - Reading: [Perer and Schneiderman, 2008](https://dl.acm.org/doi/10.1145/1357054.1357101)  
-![Static Badge](https://img.shields.io/badge/Assignment%201%20released-2171b5)
 ![Static Badge](https://img.shields.io/badge/Lab%20session%20(Thu)-2f8a70)
 
 ###### Week 5
