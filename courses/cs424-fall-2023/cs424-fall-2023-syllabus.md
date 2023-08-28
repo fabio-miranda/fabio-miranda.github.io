@@ -96,7 +96,7 @@ This schedule will be updated throughout the semester with links for slides and 
 
 ###### Week 2
 - **Topic: Data & attribute types, channels, tasks, analysis loop**
-- Slides:  
+- Slides: [Introduction to visualization](https://fmiranda.me/courses/cs424-slides/03-vis.pdf)
 - Reading: Munzner, Ch. 2, 5
 
 ###### Week 3
