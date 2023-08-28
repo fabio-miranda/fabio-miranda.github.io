@@ -89,29 +89,29 @@ The course is divided into three parts: 1) basic principles of visualization and
 
 This schedule will be updated throughout the semester with links for slides and reading material.
 
-###### Week 1
+###### Week 1 (Aug 21 - 25)
 - **Topic: Course introduction & Why vis?**
 - Slides: [Introduction and overview](https://fmiranda.me/courses/cs424-slides/01-intro.pdf), [Why visualize data?](https://fmiranda.me/courses/cs424-slides/02-why-vis.pdf)
 - Reading: Munzner, Ch. 1
 
-###### Week 2
+###### Week 2 (Aug 28 - Sep 1)
 - **Topic: Data & attribute types, channels, tasks, analysis loop**
 - Slides: [Introduction to visualization](https://fmiranda.me/courses/cs424-slides/03-vis.pdf)
 - Reading: Munzner, Ch. 2, 5
 
-###### Week 3
+###### Week 3 (Sep 1 - 8)
 - **Topic: Data questions and transformations**
 - Slides:  
 - Reading: Munzner, Ch. 3, 5
 ![Static Badge](https://img.shields.io/badge/Assignment%201%20released-2171b5)
 
-###### Week 4
+###### Week 4 (Sep 11 - 15)
 - **Topic: Exploratory data analysis with computational notebooks**
 - Slides:  
 - Reading: [Perer and Schneiderman, 2008](https://dl.acm.org/doi/10.1145/1357054.1357101)  
 ![Static Badge](https://img.shields.io/badge/Lab%20session%20(Thu)-2f8a70)
 
-###### Week 5
+###### Week 5 (Sep 18 - 22)
 - **Topic: Web technologies for visualization (JavaScript + D3 + Svelte.js)**
 - Slides:  
 - Reading:
@@ -119,19 +119,19 @@ This schedule will be updated throughout the semester with links for slides and 
 ![Static Badge](https://img.shields.io/badge/Assignment%201%20due-aa2721)
 ![Static Badge](https://img.shields.io/badge/Assignment%202%20released-2171b5)
 
-###### Week 6
+###### Week 6 (Sep 25 - 29)
 - **Topic: Interaction & multiple views**
 - Slides:  
 - Reading:
 ![Static Badge](https://img.shields.io/badge/Lab%20session%20(Thu)-2f8a70)
 
-###### Week 7
+###### Week 7 (Oct 2 - 6)
 - **Topic: Grammars for visualization (Part 1)**
 - Slides:  
 - Reading:
 ![Static Badge](https://img.shields.io/badge/Lab%20session%20(Thu)-2f8a70)
 
-###### Week 8
+###### Week 8 (Oct 9 - 13)
 - **Topic: Spatial visualization (Part 1)**
 - Slides:  
 - Reading:
@@ -139,41 +139,42 @@ This schedule will be updated throughout the semester with links for slides and 
 ![Static Badge](https://img.shields.io/badge/Assignment%202%20due-aa2721)
 ![Static Badge](https://img.shields.io/badge/Assignment%203%20released-2171b5)
 
-###### Week 9
-- **Topic: Project updates**
-- Slides:  
-- Reading:
-  
-###### Week 10
+###### Week 9 (Oct 16 - 20)
 - **Topic: Spatial visualization (Part 2)**
 - Slides:  
 - Reading:
 ![Static Badge](https://img.shields.io/badge/Lab%20session%20(Thu)-2f8a70)
+  
+###### Week 10 (Oct 23 - 27)
+- **Topic: Project updates**
+- Slides:  
+- Reading:
+![Static Badge](https://img.shields.io/badge/Online%20(Zoom)-2f8a70)
 
-###### Week 11
+###### Week 11 (Oct 30 - Nov 3)
 - **Topic: Visual analytics systems -- integrating visualization and analytics (invited talks)**
 - Slides:  
 - Reading:
 ![Static Badge](https://img.shields.io/badge/Assignment%203%20due-aa2721)
 ![Static Badge](https://img.shields.io/badge/Assignment%204%20released-2171b5)
 
-###### Week 12
+###### Week 12 (Nov 6 - 10)
 - **Topic: Grammars for visualization (Part 2)**
 - Slides:  
 - Reading:
 ![Static Badge](https://img.shields.io/badge/Lab%20session%20(Thu)-2f8a70)
 
-###### Week 13
+###### Week 13 (Nov 13 - 17)
 - **Topic: Data management for visualization**
 - Slides:  
 - Reading:
 
-###### Week 14
+###### Week 14 (Nov 20 - 24)
 - **Topic: Machine learning & data mining for visualization**
 - Slides:  
 - Reading:
 
-###### Week 15
+###### Week 15 (Nov 27 - Dec 1)
 - **Topic: Final project presentations**
 - Slides:  
 - Reading:
