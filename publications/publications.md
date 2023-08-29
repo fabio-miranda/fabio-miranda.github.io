@@ -2,23 +2,23 @@
 
 #### 2023
 
-**The Urban Toolkit: A Grammar-based Framework for Urban Visual Analytics**
+**The Urban Toolkit: A Grammar-based Framework for Urban Visual Analytics**<br>
 &emsp;G. Moreira, M. Hosseini, M.N.A. Nipu, M. Lage, N. Ferreira, F. Miranda<br>
 &emsp;IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2023)<br>
 &emsp;[[Arxiv](https://doi.org/10.48550/arXiv.2308.07769)]
 
-**ProWis: A Visual Approach for Building, Managing, and Analyzing Weather Simulation Ensembles at Runtime**
+**ProWis: A Visual Approach for Building, Managing, and Analyzing Weather Simulation Ensembles at Runtime**<br>
 &emsp;C.V.F. de Souza, S.M. Bonnet, D. de Oliveira, M. Cataldi, F. Miranda, M. Lage<br>
 &emsp;IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2023)<br>
 &emsp;[[Arxiv](https://doi.org/10.48550/arXiv.2308.05019)]<br>
 &emsp;Best Paper Honorable Mention Award ([link](https://sigmod.org/sigmod-awards/sigmod-best-demonstration-award/))
 
-**Environmental Justice through Community-Policy Participatory Partnerships**
+**Environmental Justice through Community-Policy Participatory Partnerships**<br>
 &emsp;P. A. Boda, F. Fusi, F. Miranda, G. J. M. Palmer, J. Flax-Hatch, M. Siciliano, A. Sambanis, L. Johnson, S. Derrible, M. Cailas<br>
 &emsp;Journal of Environmental Protection<br>
 &emsp;[[DOI](https://doi.org/10.4236/jep.2023.148036)]
 
-**Does a Quieter City Mean Fewer Complaints? The Sounds of New York City During Covid-19 Lockdown**
+**Does a Quieter City Mean Fewer Complaints? The Sounds of New York City During Covid-19 Lockdown**<br>
 &emsp;M. Cartwright, M. Fuentes, C. Mydlarz, F. Miranda, J.P. Bello<br>
 &emsp;ICASSP 2023<br>
 &emsp;[[DOI](https://doi.org/10.1109/ICASSP49357.2023.10094968)]
