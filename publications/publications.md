@@ -1,5 +1,33 @@
 ### Publications
 
+#### 2023
+
+**The Urban Toolkit: A Grammar-based Framework for Urban Visual Analytics**
+&emsp;G. Moreira, M. Hosseini, M.N.A. Nipu, M. Lage, N. Ferreira, F. Miranda<br>
+&emsp;IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2023)<br>
+&emsp;[[Arxiv](https://doi.org/10.48550/arXiv.2308.07769)]
+
+**ProWis: A Visual Approach for Building, Managing, and Analyzing Weather Simulation Ensembles at Runtime**
+&emsp;C.V.F. de Souza, S.M. Bonnet, D. de Oliveira, M. Cataldi, F. Miranda, M. Lage<br>
+&emsp;IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2023)<br>
+&emsp;[[Arxiv](https://doi.org/10.48550/arXiv.2308.05019)]
+&emsp;Best Paper Honorable Mention Award ([link]([https://sigmod.org/sigmod-awards/sigmod-best-demonstration-award/](https://ieeevis.org/year/2023/info/awards/best-paper-awards)))
+
+**Environmental Justice through Community-Policy Participatory Partnerships**
+&emsp;P. A. Boda, F. Fusi, F. Miranda, G. J. M. Palmer, J. Flax-Hatch, M. Siciliano, A. Sambanis, L. Johnson, S. Derrible, M. Cailas<br>
+&emsp;Journal of Environmental Protection<br>
+&emsp;[[DOI](https://doi.org/10.4236/jep.2023.148036)]
+
+**Does a Quieter City Mean Fewer Complaints? The Sounds of New York City During Covid-19 Lockdown**
+&emsp;M. Cartwright, M. Fuentes, C. Mydlarz, F. Miranda, J.P. Bello<br>
+&emsp;ICASSP 2023<br>
+&emsp;[[DOI](https://doi.org/10.1109/ICASSP49357.2023.10094968)]
+
+**Mapping the walk: A scalable computer vision approach for generating sidewalk network datasets from aerial imagery**<br>
+&emsp;M. Hosseini, A. Sevtsuk, F. Miranda, R.M. Cesar Jr, C.T. Silva<br>
+&emsp;*Computers, Environment and Urban Systems*<br>
+&emsp;[[DOI](https://doi.org/10.1016/j.compenvurbsys.2023.101950)]
+
 #### 2022
 
 **Mapping Sidewalk Fall Risks Using Big Data And Machine Learning**<br>
