@@ -42,7 +42,14 @@ fabiom [at] uic.edu
 
 https://fmiranda.me/
 
-Office hours: Friday 11am - 1pm (Zoom info on Piazza).
+Office hours: Check Piazza for information.
+
+#### Teaching Assistant
+Kazi Omar
+
+komar3 [at] uic.edu
+
+Office hours: Check Piazza for information.
 
 ***
 
