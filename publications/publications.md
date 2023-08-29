@@ -10,8 +10,8 @@
 **ProWis: A Visual Approach for Building, Managing, and Analyzing Weather Simulation Ensembles at Runtime**
 &emsp;C.V.F. de Souza, S.M. Bonnet, D. de Oliveira, M. Cataldi, F. Miranda, M. Lage<br>
 &emsp;IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2023)<br>
-&emsp;[[Arxiv](https://doi.org/10.48550/arXiv.2308.05019)]
-&emsp;Best Paper Honorable Mention Award ([link]([https://sigmod.org/sigmod-awards/sigmod-best-demonstration-award/](https://ieeevis.org/year/2023/info/awards/best-paper-awards)))
+&emsp;[[Arxiv](https://doi.org/10.48550/arXiv.2308.05019)]<br>
+&emsp;Best Paper Honorable Mention Award ([link](https://sigmod.org/sigmod-awards/sigmod-best-demonstration-award/))
 
 **Environmental Justice through Community-Policy Participatory Partnerships**
 &emsp;P. A. Boda, F. Fusi, F. Miranda, G. J. M. Palmer, J. Flax-Hatch, M. Siciliano, A. Sambanis, L. Johnson, S. Derrible, M. Cailas<br>
