@@ -102,13 +102,13 @@ This schedule will be updated throughout the semester with links for slides and 
 - Reading: Munzner, Ch. 1
 
 ###### Week 2 (Aug 28 - Sep 1)
-- **Topic: Data & attribute types, channels, tasks, analysis loop**
+- **Topic: Data & attribute types, marks, channels**
 - Slides: [Introduction to visualization](https://fmiranda.me/courses/cs424-slides/03-vis.pdf)
 - Reading: Munzner, Ch. 2, 5
 
 ###### Week 3 (Sep 1 - 8)
-- **Topic: Data questions and transformations**
-- Slides:  
+- **Topic: Task abstraction**
+- Slides: [Task abstraction](https://fmiranda.me/courses/cs424-slides/04-tasks.pdf)
 - Reading: Munzner, Ch. 3, 5
 ![Static Badge](https://img.shields.io/badge/Assignment%201%20released-2171b5)
 
