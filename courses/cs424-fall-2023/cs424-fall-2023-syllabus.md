@@ -99,17 +99,17 @@ This schedule will be updated throughout the semester with links for slides and 
 ###### Week 1 (Aug 21 - 25)
 - **Topic: Course introduction & Why vis?**
 - Slides: [Introduction and overview](https://fmiranda.me/courses/cs424-slides/01-intro.pdf), [Why visualize data?](https://fmiranda.me/courses/cs424-slides/02-why-vis.pdf)
-- Reading: Munzner, Ch. 1
+- Reading: Munzner (Ch. 1)
 
 ###### Week 2 (Aug 28 - Sep 1)
 - **Topic: Data & attribute types, marks, channels**
 - Slides: [Introduction to visualization](https://fmiranda.me/courses/cs424-slides/03-vis.pdf)
-- Reading: Munzner, Ch. 2, 5
+- Reading: Munzner (Ch. 2, 5)
 
 ###### Week 3 (Sep 1 - 8)
 - **Topic: Task abstraction**
 - Slides: [Task abstraction](https://fmiranda.me/courses/cs424-slides/04-tasks.pdf)
-- Reading: Munzner, Ch. 3, 5
+- Reading: Munzner (Ch. 3, 5), [Best Practices for Data Visualisation](https://royal-statistical-society.github.io/datavisguide/)
 ![Static Badge](https://img.shields.io/badge/Assignment%201%20released-2171b5)
 
 ###### Week 4 (Sep 11 - 15)
