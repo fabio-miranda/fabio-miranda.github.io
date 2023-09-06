@@ -6,7 +6,7 @@ Course webpage: https://fmiranda.me/courses/cs424-fall-2023/
 
 ---
 
-### Assignment 1: Sketching visualilzations
+### Assignment 1: Sketching visualizations
 
 The goal of this assignment is to get you familiar with visualization sketching. You will have to present an overview of a dataset, discuss data questions and task abstractions, and sketch a few visualizations. Sketching your visualization, before delving too deep into the implementation of the visualization, will allow you to test your ideas early on. Your sketches will serve as the foundation for the visualizations that you will create in the subsequent assignments. The tasks require multiple iterations, so make sure you start early and appreciate the process of brainstorming and discussing ideas.
 
@@ -34,7 +34,7 @@ Select a dataset that is of interest to you, from the list below:
 * [Building violations](https://data.cityofchicago.org/Buildings/Building-Violations/22u3-xenr)
 * [311 service requests](https://data.cityofchicago.org/Service-Requests/311-Service-Requests/v6vf-nfxy)
 
-All of the previous datasets contain metadata with a description of the data attributes, source of the data, gaps, etc. After selecting the dataset, make sure you to enter your selection in the shared spreadsheet (see Piazza for link).
+All of the previous datasets contain metadata with a description of the data attributes, source of the data, gaps, etc. After selecting the dataset, make sure you enter your selection in the shared spreadsheet (see Piazza for link).
 
 ---
 
@@ -60,20 +60,34 @@ In this assignment, do not use any tool or library to visualize the data. You ar
 
 #### Task 5: Summarizing
 
-Write a paragraph comparing your visualization designs, covering both strengths and weaknessess in relation to each other, as well as originality. Discuss whether they would be effective in answering the domain questions posed in task 2.
+Write a paragraph comparing your visualization designs, covering both strengths and weaknesses in relation to each other, as well as originality. Discuss whether they would be effective in answering the domain questions posed in task 2.
 
 ---
 
 #### Deliverables
 
-Submit your assignment on GitHub. Your writeups and sketches should be compiled into a single Markdown document, uploaded to GitHub (see Piazza for the invitation link). Take pictures or scan your sketches, making sure that they are easily readable.
+Submit your assignment on GitHub. Your writeups and sketches should be compiled into a single Markdown document (intertwining text and images), uploaded to GitHub (see Piazza for the invitation link). Take pictures or scan your sketches, making sure that they are easily readable. Make sure your writeups and sketches are clearly organized.
 
 ---
 
 #### Grading
 
-Your submission will be graded according to the quality, diversity, and creativity of the visualizations and writeups. Visualizations need to be well constructed, with good color and font choices and proper labeling.
+Your submission will be graded according to three components:
 
+- Design choices:
+  - Excellent (A): design choices are effective, visualizations can be easily read and understood.
+  - Good (B): design choices are effective, with minor problems.
+  - Poor (C): ineffective mark or encoding choices.
+
+- Creativity and diversity of visualizations:
+  - Excellent (A): largely original visualizations and designs.
+  - Good (B): visualizations based on well-known designs, but with enough diversity to reasonably cover the design space.
+  - Poor (C): ineffective exploration of the design space, with simple visualizations based on well-known designs and very similar to each other.
+
+- Writeups:
+  - Excellent (A): detailed writeups, with reasonable justifications for all design choices.
+  - Good (B): good justifications, writeups could be more detailed.
+  - Poor (C): missing or incomplete justifications.
 
 ----
 
