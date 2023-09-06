@@ -7,22 +7,24 @@
 2. [Course Description](#course-description)
     1. [Rationale](#rationale)
     2. [Course Pre-requisites](#course-pre-requisites)
-    3. [Objectives](#objectives)
-    4. [Textbooks and Readings](#textbooks)
-    5. [Deliverables](#deliverables)
-    6. [Format and Teaching Methods](#format-and-teaching-methods)
+    3. [Course Objectives](#course-objectives)
+    4. [Learning Outcomes](#learning-outcomes)
+    5. [Textbook](#textbook)
+    6. [Deliverables](#deliverables)
+    7. [Format and Teaching Methods](#format-and-teaching-methods)
 3. [Course Schedule](#course-schedule)
 4. [Evaluation and Grading](#evaluation-and-grading)
     1. [Grading Policy](#grading-policy)
-    2. [Evaluation Schedule](#evaluation-schedule)
-    3. [Assignment Considerations](#assignment-considerations)
-    4. [Late Days](#late-days)
-5. [Final Project Gallery](#final-project-gallery)
-6. [Acknowledgments](#acknowledgements)
+    2. [Participation](#participation)
+    3. [Letter Grades](#letter-grades)
+    4. [Evaluation Schedule](#evaluation-schedule)
+    5. [Late Days](#late-days)
 7. [Academic Integrity](#academic-integrity)
 8. [Inclusive Learning Environment](#inclusive-learning-environment)
 9. [Disability Accommodation Procedures](#disability-accomodation-procedures)
-10. [Disclaimer](#disclaimer)
+10. [Religious Holidays](#religious-holidays)
+11. [Mental and Emotional Wellness](#mental-and-emotional-wellness)
+13. [Disclaimer](#disclaimer)
 
 ### General Information
 
@@ -34,13 +36,14 @@ Piazza will be the main platform for instructor / student communication, please 
 Credit hours: 3 or 4.
 
 #### Course Instructor
-Fabio Miranda
+Fabio Miranda (fabiom [at] uic.edu)  
+https://fmiranda.me/  
+Office hours: Check Piazza for information.
 
-fabiom [at] uic.edu
-
-https://fmiranda.me/
-
-Office hours: Friday 11am - 1pm (Zoom info on Piazza).
+#### Teaching Assistant
+Kazi Omar (komar3 [at] uic.edu)  
+Ridhuparan Kungumaraju (rkungu2 [at] uic.edu)  
+Office hours: Check Piazza for information.
 
 ***
 
@@ -85,79 +88,120 @@ The course is divided into three parts: 1) basic principles of visualization and
 
 ### Course Schedule
 
-###### Week 1
-Topic: Course introduction & Why vis?
+This schedule will be updated throughout the semester with links for slides and reading material.
 
-###### Week 2
-Topic: Data & attribute types, channels, tasks, analysis loop
+###### Week 1 (Aug 21 - 25)
+- **Topic: Course introduction & Why vis?**
+- Slides: [Introduction and overview](https://fmiranda.me/courses/cs424-slides/01-intro.pdf), [Why visualize data?](https://fmiranda.me/courses/cs424-slides/02-why-vis.pdf)
+- Reading: Munzner (Ch. 1)
 
-###### Week 3
-Topic: Data questions and transformations
-<span style="color:blue">Assignment 1 released</span>
+###### Week 2 (Aug 28 - Sep 1)
+- **Topic: Data & attribute types, marks, channels**
+- Slides: [Introduction to visualization](https://fmiranda.me/courses/cs424-slides/03-vis.pdf)
+- Reading: Munzner (Ch. 2, 5)
 
-###### Week 4
-Topic: Exploratory data analysis with computational notebooks + Lab
+###### Week 3 (Sep 1 - 8)
+- **Topic: Task abstraction**
+- Slides: [Task abstraction](https://fmiranda.me/courses/cs424-slides/04-tasks.pdf)
+- Reading: Munzner (Ch. 3, 5), [Best Practices for Data Visualisation](https://royal-statistical-society.github.io/datavisguide/)
+![Static Badge](https://img.shields.io/badge/Assignment%201%20released-2171b5)
 
-###### Week 5
-Topic: Web technologies for visualization (JavaScript + D3 + Svelte.js) + Lab
-<span style="color:red">Assignment 1 due</span>
+###### Week 4 (Sep 11 - 15)
+- **Topic: Exploratory data analysis with computational notebooks**
+- Slides:  
+- Reading: [Perer and Schneiderman, 2008](https://dl.acm.org/doi/10.1145/1357054.1357101)  
+![Static Badge](https://img.shields.io/badge/Lab%20session%201%20(Thu)-2f8a70)
 
-###### Week 6
-Topic: Interaction & multiple views + Lab
-<span style="color:blue">Assignment 2 released</span>
+###### Week 5 (Sep 18 - 22)
+- **Topic: Web technologies for visualization (JavaScript + D3 + Svelte.js)**
+- Slides:  
+- Reading:
+![Static Badge](https://img.shields.io/badge/Lab%20session%202%20(Thu)-2f8a70)
+![Static Badge](https://img.shields.io/badge/Assignment%201%20due-aa2721)
+![Static Badge](https://img.shields.io/badge/Assignment%202%20released-2171b5)
 
-###### Week 7
-Topic: Grammars for visualization (Part 1) + Lab
+###### Week 6 (Sep 25 - 29)
+- **Topic: Interaction & multiple views**
+- Slides:  
+- Reading:
+![Static Badge](https://img.shields.io/badge/Lab%20session%203%20(Thu)-2f8a70)
 
-###### Week 8
-Topic: Spatial visualization (Part 1)
-<span style="color:red">Written critique due</span>
-<span style="color:red">Assignment 2 due</span>
-<span style="color:blue">Assignment 3 released</span>
+###### Week 7 (Oct 2 - 6)
+- **Topic: Grammars for visualization (Part 1)**
+- Slides:  
+- Reading:
+![Static Badge](https://img.shields.io/badge/Lab%20session%204%20(Thu)-2f8a70)
 
-###### Week 9
-Topic: Project updates
+###### Week 8 (Oct 9 - 13)
+- **Topic: Spatial visualization (Part 1)**
+- Slides:  
+- Reading:
+![Static Badge](https://img.shields.io/badge/Written%20critique%20due%20-aa2721)
+![Static Badge](https://img.shields.io/badge/Assignment%202%20due-aa2721)
+![Static Badge](https://img.shields.io/badge/Assignment%203%20released-2171b5)
 
-###### Week 10
-Topic: Spatial visualization (Part 2) + Lab
+###### Week 9 (Oct 16 - 20)
+- **Topic: Spatial visualization (Part 2)**
+- Slides:  
+- Reading:
+![Static Badge](https://img.shields.io/badge/Lab%20session%205%20(Thu)-2f8a70)
+  
+###### Week 10 (Oct 23 - 27)
+- **Topic: Project updates**
+- Slides:  
+- Reading:
+![Static Badge](https://img.shields.io/badge/Online%20(Zoom)-2f8a70)
 
-###### Week 11
-Topic: Visual analytics systems -- integrating visualization and analytics (invited talks)
-<span style="color:red">Assignment 3 due</span>
-<span style="color:blue">Assignment 4 released</span>
+###### Week 11 (Oct 30 - Nov 3)
+- **Topic: Visual analytics systems -- integrating visualization and analytics (invited talks)**
+- Slides:  
+- Reading:
+![Static Badge](https://img.shields.io/badge/Assignment%203%20due-aa2721)
+![Static Badge](https://img.shields.io/badge/Assignment%204%20released-2171b5)
 
-###### Week 12
-Topic: Grammars for visualization (Part 2) + Lab
+###### Week 12 (Nov 6 - 10)
+- **Topic: Grammars for visualization (Part 2)**
+- Slides:  
+- Reading:
+![Static Badge](https://img.shields.io/badge/Lab%20session%206%20(Thu)-2f8a70)
 
-###### Week 13
-Topic: Data management for visualization
+###### Week 13 (Nov 13 - 17)
+- **Topic: Data management for visualization**
+- Slides:  
+- Reading:
 
-###### Week 14
-Topic: Machine learning & data mining for visualization
+###### Week 14 (Nov 20 - 24)
+- **Topic: Machine learning & data mining for visualization**
+- Slides:  
+- Reading:
 
-###### Week 15
-Topic: Final project presentations
-<span style="color:red">Assignment 4 due</span>
+###### Week 15 (Nov 27 - Dec 1)
+- **Topic: Final project presentations**
+- Slides:  
+- Reading:
+![Static Badge](https://img.shields.io/badge/Assignment%204%20due-aa2721)
 
 
 ***
 
 ### Evaluation and Grading
 #### Grading Policy
-- Assignment 1: 10%
+- Assignment 1: 15%
 - Assignment 2: 20%
 - Assignment 3: 20%
 - Assignment 4 / final project: 25%
 - Vis critique report: 15%
-- Participation: 10%
+- Participation: 5%
 
-This course includes four assignments to make sure the student is familiar with the main components of visualization and visual analytics systems. The assignments will balance theory and practice, covering both design and implementation aspects. The student can either choose a different dataset for each assignment, or re-use the same dataset over the four assignments -- potentially further exploring and augmenting findings, insights, techniques, and/or methods. A list of datasets will be made available, but students are free to use their own dataset of interest.
+This course includes four assignments to make sure the student is familiar with the main components of visualization and visual analytics systems. The assignments will balance theory and practice, covering both design and implementation aspects. The student can either choose a different dataset for each assignment, or re-use the same dataset over the four assignments -- potentially further exploring and augmenting findings, insights, techniques, and/or methods. A list of datasets will be made available.
 
-Students will present their final assignments to the class, following the course schedule. Students will also present and write a one-page report evaluating of two different visualizations, from well-known sources. *For assignments and visualization evaluations, students can optionally work in groups*. Detailed instructions will be made available following the evaluation schedule. We will use [GitHub Classroom](https://github.com/uic-cs424) for the projects.
+Assignment 1 will not involve any programming. Assignment 2 will use Python. For Assignments 3 and 4 the student will be able to choose between high-level grammars or Javascript / Typescript.
+
+Students will present their final assignments to the class, following the course schedule. Students will also write a one-page evaluating of two different visualizations, from well-known sources. *For assignments and visualization evaluations, students can optionally work in groups*. Detailed instructions will be made available following the evaluation schedule. We will use [GitHub Classroom](https://github.com/uic-cs424) for the projects.
 
 #### Participation
 
-This course includes a class participation grade that will take into consideration the student's contribution to a productive environment, either in the classroom, discord or office hours. Attendance is important, but **this is a subjective assessment**, and does not mean that the student needs to participate in *every* classroom discussion. It does mean, however, that they need to actively engage with the instructor or classmates in some capacity (classroom, discord, office hours, emails). **More importantly, rather than only penalize absences (by subtracting points), students will be rewarded for good attendance and participation.**
+This course includes a class participation grade that will take into consideration the student's contribution to a productive environment, either in the classroom, Piazza or office hours. Attendance is important, but this is a subjective assessment, and does not mean that the student needs to participate in *every* classroom discussion. It does mean that they need to actively engage with the instructor or classmates in some capacity (classroom, Piazza, office hours, emails). More importantly, rather than only penalize absences (by subtracting points), students will be rewarded for good attendance and participation.
 
 Students who struggle with the material and activities, but that take advantage of other opportunities provided (e.g., office hours, mentoring), can be successful in this course.
 
@@ -179,7 +223,7 @@ If the class mean is 75% or higher, letter grades will be based on a straight sc
   - Coordinated views
   - Observable
   - Due week 11
-- Assignment 3 / final project:
+- Assignment 4 / final project:
   - Web visualization interface
   - Due week 15
 - Vis critique presentation:
@@ -202,6 +246,7 @@ By submitting your assignments for grading you acknowledge these terms, you decl
 
 Our class (in person and online) will follow the [CS Code of Conduct](https://www.cs.uic.edu/~grad/CS_Code_of_Conduct.pdf).   If you are not adhering to our course norms, a case of behavior misconduct will be submitted to the Dean of Students and to the Director of Undergraduate Studies in the department of Computer Science.  If you are not adhering to our course norms, you will not get full credit for your work in this class.  For extreme cases of violating the course norms, credit for the course will not be given. 
 
+All the work you submit must be your own; you should not use paraphrasing software like (QuillBot), or AI software for writing (like ChatGPT), or any AI tool for content generation (spell-checkers are allowed) – unless explicitly allowed to do so. If in doubt about a specific tool, ask.
 
 ***
 
