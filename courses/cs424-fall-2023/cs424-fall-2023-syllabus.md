@@ -110,13 +110,13 @@ This schedule will be updated throughout the semester with links for slides and 
 - **Topic: Exploratory data analysis with computational notebooks**
 - Slides:  
 - Reading: [Perer and Schneiderman, 2008](https://dl.acm.org/doi/10.1145/1357054.1357101)  
-![Static Badge](https://img.shields.io/badge/Lab%20session%20(Thu)-2f8a70)
+![Static Badge](https://img.shields.io/badge/Lab%20session%201%20(Thu)-2f8a70)
 
 ###### Week 5 (Sep 18 - 22)
 - **Topic: Web technologies for visualization (JavaScript + D3 + Svelte.js)**
 - Slides:  
 - Reading:
-![Static Badge](https://img.shields.io/badge/Lab%20session%20(Thu)-2f8a70)
+![Static Badge](https://img.shields.io/badge/Lab%20session%202%20(Thu)-2f8a70)
 ![Static Badge](https://img.shields.io/badge/Assignment%201%20due-aa2721)
 ![Static Badge](https://img.shields.io/badge/Assignment%202%20released-2171b5)
 
@@ -124,13 +124,13 @@ This schedule will be updated throughout the semester with links for slides and 
 - **Topic: Interaction & multiple views**
 - Slides:  
 - Reading:
-![Static Badge](https://img.shields.io/badge/Lab%20session%20(Thu)-2f8a70)
+![Static Badge](https://img.shields.io/badge/Lab%20session%203%20(Thu)-2f8a70)
 
 ###### Week 7 (Oct 2 - 6)
 - **Topic: Grammars for visualization (Part 1)**
 - Slides:  
 - Reading:
-![Static Badge](https://img.shields.io/badge/Lab%20session%20(Thu)-2f8a70)
+![Static Badge](https://img.shields.io/badge/Lab%20session%204%20(Thu)-2f8a70)
 
 ###### Week 8 (Oct 9 - 13)
 - **Topic: Spatial visualization (Part 1)**
@@ -144,7 +144,7 @@ This schedule will be updated throughout the semester with links for slides and 
 - **Topic: Spatial visualization (Part 2)**
 - Slides:  
 - Reading:
-![Static Badge](https://img.shields.io/badge/Lab%20session%20(Thu)-2f8a70)
+![Static Badge](https://img.shields.io/badge/Lab%20session%205%20(Thu)-2f8a70)
   
 ###### Week 10 (Oct 23 - 27)
 - **Topic: Project updates**
@@ -163,7 +163,7 @@ This schedule will be updated throughout the semester with links for slides and 
 - **Topic: Grammars for visualization (Part 2)**
 - Slides:  
 - Reading:
-![Static Badge](https://img.shields.io/badge/Lab%20session%20(Thu)-2f8a70)
+![Static Badge](https://img.shields.io/badge/Lab%20session%206%20(Thu)-2f8a70)
 
 ###### Week 13 (Nov 13 - 17)
 - **Topic: Data management for visualization**
