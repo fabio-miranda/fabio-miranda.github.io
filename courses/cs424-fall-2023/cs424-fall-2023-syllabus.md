@@ -169,6 +169,7 @@ If the class mean is 75% or higher, letter grades will be based on a straight sc
 #### Evaluation Schedule
 - Assignment 1:
   - Visualization sketching
+  - [Link](assignment-1/)
   - Due week 5
 - Assignment 2:
   - Exploratory data analysis
