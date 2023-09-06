@@ -8,9 +8,9 @@ Course webpage: https://fmiranda.me/courses/cs424-fall-2023/
 
 ### Assignment 1: Sketching visualizations
 
-The goal of this assignment is to get you familiar with visualization sketching. You will have to present an overview of a dataset, discuss data questions and task abstractions, and sketch a few visualizations. Sketching your visualization, before delving too deep into the implementation of the visualization, will allow you to test your ideas early on. Your sketches will serve as the foundation for the visualizations that you will create in the subsequent assignments. The tasks require multiple iterations, so make sure you start early and appreciate the process of brainstorming and discussing ideas.
+The goal of this assignment is to get you familiar with visualization sketching. You will have to present an overview of a dataset, discuss data questions and task abstractions, and sketch a few visualizations. Sketching your visualization, before delving too deep into the implementation of the visualization, will allow you to test your ideas early on. Your sketches will serve as the foundation for the visualizations that you will create in the subsequent assignments. The tasks require multiple iterations, so make sure you start early and appreciate the process of brainstorming and discussing ideas. Make sure to go over the resources listed at the end of this document.
 
-This assignment contains six tasks (including an initial task). For tasks 1 through 5, you should write your answers in a single a [markdown document](https://www.markdownguide.org/getting-started/). We will use GitHub to manage the deliverable. You should create a repository for your team on GitHub Classroom (see Piazza for the invitation link).
+This assignment contains six tasks (including an initial task). For tasks 1 through 5, you should write your answers and sketches in a single a [markdown document](https://www.markdownguide.org/getting-started/). We will use GitHub to manage the deliverable. You should create a repository for your team on GitHub Classroom (see Piazza for the invitation link).
 
 ---
 
@@ -54,7 +54,7 @@ Translate the domain-specific questions to abstract tasks. For each question, id
 
 Design four different visualization sketches *per group member*. Each domain question should be covered by at least two visualization sketches. For each visualization sketch, write a paragraph detailing its main idea, the rationale behind your design decisions (What was the motivation behind the sketch? What worked well and what didn't work so well?).
 
-In this task, brainstorm within your group potential visualizations that you think are effective in answering the questions. Ensure the diversity of the visualization sketches -- it is not enough to come up with a series of bar charts (even if they use different attributes), make sure the visualizations are fundamentally different. If you end up with variations of the same idea, think of alternatives and refine your approach.
+In this task, brainstorm within your group potential visualizations that you think are effective in answering the questions. Ensure the diversity of the visualization sketches -- it is not enough to come up with a series of well-known bar charts, line charts, etc. (even if they use different attributes), make sure the visualizations are fundamentally different. If you end up with variations of the same idea, think of alternatives and refine your approach.
 
 In this assignment, do not use any tool or library to visualize the data. You are expected to create *hand-drawn* sketches. However, that does not mean that you should hand in an unstructured set of sketches, without reason or rhyme. The process of sketching visualizations is an iterative one, but the submitted document should be readable and provide a clear view of your creation process.
 
@@ -95,3 +95,5 @@ Your submission will be graded according to three components:
 
 * [How to Sketch, Doodle, and Draw Data Visualization Drafts by Hand](https://depictdatastudio.com/how-to-sketch-doodle-and-draw-data-visualization-drafts-by-hand/)
 * [Sketching with Data Opens the Mind's Eye](https://medium.com/accurat-in-sight/sketching-with-data-opens-the-mind-s-eye-92d78554565)
+* [A Tour through the Visualization Zoo: A survey of powerful visualization techniques, from the obvious to the obscure](https://dl.acm.org/doi/10.1145/1794514.1805128)
+* [From data to Viz](https://www.data-to-viz.com/)
