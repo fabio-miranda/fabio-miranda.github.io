@@ -1,54 +1,66 @@
 {
     "Open Source Projects": {
         "1": {
+            "title": "The Urban Toolkit",
+            "text": "Grammar-based framework for urban visual analytics.",
+            "where": "github",
+            "more": "http://urbantk.org"
+        },
+        "4": {
             "title": "CitySurfaces",
             "text": "CitySurfaces ML model.",
             "where": "github",
             "more": "https://github.com/VIDA-NYU/city-surfaces"
         },
-        "2": {
+        "3": {
             "title": "Learning Geo-Contextual Embeddings for Commuting Flow Prediction",
             "text": "Open-source version of GMEL paper.",
             "where": "github",
             "more": "https://github.com/jackmiemie/GMEL"
         },
-        "3": {
+        "5": {
             "title": "New York City Shadow Data",
             "text": "Shadow data for New York City, also used by The New York Times.",
             "where": "github",
             "more": "https://github.com/VIDA-NYU/shadow-accrual-maps"
         },
-        "4": {
+        "6": {
             "title": "Urban Pulse",
             "text": "Open-source version of Urban Pulse paper.",
             "where": "github",
             "more": "https://github.com/VIDA-NYU/urban-pulse"
         },
-        "5": {
+        "7": {
             "title": "BusExplorer",
             "text": "Open-source tool for the exploration of a large data set with bus tracking pings.",
             "where": "github",
             "more": "https://github.com/VIDA-NYU/BusExplorer"
+        },
+        "2": {
+            "title": "tile2net",
+            "text": "tile2net footpath extraction model.",
+            "where": "github",
+            "more": "https://github.com/VIDA-NYU/tile2net"
         }
     },
     "Others": {
         "1": {
+            "title": "csv-to-influxdb",
+            "text": "Simple python script that inserts data points read from a csv file into a influxdb database.",
+            "where": "github",
+            "more": "https://github.com/fabio-miranda/csv-to-influxdb"
+        },
+        "2": {
             "title": "Line Arrange",
             "text": "Interactive visualization to show steps of line arrangement algorithm.",
             "where": "github",
             "more": "https://github.com/fabio-miranda/LineArrangement"
         },
-        "2": {
+        "3": {
             "title": "Heatmap GL",
             "text": "Simple heatmap visualization using WebGL, with support for spatiotemporal point data.",
             "where": "github",
             "more": "https://github.com/fabio-miranda/heatmapGL"
-        },
-        "3": {
-            "title": "csv-to-influxdb",
-            "text": "Simple python script that inserts data points read from a csv file into a influxdb database.",
-            "where": "github",
-            "more": "https://github.com/fabio-miranda/csv-to-influxdb"
         },
         "4": {
             "title": "Color Gamut Visualization",

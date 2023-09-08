@@ -1,32 +1,32 @@
 {
     "Research Highlights": {
         "1": {
-            "title": "3D Urban Analytics",
-            "authors": "Mota et al.",
-            "teaser": "urban-3d/urban-3d.png",
-            "where": ["IEEE VIS 2022"],
-            "more": ["publications/pdfs/3D_urban_vis_Vis2022.pdf"]
+            "title": "The Urban Toolkit",
+            "authors": "Moreira et al.",
+            "teaser": "utk.jpg",
+            "where": ["IEEE VIS 2023"],
+            "more": ["publications/pdfs/utk.pdf"]
         },
         "2": {
-            "title": "CitySurfaces",
-            "authors": "Hosseini et al.",
-            "teaser": "citysurfaces/citysurfaces.png",
-            "where": ["Sustainable Cities and Society (2022)"],
-            "more": ["publications/pdfs/citysurfaces_2022.pdf"]
+            "title": "ProWis",
+            "authors": "de Souza et al.",
+            "teaser": "prowis.png",
+            "where": ["IEEE VIS 2023"],
+            "more": ["publications/pdfs/prowis.pdf"]
         },
         "3": {
-            "title": "Shadow Accrual Maps",
-            "authors": "Miranda et al.",
+            "title": "3D Urban Analytics",
+            "authors": "Mota et al., Miranda et al.",
             "teaser": "shadow-accrual-maps/shadow-accrual-maps-teaser.png",
-            "where": ["IEEE TVCG 2019"],
-            "more": ["publications/shadow-accrual-maps/tvcg-2018-shadowaccrualmaps.pdf"]
+            "where": ["IEEE VIS 2022", "IEEE TVCG 2019"],
+            "more": ["publications/pdfs/3D_urban_vis_Vis2022.pdf", "publications/shadow-accrual-maps/tvcg-2018-shadowaccrualmaps.pdf"]
         },
         "4": {
-            "title": "Urban Mosaic",
-            "authors": "Miranda et al.",
-            "teaser": "urban-mosaic/urban-mosaic-teaser.png",
-            "where": ["CHI 2020"],
-            "more": ["publications/urban-mosaic/chi-2020-urban-mosaic.pdf"]
+            "title": "tile2net + CitySurfaces",
+            "authors": "Hosseini et al., Hosseini et al.",
+            "teaser": "citysurfaces/citysurfaces.png",
+            "where": ["Computers, Environment and Urban Systems (2023)", "Sustainable Cities and Society (2022)"],
+            "more": ["publications/pdfs/tile2net.pdf", "publications/pdfs/citysurfaces_2022.pdf"]
         }
     }
 }

@@ -4,6 +4,8 @@ The analysis of large and complex data is usually an exploratory process in whic
 
 On this page you will find information about my research, the city of Chicago, the University of Illinois at Chicago, and open positions.
 
+**This page is slightly outdated. For the latest on my research, please check my [latest publications](../publications/).**
+
 <img src="overview.png" alt="Visual Analytics Systems" title="Visual Analytics Systems" width="100%">
 <br />
 <br />

@@ -1,25 +1,19 @@
 {
 	"Research Currently in Progress": [
 		{
-            "text": "Visualization of Probability Distributions of Geographical Data"
+            "text": "Urban visual analytics"
         },
         {
-            "text": "Interactive Exploration of Large Image Databases"
+            "text": "Visual analytics for climate sciences"
         },
         {
-            "text": "Automatic Assessment of Sidewalk Quality from Street-level Images"
+            "text": "3D environment navigation"
         },
         {
-            "text": "Urban Navigation in Virtual Reality"
+            "text": "Community-based visualization for environmental justice"
         },
         {
-            "text": "Interactive Profiling of City Land Use Evolution"
-        },
-        {
-            "text": "Visual Data Exploration through User-Steerable Projections"
-        },
-        {
-            "text": "Commuting Trip Distribution Modeling using Graph Neural Network"
+            "text": "Machine learning approaches for urban accessibility"
         }
     ]
 }

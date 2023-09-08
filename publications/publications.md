@@ -11,7 +11,7 @@
 &emsp;C.V.F. de Souza, S.M. Bonnet, D. de Oliveira, M. Cataldi, F. Miranda, M. Lage<br>
 &emsp;IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2023)<br>
 &emsp;[[Arxiv](https://doi.org/10.48550/arXiv.2308.05019)]<br>
-&emsp;Best Paper Honorable Mention Award ([link](https://sigmod.org/sigmod-awards/sigmod-best-demonstration-award/))
+&emsp;🏆 Best Paper Honorable Mention Award ([link](https://ieeevis.org/year/2023/info/awards/best-paper-awards))
 
 **Environmental Justice through Community-Policy Participatory Partnerships**<br>
 &emsp;P. A. Boda, F. Fusi, F. Miranda, G. J. M. Palmer, J. Flax-Hatch, M. Siciliano, A. Sambanis, L. Johnson, S. Derrible, M. Cailas<br>
@@ -179,7 +179,7 @@
 &emsp;*2018 ACM SIGMOD Intl. Conf. on Management of Data - Demo*<br>
 &emsp; [[DOI](https://doi.org/10.1145/3183713.3193559)] &#x2022;
 [[PDF](raster-join-demo/sigmod-2018-demo-raster-join.pdf)]<br>
-&emsp;SIGMOD 2018 Best Demonstration Award ([link](https://sigmod.org/sigmod-awards/sigmod-best-demonstration-award/))
+&emsp;🏆 SIGMOD 2018 Best Demonstration Award ([link](https://sigmod.org/sigmod-awards/sigmod-best-demonstration-award/))
 
 **Spatio-Temporal Urban Data Analysis: A Visual Analytics Perspective**<br>
 &emsp;H. Doraiswamy, J. Freire, M. Lage, F. Miranda, C. T. Silva<br>

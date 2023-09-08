@@ -56,7 +56,7 @@ Design four different visualization sketches *per group member*. Each domain que
 
 In this task, brainstorm within your group potential visualizations that you think are effective in answering the questions. Ensure the diversity of the visualization sketches -- it is not enough to come up with a series of well-known bar charts, line charts, etc. (even if they use different attributes), make sure the visualizations are fundamentally different. If you end up with variations of the same idea, think of alternatives and refine your approach.
 
-In this assignment, do not use any tool or library to visualize the data. You are expected to create *hand-drawn* sketches. However, that does not mean that you should hand in an unstructured set of sketches, without reason or rhyme. The process of sketching visualizations is an iterative one, but the submitted document should be readable and provide a clear view of your creation process.
+In this assignment, do not use any tool or library to visualize the data. You are expected to create *hand-drawn* sketches. However, that does not mean that you should hand in an unstructured set of sketches, without reason or rhyme. Even though the process of sketching visualizations is an iterative one, the submitted document should be readable and provide a clear view of your creation process.
 
 #### Task 5: Summarizing
 
