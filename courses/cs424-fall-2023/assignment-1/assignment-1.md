@@ -52,7 +52,7 @@ Translate the domain-specific questions to abstract tasks. For each question, id
 
 #### Task 4: Visualization sketches
 
-Design four different visualization sketches *per group member*. Each domain question should be covered by at least two visualization sketches. For each visualization sketch, write a paragraph detailing its main idea, the rationale behind your design decisions (What was the motivation behind the sketch? What worked well and what didn't work so well?).
+Design 8 to 16 different visualization sketches (8 for groups with one member, 12 for groups with two members and 16 otherwise). Each domain question should be covered by at least two visualization sketches. For each visualization sketch, write a paragraph detailing its main idea, the rationale behind your design decisions (What was the motivation behind the sketch? What worked well and what didn't work so well?).
 
 In this task, brainstorm within your group potential visualizations that you think are effective in answering the questions. Ensure the diversity of the visualization sketches -- it is not enough to come up with a series of well-known bar charts, line charts, etc. (even if they use different attributes), make sure the visualizations are fundamentally different. If you end up with variations of the same idea, think of alternatives and refine your approach.
 
