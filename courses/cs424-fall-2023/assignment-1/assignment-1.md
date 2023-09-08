@@ -10,7 +10,9 @@ Course webpage: https://fmiranda.me/courses/cs424-fall-2023/
 
 The goal of this assignment is to get you familiar with visualization sketching. You will have to present an overview of a dataset, discuss data questions and task abstractions, and sketch a few visualizations. Sketching your visualization, before delving too deep into the implementation of the visualization, will allow you to test your ideas early on. Your sketches will serve as the foundation for the visualizations that you will create in the subsequent assignments. The tasks require multiple iterations, so make sure you start early and appreciate the process of brainstorming and discussing ideas. Make sure to go over the resources listed at the end of this document.
 
-This assignment contains six tasks (including an initial task). For tasks 1 through 5, you should write your answers and sketches in a single a [markdown document](https://www.markdownguide.org/getting-started/). We will use GitHub to manage the deliverable. You should create a repository for your team on GitHub Classroom (see Piazza for the invitation link).
+This assignment contains six tasks (including an initial task). For tasks 1 through 5, you should write your answers and sketches in a single a [markdown document](https://www.markdownguide.org/getting-started/). Throughout the tasks, you should keep in mind that one of the objectives of sketching is to decouple the design of the visualizations from their implementation. In doing so, you should feel free to explore the design space without being concerned with (and limited by) implementation considerations.
+
+We will use GitHub to manage the deliverable. You should create a repository for your team on GitHub Classroom (see Piazza for the invitation link).
 
 ---
 
