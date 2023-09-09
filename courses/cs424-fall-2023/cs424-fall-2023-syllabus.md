@@ -153,14 +153,14 @@ This schedule will be updated throughout the semester with links for slides and 
 ![Static Badge](https://img.shields.io/badge/Online%20(Zoom)-2f8a70)
 
 ###### Week 11 (Oct 30 - Nov 3)
-- **Topic: Visual analytics systems -- integrating visualization and analytics (invited talks)**
+- **Topic: Grammars for visualization (Part 2)**
 - Slides:  
 - Reading:
 ![Static Badge](https://img.shields.io/badge/Assignment%203%20due-aa2721)
 ![Static Badge](https://img.shields.io/badge/Assignment%204%20released-2171b5)
 
 ###### Week 12 (Nov 6 - 10)
-- **Topic: Grammars for visualization (Part 2)**
+- **Topic: Visual analytics systems -- integrating visualization and analytics (invited talks)**
 - Slides:  
 - Reading:
 ![Static Badge](https://img.shields.io/badge/Lab%20session%206%20(Thu)-2f8a70)
