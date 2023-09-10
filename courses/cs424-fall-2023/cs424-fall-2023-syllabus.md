@@ -206,7 +206,7 @@ This course includes a class participation grade that will take into considerati
 Students who struggle with the material and activities, but that take advantage of other opportunities provided (e.g., office hours, mentoring), can be successful in this course.
 
 #### Letter Grades
-If the class mean is 75% or higher, letter grades will be based on a straight scale using the following thresholds for grade cut-offs: A range from 90-100%, B range from 80-89.9%, C range from 70-79.9%, D range from 60-69.9%, and F given to 59.9% or lower. If the class mean is lower than 75%, the scale will be adjusted to compensate (e.g. 89% may become an A). 
+Letter grades will be based on a straight scale using the following thresholds for grade cut-offs: A range from 90-100%, B range from 80-89.9%, C range from 70-79.9%, D range from 60-69.9%, and F given to 59.9% or lower.
 
 **Under no circumstances will grades be adjusted down**. You can use this straight grading scale as an indicator of your minimum grade in the course at any time during the course. You should keep track of your own points so that at any time during the semester you may calculate your minimum grade based on the total number of points possible at that particular time. If and when, for any reason, you have concerns about your grade in the course, please email me to schedule a time for you to speak with me or your TA so that we can discuss study techniques or alternative strategies to help you.
 
