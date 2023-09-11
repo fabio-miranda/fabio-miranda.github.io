@@ -109,7 +109,7 @@ This schedule will be updated throughout the semester with links for slides and 
 ###### Week 4 (Sep 11 - 15)
 - **Topic: Data questions & transformations**
 - **Lab: Exploratory data analysis with Jupyter Notebook**
-- Slides: [Data questions & transformations](https://fmiranda.me/courses/cs424-slides/05-data-questions.pdf)
+- Slides: [Data questions & transformations](https://fmiranda.me/courses/cs424-slides/06-data-questions.pdf)
 - Reading: [Heer et al., 2010](https://dl.acm.org/doi/10.1145/1794514.1805128), [Perer and Schneiderman, 2008](https://dl.acm.org/doi/10.1145/1357054.1357101)  
 ![Static Badge](https://img.shields.io/badge/Lab%20session%201%20(Thu)-2f8a70)
 
