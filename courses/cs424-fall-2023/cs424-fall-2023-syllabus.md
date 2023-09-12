@@ -121,6 +121,7 @@ This schedule will be updated throughout the semester with links for slides and 
 ![Static Badge](https://img.shields.io/badge/Lab%20session%202%20(Thu)-2f8a70)
 ![Static Badge](https://img.shields.io/badge/Assignment%201%20due-aa2721)
 ![Static Badge](https://img.shields.io/badge/Assignment%202%20released-2171b5)
+![Static Badge](https://img.shields.io/badge/Written%2critique%20released-2171b5)
 
 ###### Week 6 (Sep 25 - 29)
 - **Lab 1: Sketches evaluation**
