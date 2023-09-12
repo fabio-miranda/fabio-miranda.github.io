@@ -123,18 +123,19 @@ This schedule will be updated throughout the semester with links for slides and 
 ![Static Badge](https://img.shields.io/badge/Assignment%202%20released-2171b5)
 
 ###### Week 6 (Sep 25 - 29)
-- **Topic: Visualization systems**
-- **Lab: Web technologies for visualization**
+- **Lab 1: Sketches evaluation**
+- **Lab 2: Web technologies for visualization**
 - Slides:  
 - Reading:
-![Static Badge](https://img.shields.io/badge/Lab%20session%203%20(Thu)-2f8a70)
+![Static Badge](https://img.shields.io/badge/Lab%20session%203%20(Tue)-2f8a70)
+![Static Badge](https://img.shields.io/badge/Lab%20session%204%20(Thu)-2f8a70)
 
 ###### Week 7 (Oct 2 - 6)
 - **Topic: Grammars for visualization (Part 1)**
 - **Lab: Visualization grammars**
 - Slides:  
 - Reading:
-![Static Badge](https://img.shields.io/badge/Lab%20session%204%20(Thu)-2f8a70)
+![Static Badge](https://img.shields.io/badge/Lab%20session%205%20(Thu)-2f8a70)
 
 ###### Week 8 (Oct 9 - 13)
 - **Topic: Grammars for visualization (Part 2)**
@@ -150,7 +151,7 @@ This schedule will be updated throughout the semester with links for slides and 
 - **Lab: Spatial visualization**
 - Slides:  
 - Reading:
-![Static Badge](https://img.shields.io/badge/Lab%20session%205%20(Thu)-2f8a70)
+![Static Badge](https://img.shields.io/badge/Lab%20session%206%20(Thu)-2f8a70)
   
 ###### Week 10 (Oct 23 - 27)
 - **Topic: Project updates**
@@ -168,10 +169,10 @@ This schedule will be updated throughout the semester with links for slides and 
 
 ###### Week 12 (Nov 6 - 10)
 - **Topic: Visual analytics systems -- integrating visualization and analytics (invited talks)**
-- **Lab: Visualization grammars**
+- **Lab: Visualization grammars for spatial visualization**
 - Slides:  
 - Reading:
-![Static Badge](https://img.shields.io/badge/Lab%20session%206%20(Thu)-2f8a70)
+![Static Badge](https://img.shields.io/badge/Lab%20session%207%20(Thu)-2f8a70)
 
 ###### Week 13 (Nov 13 - 17)
 - **Topic: Data management for visualization**
