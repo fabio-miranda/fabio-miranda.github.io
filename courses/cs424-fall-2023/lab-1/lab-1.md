@@ -77,7 +77,7 @@ df_soc.head() # display the first 5 rows
 ```
 
 ```python
-df_soc.head() # check all column names
+df_soc.columns # check all column names
 ```
 
 ```python
@@ -85,13 +85,13 @@ df_soc.describe() # summary statistics
 ```
 
 ```python
-df_soc.describe() # summary statistics for a specific column
+df_soc['Asia(%)'].describe()' # summary statistics for a specific column
 ```
 
 Using the loaded dataframes, you can easily perform data queries, such as finding the ZIP code with the highest percentage of foreign born population:
 
 ```python
-df_soc[df_soc['Foriegn Born Population(%)'] == df_soc['Foriegn Born Population(%)'].max()] 
+df_soc[df_soc['Foreign Born Population(%)'] == df_soc['Foreign Born Population(%)'].max()] 
 ```
 
 Or finding the ZIP codes with median housing value below than or equal to the mean, and population less than or equal to 30,000:
