@@ -108,15 +108,15 @@ This schedule will be updated throughout the semester with links for slides and 
 
 ###### Week 4 (Sep 11 - 15)
 - **Topic: Data questions & transformations**
-- **Lab: Exploratory data analysis with Jupyter Notebook** ([link](lab-1/))
-- Slides: [Data questions & transformations](https://fmiranda.me/courses/cs424-slides/06-data-questions.pdf), [Pandas & GeoPandas](https://fmiranda.me/courses/cs424-slides/04-pandas.pdf)
+- **Lab: Exploratory data analysis with Pandas** ([link](lab-1/))
+- Slides: [Data questions & transformations](https://fmiranda.me/courses/cs424-slides/06-data-questions.pdf), [Pandas](https://fmiranda.me/courses/cs424-slides/04-pandas.pdf)
 - Reading: [Heer et al., 2010](https://dl.acm.org/doi/10.1145/1794514.1805128), [Perer and Schneiderman, 2008](https://dl.acm.org/doi/10.1145/1357054.1357101)  
 ![Static Badge](https://img.shields.io/badge/Lab%20session%201%20(Thu)-2f8a70)
 
 ###### Week 5 (Sep 18 - 22)
 - **Topic: Interaction & multiple views**
-- **Lab: Web technologies for visualization**
-- Slides: [Interaction](https://fmiranda.me/courses/cs424-slides/07-interaction.pdf)
+- **Lab: Exploratory data analysis with GeoPandas** ([link](lab-2/))
+- Slides: [Interaction](https://fmiranda.me/courses/cs424-slides/07-interaction.pdf), [GeoPandas](https://fmiranda.me/courses/cs424-slides/05-geopandas.pdf)
 - Reading:
 ![Static Badge](https://img.shields.io/badge/Lab%20session%202%20(Thu)-2f8a70)
 ![Static Badge](https://img.shields.io/badge/Assignment%201%20due-aa2721)
@@ -242,9 +242,13 @@ Letter grades will be based on a straight scale using the following thresholds f
 
 #### Lab Schedule
 - Lab 1:
-  - Pandas & GeoPandas
+  - Exploratory data analysis with Pandas
   - [Link](lab-1)
   - Week 4
+- Lab 1:
+  - Exploratory data analysis with GeoPandas
+  - [Link](lab-2)
+  - Week 5
 
 #### Late Days
 Since students will need to present their projects to the class, it is very important that they are submitted by the deadlines, otherwise it will be difficult to schedule new presentation slots. If you are unable to complete a project by the deadline, a documented compelling excuse (such as illness, hospitalization) is required.

@@ -6,9 +6,9 @@ Course webpage: https://fmiranda.me/courses/cs424-fall-2023/
 
 ---
 
-### Lab 1: Visualizing data with GeoPandas and Matplotlib
+### Lab 1: Visualizing data with Pandas and Matplotlib
 
-The goal of this lab is to get you familiar with Anaconda, Jupyter Notebooks, GeoPandas, and Matplotlib. You will create a set of visualizations for exploratory data analysis. This lab will also provide an overview of common data transformation operations.
+The goal of this lab is to get you familiar with Anaconda, Jupyter Notebooks, Pandas, and Matplotlib. You will create a set of visualizations for exploratory data analysis. This lab will also provide an overview of common data transformation operations.
 
 The lab is divided into four main tasks: (1) setting up your environment, (2) loading data, (3) data cleaning, and (4) data transformations and creating visualizations to analyze temporal and spatial distributions, as well as correlation between attributes.
 
@@ -44,7 +44,7 @@ In this lab, we will rely on three datasets for Chicago:
 * [Sociodemographics data](chicago-sociodemographics.csv)
 * [ZIP code boundaries](boundaries-zipcode.geojson)
 
-Download the files to an appropriate folder. If you would like to check the answers, you can download the Jupyter notebook [here](lab-1.ipynb) (but try to do it by yourself first).
+Download the files to an appropriate folder. If you would like to check the answers, you can download the Jupyter notebook [here](lab-1.ipynb).
 
 #### Task 1: Loading the data and initial exploration
 
@@ -118,6 +118,10 @@ zipcodes = gdf['zipcode'].unique().tolist() # get a list of all zipcodes
 gdf.plot(figsize=(5,5), color='#756bb1', edgecolor='black')
 ```
 
+You should visualize something similar to:
+
+<img src="vis-1.jpg" alt="Visualization 1" width="100%"/>
+
 ##### Cleaning the data
 The COVID dataframe contains a number of issues that must be properly addressed. We should, at the very least:
 * Fill missing values with 0
@@ -173,51 +177,11 @@ ax1.tick_params(axis='both', which='major', labelsize=20)
 
 You should follow similar steps for the cases over time. In the end, you should have some similar to the following visualization:
 
-![Visualization 1](vis-1.png)
+<img src="vis-2.jpg" alt="Visualization 2" width="100%"/>
+
+![Visualization 1](vis-2.png)
 
 Pandas also gives you the ability to aggregate over different temporal resolutions using the `Grouper` function. For more information, see [here](https://pandas.pydata.org/docs/reference/api/pandas.Grouper.html).
-
-#### Visualization 2: Number of cases and deaths over space
-
-Similarly, to create a visualization with the number of cases and eaths over space, we need to perform three steps: (1) aggregate the measures of interest by ZIP code, (2) merge the aggregated data with sociodemographics data, and (3) merge the aggregated data with the dataframe specifying the ZIP code regions. We first need to aggregate the measures by ZIP code:
-
-```python
-df_agg_by_zip = df_covid[['cases', 'deaths', 'zipcode']]
-df_agg_by_zip = df_agg_by_zip.groupby(['zipcode']).sum()
-df_agg_by_zip = df_agg_by_zip.reset_index()
-```
-
-For analyses taking into account sociodemographics features, we can also [merge](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.merge.html) two dataframes: `df_agg_by_zip` just created and `df_soc` with the sociodemographics data. The merge operation leverages a common attribute / column (zipcode):
-
-```python
-# merge with socio-demographic data
-df_agg_by_zip = df_agg_by_zip.merge(df_soc, how='inner', on='zipcode')
-```
-
-We can merge two other dataframes: `df_agg_by_zip` and `gdf` (the GeoDataFrame that contains the ZIP code areas):
-
-```python
-gdf_merged = pd.merge(df_agg_by_zip, gdf, how='inner', on='zipcode')
-gdf_merged = gpd.GeoDataFrame(gdf_merged, crs="EPSG:4326", geometry='geometry')
-```
-
-Different from Panda's merge, the previous merge is a [spatial join](https://geopandas.org/en/stable/docs/user_guide/mergingdata.html) between dataframes. More specifically, a GeoDataFrame and a regular DataFrame. We can plot the resulting merge with:
-
-```python
-fig, ((ax1, ax2)) = plt.subplots(nrows=1, ncols=2, figsize=(40,50))
-
-ax1.set_title('Covid Case Rates in Chicago Neighborhoods', fontsize=24)
-gdf_merged.plot(column = 'cases_per_1000', ax=ax1, cmap='YlOrRd', legend=True, legend_kwds={'shrink': 0.3})
-```
-
-The result should be similar to the following image:
-
-![Visualization 1](vis-3.png)
-
-
-#### Visualization 3 (extra): Correlation between two attributes
-
-For this visualization, check the Jupyter notebook for the required steps and comments. It details the creation of four subplots, each displaying a scatter plot of a sociodemographic attribute against deaths per 1000 people. A regression line is fitted (in red) to visualize any trends. The red line in each plot represents the regression line.
 
 #### Resources
 
