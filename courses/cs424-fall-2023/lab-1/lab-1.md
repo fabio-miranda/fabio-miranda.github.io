@@ -64,6 +64,7 @@ from matplotlib import pyplot as plt
 ```
 
 And [load the data](https://geopandas.org/en/stable/docs/user_guide/io.html) using GeoPandas:
+
 ```python
 df_soc = pd.read_csv('chicago-sociodemographics.csv')
 df_covid = pd.read_csv('covid-cases-tests-deaths.csv')
@@ -95,6 +96,7 @@ df_soc[df_soc['Foreign Born Population(%)'] == df_soc['Foreign Born Population(%
 ```
 
 Or finding the ZIP codes with median housing value below than or equal to the mean, and population less than or equal to 30,000:
+
 ```python
 df_soc[(df_soc['Median housing value'] <= df_soc['Median housing value'].mean()) & (df_soc['Population'] <= 30000)][['zipcode', 'Median housing value', 'Population']] 
 ```

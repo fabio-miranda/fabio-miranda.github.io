@@ -8,6 +8,8 @@ function loadMarkdown(fileName, jumphash) {
 		if(jumphash != "") {
 			$(jumphash)[0].scrollIntoView()
 		}
+		if(typeof hljs != "undefined")
+			hljs.highlightAll();
 	})
 	.fail(function(jqxhr, textStatus, error){
 		var err = textStatus + ", " + error;
