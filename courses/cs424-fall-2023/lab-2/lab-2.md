@@ -53,7 +53,7 @@ gdf_merged.plot(column = 'cases_per_1000', ax=ax1, cmap='YlOrRd', legend=True, l
 
 The result should be similar to the following image:
 
-<img src="vis-3.jpg" alt="Visualization 3" width="100%"/>
+<img src="vis-3.png" alt="Visualization 3" width="100%"/>
 
 
 #### Visualization 2 (extra): Correlation between two attributes
@@ -62,7 +62,7 @@ For this visualization, check the Jupyter notebook for the required steps and co
 
 The result should be similar to the following image:
 
-<img src="vis-4.jpg" alt="Visualization 4" width="100%"/>
+<img src="vis-4.png" alt="Visualization 4" width="100%"/>
 
 #### Resources
 

@@ -120,7 +120,7 @@ gdf.plot(figsize=(5,5), color='#756bb1', edgecolor='black')
 
 You should visualize something similar to:
 
-<img src="vis-1.jpg" alt="Visualization 1" width="100%"/>
+<img src="vis-1.png" alt="Visualization 1" width="100%"/>
 
 ##### Cleaning the data
 The COVID dataframe contains a number of issues that must be properly addressed. We should, at the very least:
@@ -177,9 +177,7 @@ ax1.tick_params(axis='both', which='major', labelsize=20)
 
 You should follow similar steps for the cases over time. In the end, you should have some similar to the following visualization:
 
-<img src="vis-2.jpg" alt="Visualization 2" width="100%"/>
-
-![Visualization 1](vis-2.png)
+<img src="vis-2.png" alt="Visualization 2" width="100%"/>
 
 Pandas also gives you the ability to aggregate over different temporal resolutions using the `Grouper` function. For more information, see [here](https://pandas.pydata.org/docs/reference/api/pandas.Grouper.html).
 
@@ -188,4 +186,3 @@ Pandas also gives you the ability to aggregate over different temporal resolutio
 * [Conda cheatsheet](https://conda.io/projects/conda/en/latest/_downloads/843d9e0198f2a193a3484886fa28163c/conda-cheatsheet.pdf)
 * [Running Jupyter notebooks](https://docs.jupyter.org/en/latest/running.html)
 * [Panda merge](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.merge.html)
-* [GeoPandas merge](https://geopandas.org/en/stable/docs/user_guide/mergingdata.html)
