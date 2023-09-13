@@ -120,7 +120,7 @@ gdf.plot(figsize=(5,5), color='#756bb1', edgecolor='black')
 
 You should visualize something similar to:
 
-<img src="vis-1.png" alt="Visualization 1" width="100%"/>
+<img src="vis-1.png" alt="Visualization 1" width="50%"/>
 
 ##### Cleaning the data
 The COVID dataframe contains a number of issues that must be properly addressed. We should, at the very least:
