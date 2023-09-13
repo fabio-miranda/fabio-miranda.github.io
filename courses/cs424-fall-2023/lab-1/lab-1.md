@@ -24,7 +24,7 @@ First, follow this instructions to install [Anaconda](https://docs.anaconda.com/
 
 Now, you will need to use a command prompt or terminal to create environments and install packages. On Windows, this can be done either through the Anaconda Powershell Prompt (installed with Anaconda or Miniconda) or Git Bash (a bash alternative for Windows, check [here](https://gitforwindows.org/)). On Mac OSX or Linux, use the usual terminal.
 
-Open the appropriate command prompt in your operating system and type the following to create and activate a new [conda environment](https://docs.conda.io/projects/conda/en/latest/user-guide/concepts/environments.html) (named lab1 and using Python 3.9) for this lab:
+Open the appropriate command prompt in your operating system and type the following to create and activate a new [conda environment](https://docs.conda.io/projects/conda/en/latest/user-guide/concepts/environments.html) (named lab1 and using Python 3.8) for this lab:
 
 
 ```console
