@@ -108,8 +108,8 @@ This schedule will be updated throughout the semester with links for slides and 
 
 ###### Week 4 (Sep 11 - 15)
 - **Topic: Data questions & transformations**
-- **Lab: Exploratory data analysis with Jupyter Notebook**
-- Slides: [Data questions & transformations](https://fmiranda.me/courses/cs424-slides/06-data-questions.pdf)
+- **Lab: Exploratory data analysis with Jupyter Notebook** ([link](lab-1/))
+- Slides: [Data questions & transformations](https://fmiranda.me/courses/cs424-slides/06-data-questions.pdf), [Pandas & GeoPandas](https://fmiranda.me/courses/cs424-slides/04-pandas.pdf)
 - Reading: [Heer et al., 2010](https://dl.acm.org/doi/10.1145/1794514.1805128), [Perer and Schneiderman, 2008](https://dl.acm.org/doi/10.1145/1357054.1357101)  
 ![Static Badge](https://img.shields.io/badge/Lab%20session%201%20(Thu)-2f8a70)
 
@@ -240,6 +240,11 @@ Letter grades will be based on a straight scale using the following thresholds f
   - Written report.
   - Due week 8
 
+#### Lab Schedule
+- Lab 1:
+  - Pandas & GeoPandas
+  - [Link](lab-1)
+  - Week 4
 
 #### Late Days
 Since students will need to present their projects to the class, it is very important that they are submitted by the deadlines, otherwise it will be difficult to schedule new presentation slots. If you are unable to complete a project by the deadline, a documented compelling excuse (such as illness, hospitalization) is required.
