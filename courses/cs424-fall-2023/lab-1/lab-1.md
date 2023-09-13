@@ -20,7 +20,7 @@ The lab is divided into four main tasks: (1) setting up your environment, (2) lo
 
 For this lab, we will rely on the [Anaconda](https://www.anaconda.com/) (or [Miniconda](https://docs.conda.io/projects/miniconda/en/latest/#)) to manage Python packages. Feel free to use either Anaconda or Miniconda (see a discussion about this [here](https://docs.conda.io/projects/conda/en/stable/user-guide/install/download.html#anaconda-or-miniconda)).
 
-First, follow this instructions to install [Anaconda](https://docs.anaconda.com/free/anaconda/install/index.html). Alternatively, follow [this](https://docs.conda.io/projects/miniconda/en/latest/miniconda-install.html) instructions to install Miniconda.
+First, follow these instructions to install [Anaconda](https://docs.anaconda.com/free/anaconda/install/index.html). Alternatively, follow [these](https://docs.conda.io/projects/miniconda/en/latest/miniconda-install.html) instructions to install Miniconda.
 
 Now, you will need to use a command prompt or terminal to create environments and install packages. On Windows, this can be done either through the Anaconda Powershell Prompt (installed with Anaconda or Miniconda) or Git Bash (a bash alternative for Windows, check [here](https://gitforwindows.org/)). On Mac OSX or Linux, use the usual terminal.
 
