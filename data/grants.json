@@ -1,19 +1,18 @@
 {
-	"Grants": [
-	{
-	    "text": <b>NSF</b>: Research Infrastructure: MRI: Track 2 Acquisition of Data Observation and Computation Collaboratory (DOCC) (Total: $1,548,545), Co-PI"
-	},
-	{
-	    "text": <b>NSF</b>: Clean Energy and Equitable Transportation Solutions (CLEETS) (Total: $5,000,000), SP"
-	},
-        {
-            "text": "<b>IDOT</b>: Impact Measurement for At‑Grade Crossings Analysis and Prioritization (Total: $205,000), PI"
-        },
-        {
-            "text": "<b>NIH</b>: Data readiness for 'Perturbation training for enhancing stability for fall-risk reduction among stroke survivors' (Total: $300,000), Co-I."
-        },
-        {
-            "text": "<b>DPI</b>: PRESUR: Planning a Resilient and Equitable State Using Real‑time Data (Total: $125,000), Co-PI"
-        }
-    ]
+	"Grants": [{
+			"text": "<b>NSF</b>: Research Infrastructure: MRI: Track 2 Acquisition of Data Observation and Computation Collaboratory (DOCC) (Total: $1,548,545), Co-PI"
+		},
+		{
+			"text": "<b>NSF</b>: Clean Energy and Equitable Transportation Solutions (CLEETS) (Total: $5,000,000), SP"
+		},
+		{
+			"text": "<b>IDOT</b>: Impact Measurement for At‑Grade Crossings Analysis and Prioritization (Total: $205,000), PI"
+		},
+		{
+			"text": "<b>NIH</b>: Data readiness for 'Perturbation training for enhancing stability for fall-risk reduction among stroke survivors' (Total: $300,000), Co-I."
+		},
+		{
+			"text": "<b>DPI</b>: PRESUR: Planning a Resilient and Equitable State Using Real‑time Data (Total: $125,000), Co-PI"
+		}
+	]
 }
