@@ -7,7 +7,7 @@ Course webpage: https://fmiranda.me/courses/cs424-fall-2023/
 ---
 
 ### Assignment 2
-The goal of this project is to get you familiar with visual data exploration. We will use Pandas, GeoPandas and Jupyter to import, transform, visualize and analyze a dataset. Some of the operations you will need to perform in this exploratory process have been covered in the lectures, other operations have not. Please, familiarize yourself with GeoPandas' [documentation](https://geopandas.org/en/stable/docs.html). Also note that, depending on your selected dataset, you will need to also consider *other* datasets; the most straightforward case is if you want to perform a spatial aggregation over neighborhoods -- in this case you will also need a Shapefile (or GeoJSON) with the description of the shape neighborhoods.
+The goal of this project is to get you familiar with visual data exploration. We will use Pandas, GeoPandas and Jupyter to import, transform, visualize and analyze a dataset. If you would like to use other libraries, please reach out first. Some of the operations you will need to perform in this exploratory process have been covered in the lectures, other operations have not. Please, familiarize yourself with GeoPandas' [documentation](https://geopandas.org/en/stable/docs.html). Also note that, depending on your selected dataset, you will need to also consider *other* datasets; the most straightforward case is if you want to perform a spatial aggregation over neighborhoods -- in this case you will also need a Shapefile (or GeoJSON) with the description of the shape neighborhoods.
 
 We will use GitHub to manage code and documentation.
 
@@ -31,55 +31,70 @@ If you are using Windows, you can use [Git for Windows](https://gitforwindows.or
 We will provide a GitHub Classroom link for each assignment. Follow the link to create a repository. Use `git clone` to get a local copy of the newly created repository. After writing your code, you can push your modifications to the server using `git commit` followed by `git push`. For example, if your username is `uic-user`:
 
 ```
-git clone git@github.com:uic-vis/assignment-2-uic-user.git
+git clone git@github.com:uic-vis/assignment-2-group-name.git
 touch index.html
 git add README.md
 git commit -am "README.md file"
 git push
 ```
+---
 
-#### Task 0: Questions & data
+#### Task 1: Data importing & transformation
 
-In this task, you will need to identify a problem and formulate domain and data questions, following the example shown in class. Make sure that you have *at least* three data questions, with *at least* two of them covering three (or more) data attributes. The markdown documentation should cover the reasoning behind the questions and why you decided to select the attributes.
+To complete this task, you will need to complete at least three subtasks (depending of your data):
+
+* Load the data: Use Pandas and GeoPandas to load and view the data to have an initial idea of what it contains. For instance, what are the columns in the dataset? Is there a spatial or temporal component? What are the categorial and numerical columns? For each data point, if there are multiple categories, is there a specific one you want to focus? What is the spatial and temporal coverage of the dataset? Percentage of missing values? Depending of the size of the data, you will need to filter the data and only consider a more manageable subset (e.g., a month or a week, or a spatial region).
+
+* Profile the data: Compute interesting statistics from the dataset. For example: For a numerical column of interest, compute max, min, std. deviation, etc; For a categorical column, find the unique categories.
+
+* Clean the data: Remove data rows with NaN or missing values.
+
+These subtasks (as well as the next tasks) should be done inside one (or more) Jupyter notebooks.  Make sure your code is clear, with comments to clearly explain your reasoning behind the operations.
 
 ---
 
-#### Task 1: Data transformation
+#### Task 2: Data visualization & analytics
 
-Load the data using ObservableHQ (if the data is too large, select a subset of the data using Pandas). Transform the data in a way that enables you to answer the data questions previously identified. In other words, if you have a derived attributed (e.g., spatial aggregation, binning), make sure you are able to compute it. Just like Project 1, make sure to remove data rows with NaN or missing values.
+In this task, you will need to visualize attributes of interest of the dataset for exploratory data analysis. Select a set of visualizations that you sketched in the previous assignment for this exploratory data analysis. The visualizations should cover important aspects of the data, such as (but not limited to):
 
----
+* Time: If your dataset has a temporal attribute, aggregate and plot the data at a chosen level (e.g., days, weeks, months). If you don't notice any noticeable pattern, try a different aggregation level, or different subset of the data. Are there any trends? Outliers?
 
-#### Task 2: Visual encoding
+* Space: If your dataset has a spatial attribute, aggregate and plot the data at a chosen level (e.g., zip code, neighborhoods). Are there any outliers? Patterns?
 
-Based on the attributes identified in the previous task, create the most appropriate charts, following the steps shown in class. For each question you identified, create at least one chart that helps you answer the question. Make sure your plots avoid common problems, such as overplotting.
+* Space + Time: If the dataset contains both space and time, visualize both of these attributes. For instance, are temporal trends different when considering different regions?
 
----
+* Distributions: If your dataset has a numerical column, aggregate the data to compute distributions, considering potentially interesting spatial and temporal subsets of the data.
 
-#### Task 3: Interaction techniques
+* Comparison: Select two subsets of the data (e.g., two regions, two time ranges), and compare them.
 
-Create at least **two** *interactive* visualizations -- one using single view and another using multiple linked views, following the steps shown in class. Your visualization must be interactive -- for example, if selecting / brushing one (or multiple) data points, the other plots that compose the visualization should be updated, highlighting the appropriate *linked* data points. For each visualization, use a different interaction mechanism (i.e., manipulating the data, manipulating the visual mapping, manipulating the view) and method (i.e., aggregation, filtering, change mapping, selection, navigation, spatial arrangement).
+Even though there is no minimum number of visualizations for this task, you should *comprehensively* explore the dataset, and it is difficult to do so with just a handful of plots. Make sure you visualize multiple attributes (or combinations of attributes) of the dataset as well.
 
-Here is an *example* of one multiple linked views visualization with three linked scatterplots:
-
-![Example](example.gif)
 
 ---
 
-#### Task 4: Deliverables
+
+#### Deliverables
 
 In this project, there will be three deliverables:
 
-1) A [markdown document](https://www.markdownguide.org/getting-started/) (``.md``), with a clear description of the dataset, summarizing the most important points, questions, data transformations, encodings, interactions and initial findings. Make sure you explain *each* design choice, particularly the interaction ones. The document should have 500-800 words.
+1) A [markdown document](https://www.markdownguide.org/getting-started/) (``.md``), with a short description of the dataset and implemented visualizations, and derived insights. Again, there is no minimum number of visualizations for this assignment, you will be graded on whether the visualizations you implemented reasonably describe the most important aspects of the data. It is reasonable to assume that you won't be able to convey all the most important aspects of a dataset using only one visualization. However, it is also reasonable to assume that you won't need to implement 16 different visualizations to explore a dataset. **You should leverage your sketches as much as possible as a starting point for your visualizations**. The document should be uploaded to the root of your GitHub project, with the name README.md (so that it is displayed by default by GitHub).
 
-2) A ~5 minute presentation, presenting the dataset, questions, transformations, encodings, interactions, and findings. Make sure you explain *each* design choice, particularly the interaction ones. You should upload the presentation (``.pdf`` or ``.pptx``) to your github project.
+2) A ~5 minute presentation, presenting the dataset, questions, transformations, encodings, interactions, and findings. This presentation should be a combination of the outcomes from assignments 1 and 2. Ideally, you should present a clear path between visualization sketches, actual visualizations and insights. You should upload the presentation (``.pdf`` or ``.pptx``) to your github project.
 
-3) One or more Observable Notebooks, with each step of your exploratory process. Make sure it is *easily* reproducible and well documented, including both comments and plots.
+3) One or  more Jupyter Notebooks (``.ipynb``) at the root directory of your git project, with each step of your exploratory process. Make sure it is *easily* reproducible and well documented, including both comments and plots.
 
 ---
 
 #### Grading
 
-Your submission will be graded according to the quality and coverage of the results and presentation. You need to make sure that both your deliverables (presentation and documentation) and notebooks clearly show your findings. Visualizations need to be well constructed, with good color and font choices and proper labeling.
+Your submission will be graded according to the quality and coverage of the results and presentation. You need to make sure that both your deliverables (presentation and documentation) and notebooks clearly show your findings. Visualizations need to be well constructed, with good color and font choices and proper labeling. Your submission and presentation will be graded according to the following:
 
-To get a C on the assignment, you must complete tasks 0 and 1, at least two plots from task 2, and task 4. To get a B, you must complete tasks 0, 1, 2 and 4. To get an A on the assignment, you must complete all tasks.
+- Writeup:
+    - Excellent (A): your visualizations effectively cover the most important aspects of the data.
+    - Good (B): good visualizations, with minor problems.
+    - Poor (C): ineffective visualizations, poor description of the data and/or insights.
+
+- Presentation:
+    - Excellent (A): clearly described the data and the path between sketches and visualizations.
+    - Good (B): good description of the data and visualizations, but could be more detailed.
+    - Poor (C): missing or incomplete descriptions and / or visualizations.

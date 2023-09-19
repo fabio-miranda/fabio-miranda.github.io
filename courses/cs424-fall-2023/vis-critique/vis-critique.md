@@ -32,9 +32,9 @@ Based on what we have seen in class, you should critically evaluate the visualiz
 
 A visualization can be innefective considering different aspects, such as [poor use of scaling](https://blog.datawrapper.de/dualaxis/), poor use of channels (check *Expressiveness types and effectiveness ranks* slide, or [here](https://www.jstor.org/stable/2288400)). You can use the following general workflow to help in your critique:
 
-1 - Identify the purpose of the visualization, and the insights it is trying to convey.
-2 - Identify marks and channels, and what is potentially problematic with these choices.
-3 - Discuss how to use more effective marks and channels for the previously identified purposes and insights.
+1. Identify the purpose of the visualization, and the insights it is trying to convey.
+2. Identify marks and channels, and what is potentially problematic with these choices.
+3. Discuss how to use more effective marks and channels for the previously identified purposes and insights.
 
 #### Deliverables
 
