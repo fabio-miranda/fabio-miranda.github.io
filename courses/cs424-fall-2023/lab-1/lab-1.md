@@ -86,7 +86,7 @@ df_soc.describe() # summary statistics
 ```
 
 ```python
-df_soc['Asia(%)'].describe()' # summary statistics for a specific column
+df_soc['Asia(%)'].describe() # summary statistics for a specific column
 ```
 
 Using the loaded dataframes, you can easily perform data queries, such as finding the ZIP code with the highest percentage of foreign born population:
