@@ -228,6 +228,7 @@ Letter grades will be based on a straight scale using the following thresholds f
 - Assignment 2:
   - Exploratory data analysis
   - Jupyter
+  - [Link](assignment-2/)
   - Due week 8
 - Assignment 3:
   - Coordinated views
@@ -245,7 +246,7 @@ Letter grades will be based on a straight scale using the following thresholds f
   - Exploratory data analysis with Pandas
   - [Link](lab-1)
   - Week 4
-- Lab 1:
+- Lab 2:
   - Exploratory data analysis with GeoPandas
   - [Link](lab-2)
   - Week 5
