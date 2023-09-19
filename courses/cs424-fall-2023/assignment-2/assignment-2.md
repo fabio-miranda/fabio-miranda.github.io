@@ -13,7 +13,6 @@ We will use GitHub to manage code and documentation.
 
 ---
 
-
 #### Tasks
 
 You should leverage your assignment 1 outcomes to facilitate the tasks of assignment 2. If you think you need to modify any of your outcomes, feel free to do so. Make sure that you select appropriate domain and data questions.
@@ -81,7 +80,7 @@ In this project, there will be three deliverables:
 
 2) A ~5 minute presentation, presenting the dataset, questions, transformations, encodings, interactions, and findings. This presentation should be a combination of the outcomes from assignments 1 and 2. Ideally, you should present a clear path between visualization sketches, actual visualizations and insights. You should upload the presentation (``.pdf`` or ``.pptx``) to your github project.
 
-3) One or  more Jupyter Notebooks (``.ipynb``) at the root directory of your git project, with each step of your exploratory process. Make sure it is *easily* reproducible and well documented, including both comments and plots.
+3) One or more Jupyter notebooks (``.ipynb``) at the root directory of your git project, with each step of your exploratory process. Make sure it is *easily* reproducible and well documented, including both comments and plots.
 
 ---
 
