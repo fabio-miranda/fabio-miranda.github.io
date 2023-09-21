@@ -20,7 +20,7 @@ If you would like to check the answers, you can download the Jupyter notebook [h
 
 #### Visualization 1: Number of cases and deaths over space
 
-Similarly, to create a visualization with the number of cases and eaths over space, we need to perform three steps: (1) aggregate the measures of interest by ZIP code, (2) merge the aggregated data with sociodemographics data, and (3) merge the aggregated data with the dataframe specifying the ZIP code regions. We first need to aggregate the measures by ZIP code:
+Similarly, to create a visualization with the number of cases and deaths over space, we need to perform three steps: (1) aggregate the measures of interest by ZIP code, (2) merge the aggregated data with sociodemographics data, and (3) merge the aggregated data with the dataframe specifying the ZIP code regions. We first need to aggregate the measures by ZIP code:
 
 ```python
 df_agg_by_zip = df_covid[['cases', 'deaths', 'zipcode']]
@@ -33,6 +33,13 @@ For analyses taking into account sociodemographics features, we can also [merge]
 ```python
 # merge with socio-demographic data
 df_agg_by_zip = df_agg_by_zip.merge(df_soc, how='inner', on='zipcode')
+```
+
+And compute the cases and deaths per 1000:
+
+```python
+df_agg_by_zip['cases_per_1000'] = (df_agg_by_zip['cases'] / df_agg_by_zip['Population'] * 1000).round(0).astype(int)
+df_agg_by_zip['deaths_per_1000'] = (df_agg_by_zip['deaths'] / df_agg_by_zip['Population'] * 1000).round(0).astype(int)
 ```
 
 We can merge two other dataframes: `df_agg_by_zip` and `gdf` (the GeoDataFrame that contains the ZIP code areas):
