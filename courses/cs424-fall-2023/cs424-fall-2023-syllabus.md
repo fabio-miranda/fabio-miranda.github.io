@@ -126,7 +126,7 @@ This schedule will be updated throughout the semester with links for slides and 
 ###### Week 6 (Sep 25 - 29)
 - **Lab 1: Sketches evaluation**
 - **Lab 2: Web technologies for visualization**
-- Slides:  
+- Slides: [Javascript, D3](https://fmiranda.me/courses/cs424-slides/05-d3.pdf)
 - Reading:
 ![Static Badge](https://img.shields.io/badge/Lab%20session%203%20(Tue)-2f8a70)
 ![Static Badge](https://img.shields.io/badge/Lab%20session%204%20(Thu)-2f8a70)
