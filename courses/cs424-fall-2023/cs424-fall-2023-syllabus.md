@@ -117,7 +117,7 @@ This schedule will be updated throughout the semester with links for slides and 
 - **Topic: Interaction & multiple views**
 - **Lab: Exploratory data analysis with GeoPandas** ([link](lab-2/))
 - Slides: [Interaction](https://fmiranda.me/courses/cs424-slides/07-interaction.pdf), [GeoPandas](https://fmiranda.me/courses/cs424-slides/05-geopandas.pdf)
-- Reading:
+- Reading: [GeoPandas](https://geopandas.org/en/stable/getting_started.html)
 ![Static Badge](https://img.shields.io/badge/Lab%20session%202%20(Thu)-2f8a70)
 ![Static Badge](https://img.shields.io/badge/Assignment%201%20due-aa2721)
 ![Static Badge](https://img.shields.io/badge/Assignment%202%20released-2171b5)
@@ -127,15 +127,15 @@ This schedule will be updated throughout the semester with links for slides and 
 - **Lab 1: Sketches evaluation**
 - **Lab 2: Web technologies for visualization**
 - Slides: [Javascript, D3](https://fmiranda.me/courses/cs424-slides/05-d3.pdf)
-- Reading:
+- Reading: [D3 getting started](https://d3js.org/getting-started), [D3 paper](http://vis.stanford.edu/files/2011-D3-InfoVis.pdf)
 ![Static Badge](https://img.shields.io/badge/Lab%20session%203%20(Tue)-2f8a70)
 ![Static Badge](https://img.shields.io/badge/Lab%20session%204%20(Thu)-2f8a70)
 
 ###### Week 7 (Oct 2 - 6)
 - **Topic: Grammars for visualization (Part 1)**
 - **Lab: Visualization grammars**
-- Slides:  
-- Reading:
+- Slides: [Visualization grammars](https://fmiranda.me/courses/cs424-slides/06-vis-grammars.pdf)
+- Reading: [A Layered Grammar of Graphics](https://vita.had.co.nz/papers/layered-grammar.pdf), [The Grammar of Graphics](https://link.springer.com/book/10.1007/0-387-28695-0), [Vega-Lite](https://ieeexplore.ieee.org/abstract/document/7539624), [Intro to Vega-Lite](https://vega.github.io/vega-lite/tutorials/getting_started.html), [Survey](https://arxiv.org/pdf/2207.07998.pdf)
 ![Static Badge](https://img.shields.io/badge/Lab%20session%205%20(Thu)-2f8a70)
 
 ###### Week 8 (Oct 9 - 13)
