@@ -139,16 +139,15 @@ This schedule will be updated throughout the semester with links for slides and 
 ![Static Badge](https://img.shields.io/badge/Lab%20session%205%20(Thu)-2f8a70)
 
 ###### Week 8 (Oct 9 - 13)
-- **Topic: Grammars for visualization (Part 2)**
-- **Lab: Visualization grammars**
-- Slides:  
-- Reading:
+- **Topic: Spatial visualization (Part 1)**
+- Slides: [Spatial vis](https://fmiranda.me/courses/cs424-slides/08-spatial-vis.pdf)
+- Reading: [TaxiVis](https://ieeexplore.ieee.org/abstract/document/6634127)
 ![Static Badge](https://img.shields.io/badge/Written%20critique%20due%20-aa2721)
 ![Static Badge](https://img.shields.io/badge/Assignment%202%20due-aa2721)
 ![Static Badge](https://img.shields.io/badge/Assignment%203%20released-2171b5)
 
 ###### Week 9 (Oct 16 - 20)
-- **Topic: Spatial visualization (Part 1)**
+- **Topic: Spatial visualization (Part 2)**
 - **Lab: Spatial visualization**
 - Slides:  
 - Reading:
@@ -161,7 +160,7 @@ This schedule will be updated throughout the semester with links for slides and 
 ![Static Badge](https://img.shields.io/badge/Online%20(Zoom)-2f8a70)
 
 ###### Week 11 (Oct 30 - Nov 3)
-- **Topic: Spatial visualization (Part 2)**
+- **Topic: Grammars for visualization (Part 2)**
 - **Lab: Visualization grammars for spatial visualization**
 - Slides:  
 - Reading:
