@@ -13,18 +13,19 @@
     6. [Deliverables](#deliverables)
     7. [Format and Teaching Methods](#format-and-teaching-methods)
 3. [Course Schedule](#course-schedule)
-4. [Evaluation and Grading](#evaluation-and-grading)
+4. [Resources](#resources)
+5. [Evaluation and Grading](#evaluation-and-grading)
     1. [Grading Policy](#grading-policy)
     2. [Participation](#participation)
     3. [Letter Grades](#letter-grades)
     4. [Evaluation Schedule](#evaluation-schedule)
     5. [Late Days](#late-days)
-7. [Academic Integrity](#academic-integrity)
-8. [Inclusive Learning Environment](#inclusive-learning-environment)
-9. [Disability Accommodation Procedures](#disability-accomodation-procedures)
-10. [Religious Holidays](#religious-holidays)
-11. [Mental and Emotional Wellness](#mental-and-emotional-wellness)
-13. [Disclaimer](#disclaimer)
+6. [Academic Integrity](#academic-integrity)
+7. [Inclusive Learning Environment](#inclusive-learning-environment)
+8. [Disability Accommodation Procedures](#disability-accomodation-procedures)
+9. [Religious Holidays](#religious-holidays)
+10. [Mental and Emotional Wellness](#mental-and-emotional-wellness)
+11. [Disclaimer](#disclaimer)
 
 ### General Information
 
@@ -193,6 +194,44 @@ This schedule will be updated throughout the semester with links for slides and 
 
 ***
 
+### Resources
+
+The assignments of this course require the design and implementation of web-based visualizations. Feel free to use the links below to familiarize yourself with common tools and languages.
+
+- Visualization programming toolkits
+  - [D3](http://mbostock.github.com/d3): JavaScript library for data-driven DOM manipulation.
+  - [Vega](http://vega.github.io/vega): Declarative language for visualizations.
+  - [Vega-Lite](http://vega.github.io/vega-lite): High-level visualization grammar.
+  - [VTK](http://www.vtk.org/): scientific visualization toolkit.
+
+- HTML, CSS
+  - MDN Web Docs: [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+  - [HTML in 12 Minutes](https://www.youtube.com/watch?v=bWPMSSsVdPk)
+  - [CSS in 12 Minutes](https://www.youtube.com/watch?v=1PnVor36_40)
+
+- JavaScript and TypeScript
+  - [Learn JavaScript in 12 Minutes](https://www.youtube.com/watch?v=Ukg_U3CnJWI)
+  - [Eloquent JavaScript](https://eloquentjavascript.net/)
+  - [Mozilla JavaScript tutorial](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  - [JavaScript Crash Course](https://www.w3resource.com/course/javascript-course.html#/slide-instructions)
+
+- Web development tools
+  - [Visual Studio Code](https://code.visualstudio.com/)
+  - [Sublime Text](https://www.sublimetext.com/)
+  - [Git for Windows](https://gitforwindows.org/)
+  - [Homebrew](https://brew.sh/)
+
+- Git and GitHub
+  - [Git documentation](https://git-scm.com/doc)
+  - [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)
+  - [GitHub tutorial](https://docs.github.com/en/get-started/quickstart/hello-world)
+
+- Color resources
+  - [Color Brewer](http://colorbrewer2.org/)
+
+
+***
+
 ### Evaluation and Grading
 #### Grading Policy
 - Assignment 1: 15%
@@ -231,7 +270,8 @@ Letter grades will be based on a straight scale using the following thresholds f
   - Due week 8
 - Assignment 3:
   - Coordinated views
-  - Observable
+  - Vega-Lite
+  - [Link](assignment-3)
   - Due week 11
 - Assignment 4 / final project:
   - Web visualization interface
