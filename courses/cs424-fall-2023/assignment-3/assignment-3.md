@@ -60,4 +60,4 @@ Your submission will be graded according to the quality and coverage of the resu
 
 Points will be deducted if your visualizations suffer from errors or broken features, overly simplistic designs, incomplete write-up.
 
-If you decide to link the spatial view with the views from the previous tasks, you will get 5 extra points in the assignment. If you decide to do task 4, you will get 10 extra points.
+If you decide to link the spatial view with the views from the previous tasks, you will get 5 extra points in the assignment. If you decide to do task 4, you will get 5 extra points.
