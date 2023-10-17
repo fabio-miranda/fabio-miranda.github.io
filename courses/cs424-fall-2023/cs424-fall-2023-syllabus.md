@@ -150,7 +150,7 @@ This schedule will be updated throughout the semester with links for slides and 
 ###### Week 9 (Oct 16 - 20)
 - **Topic: Spatial visualization (Part 2)**
 - **Lab: Spatial visualization**
-- Slides:  
+- Slides: [Uncertainty vis](https://fmiranda.me/courses/cs424-slides/09-uncertainty.pdf)
 - Reading:
 ![Static Badge](https://img.shields.io/badge/Lab%20session%206%20(Thu)-2f8a70)
   
