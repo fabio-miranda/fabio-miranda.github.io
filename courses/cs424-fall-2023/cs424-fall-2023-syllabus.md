@@ -148,7 +148,7 @@ This schedule will be updated throughout the semester with links for slides and 
 ![Static Badge](https://img.shields.io/badge/Assignment%203%20released-2171b5)
 
 ###### Week 9 (Oct 16 - 20)
-- **Topic: Spatial visualization (Part 2)**
+- **Topic: Uncertainty visualization**
 - **Lab: Spatial visualization**
 - Slides: [Uncertainty vis](https://fmiranda.me/courses/cs424-slides/09-uncertainty.pdf)
 - Reading:
@@ -156,15 +156,12 @@ This schedule will be updated throughout the semester with links for slides and 
   
 ###### Week 10 (Oct 23 - 27)
 - **Topic: Project updates**
-- Slides:  
-- Reading:
 ![Static Badge](https://img.shields.io/badge/Online%20(Zoom)-2f8a70)
 
 ###### Week 11 (Oct 30 - Nov 3)
-- **Topic: Grammars for visualization (Part 2)**
-- **Lab: Visualization grammars for spatial visualization**
-- Slides:  
-- Reading:
+- **Topic: Spatial visualization (Part 2)**
+- Slides: [Advanced spatial visualization](https://fmiranda.me/courses/cs424-slides/09-advanced-spatial-vis.pdf)
+- Reading: [The Urban Toolkit](https://arxiv.org/abs/2308.07769), [Grammar tutorial](https://fmiranda.me/publications/pdfs/grammars.pdf)
 ![Static Badge](https://img.shields.io/badge/Assignment%203%20due-aa2721)
 ![Static Badge](https://img.shields.io/badge/Assignment%204%20released-2171b5)
 
