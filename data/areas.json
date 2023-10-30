@@ -3,8 +3,8 @@
         "1": {
             "title": "Urban visual analytics",
             "text": "Visual analytics tools and techniques that empower domain experts to investigate important issues facing cities today.",
-            "where": ["IEEE VIS 2023", "IEEE VIS 2022", "IEEE TVCG 2021", "IEEE TVCG 2019", "SIGMOD 2018", "CGA 2018"],
-            "more": ["publications/pdfs/utk.pdf", "publications/pdfs/3D_urban_vis_Vis2022.pdf", "publications/urbanrama/urbanrama.pdf", "publications/shadow-accrual-maps/tvcg-2018-shadowaccrualmaps.pdf", "publications/raster-join-demo/sigmod-2018-demo-raster-join.pdf", "publications/spatio-temporal/spatio-temporal.pdf"]
+            "where": ["IEEE VIS 2023", "Sibgrapi 2023", "Sibgrapi 2023", "IEEE VIS 2022", "IEEE TVCG 2021", "IEEE TVCG 2019", "SIGMOD 2018", "CGA 2018"],
+            "more": ["publications/pdfs/utk.pdf", "publications/pdfs/pluto.pdf", "publications/pdfs/va-heterogeneous-data.pdf", "publications/pdfs/3D_urban_vis_Vis2022.pdf", "publications/urbanrama/urbanrama.pdf", "publications/shadow-accrual-maps/tvcg-2018-shadowaccrualmaps.pdf", "publications/raster-join-demo/sigmod-2018-demo-raster-join.pdf", "publications/spatio-temporal/spatio-temporal.pdf"]
         },
         "2": {
             "title": "Provenance-aware visual analytics for weather & disaster management",

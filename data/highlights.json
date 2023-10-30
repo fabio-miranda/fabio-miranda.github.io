@@ -4,8 +4,8 @@
             "title": "The Urban Toolkit",
             "authors": "Moreira et al.",
             "teaser": "utk.jpg",
-            "where": ["IEEE VIS 2023"],
-            "more": ["publications/pdfs/utk.pdf"]
+            "where": ["IEEE VIS 2023", "Sibgrapi 2023"],
+            "more": ["publications/pdfs/utk.pdf", "publications/pdfs/grammars.pdf"]
         },
         "2": {
             "title": "ProWis",
