@@ -47,6 +47,8 @@ Following the steps outlined [here](https://vega.github.io/vega-lite/usage/embed
 
 Notice that the example provided in the template loads raw data from HTTP addresses. However, depending on your data, that might not be feasible, as you might need to access preprocessed data files instead.
 
+For a list of useful resources, click [here](https://fmiranda.me/courses/cs424-fall-2023/#resources).
+
 #### Task 2: Preprocess and host data files
 
 Given the size of your data, you should not expect that Vega-lite will support your raw data. Instead, you might need to preprocess the file and save *visualization appropriate* data files. By *visualization appropriate*, I mean data that only contains attributes and aggregations that will be used in the visualization. Based on your previous assignments, store the precomputed data (either as JSON or CSV files) in a folder that is served by your local server.
