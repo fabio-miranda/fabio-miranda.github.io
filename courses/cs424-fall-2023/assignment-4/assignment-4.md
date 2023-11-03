@@ -74,6 +74,7 @@ Select a web hosting service and make yourself familiar with the steps needed in
 
 Now that you have created Vega-lite visualizations, explore the possibility of migrating them to the [UTK framework](http://urbantk.org). As a starting point, check the [quick start guide](http://urbantk.org/getting-started/) and [tutorials](http://urbantk.org/home-tutorials/). For 5 extra points in the assignment, you should successfully (1) load your data or a subset of it into UTK, (2) create a map-based visualization, and (3) create a linked 2D visualization within the environment using Vega-lite. If you are not able to create new visualizations using UTK, you can simply write the steps (and errors) encountered in the process. You do not need to upload your UTK-based visualizations to the web hosting service; instead, simply add your screenshots (and JSON specifications) to the GitHub.
 
+---
 
 #### Deliverables
 
@@ -98,6 +99,11 @@ Your submission will be graded according to the quality and coverage of the resu
 - Visualizations:
     - Excellent (A): well-rounded and thoughtful visualizations, clear description.
     - Good (B): good description of the visualizations but could be more detailed.
+    - Poor (C): missing or incomplete descriptions and / or visualizations.
+
+- Presentation:
+    - Excellent (A): clearly described the data and the path between sketches and visualizations, good discussion regarding design decisions.
+    - Good (B): good description of the data and visualizations, but could be more detailed.
     - Poor (C): missing or incomplete descriptions and / or visualizations.
 
 Points will be deducted if your visualizations suffer from errors or broken features, overly simplistic designs, incomplete write-up.
