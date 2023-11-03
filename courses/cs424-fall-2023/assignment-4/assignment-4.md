@@ -25,9 +25,6 @@ python -m http.server
 
 That will serve all files in your folder through the address 0.0.0.0:8000 . Open the address in a browser and you will be able to see the served files.
 
-Select a web hosting service and make yourself familiar with the steps needed in order to upload files to the service. Free options include [GitHub](https://pages.github.com/), [Heroku](https://www.heroku.com/students), and [Google Sites](https://sites.google.com/).
-
-
 
 #### Task 1: Creating an empty page
 
@@ -63,17 +60,19 @@ Make sure to appropriately modify the div elements so that the size and position
 
 Create a new multiple linked view visualization, using a different interaction mechanism (i.e., manipulating the data, manipulating the visual mapping, manipulating the view) or method (i.e., aggregation, filtering, change mapping, selection, navigation, spatial arrangement) from the ones you used in the previous task. Again, make sure your plots avoid common problems, such as overplotting.
 
+Even though the template provides you with a starting point, you should go beyond that. Consider adding HTML elements (such as [drop down menus](https://www.w3schools.com/howto/howto_css_dropdown.asp)) to enable and/or enhance user interaction. For example, a reasonable (yet simple) approach would be to have a drop down menu to select attributes for a bar chart. You should carefully think about the interplay of HTML and Vega-lite interactions. 
+
 #### Task 4: Spatial visualization
 
 Migrate or create a new visualization leveraging the spatial information from your dataset. For extra points, you should link the spatial view with a reasonable subset of the views from the previous tasks.
 
 #### Task 5: Web deployment
 
-Select a web hosting service and make yourself familiar with the steps needed in order to upload files to the service. Free options include [GitHub](https://pages.github.com/), [Heroku](https://www.heroku.com/students), and [Google Sites](https://sites.google.com/).
+Select a web hosting service and make yourself familiar with the steps needed in order to upload files to the service. Free options include [GitHub](https://pages.github.com/), [Heroku](https://www.heroku.com/students), and [Google Sites](https://sites.google.com/). Make sure you upload your final results to the hosting service so that they are publicly available.
 
 #### Task 6: UTK (extra)
 
-Now that you have created Vega-lite visualizations, explore the possibility of migrating them to the [UTK framework](http://urbantk.org). As a starting point, check the [quick start guide](http://urbantk.org/getting-started/) and [tutorials](http://urbantk.org/home-tutorials/). For 5 extra points in the assignment, you should successfully (1) load your data or a subset of it into UTK, (2) create a map-based visualization, and (3) create a linked 2D visualization within the environment using Vega-lite. If you are not able to create new visualizations using UTK, you can simply write the steps (and errors) encountered in the process.
+Now that you have created Vega-lite visualizations, explore the possibility of migrating them to the [UTK framework](http://urbantk.org). As a starting point, check the [quick start guide](http://urbantk.org/getting-started/) and [tutorials](http://urbantk.org/home-tutorials/). For 5 extra points in the assignment, you should successfully (1) load your data or a subset of it into UTK, (2) create a map-based visualization, and (3) create a linked 2D visualization within the environment using Vega-lite. If you are not able to create new visualizations using UTK, you can simply write the steps (and errors) encountered in the process. You do not need to upload your UTK-based visualizations to the web hosting service; instead, simply add your screenshots (and JSON specifications) to the GitHub.
 
 
 #### Deliverables
@@ -86,7 +85,7 @@ In this project, there will be four deliverables:
 
 3) A png image showing your visualization interface. I might use your screenshot to link your web page in the course notes, so please make sure to have a good screenshot.
 
-4) A web page hosting your visualization interface.
+4) A web page hosting your visualization interface. The web page should be publicly accessible.
 
 5) A ~5 minute presentation, presenting your visualization interface. For the presentation, you should present your interface, interactions and findings, **without** relying on a Powerpoint presentation. In other words, for your presentation you should simply open the webpage hosting your visualization (see task 1) and present it live.
 

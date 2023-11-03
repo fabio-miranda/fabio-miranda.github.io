@@ -272,6 +272,7 @@ Letter grades will be based on a straight scale using the following thresholds f
   - Due week 11
 - Assignment 4 / final project:
   - Web visualization interface
+  - [Link](assignment-4)
   - Due week 15
 - Vis critique presentation:
   - Written report.
