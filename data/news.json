@@ -1,6 +1,11 @@
 {
 	"Recent Updates": [
 	{
+            "text": "'Visual Analytics for Profiling Land Use Changes' wins Best Paper Honorable Mention at SIBGRAPI 2023! 🏆",
+                 "date": "11/2023",
+                 "more": "https://sibgrapi.sbc.org.br/sibgrapi2023/"
+         },
+	{
 		"text": "Our work on maps to tackle inequalities was featured on UIC Today.",
 		"more": "https://today.uic.edu/using-maps-to-fight-inequities/",
 		"date": "10/2023"
