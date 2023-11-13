@@ -170,16 +170,15 @@ This schedule will be updated throughout the semester with links for slides and 
 - **Lab: Visualization grammars for spatial visualization**
 - Slides:  
 - Reading:
-![Static Badge](https://img.shields.io/badge/Lab%20session%207%20(Thu)-2f8a70)
 
 ###### Week 13 (Nov 13 - 17)
 - **Topic: Data management for visualization**
-- Slides:  
+- Slides: [Data management for visualization](https://fmiranda.me/courses/cs424-slides/10-data-vis.pdf)  
 - Reading:
 
 ###### Week 14 (Nov 20 - 24)
 - **Topic: Machine learning & data mining for visualization**
-- Slides:  
+- Slides: [Machine learning for visualization](https://fmiranda.me/courses/cs424-slides/09-ml-vis.pdf)  
 - Reading:
 
 ###### Week 15 (Nov 27 - Dec 1)
