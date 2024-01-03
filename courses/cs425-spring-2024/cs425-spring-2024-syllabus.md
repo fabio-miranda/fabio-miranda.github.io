@@ -119,23 +119,23 @@ This is a tentative course schedule and will be adjusted along the way. In the r
   - Week 2, due Week 4.
 - Assignment 1:
   - Topics: Triangle meshes rendering.
-  - Week 5, due Week 7.
+  - Week 4, due Week 6.
 - Assignment 2:
   - Topics: Shading + texture + shadow.
-  - Week 8, due Week 10.
+  - Week 7, due Week 9.
 - Assignment 3:
   - Topics: Introduction to ray tracing.
-  - Week 11, due Week 13.
+  - Week 10, due Week 12.
 - Assignment 4:
   - Topic: Procedural meshes.
-  - Week 14, due Week 16.
-- Final exam: Week 17
+  - Week 13, due Week 15.
+- Final exam: Week 16
 
 #### Exam Considerations
 There will be one final exam. You are expected to demonstrate ability to use critical thinking in explaining (and applying) the material covered in class and assignments. Make sure you are as detailed and through as possible.
 
 #### Assignment Considerations
-There will be an initial WebGL assignment to make sure you are familiar with the main components of web development. After that, there will be four main assignments covering different aspects of computer graphics. You must use Javascript or Typescript with WebGL to complete your assignments. **Do not use any high-level library, such as Three.js, unless clearly specified in the assignment**. We will use [GitHub Classroom](https://github.com/uic-cs425) for the assignments.
+There will be an initial WebGL assignment to make sure you are familiar with the main components of web development. After that, there will be four main assignments covering different aspects of computer graphics. You must use Javascript or Typescript with WebGL to complete your assignments. **Do not use any high-level library, such as Three.js, unless clearly specified in the assignment**. We will use [GitHub Classroom](https://github.com/uic-cs425) for the assignments. Assignments will be followed by short in-class quizzes; These quizzes will provide an opportunity for your to demonstrate your understanding of the basic concepts covered in the assignments.
 
 #### Late Days
 Late submissions will be penalized at a deduction rate of 20% per day (after 5 days you will have a maximum grade of zero). You can use five late-day points during the semester to make up for that; each late-day point extends an assignment deadline by one day.
