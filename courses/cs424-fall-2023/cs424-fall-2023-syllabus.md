@@ -243,6 +243,8 @@ Assignment 1 will not involve any programming. Assignment 2 will use Python. For
 
 Students will present their final assignments to the class, following the course schedule. Students will also write a one-page evaluating of two different visualizations, from well-known sources. *For assignments and visualization evaluations, students can optionally work in groups*. Detailed instructions will be made available following the evaluation schedule. We will use [GitHub Classroom](https://github.com/uic-cs424) for the projects.
 
+For graduate students, tasks marked as optional will be considered required tasks.
+
 #### Participation
 
 This course includes a class participation grade that will take into consideration the student's contribution to a productive environment, either in the classroom, Piazza or office hours. Attendance is important, but this is a subjective assessment, and does not mean that the student needs to participate in *every* classroom discussion. It does mean that they need to actively engage with the instructor or classmates in some capacity (classroom, Piazza, office hours, emails). More importantly, rather than only penalize absences (by subtracting points), students will be rewarded for good attendance and participation.
