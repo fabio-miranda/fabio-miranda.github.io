@@ -1,6 +1,6 @@
 ### Courses
 
-[CS 425 - Computer Graphics I (Spring 2024)](https://fmiranda.me/courses/cs424-spring-2024/)
+[CS 425 - Computer Graphics I (Spring 2024)](https://fmiranda.me/courses/cs425-spring-2024/)
 
 [CS 424 - Visualization and Visual Analytics (Fall 2023)](https://fmiranda.me/courses/cs424-fall-2023/)
 
