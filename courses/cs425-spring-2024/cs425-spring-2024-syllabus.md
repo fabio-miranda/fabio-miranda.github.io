@@ -102,7 +102,7 @@ This is a tentative course schedule and will be adjusted along the way. In the r
 | 12   | Antialiasing and transparency             | ICG7:  8.12<br />ICG6:  6.12<br />FCG4: 8.3        | [14-visual-appearance.pdf](https://fmiranda.me/courses/cs425-slides/14-visual-appearance.pdf)       |
 | 13   | Curves and surfaces                       | ICG7:  11<br />ICG6:  10<br />FCG4: 12.1, 15       | [16-surfaces.pdf](https://fmiranda.me/courses/cs425-slides/16-surfaces.pdf)       |
 | 14   | Spatial data structures                   | ICG7:  9<br />ICG6:  8<br />FCG4: 12               | [17-spatial-data-structures.pdf](https://fmiranda.me/courses/cs425-slides/17-spatial-data-structures.pdf)       |
-| 15   | Modern rendering techniques               | FCG4: 11.3, 20.1                                   | [18-modern-rendering-techniques.pdf](https://fmiranda.me/courses/cs425-slides/18-modern-rendering-techniques.pdf)       |
+| 15   | Modern rendering techniques, review for final exam              | FCG4: 11.3, 20.1                                   | [18-modern-rendering-techniques.pdf](https://fmiranda.me/courses/cs425-slides/18-modern-rendering-techniques.pdf)       |
 | 16   | Final exam                           |                                                    |        |
 
 ***
@@ -135,7 +135,7 @@ This is a tentative course schedule and will be adjusted along the way. In the r
 There will be one final exam. You are expected to demonstrate ability to use critical thinking in explaining (and applying) the material covered in class and assignments. Make sure you are as detailed and through as possible.
 
 #### Assignment Considerations
-There will be an initial WebGL assignment to make sure you are familiar with the main components of web development. After that, there will be four main assignments covering different aspects of computer graphics. You must use Javascript or Typescript with WebGL to complete your assignments. **Do not use any high-level library, such as Three.js, unless clearly specified in the assignment**. We will use [GitHub Classroom](https://github.com/uic-cs425) for the assignments. Assignments will be followed by short in-class quizzes; These quizzes will provide an opportunity for you to demonstrate your understanding of the basic concepts covered in the assignments.
+There will be an initial WebGL assignment to make sure you are familiar with the main components of web development. After that, there will be four main assignments covering different aspects of computer graphics. You must use Javascript or Typescript with WebGL to complete your assignments. **Do not use any high-level library, such as Three.js, unless clearly specified in the assignment**. We will use [GitHub Classroom](https://github.com/uic-cs425) for the assignments. Assignments will be followed by short in-class quizzes; These quizzes will provide an opportunity for you to demonstrate your understanding of the basic concepts covered in the assignments. Assignment grades will be weighted by the scores of these short quizzes.
 
 For graduate students, tasks marked as optional will be considered required tasks.
 
