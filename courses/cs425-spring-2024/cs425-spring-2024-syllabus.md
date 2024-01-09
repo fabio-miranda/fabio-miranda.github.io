@@ -35,7 +35,7 @@ fabiom [at] uic.edu
 
 https://fmiranda.me/
 
-Office hours: Friday 11am - 1pm, or by appointment (Zoom info on Discord).
+Office hours: Friday 11am - 1pm (Zoom info on Piazza).
 
 
 ***
@@ -133,7 +133,7 @@ This is a tentative course schedule and will be adjusted along the way. In the r
 - Final exam: Week 16
 
 #### Exam Considerations
-There will be one final exam. You are expected to demonstrate ability to use critical thinking in explaining (and applying) the material covered in class and assignments. Make sure you are as detailed and through as possible.
+There will be one final exam. You are expected to demonstrate ability to use critical thinking in explaining (and applying) the material covered in class and assignments. Make sure you are as detailed and thorough as possible.
 
 #### Assignment Considerations
 There will be an initial WebGL assignment to make sure you are familiar with the main components of web development. After that, there will be four main assignments covering different aspects of computer graphics. You must use Javascript or Typescript with WebGL to complete your assignments. **Do not use any high-level library, such as Three.js, unless clearly specified in the assignment**. We will use [GitHub Classroom](https://github.com/uic-cs425) for the assignments. Assignments will be followed by short in-class quizzes; These quizzes will provide an opportunity for you to demonstrate your understanding of the basic concepts covered in the assignments. Assignment grades will be weighted by the scores of these short quizzes.
