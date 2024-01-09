@@ -109,9 +109,10 @@ This is a tentative course schedule and will be adjusted along the way. In the r
 
 ### Evaluation and Grading
 #### Grading Policy
-- Assignments: 60%
+- Assignment 0: 10%
+- Assignments 1-4: 15% each
 - Participation: 10%
-- Final exam: 30%
+- Final exam: 20%
 
 #### Evaluation Schedule
 - Assignment 0:
