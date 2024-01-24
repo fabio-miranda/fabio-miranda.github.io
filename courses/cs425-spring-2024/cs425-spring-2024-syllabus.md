@@ -9,17 +9,18 @@
 5. [Course Objectives](#course-objectives)
 6. [Textbooks](#textbooks)
 7. [Course Schedule](#course-schedule)
-8. [Evaluation and Grading](#evaluation-and-grading)
+8. [Resources](#resources)
+9. [Evaluation and Grading](#evaluation-and-grading)
     1. [Grading Policy](#grading-policy)
     2. [Evaluation Schedule](#evaluation-schedule)
     3. [Exam Considerations](#exam-considerations)
     4. [Assignment Considerations](#assignment-considerations)
     5. [Late Days](#late-days)
-9. [Acknowledgments](#acknowledgements)
-10. [Academic Integrity](#academic-integrity)
-11. [Inclusive Learning Environment](#inclusive-learning-environment)
-12. [Disability Accommodation Procedures](#disability-accomodation-procedures)
-13. [Disclaimer](#disclaimer)
+10. [Acknowledgments](#acknowledgements)
+11. [Academic Integrity](#academic-integrity)
+12. [Inclusive Learning Environment](#inclusive-learning-environment)
+13. [Disability Accommodation Procedures](#disability-accomodation-procedures)
+14. [Disclaimer](#disclaimer)
 
 ***
 
@@ -104,6 +105,18 @@ This is a tentative course schedule and will be adjusted along the way. In the r
 | 14   | Spatial data structures                   | ICG7:  9<br />ICG6:  8<br />FCG4: 12               | [17-spatial-data-structures.pdf](https://fmiranda.me/courses/cs425-slides/17-spatial-data-structures.pdf)       |
 | 15   | Modern rendering techniques, review for final exam              | FCG4: 11.3, 20.1                                   | [18-modern-rendering-techniques.pdf](https://fmiranda.me/courses/cs425-slides/18-modern-rendering-techniques.pdf)       |
 | 16   | Final exam                           |                                                    |        |
+
+***
+
+### Resources
+- Web development:
+  - [Mozilla's HTML overview page](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  - [Mozilla's CSS overview page](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  - [Mozilla's JavaScript overview page](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- WebGL
+  - [Mozilla's WebGL overview page](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)
+  - [WebGL spec](https://www.khronos.org/registry/webgl/specs/latest/2.0/)
+  - [WebGL reference guide](https://www.khronos.org/files/webgl20-reference-guide.pdf)
 
 ***
 
