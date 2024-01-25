@@ -36,6 +36,15 @@ Select a dataset that is of interest to you, from the list below:
 * [Building violations](https://data.cityofchicago.org/Buildings/Building-Violations/22u3-xenr)
 * [311 service requests](https://data.cityofchicago.org/Service-Requests/311-Service-Requests/v6vf-nfxy)
 
+* [Income and Unemployment](https://data.cityofchicago.org/Health-Human-Services/Selected-socioeconomic-indicators-by-neighborhood/i9hv-en6g/data)
+* [Crimes](https://catalog.data.gov/dataset/crimes-2001-to-present)
+* [Green Roofs](https://data.cityofchicago.org/Environment-Sustainable-Development/Green-Roofs-Map/u23m-pa73)
+* [Energy Usage](https://data.cityofchicago.org/Environment-Sustainable-Development/Energy-Usage-2010/8yq3-m6wp)
+* [Energy Efficiency of buildings](https://data.cityofchicago.org/Environment-Sustainable-Development/Chicago-Energy-Benchmarking-2020-Data-Reported-in-/ydbk-8hi6)
+* [Environmental Complaints](https://data.cityofchicago.org/Environment-Sustainable-Development/CDPH-Environmental-Complaints/fypr-ksnz/about_data)
+* [Flooding Measurements](https://data.cityofchicago.org/Environment-Sustainable-Development/Smart-Green-Infrastructure-Monitoring-Sensors-Hist/ggws-77ih/about_data)
+* [Urban Farms](https://data.cityofchicago.org/Environment-Sustainable-Development/Map-of-Urban-Farms/uti6-fp3f)
+
 All of the previous datasets contain metadata with a description of the data attributes, source of the data, gaps, etc. After selecting the dataset, make sure you enter your selection in the shared spreadsheet (see Piazza for link).
 
 ---
