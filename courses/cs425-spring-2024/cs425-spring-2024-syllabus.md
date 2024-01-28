@@ -117,6 +117,7 @@ This is a tentative course schedule and will be adjusted along the way. In the r
   - [Mozilla's WebGL overview page](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)
   - [WebGL spec](https://www.khronos.org/registry/webgl/specs/latest/2.0/)
   - [WebGL reference guide](https://www.khronos.org/files/webgl20-reference-guide.pdf)
+  - [WebGL2 Fundamentals](https://webgl2fundamentals.org/)
 
 ***
 
