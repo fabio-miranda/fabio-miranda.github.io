@@ -137,7 +137,7 @@ This is a tentative course schedule and will be adjusted along the way. In the r
   - Week 5, due Week 7.
 - Assignment 2:
   - Topics: Shading + texture + shadow.
-  - Week 7, due Week 9.
+  - Week 8, due Week 10.
 - Assignment 3:
   - Topics: Introduction to ray tracing.
   - Week 10, due Week 12.
