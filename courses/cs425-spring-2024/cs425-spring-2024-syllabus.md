@@ -134,7 +134,7 @@ This is a tentative course schedule and will be adjusted along the way. In the r
   - Week 2, due Week 4.
 - Assignment 1:
   - Topics: Triangle meshes rendering.
-  - Week 4, due Week 6.
+  - Week 5, due Week 7.
 - Assignment 2:
   - Topics: Shading + texture + shadow.
   - Week 7, due Week 9.
