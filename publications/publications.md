@@ -5,20 +5,21 @@
 **The Urban Toolkit: A Grammar-based Framework for Urban Visual Analytics**<br>
 &emsp;K. Omar, G. Moreira, D. Hodczak, M. Hosseini, N. Colaninno, M. Lage, F. Miranda<br>
 &emsp;IEEE Transactions on Big Data<br>
-&emsp;[[Arxiv](https://arxiv.org/abs/2402.17169)]<br>
-&emsp;[[Source code](https://urbantk.org/shadows)]
+&emsp;[[Arxiv](https://arxiv.org/abs/2402.17169)] &#x2022;
+[[Source code](https://urbantk.org/shadows)]
 
 **The Urban Toolkit: A Grammar-based Framework for Urban Visual Analytics**<br>
 &emsp;G. Moreira, M. Hosseini, M.N.A. Nipu, M. Lage, N. Ferreira, F. Miranda<br>
 &emsp;IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2023)<br>
-&emsp;[[Arxiv](https://arxiv.org/abs/2308.07769)]<br>
-&emsp;[[DOI](https://doi.org/10.1109/TVCG.2023.3326598)]<br>
-&emsp;[[Source code](https://urbantk.org/)]
+&emsp;[[Arxiv](https://arxiv.org/abs/2308.07769)]&#x2022;
+[[DOI](https://doi.org/10.1109/TVCG.2023.3326598)]&#x2022;
+[[Source code](https://urbantk.org/)]
 
 **ProWis: A Visual Approach for Building, Managing, and Analyzing Weather Simulation Ensembles at Runtime**<br>
 &emsp;C.V.F. de Souza, S.M. Bonnet, D. de Oliveira, M. Cataldi, F. Miranda, M. Lage<br>
 &emsp;IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2023)<br>
-&emsp;[[Arxiv](https://arxiv.org/abs/2308.05019)]<br>
+&emsp;[[Arxiv](https://arxiv.org/abs/2308.05019)]&#x2022;
+[[DOI](https://doi.org/10.1109/TVCG.2023.3326514)]<br>
 &emsp;🏆 Best Paper Honorable Mention Award ([link](https://ieeevis.org/year/2023/info/awards/best-paper-awards))
 
 #### 2023
