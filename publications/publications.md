@@ -1,17 +1,27 @@
 ### Publications
 
-#### 2023
+#### 2024
+
+**The Urban Toolkit: A Grammar-based Framework for Urban Visual Analytics**<br>
+&emsp;K. Omar, G. Moreira, D. Hodczak, M. Hosseini, N. Colaninno, M. Lage, F. Miranda<br>
+&emsp;IEEE Transactions on Big Data<br>
+&emsp;[[Arxiv](https://arxiv.org/abs/2402.17169)]<br>
+&emsp;[[Source code](https://urbantk.org/shadows)]
 
 **The Urban Toolkit: A Grammar-based Framework for Urban Visual Analytics**<br>
 &emsp;G. Moreira, M. Hosseini, M.N.A. Nipu, M. Lage, N. Ferreira, F. Miranda<br>
 &emsp;IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2023)<br>
-&emsp;[[Arxiv](https://doi.org/10.48550/arXiv.2308.07769)]
+&emsp;[[Arxiv](https://arxiv.org/abs/2308.07769)]<br>
+&emsp;[[DOI](https://doi.org/10.1109/TVCG.2023.3326598)]<br>
+&emsp;[[Source code](https://urbantk.org/)]
 
 **ProWis: A Visual Approach for Building, Managing, and Analyzing Weather Simulation Ensembles at Runtime**<br>
 &emsp;C.V.F. de Souza, S.M. Bonnet, D. de Oliveira, M. Cataldi, F. Miranda, M. Lage<br>
 &emsp;IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2023)<br>
-&emsp;[[Arxiv](https://doi.org/10.48550/arXiv.2308.05019)]<br>
+&emsp;[[Arxiv](https://arxiv.org/abs/2308.05019)]<br>
 &emsp;🏆 Best Paper Honorable Mention Award ([link](https://ieeevis.org/year/2023/info/awards/best-paper-awards))
+
+#### 2023
 
 **Environmental Justice through Community-Policy Participatory Partnerships**<br>
 &emsp;P. A. Boda, F. Fusi, F. Miranda, G. J. M. Palmer, J. Flax-Hatch, M. Siciliano, A. Sambanis, L. Johnson, S. Derrible, M. Cailas<br>
@@ -28,6 +38,14 @@
 &emsp;*Computers, Environment and Urban Systems*<br>
 &emsp;[[DOI](https://doi.org/10.1016/j.compenvurbsys.2023.101950)]
 
+**A Comparison of Spatiotemporal Visualizations for 3D Urban Analytics**<br>
+&emsp;R. Mota, M. Horga, N. Ferreira, J. D. Silva, M. Lage, L. Ceferino, U. R. Alim, E. Sharlin, F. Miranda<br>
+&emsp;*IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2022)*<br>
+&emsp;[[DOI](https://doi.org/10.48550/arXiv.2208.05370)] &#x2022; 
+[[Arxiv](https://arxiv.org/abs/2208.05370)] &#x2022;
+[[Video](https://youtu.be/3TBx-njP_sU)] &#x2022;
+[[PDF](pdfs/3D_urban_vis_Vis2022.pdf)]
+
 #### 2022
 
 **Mapping Sidewalk Fall Risks Using Big Data And Machine Learning**<br>
@@ -40,14 +58,6 @@
 &emsp;*ASSETS 2022 UrbanAccess Workshop*<br>
 &emsp;[[Arxiv](https://arxiv.org/abs/2210.02350)] &#x2022;
 [[PDF](pdfs/OSM_trustworthiness_2022.pdf)]
-
-**A Comparison of Spatiotemporal Visualizations for 3D Urban Analytics**<br>
-&emsp;R. Mota, M. Horga, N. Ferreira, J. D. Silva, M. Lage, L. Ceferino, U. R. Alim, E. Sharlin, F. Miranda<br>
-&emsp;*IEEE VIS 2022*<br>
-&emsp;[[DOI](https://doi.org/10.48550/arXiv.2208.05370)] &#x2022; 
-[[Arxiv](https://arxiv.org/abs/2208.05370)] &#x2022;
-[[Video](https://youtu.be/3TBx-njP_sU)] &#x2022;
-[[PDF](pdfs/3D_urban_vis_Vis2022.pdf)]
 
 **The Future of Urban Accessibility for People with Disabilities: Data Collection, Analytics, Policy, and Tools**<br>
 &emsp;J. Froehlich, Y. Eisenberg, M. Hosseini, F. Miranda et al.<br>
