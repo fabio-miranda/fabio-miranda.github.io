@@ -1,5 +1,14 @@
 {
 	"Recent Updates": [
+	{
+            "text": "Deep Umbra: A Generative Approach for Sunlight Access Computation in Urban Spaces accepted to IEEE Transactions on Big Data!",
+                 "date": "02/2024",
+                 "more": "https://arxiv.org/abs/2402.17169"
+         },
+	{
+            "text": "Gave a talk at the US Census Bureau on urban data and computer vision for urban accessibility.",
+                 "date": "02/2024"
+         },
         {
             "text": "CS 425 - Computer Graphics I (Spring 2024) website.",
                  "date": "01/2024",
