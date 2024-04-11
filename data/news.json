@@ -1,6 +1,10 @@
 {
 	"Recent Updates": [
 	{
+            "text": "'The State of the Art in Visual Analytics for 3D Urban Data' accepted as a STAR paper at EuroVis 2024.",
+                 "date": "04/2024"
+         },
+	{
             "text": "Deep Umbra: A Generative Approach for Sunlight Access Computation in Urban Spaces accepted to IEEE Transactions on Big Data!",
                  "date": "02/2024",
                  "more": "https://arxiv.org/abs/2402.17169"
