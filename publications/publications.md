@@ -2,7 +2,7 @@
 
 #### 2024
 
-**The Urban Toolkit: A Grammar-based Framework for Urban Visual Analytics**<br>
+**Deep Umbra: A Generative Approach for Sunlight Access Computation in Urban Spaces**<br>
 &emsp;K. Omar, G. Moreira, D. Hodczak, M. Hosseini, N. Colaninno, M. Lage, F. Miranda<br>
 &emsp;IEEE Transactions on Big Data<br>
 &emsp;[[Arxiv](https://arxiv.org/abs/2402.17169)] &#x2022;
