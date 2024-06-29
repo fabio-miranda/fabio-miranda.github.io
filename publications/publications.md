@@ -2,10 +2,18 @@
 
 #### 2024
 
+**The State of the Art in Visual Analytics for 3D Urban Data**<br>
+&emsp;F. Miranda, T. Ortner, G. Moreira, M. Hosseini, M. Vuckovic, F. Biljecki, C. Silva, M. Lage, N. Ferreira<br>
+&emsp;IEEE Transactions on Big Data<br>
+&emsp;[[Arxiv](https://arxiv.org/abs/2404.15976)] &#x2022;
+[[DOI](https://doi.org/10.1111/cgf.15112)] &#x2022;
+[[Webpage](https://urbantk.org/survey-3d/)]
+
 **Deep Umbra: A Generative Approach for Sunlight Access Computation in Urban Spaces**<br>
 &emsp;K. Omar, G. Moreira, D. Hodczak, M. Hosseini, N. Colaninno, M. Lage, F. Miranda<br>
 &emsp;IEEE Transactions on Big Data<br>
 &emsp;[[Arxiv](https://arxiv.org/abs/2402.17169)] &#x2022;
+[[DOI](https://doi.org/10.1109/TBDATA.2024.3382964)] &#x2022;
 [[Source code](https://urbantk.org/shadows)]
 
 **The Urban Toolkit: A Grammar-based Framework for Urban Visual Analytics**<br>
