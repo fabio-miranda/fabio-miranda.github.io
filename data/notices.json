@@ -1,14 +1,15 @@
 {
 	"Notices": [
 		{
-            "text": "<div style="min-height:100%; display: flex; align-items: center;">
-  <div style="width:30%;">
-     <img src="https://urbantk.org/wp-content/uploads/2023/06/cropped-logo-utk-circle-1.png" alt="The Urban Toolkit" width="200" height="200"> 
+            "text": "<div style=\"min-height:100%; display: flex; align-items: center;\">
+  <div style=\"width:30%;\">
+     <img src=\"https://urbantk.org/wp-content/uploads/2023/06/cropped-logo-utk-circle-1.png\" alt=\"The Urban Toolkit\" width=\"200\" height=\"200\"> 
   </div>
-  <div style="padding-left: 20px">
-      <p>The Urban Toolkit is a flexible and extensible visualization framework that enables the easy authoring of web-based visualizations through a new high-level grammar specifically built with common urban use cases in mind. For papers, tools, and code, check <a href="https://urbantk.org/">here</a></p>
+  <div style=\"padding-left: 20px\">
+      <p>The Urban Toolkit is a flexible and extensible visualization framework that enables the easy authoring of web-based visualizations through a new high-level grammar specifically built with common urban use cases in mind. For papers, tools, and code, check <a href=\"https://urbantk.org/\">here</a></p>
   </div>
-</div>"
+</div>
+"
         }
 	]
 }
