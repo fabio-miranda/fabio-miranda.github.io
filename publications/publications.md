@@ -4,42 +4,59 @@
 
 **The State of the Art in Visual Analytics for 3D Urban Data**<br>
 &emsp;F. Miranda, T. Ortner, G. Moreira, M. Hosseini, M. Vuckovic, F. Biljecki, C. Silva, M. Lage, N. Ferreira<br>
-&emsp;IEEE Transactions on Big Data<br>
+&emsp;*Computer Graphics Forum (EuroVis 2024)*<br>
 &emsp;[[Arxiv](https://arxiv.org/abs/2404.15976)] &#x2022;
 [[DOI](https://doi.org/10.1111/cgf.15112)] &#x2022;
 [[Webpage](https://urbantk.org/survey-3d/)]
 
 **Deep Umbra: A Generative Approach for Sunlight Access Computation in Urban Spaces**<br>
 &emsp;K. Omar, G. Moreira, D. Hodczak, M. Hosseini, N. Colaninno, M. Lage, F. Miranda<br>
-&emsp;IEEE Transactions on Big Data<br>
+&emsp;*IEEE Transactions on Big Data*<br>
 &emsp;[[Arxiv](https://arxiv.org/abs/2402.17169)] &#x2022;
 [[DOI](https://doi.org/10.1109/TBDATA.2024.3382964)] &#x2022;
 [[Source code](https://urbantk.org/shadows)]
 
 **The Urban Toolkit: A Grammar-based Framework for Urban Visual Analytics**<br>
 &emsp;G. Moreira, M. Hosseini, M.N.A. Nipu, M. Lage, N. Ferreira, F. Miranda<br>
-&emsp;IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2023)<br>
+&emsp;*IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2023)*<br>
 &emsp;[[Arxiv](https://arxiv.org/abs/2308.07769)] &#x2022;
 [[DOI](https://doi.org/10.1109/TVCG.2023.3326598)] &#x2022;
 [[Source code](https://urbantk.org/)]
 
 **ProWis: A Visual Approach for Building, Managing, and Analyzing Weather Simulation Ensembles at Runtime**<br>
 &emsp;C.V.F. de Souza, S.M. Bonnet, D. de Oliveira, M. Cataldi, F. Miranda, M. Lage<br>
-&emsp;IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2023)<br>
+&emsp;*IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2023)*<br>
 &emsp;[[Arxiv](https://arxiv.org/abs/2308.05019)] &#x2022;
 [[DOI](https://doi.org/10.1109/TVCG.2023.3326514)]<br>
 &emsp;🏆 Best Paper Honorable Mention Award ([link](https://ieeevis.org/year/2023/info/awards/best-paper-awards))
 
 #### 2023
 
+**High-Level Grammars for Visualization and Visual Analytics**<br>
+&emsp;G. Moreira, M. Lage, N. Ferreira, F. Miranda<br>
+&emsp;*2023 36th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI)*<br>
+&emsp;[[DOI](https://ieeexplore.ieee.org/abstract/document/10347164)] &#x2022;
+[[Tutorial material](https://github.com/urban-toolkit/tutorial/)]
+
+**Visual Analytics for Profiling Land Use Changes**<br>
+&emsp;C. Santos, M. Hosseini, J. Rulff, F. Miranda, L. Wilson, C. Silva, N. Ferreira, M. Lage<br>
+&emsp;*2023 36th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI)*<br>
+&emsp;[[DOI](https://ieeexplore.ieee.org/abstract/document/10347138/)]<br>
+&emsp;🏆 Best Paper Honorable Mention Award ([link](https://sibgrapi.sbc.org.br/sibgrapi2023/awards.html))
+
+**Visual Analytics Using Heterogeneous Urban Data**<br>
+&emsp;S. Bonadia, R. Gama, D. de Oliveira, F. Miranda, M. Lage<br>
+&emsp;*2023 36th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI)*<br>
+&emsp;[[DOI](https://ieeexplore.ieee.org/abstract/document/10347156)]
+
 **Environmental Justice through Community-Policy Participatory Partnerships**<br>
 &emsp;P. A. Boda, F. Fusi, F. Miranda, G. J. M. Palmer, J. Flax-Hatch, M. Siciliano, A. Sambanis, L. Johnson, S. Derrible, M. Cailas<br>
-&emsp;Journal of Environmental Protection<br>
+&emsp;*Journal of Environmental Protection*<br>
 &emsp;[[DOI](https://doi.org/10.4236/jep.2023.148036)]
 
 **Does a Quieter City Mean Fewer Complaints? The Sounds of New York City During Covid-19 Lockdown**<br>
 &emsp;M. Cartwright, M. Fuentes, C. Mydlarz, F. Miranda, J.P. Bello<br>
-&emsp;ICASSP 2023<br>
+&emsp;*ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*<br>
 &emsp;[[DOI](https://doi.org/10.1109/ICASSP49357.2023.10094968)]
 
 **Mapping the walk: A scalable computer vision approach for generating sidewalk network datasets from aerial imagery**<br>
