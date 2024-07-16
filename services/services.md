@@ -12,8 +12,8 @@
 
 #### Program committees
 
-- IEEE VIS (2022)
-- EuroVis (2022)
+- IEEE VIS (2022, 2023, 2024)
+- EuroVis (2022, 2023, 2024)
 - Visualization and Data Analysis Conference (2022)
 - Sibgrapi (2021, 2020, 2019)
 - IEEE VIS Short papers (2021, 2020, 2019)
