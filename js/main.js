@@ -96,7 +96,12 @@ function loadGrants(fileName) {
 				.attr("class", "newsitem")
 				.html(
 					function(d){
-						return d.value["text"];
+						if("more" in d.value) {
+							return d.value["text"] + " [<a href="+d.value["more"]+">more</a>]";
+						}
+						else {
+							return d.value["text"];
+						}
 					});
 		}
 
@@ -113,6 +118,28 @@ function loadNews(fileName) {
 		var news = d3.select("#news").append("div").attr("class", "news row no-gutters");
 
 		for(var content in data) {
+
+			var months = {1: 'Jan', 2: 'Feb', 3: 'Mar', 4: 'Apr', 5: 'May', 6: 'Jun', 7: 'Jul', 8: 'Aug', 9: 'Sep', 10: 'Oct', 11: 'Nov', 12: 'Dec'};
+			var organized = {};
+			for(var index in data[content]) {
+				var item = data[content][index];
+				var date = item['date'];
+				var month = date.split('/')[0]
+				var year = date.split('/')[1];
+				date = year+'/'+month;
+				var text = item['text'];
+				if(organized[date] == undefined) {
+					organized[date] = [];
+				}
+				organized[date].push(item);
+			}
+			var sorted = [];
+			for(var key in organized) {
+				sorted[sorted.length] = key;
+			}
+			sorted.sort();
+			sorted.reverse();
+
 			news
                 .append("div")
                 .attr("class", "col-sm-12")
@@ -121,30 +148,45 @@ function loadNews(fileName) {
                 .append("div")
                 .attr("class", "title font-weight-bold")
 				.text(content);
-
 			news = news.append("div").attr("class","cell no-gutters");
 
-			// div for all papers
-			var newsitems = news
-				.append("div")
-				.attr("class", "col-sm-12")
-				.selectAll("div")
-				.data(d3.entries(data[content]));
+			
 
-			newsitems
+			for(var index in sorted) {
+				var date = sorted[index];
+				var values = organized[date];
+
+				var month = parseInt(date.split('/')[1]);
+				var year = date.split('/')[0];
+
+				// div for all papers of the month
+				var newsitems = news
+				.append("div")
+				.text(months[month]+', '+year)
+				.attr("class", "col-sm-12 newsitem font-weight-bold")
+				.selectAll("div")
+				.data(d3.entries(values));
+
+				newsitems
 				.enter()
 				.append("div")
-				.attr("class", "newsitem")
+				.attr("class", "newsitem font-weight-normal")
 				.html(
 					function(d){
 						if("more" in d.value) {
-							return "<b>"+d.value["date"] + "</b>: " + d.value["text"] + " [<a href="+d.value["more"]+">more</a>]";
+							return "- " + d.value["text"] + " [<a href="+d.value["more"]+">more</a>]";
 						}
 						else {
-							return "<b>"+d.value["date"] + "</b>: " + d.value["text"];
+							return "- " + d.value["text"];
 						}
 						
 					});
+			}
+
+
+			
+
+			
 		}
 
 	})

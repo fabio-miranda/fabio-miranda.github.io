@@ -1,29 +1,43 @@
 {
 	"Recent Updates": [
+    {
+        "text": "'Cyberinfrastructure to Catalyze and Sustain the Urban Computing Community' awarded by NSF.",
+        "date": "07/2024",
+        "more": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2411223&HistoricalAwards=false"
+    },
+    {
+        "text": "'Curio: A Dataflow-Based Framework for Collaborative Urban Visual Analytics' accepted at IEEE VIS 2024 as full paper.",
+        "date": "07/2024",
+        "more": "https://urbantk.org/curio"
+    },
+    {
+        "text": "'Assessing the Landscape of Toolkits, Frameworks, and Authoring Tools for Urban Visual Analytics Systems' accepted to Computers & Graphics.",
+        "date": "07/2024"
+    },
 	{
-            "text": "'The State of the Art in Visual Analytics for 3D Urban Data' accepted as a STAR paper at EuroVis 2024.",
+        "text": "'The State of the Art in Visual Analytics for 3D Urban Data' accepted as a STAR paper at EuroVis 2024.",
 	    "more": "https://urbantk.org/survey-3d",
-                 "date": "04/2024"
-         },
+        "date": "04/2024"
+    },
 	{
-            "text": "Deep Umbra: A Generative Approach for Sunlight Access Computation in Urban Spaces accepted to IEEE Transactions on Big Data!",
-                 "date": "02/2024",
-                 "more": "https://arxiv.org/abs/2402.17169"
-         },
+        "text": "Deep Umbra: A Generative Approach for Sunlight Access Computation in Urban Spaces accepted to IEEE Transactions on Big Data!",
+        "date": "02/2024",
+        "more": "https://arxiv.org/abs/2402.17169"
+    },
 	{
-            "text": "Gave a talk at the US Census Bureau on urban data and computer vision for urban accessibility.",
-                 "date": "02/2024"
-         },
-        {
-            "text": "CS 425 - Computer Graphics I (Spring 2024) website.",
-                 "date": "01/2024",
-                 "more": "http://fmiranda.me/courses/cs425-spring-2024"
-         },
+        "text": "Gave a talk at the US Census Bureau on urban data and computer vision for urban accessibility.",
+        "date": "02/2024"
+    },
+    {
+        "text": "CS 425 - Computer Graphics I (Spring 2024) website.",
+        "date": "01/2024",
+        "more": "http://fmiranda.me/courses/cs425-spring-2024"
+    },
 	{
-            "text": "'Visual Analytics for Profiling Land Use Changes' wins Best Paper Honorable Mention at SIBGRAPI 2023! 🏆",
-                 "date": "11/2023",
-                 "more": "https://sibgrapi.sbc.org.br/sibgrapi2023/"
-         },
+        "text": "'Visual Analytics for Profiling Land Use Changes' wins Best Paper Honorable Mention at SIBGRAPI 2023! 🏆",
+        "date": "11/2023",
+        "more": "https://sibgrapi.sbc.org.br/sibgrapi2023/"
+    },
 	{
 		"text": "Our work on maps to tackle inequalities was featured on UIC Today.",
 		"more": "https://today.uic.edu/using-maps-to-fight-inequities/",
