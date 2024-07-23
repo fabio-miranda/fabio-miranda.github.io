@@ -137,14 +137,14 @@ For grades, see Grading Policy. For schedule, see Course Schedule. Assignments 1
 - Research paper presentation
   - Two ~30-minute presentation.
   - Link: https://fmiranda.me/courses/cs524-fall-2024/research-presentation/
-- Final project proposal:
-  - ~10-minute presentation.
+- Project proposal:
+  - 5-minute presentation.
   - Link: https://fmiranda.me/courses/cs524-fall-2024/final-project/#milestone-1-project-proposal
 - Final project midterm review:
-  - ~10-minute presentation.
+  - 15-minute presentation.
   - Link: https://fmiranda.me/courses/cs524-fall-2024/final-project/#milestone-2-midterm-review
 - Final project:
-  - ~10-minute presentation and final report.
+  - 15-minute presentation and final report.
   - Link: https://fmiranda.me/courses/cs524-fall-2024/final-project/#milestone-3-final-project
 
 
