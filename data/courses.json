@@ -1,18 +1,26 @@
 {
     "Courses": {
         "1": {
+            "title": "CS 524 - Big Data Visualization and Analytics (Fall 2024)",
+            "more": ["https://fmiranda.me/courses/cs524-fall-2024/"]
+        },
+        "2": {
+            "title": "CS 425 - Computer Graphics I (Spring 2024)",
+            "more": ["https://fmiranda.me/courses/cs425-spring-2024/"]
+        },
+        "3": {
             "title": "CS 424 - Visualization and Visual Analytics (Fall 2023)",
             "more": ["https://fmiranda.me/courses/cs424-fall-2023/"]
         },
-        "2": {
+        "4": {
             "title": "CS 524 - Big Data Visualization and Analytics (Spring 2023)",
             "more": ["https://fmiranda.me/courses/cs524-spring-2023/"]
         },
-        "3": {
+        "5": {
             "title": "CS 424 - Visualization and Visual Analytics (Fall 2022)",
             "more": ["https://fmiranda.me/courses/cs424-fall-2022/"]
         },
-        "4": {
+        "6": {
             "title": "CS 425 - Computer Graphics I (Spring 2022)",
             "more": ["https://fmiranda.me/courses/cs425-spring-2022/"]
         }
