@@ -18,9 +18,9 @@
 
 ### General Information
 
-The goal of the final project is to get you familiar with the main components of big data visual analytics systems. You will need to demonstrate your research skills by combining visualization, analytics, data mining, data structures and algorithms that work in tandem to enable interactive data exploration. There will be three milestones for this project spread throughout the semester: [project proposal](#milestone-1-project-proposal), [midterm review](#milestone-2-midterm-review), and [final presentation and report](#milestone-3-final-report-and-presentation). In the final project, you will be able to work in groups of 2.
+The goal of the final project is to get you familiar with the main components of big data visual analytics systems. You will need to demonstrate your research skills by combining visualization, analytics, data mining, data structures and algorithms that work in tandem to enable interactive data exploration. There will be three milestones for this project spread throughout the semester: [project proposal](#milestone-1-project-proposal), [midterm review](#milestone-2-midterm-review), and [final presentation and report](#milestone-3-final-report-and-presentation).
 
-We will use GitHub to manage code and documentation. You should create a repository for your team on GitHub Classroom (see Piazza for invitation link), and include **all** deliverables throughout the semester. You should also include a ``Makefile`` to build the document into a PDF file (i.e., ``make pdf`` command should generate a PDF file). The [template repository](https://github.com/uic-big-data/final-project) already includes some of the files you will need.
+We will use GitHub to manage code and documentation. You should create a repository for your team on GitHub Classroom (see Piazza for invitation link), and include **all** deliverables throughout the semester.
 
 
 ### Submission of Deliverables
@@ -48,7 +48,9 @@ At the very least, you should articulate your proposal around one of the six vis
 
 For a tentative list of datasets and topics, please see the ``final-project.pdf`` presentation shared on Piazza. I highly recommend you choose a topic (or dataset) that you are personally interested in and that you want to understand in more detail.
 
-**Please attend the office hours to discuss ideas and papers that might be useful to your team, depending of your topic. Make sure you email me two days before the office hour with a general description of your topic, dataset, problems or questions so that I have enough time to collect supplemental readings or resources that may help you.**
+**Please be aware that merely creating a basic dashboard to visualize limited data is insufficient and does not meet the course expectations.**
+
+**Also, plan to attend office hours to discuss ideas and papers that might be useful to your team, depending of your topic. Make sure you email me two days before the office hour with a general description of your topic, dataset, problems or questions so that I have enough time to collect supplemental readings or resources that may help you.**
 
 #### M1 Deliverables
 
@@ -127,3 +129,11 @@ On top of the presentation and project report, you should also create a well-doc
 ### Latex
 
 If this is the first time using LaTeX, go through [this](https://www.overleaf.com/learn/latex/Tutorials) tutorial. Please note that GitHub is a version control platform, so simply pushing your final proposal document defeats the purpose of using a management system. The GitHub repository should be a good representation of the evolution of all artifacts of the project, including reports, and contributions from individual members of the team. Therefore, if you use Overleaf, you are expected to link your project with your GitHub repository (see [here](https://www.overleaf.com/learn/how-to/How_do_I_connect_an_Overleaf_project_with_a_repo_on_GitHub%2C_GitLab_or_BitBucket%3F) for instructions how).
+
+---
+
+### Evaluation
+
+You will be evaluated based on several key areas: (1) Clarity and relevante of your problem definition, with appropriate scope and significance; (2) Literature review should be comprehensive, analyzing existing research and identifying potential gaps; (3) Methodology will be evaluated based on the appropriateness and implementation of visualization techniques; (4) Data collection and analysis must be thorough, with clear processes and insightful presentation of findings; (5) Visualizations should be clear, informative, with throughtful interpretation connecting back to the research problem; (6) You will also be evaluated on reflections on the project's strengths and weaknesses, lessons learned, and suggestions for future work.
+
+The presentations will be evaluated based on the following criteria: the quality and clarity of your slides, the thoroughness and accuracy of your summary, and the overall engagement and delivery of your presentation. You are encouraged to incorporate live demonstrations in your presentation.

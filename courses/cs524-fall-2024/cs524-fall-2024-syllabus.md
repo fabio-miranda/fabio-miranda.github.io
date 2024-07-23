@@ -120,7 +120,7 @@ This is a tentative course schedule and will be adjusted along the way. Slides w
 
 This course includes a cumulative final project, where the student will need to demonstrate their research skills by combining visualization and data mining techniques, data structures and algorithms that work in tandem to enable interactive data exploration. There will be three milestones for this project spread throughout the semester that will allow the student to receive feedback: a project proposal, mid review and final presentation and report. The work will be evaluated with a focus on overall quality, rather than mechanical correctness. In the final project, the student will be able to work in groups of 2. Detailed assignment and project instructions will be made available following the evaluation schedule.
 
-In addition, students will have to prepare and present two 30-minute presentations on a relevant research topic. This will require them to read a research paper, organize the main contributions of the paper, and deliver their presentations in a clear and engaging manner. The student will be able to work in groups of 2.
+In addition, students will have to prepare and present two 30-minute presentations on a relevant research topic. This will require them to read a research paper, organize the main contributions of the paper, and deliver their presentations in a clear and engaging manner. The student will be able to work in groups of 2 or 3 (TBD).
 
 This course also includes a class participation grade that will take into consideration the student's contribution to a productive environment, either in the classroom, Piazza or office hours.
 
@@ -135,7 +135,7 @@ For grades, see Grading Policy. For schedule, see Course Schedule. Assignments 1
   - Back-end technologies and libraries.
   - Link: https://github.com/uic-big-data/assignment-2/
 - Research paper presentation
-  - ~30-minute presentation.
+  - Two ~30-minute presentation.
   - Link: https://fmiranda.me/courses/cs524-fall-2024/research-presentation/
 - Final project proposal:
   - ~10-minute presentation.
