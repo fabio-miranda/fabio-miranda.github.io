@@ -51,7 +51,7 @@ In the past decade, technological innovations have enabled the automatic collect
 This course will introduce students to big data visualization and analytics, focusing on the connections between visualization, data management, and data mining. We will cover potential sources of big data, including audio, image, graph, geometry, and mobile data, both structured or unstructured. The course will discuss effective metaphors to visualize data that might span billions of records; data mining and machine learning techniques that can summarize the data, or extract patterns to guide users in their visual exploration; and the data management techniques that can effectively drive interactivity in the visual exploration of big data.
 
 #### Pre-requisites
-Students are expected to be comfortable with programming and be able to learn new programming languages as required by the assignments and projects, as well as write technical documents.
+Students are expected to be proficient in programming, capable of learning new programming languages as needed for assignments and projects, and skilled in writing short technical documentation.
 
 #### Objectives
 This course will focus on the intersection between visualization, data management, and data mining, covering the necessary topics to build visual analytics tools to handle big data. For the purposes of this course, big data will include any dataset with size (or complexity) that goes beyond the ability of standard tools and techniques to interactively manage and process it with a latency below 0.5 second.
@@ -118,9 +118,9 @@ This is a tentative course schedule and will be adjusted along the way. Slides w
 - Final project: 25%
 - Participation: 20%
 
-This course includes a cumulative final project, where the student will need to demonstrate their research skills by combining visualization and data mining techniques, data structures and algorithms that work in tandem to enable interactive data exploration. There will be three milestones for this project spread throughout the semester that will allow the student to receive feedback: a project proposal, mid review and final presentation and report. The work will be evaluated with a focus on overall quality, rather than mechanical correctness. In the final project, the student will be able to work in groups of 2. Detailed assignment and project instructions will be made available following the evaluation schedule.
+This course includes a cumulative final project, where the student will need to demonstrate their research skills by combining visualization and data mining techniques, data structures and algorithms that work in tandem to enable interactive data exploration. There will be three milestones for this project spread throughout the semester that will allow the student to receive feedback: a project proposal, mid review and final presentation and report. The work will be evaluated with a focus on overall quality, rather than mechanical correctness. In the final project, the student will be able to work in groups. Detailed assignment and project instructions will be made available following the evaluation schedule.
 
-In addition, students will have to prepare and present two 30-minute presentations on a relevant research topic. This will require them to read a research paper, organize the main contributions of the paper, and deliver their presentations in a clear and engaging manner. The student will be able to work in groups of 2 or 3 (TBD).
+In addition, students will have to prepare and present two 30-minute presentations on a relevant research topic. This will require them to read a research paper, organize the main contributions of the paper, and deliver their presentations in a clear and engaging manner. The student will be able to work in groups.
 
 This course also includes a class participation grade that will take into consideration the student's contribution to a productive environment, either in the classroom, Piazza or office hours.
 
