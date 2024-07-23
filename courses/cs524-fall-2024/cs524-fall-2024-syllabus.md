@@ -135,7 +135,7 @@ For grades, see Grading Policy. For schedule, see Course Schedule. Assignments 1
   - Back-end technologies and libraries.
   - Link: https://github.com/uic-big-data/assignment-2/
 - Research paper presentation
-  - Two ~30-minute presentation.
+  - Two 30-minute presentation.
   - Link: https://fmiranda.me/courses/cs524-fall-2024/research-presentation/
 - Project proposal:
   - 5-minute presentation.
