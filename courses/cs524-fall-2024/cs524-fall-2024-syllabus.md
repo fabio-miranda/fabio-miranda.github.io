@@ -124,8 +124,28 @@ In addition, students will have to prepare and present two 30-minute presentatio
 
 This course also includes a class participation grade that will take into consideration the student's contribution to a productive environment, either in the classroom, Piazza or office hours.
 
-#### Evaluation Schedule
-TBA
+#### Evaluation Details
+
+For grades, see Grading Policy. For schedule, see Course Schedule. Assignments 1 and 2 will not be graded; they are designed to ensure you become proficient with the necessary technologies.
+
+- Assignment 1:
+  - Front-end technologies and libraries.
+  - Link: https://github.com/uic-big-data/assignment-1/
+- Assignment 2
+  - Back-end technologies and libraries.
+  - Link: https://github.com/uic-big-data/assignment-2/
+- Research paper presentation
+  - ~30-minute presentation.
+  - Link: https://fmiranda.me/courses/cs524-fall-2024/research-presentation/
+- Final project proposal:
+  - ~10-minute presentation.
+  - Link: https://fmiranda.me/courses/cs524-fall-2024/final-project/#milestone-1-project-proposal
+- Final project midterm review:
+  - ~10-minute presentation.
+  - Link: https://fmiranda.me/courses/cs524-fall-2024/final-project/#milestone-2-midterm-review
+- Final project:
+  - ~10-minute presentation and final report.
+  - Link: https://fmiranda.me/courses/cs524-fall-2024/final-project/#milestone-3-final-project
 
 
 #### Late Days
