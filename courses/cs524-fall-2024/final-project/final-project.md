@@ -54,7 +54,7 @@ For a tentative list of datasets and topics, please see the ``final-project.pdf`
 
 #### M1 Deliverables
 
-Your group should present the proposal, clearly explaining the problem (why it is important, and how you plan to address it), briefly cover prior work, describe the data, proposal and **timeline**. Each group presentation should last ~10 minutes. Your group will be randomly assigned to present on Tuesday or Thursday, but you are expected to attend *both* presentation days. It is up to you and your teammate to decide how the presentation will be divided between each member of the team. On top of that, you are expected to pose *at least* two questions to two different groups.
+Your group should present the proposal, clearly explaining the problem (why it is important, and how you plan to address it), briefly cover prior work, describe the data, proposal and **timeline**. Each group presentation should last 5 minutes. Your group will be randomly assigned to present on Tuesday or Thursday, but you are expected to attend *both* presentation days. It is up to you and your teammate to decide how the presentation will be divided between each member of the team. On top of that, you are expected to pose *at least* two questions to two different groups.
 
 In this project proposal, you should **clearly** articulate how your proposal will tackle some of the problems related to the dataset, framing it around one of the areas of visualization research. Spend some time thinking and discussing potential challenges and solutions. Make sure that you are comfortable with the problem, dataset, and proposal. 
 
@@ -74,7 +74,7 @@ In this milestone, you will:
 
 #### M2 Deliverables
 
-Your group should present the proposal and intermediate results. The presentation should again clearly explain the problem, describe the data, proposal and intermediate results. Each group presentation should last ~10 minutes. Your group will be randomly assigned to present on Tuesday or Thursday, but again you are expected to attend *both* presentation days. It is up to you and your teammates to decide how the presentation will be divided between each member of the team. On top of that, you are expected to pose *at least* two questions to two different groups.
+Your group should present the proposal and intermediate results. The presentation should again clearly explain the problem, describe the data, proposal and intermediate results. Each group presentation should last 15 minutes. Your group will be randomly assigned to present on Tuesday or Thursday, but again you are expected to attend *both* presentation days. It is up to you and your teammates to decide how the presentation will be divided between each member of the team. On top of that, you are expected to pose *at least* two questions to two different groups.
 
 Note that this midterm review will be an opportunity to assess the progress of your team, so optimize your time to ensure that you have meaningful results by the day of your presentation.
 
@@ -97,7 +97,7 @@ In this milestone, you will:
 
 ##### Presentation
 
-Your group should present the final results of your project. The presentation should briefly explain the problem, cover prior work, describe data, proposal, final results, conclusion and future work. Each group presentation should last 10 minutes. Just like the previous presentations, your group will be randomly assigned to present on Tuesday or Thursday, but you are expected to attend both presentation days.
+Your group should present the final results of your project. The presentation should briefly explain the problem, cover prior work, describe data, proposal, final results, conclusion and future work. Each group presentation should last 15 minutes. Just like the previous presentations, your group will be randomly assigned to present on Tuesday or Thursday, but you are expected to attend both presentation days.
 
 
 ##### Report
