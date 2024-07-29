@@ -16,6 +16,7 @@
     1. [Grading Policy](#grading-policy)
     2. [Evaluation Schedule](#evaluation-schedule)
     3. [Late Days](#late-days)
+5. [Important Notes](#important-notes)
 6. [Academic Integrity](#academic-integrity)
 7. [Inclusive Learning Environment](#inclusive-learning-environment)
 8. [Disability Accommodation Procedures](#disability-accomodation-procedures)
@@ -38,7 +39,7 @@ fabiom [at] uic.edu
 
 https://fmiranda.me/
 
-Office hours: Friday 10am - 12pm, or by appointment (Zoom info on Piazza).
+Office hours: Friday 10am - 12pm, by appointment (Zoom info on Piazza). Please email me at least one day before office hours to schedule an appointment.
 
 
 ***
@@ -150,6 +151,19 @@ For grades, see Grading Policy. For schedule, see Course Schedule. **Assignments
 
 #### Late Days
 Since students will need to present their projects to the class, it is very important that they are submitted by the deadlines, otherwise it will be difficult to schedule new presentation slots. **If one team member is unable to present, the responsibility will fall to the other team member -- no exceptions will be made. In the unlikely event that all team members are unable to complete the project by the deadline, a documented and compelling excuse, such as illness, hospitalization, is required.**
+
+***
+
+### Important Notes
+
+Here is a summary of some key points:
+- Office hours will be held on Fridays from 10 AM to 12 PM. Please email me at least one day in advance to schedule an appointment.
+- Please adhere to the maximum number of students allowed per team. No exceptions will be made.
+- Please adhere to the course schedule. Presentations will not be rescheduled unless all team members have a valid and documented reason.
+- Use your own words, anything other than that is plagiarism. That includes copying from ChatGPT and/or slide decks available online.
+- Under no circumstances should you compromise academic integrity. Plagiarizing others' work or cheating in any form is unfair to both your instructors and your peers.
+- Please note that our definitions of academic integrity might differ, so refer to the definition provided below, which will be used throughout the course.
+- **Your success in this course will be directly proportional to the effort you invest. As a research-focused course, the more you put in, the more you will get out of it.**
 
 ***
 
