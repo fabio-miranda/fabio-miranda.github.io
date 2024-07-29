@@ -160,6 +160,7 @@ Here is a summary of some key points:
 - Office hours will be held on Fridays from 10 AM to 12 PM. Please email me at least one day in advance to schedule an appointment.
 - Please adhere to the maximum number of students allowed per team. No exceptions will be made.
 - Please adhere to the course schedule. Presentations will not be rescheduled unless all team members have a valid and documented reason.
+- Attendance is not optional, though justified absences with valid excuses will be understood. It is a crucial component of your learning experience and success in all courses, and it will be reflected in your grades.
 - Use your own words, anything other than that is plagiarism. That includes copying from ChatGPT and/or slide decks available online.
 - Under no circumstances should you compromise academic integrity. Plagiarizing others' work or cheating in any form is unfair to both your instructors and your peers.
 - Please note that our definitions of academic integrity might differ, so refer to the definition provided below, which will be used throughout the course.
