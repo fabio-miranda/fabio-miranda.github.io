@@ -114,27 +114,27 @@ This is a tentative course schedule and will be adjusted along the way. Slides w
 ### Evaluation and Grading
 #### Grading Policy
 - Research paper presentations: 40% (20% each)
-- Final project midterm review: 15%
+- Final project midterm review: 20%
 - Final project: 25%
-- Participation: 20%
+- Participation: 15%
 
 This course includes a cumulative final project, where the student will need to demonstrate their research skills by combining visualization and data mining techniques, data structures and algorithms that work in tandem to enable interactive data exploration. There will be three milestones for this project spread throughout the semester that will allow the student to receive feedback: a project proposal, mid review and final presentation and report. The work will be evaluated with a focus on overall quality, rather than mechanical correctness. In the final project, the student will be able to work in groups. Detailed assignment and project instructions will be made available following the evaluation schedule.
 
-In addition, students will have to prepare and present two 30-minute presentations on a relevant research topic. This will require them to read a research paper, organize the main contributions of the paper, and deliver their presentations in a clear and engaging manner. The student will be able to work in groups.
+In addition, students will have to prepare and present two 30-minute presentations on a relevant research topic. This will require them to read research papers, organize the main contributions of the papers, and deliver their presentations in a clear and engaging manner. The student will be able to work in groups.
 
-This course also includes a class participation grade that will take into consideration the student's contribution to a productive environment, either in the classroom, Piazza or office hours.
+This course also includes a class participation grade that will take into consideration the student's contribution to a productive environment, either in the classroom, Piazza or office hours. This is a holistic evaluation and may include attendance, participation, engagement in discussions, and support for colleagues.
 
 #### Evaluation Details
 
-For grades, see Grading Policy. For schedule, see Course Schedule. Assignments 1 and 2 will not be graded; they are designed to ensure you become proficient with the necessary technologies.
+For grades, see Grading Policy. For schedule, see Course Schedule. **Assignments 1 and 2 will not be graded**; they are designed to ensure you become proficient with the necessary technologies.
 
 - Assignment 1:
   - Front-end technologies and libraries.
   - Link: https://github.com/uic-big-data/assignment-1/
-- Assignment 2
+- Assignment 2:
   - Back-end technologies and libraries.
   - Link: https://github.com/uic-big-data/assignment-2/
-- Research paper presentation
+- Research paper presentation:
   - Two 30-minute presentation.
   - Link: https://fmiranda.me/courses/cs524-fall-2024/research-presentation/
 - Project proposal:
