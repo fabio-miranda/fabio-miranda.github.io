@@ -128,10 +128,10 @@ This course also includes a class participation grade that will take into consid
 
 For grades, see Grading Policy. For schedule, see Course Schedule. **Assignments 1 and 2 will not be graded**; they are designed to ensure you become proficient with the necessary technologies.
 
-- Assignment 1:
+- Assignment 1 (optional, not graded):
   - Front-end technologies and libraries.
   - Link: https://github.com/uic-big-data/assignment-1/
-- Assignment 2:
+- Assignment 2 (optional, not graded):
   - Back-end technologies and libraries.
   - Link: https://github.com/uic-big-data/assignment-2/
 - Research paper presentation:
@@ -149,7 +149,7 @@ For grades, see Grading Policy. For schedule, see Course Schedule. **Assignments
 
 
 #### Late Days
-Since students will need to present their projects to the class, it is very important that they are submitted by the deadlines, otherwise it will be difficult to schedule new presentation slots. If you are unable to complete a project by the deadline, a documented compelling excuse (such as illness, hospitalization) is required.
+Since students will need to present their projects to the class, it is very important that they are submitted by the deadlines, otherwise it will be difficult to schedule new presentation slots. **If one team member is unable to present, the responsibility will fall to the other team member -- no exceptions will be made. In the unlikely event that all team members are unable to complete the project by the deadline, a documented and compelling excuse, such as illness, hospitalization, is required.**
 
 ***
 
