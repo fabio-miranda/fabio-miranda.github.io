@@ -1,4 +1,4 @@
-### CS524 - Big Data Visualization and Analytics (Fall 2023)
+### CS524 - Big Data Visualization and Analytics (Fall 2024)
 
 #### Table of Contents
 1. [General Information](#general-information)
