@@ -87,7 +87,7 @@ The course will be driven by lectures and in-class discussion. Other relevant ac
 ***
 
 ### Course Schedule
-This is a tentative course schedule and will be adjusted along the way. Slides will be made available after each lecture.
+This is a tentative course schedule and will be adjusted along the way. Slides may be updated after each lecture. Each week includes a few **required readings** to make sure you have a comprehensive understanding of the topic.
 
 | Week | Topic | Resources and readings | Slides | Research presentations |
 |:----:|:----------------------------------------- |:-------------------------------------------------- |:------ |:------ |
