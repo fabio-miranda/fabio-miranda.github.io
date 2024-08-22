@@ -9,7 +9,7 @@ The first step is to select a research paper you are interested in. As highlight
 
 #### Paper presentation
 
-You should prepare a 30-minute presentation covering the main points of the paper. It is up to your team to create an outline that does justice to the paper. Your presentation will be evaluated based on the following criteria: the quality and clarity of your slides, the thoroughness and accuracy of your summary of both the topic and the paper's contributions, and the overall engagement and delivery of your presentation. You are encouraged to incorporate live demonstrations in your presentation.
+You should prepare a 30-minute presentation (+ 5 minutes for questions) covering the main points of the paper. It is up to your team to create an outline that does justice to the paper. Your presentation will be evaluated based on the following criteria: the quality and clarity of your slides, the thoroughness and accuracy of your summary of both the topic and the paper's contributions, and the overall engagement and delivery of your presentation. You are encouraged to incorporate live demonstrations in your presentation.
 
 ##### Examples of good presentations
 
