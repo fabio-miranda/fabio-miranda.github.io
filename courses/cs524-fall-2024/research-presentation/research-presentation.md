@@ -20,7 +20,7 @@ You should select **at least** one research paper as the core paper. Note, howev
 Before reading the paper, you might find helpful to read the following paper:\
 [How to Read a Visualization Research Paper: Extracting the Essentials](https://www.computer.org/csdl/magazine/cg/2011/03/mcg2011030078/13rRUynZ5qh)\
 Robert S. Laramee, Swansea University\
-IEEE Computer Graphics and Applications
+*IEEE Computer Graphics and Applications*
 
 
 #### Paper presentation
