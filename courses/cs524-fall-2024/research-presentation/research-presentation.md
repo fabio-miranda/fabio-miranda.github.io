@@ -13,6 +13,15 @@ You should select **at least** one research paper as the core paper. Note, howev
 
 **Before you start working on your presentation, I have to agree with your team's selection of core papers -- send me an email and make sure to give yourself ample time in case any adjustments need to be made. Please note that at this point I will only provide superficial feedback on the appropriateness of your choices. I will not assess whether your selections are sufficient to cover the research topic in both depth and breadth. However, your decisions will, of course, be reflected in your presentation and, consequently, in your evaluation.**
 
+#### Reading a visualization paper
+
+Before reading the paper, you might find helpful to read the following paper:
+```
+[How to Read a Visualization Research Paper: Extracting the Essentials](https://www.computer.org/csdl/magazine/cg/2011/03/mcg2011030078/13rRUynZ5qh)
+Robert S. Laramee, Swansea University
+IEEE Computer Graphics and Applications
+```
+
 #### Paper presentation
 
 You should prepare a 30-minute presentation (+5 minutes for questions) covering the topic and the selected papers. Your team is responsible for creating an outline that does justice to the papers. Keep in mind that crafting a well-thought-out and organized presentation requires time and effort, and this will be carefully considered in your evaluation. Your presentation will be evaluated based on the following criteria: the quality and clarity of your slides, the organization of your presentation, the thoroughness and accuracy of your summary of both the topic and the papers' contributions, and the overall engagement and delivery of your presentation. You are encouraged to incorporate live demonstrations in your presentation.
