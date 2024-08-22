@@ -15,7 +15,7 @@ You should prepare a 30-minute presentation (+5 minutes for questions) covering 
 
 Please keep in mind that you have 30 minutes for your presentation (+5 minutes for questions). This means you must carefully balance depth and breadth to stay within the allotted time without going over or under. You should ensure that your presentation is thorough enough to cover key points, which your team is responsible for accurately identifying, yet concise enough to stay within the allotted time. Avoid delving too deeply into any single point at the expense of others, but also be wary of covering too much material superficially. Proper time management is crucial and will be reflected in your evaluation. Consider rehearsing your presentation to ensure it fits within the time frame.
 
-##### Examples of good presentations
+#### Examples of good presentations
 
 Here are some excellent presentations you can use as a reference for creating your own:
 
