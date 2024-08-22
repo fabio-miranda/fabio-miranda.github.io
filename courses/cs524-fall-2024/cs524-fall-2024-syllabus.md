@@ -119,11 +119,11 @@ This is a tentative course schedule and will be adjusted along the way. Slides m
 - Final project: 25%
 - Participation: 15%
 
-This course includes a cumulative final project, where the student will need to demonstrate their research skills by combining visualization and data mining techniques, data structures and algorithms that work in tandem to enable interactive data exploration. There will be three milestones for this project spread throughout the semester that will allow the student to receive feedback: a project proposal, mid review and final presentation and report. The work will be evaluated with a focus on overall quality, rather than mechanical correctness. In the final project, the student will be able to work in groups. Detailed assignment and project instructions will be made available following the evaluation schedule.
+This course includes a cumulative final project, where the student will need to demonstrate their research skills by combining visualization and data mining techniques, data structures and algorithms that work in tandem to enable interactive data exploration. There will be three milestones for this project spread throughout the semester that will allow the student to receive feedback: a project proposal, mid review and final presentation and report. The work will be evaluated with a focus on overall quality, rather than mechanical correctness. Detailed assignment and project instructions will be made available following the evaluation schedule.
 
 In addition, students will have to prepare and present two 30-minute presentations on a relevant research topic. This will require them to read research papers, organize the main contributions of the papers, and deliver their presentations in a clear and engaging manner.
 
-** Students may work in groups of up to three members for both the final project and research paper presentations. While groups of one or two are also allowed, groups of four or more are not permitted (no exceptions will be made).**
+**Students may work in groups of up to three members for both the final project and research paper presentations. While groups of one or two are also allowed, groups of four or more are not permitted (no exceptions will be made).**
 
 This course also includes a class participation grade that will take into consideration the student's contribution to a productive environment, either in the classroom, Piazza or office hours. This is a holistic evaluation and may include attendance, participation, engagement in discussions, and support for colleagues.
 
@@ -161,7 +161,7 @@ Since students will need to present their projects to the class, it is very impo
 Here is a summary of some key points:
 - Office hours will be held on Fridays from 10 AM to 12 PM. Please email me at least one day in advance to schedule an appointment.
 - Please adhere to the maximum number of students allowed per team. No exceptions will be made.
-- Please adhere to the course schedule. Presentations will not be rescheduled unless all team members have a valid and documented reason.
+- Please adhere to the course schedule. Presentations will not be rescheduled unless **all** team members have a valid and documented reason.
 - Attendance is not optional, though justified absences with valid excuses will be understood. It is a crucial component of your learning experience and success in all courses, and it will be reflected in your grades.
 - Use your own words, anything other than that is plagiarism. That includes copying from ChatGPT and/or slide decks available online.
 - Under no circumstances should you compromise academic integrity. Plagiarizing others' work or cheating in any form is unfair to both your instructors and your peers.
