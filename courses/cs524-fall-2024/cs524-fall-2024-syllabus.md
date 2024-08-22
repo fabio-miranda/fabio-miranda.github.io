@@ -125,7 +125,7 @@ In addition, students will have to prepare and present two 30-minute presentatio
 
 **Students may work in teams of up to three members for both the final project and research paper presentations. While teams of one or two are also allowed, teams of four or more are not permitted (no exceptions will be made).**
 
-This course also includes a class participation grade that will take into consideration the student's contribution to a productive environment, either in the classroom, Piazza or office hours. This is a holistic evaluation and may include attendance, participation, engagement in discussions, and support for colleagues.
+This course also includes a class participation grade that will take into consideration the student's contribution to a productive environment, either in the classroom, Piazza or office hours. This is a holistic evaluation and may include attendance, participation, engagement in discussions, questions after presentations, and support for colleagues.
 
 #### Evaluation Details
 
