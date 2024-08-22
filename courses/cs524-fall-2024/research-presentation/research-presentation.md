@@ -5,7 +5,9 @@ For the research presentations, you will first need to select **at least** one r
 
 #### Paper selection
 
-The first step is to select **at least** one research paper you are interested in. As highlighted in class, the paper should cover **at least** one aspect of **big data visual analytics**. You can start your search by going through the issues of [IEEE Transactions on Visualization and Computer Graphics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945), [Computer Graphics Forum](https://onlinelibrary.wiley.com/journal/14678659), [IEEE Transactions on Big Data](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317), their associated conferences (e.g., IEEE VIS, EuroVis), or similar venues. These are journals that cover broad areas, not only visualization and visual analytics, so it is important to choose your papers carefully as to satisfy the requirements. Another good option is to review the Google Scholar profiles of visualization researchers and select papers from there. You can find a list of visualization researchers on [CSRankings](https://csrankings.org/#/index?visualization&us) by filtering the areas to only include VIS (make sure to exclude the VR area); also consider visualization researchers in countries other than the US and with well-established visualization groups (for example and in no particular order: China, Hong Kong, Brazil, Denmark, Austria, Netherlands, France, United Kingdom, Germany, Italy, Australia).
+The first step is to select **at least** one research paper you are interested in. As highlighted in class, the paper should cover **at least** one aspect of **big data visual analytics**. You can start your search by going through the issues of [IEEE Transactions on Visualization and Computer Graphics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945), [Computer Graphics Forum](https://onlinelibrary.wiley.com/journal/14678659), [Computers & Graphics](https://www.sciencedirect.com/journal/computers-and-graphics), [IEEE Transactions on Big Data](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317), their associated conferences (e.g., IEEE VIS, EuroVis), or similar venues. For more venues, check Google Scholar's list of top venues in [Computer Graphics](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computergraphics) (which also includes visualization ones), [Data Mining & Analysis](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_datamininganalysis), or [Databases & Information Systems](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_databasesinformationsystems). These are venues that cover broad areas, not only visualization and visual analytics, so it is important to choose your papers carefully as to satisfy the requirements. 
+
+Another good option is to review the Google Scholar profiles of visualization researchers and select papers from there. You can find a list of visualization researchers on [CSRankings](https://csrankings.org/#/index?visualization&us) by filtering the areas to only include VIS (make sure to exclude the VR area); also consider visualization researchers in countries other than the US and with well-established visualization groups (for example and in no particular order: China, Hong Kong, Brazil, Denmark, Austria, Netherlands, France, United Kingdom, Germany, Italy, Australia).
 
 You should *not* select papers published more than 10 years ago or surveys as one of the core papers for your presentation. **However, it is entirely reasonable (and even expected) that you will need to cover surveys and older works to provide a comprehensive overview of the research topic.**
 
@@ -15,12 +17,11 @@ You should select **at least** one research paper as the core paper. Note, howev
 
 #### Reading a visualization paper
 
-Before reading the paper, you might find helpful to read the following paper:
-```
-[How to Read a Visualization Research Paper: Extracting the Essentials](https://www.computer.org/csdl/magazine/cg/2011/03/mcg2011030078/13rRUynZ5qh)
-Robert S. Laramee, Swansea University
-IEEE Computer Graphics and Applications
-```
+Before reading the paper, you might find helpful to read the following paper: 
+[How to Read a Visualization Research Paper: Extracting the Essentials](https://www.computer.org/csdl/magazine/cg/2011/03/mcg2011030078/13rRUynZ5qh) 
+Robert S. Laramee, Swansea University 
+IEEE Computer Graphics and Applications 
+
 
 #### Paper presentation
 
