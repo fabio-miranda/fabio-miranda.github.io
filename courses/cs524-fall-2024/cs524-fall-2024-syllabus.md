@@ -121,7 +121,9 @@ This is a tentative course schedule and will be adjusted along the way. Slides m
 
 This course includes a cumulative final project, where the student will need to demonstrate their research skills by combining visualization and data mining techniques, data structures and algorithms that work in tandem to enable interactive data exploration. There will be three milestones for this project spread throughout the semester that will allow the student to receive feedback: a project proposal, mid review and final presentation and report. The work will be evaluated with a focus on overall quality, rather than mechanical correctness. In the final project, the student will be able to work in groups. Detailed assignment and project instructions will be made available following the evaluation schedule.
 
-In addition, students will have to prepare and present two 30-minute presentations on a relevant research topic. This will require them to read research papers, organize the main contributions of the papers, and deliver their presentations in a clear and engaging manner. The student will also be able to work in groups.
+In addition, students will have to prepare and present two 30-minute presentations on a relevant research topic. This will require them to read research papers, organize the main contributions of the papers, and deliver their presentations in a clear and engaging manner.
+
+** Students may work in groups of up to three members for both the final project and research paper presentations. While groups of one or two are also allowed, groups of four or more are not permitted (no exceptions will be made).**
 
 This course also includes a class participation grade that will take into consideration the student's contribution to a productive environment, either in the classroom, Piazza or office hours. This is a holistic evaluation and may include attendance, participation, engagement in discussions, and support for colleagues.
 
