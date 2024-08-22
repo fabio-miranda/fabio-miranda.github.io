@@ -28,7 +28,7 @@
 ### General Information
 
 #### Class Meeting Information
-We will meet in-person in EVL's [Continuum room](https://www.evl.uic.edu/location), at the time indicated in the schedule of classes. Please read the [evaluation](#evaluation-and-grading) section for details on attendance. Office hours will be held via Zoom.
+We will meet in-person in EVL's [Continuum room](https://www.evl.uic.edu/location), at the time indicated in the schedule of classes. Please read the [evaluation](#evaluation-and-grading) section for details on attendance, and [important notes](#important-notes) for key points. Office hours will be held via Zoom.
 
 Piazza will be the main platform for instructor / student communication, please check Blackboard for the invitation link. Zoom meeting information will be posted on Piazza.
 
