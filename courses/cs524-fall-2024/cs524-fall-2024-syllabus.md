@@ -123,7 +123,7 @@ This course includes a cumulative final project, where the student will need to 
 
 In addition, students will have to prepare and present two 30-minute presentations on a relevant research topic. This will require them to read research papers, organize the main contributions of the papers, and deliver their presentations in a clear and engaging manner.
 
-**Students may work in groups of up to three members for both the final project and research paper presentations. While groups of one or two are also allowed, groups of four or more are not permitted (no exceptions will be made).**
+**Students may work in teams of up to three members for both the final project and research paper presentations. While teams of one or two are also allowed, teams of four or more are not permitted (no exceptions will be made).**
 
 This course also includes a class participation grade that will take into consideration the student's contribution to a productive environment, either in the classroom, Piazza or office hours. This is a holistic evaluation and may include attendance, participation, engagement in discussions, and support for colleagues.
 
