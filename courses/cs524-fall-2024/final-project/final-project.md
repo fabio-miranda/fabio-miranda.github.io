@@ -46,7 +46,12 @@ There are several topics that cover visualization, analytics and data management
 
 At the very least, you should articulate your proposal around one of the six visualization areas (defined [here](https://ieeevis.org/year/2022/info/call-participation/area-model#the-vis-area-model)), broadly reviewing limitations with current approaches and how your potential contributions will advance an area. Please refer to the course schedule for required readings that can give you a better idea for topics.
 
-For a tentative list of topics, please see the ``final-project.pdf`` presentation shared on Piazza. I highly recommend you choose a topic (or dataset) that you are personally interested in and that you want to understand in more detail. Your team is responsible for surveying for interesting datasets and identifying challenges. Select a dataset that could present challenges to current methods while also creating opportunities for innovative ideas and approaches.
+For a tentative list of topics, please see the ``final-project.pdf`` presentation shared on Piazza. I highly recommend you choose a topic (or dataset) that you are personally interested in and that you want to understand in more detail. Your team is responsible for surveying for interesting datasets and identifying challenges. Select a dataset that could present challenges to current methods while also creating opportunities for innovative ideas and approaches. Here is a list of potential datasets, but don't limit your survey to just these websites:
+
+- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+- [Awesome Spatial Data](https://github.com/bchapuis/awesome-spatial-data)
+- [Awesome Urban Data](https://github.com/urban-toolkit/awesome-urban-datasets)
+- [Awesome Multimodal Urban Computing](https://github.com/yoshall/Awesome-Multimodal-Urban-Computing#taxonomy-and-summary-of-open-sourced-dataset)
 
 **Please be aware that merely creating a basic dashboard to visualize limited data is insufficient and does not meet the course expectations. Also be aware that the selection of a dataset is the most important step, as it will directly impact the rest of your project -- a simple dataset will not provide opportunities for new approaches. The selection of your dataset and the way you define your approach will be reflected in your evaluation.**
 
