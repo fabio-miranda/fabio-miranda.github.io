@@ -44,9 +44,21 @@ In this milestone, you will:
 
 There are several topics that cover visualization, analytics and data management of big data. You should frame your proposal in terms of how your contribution effectively tackles data problems from one (or more) of the angles covered in the course. For a concrete description of the types of contributions expected from a visualization researcher, read Lee et al.'s [Broadening Intellectual Diversity in Visualization Research Papers](https://cmci.colorado.edu/visualab/papers/19-CGA-ContributionTypes.pdf).
 
-At the very least, you should articulate your proposal around one of the six visualization areas (defined [here](https://ieeevis.org/year/2022/info/call-participation/area-model#the-vis-area-model)), broadly reviewing limitations with current approaches and how your potential contributions will advance an area. Please refer to the course schedule for required readings that can give you a better idea for topics.
+At the very least, you should articulate your proposal around one of the six visualization areas (defined [here](https://ieeevis.org/year/2024/info/call-participation/area-model#the-vis-area-model)), broadly reviewing limitations with current approaches and how your potential contributions will advance an area. Broadly speaking, your project should fit in one of the following areas:
 
-For a tentative list of topics, please see the ``final-project.pdf`` presentation shared on Piazza. I highly recommend you choose a topic (or dataset) that you are personally interested in and that you want to understand in more detail. Your team is responsible for surveying for interesting datasets and identifying challenges. Select a dataset that could present challenges to current methods while also creating opportunities for innovative ideas and approaches. Here is a list of potential datasets, but don't limit your survey to just these websites:
+- Theoretical & Empirical: Foundation of VIS as a scientific subject.
+- Applications: Application-motivated technical problem; Transform general-purpose visualization technology to domain-specific solutions.
+- Systems & Rendering: Visualization system architectures, computing platforms and development environments.
+- Representation & Interaction: Design of visual representations and interaction techniques for different types of data, users, and visualization
+tasks.
+- Data Transformations: Algorithms and techniques to transform data from one form to another to enable effective and efficient visual
+mapping.
+- Analytics & Decisions: Design of integrated workflows for visual data analysis, knowledge discovery, decision support, machine
+learning, and other data intelligence tasks.
+
+Please refer to the course schedule for required and optional readings that can give you a better idea for topics, as well as recent publications (see [here](../research-presentation/) for pointers, or [here](https://ieeevis.org/year/2024/info/call-participation/area-model) for examples).
+
+I highly recommend you choose a topic (or dataset) that you are personally interested in and that you want to understand in more detail. Your team is responsible for surveying for interesting datasets and identifying challenges. Select a dataset that could present challenges to current methods while also creating opportunities for innovative ideas and approaches. Here is a list of potential datasets, but don't limit your survey to just these websites:
 
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 - [Awesome Spatial Data](https://github.com/bchapuis/awesome-spatial-data)
