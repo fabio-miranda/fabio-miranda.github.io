@@ -54,6 +54,8 @@ For a tentative list of topics, please see the ``final-project.pdf`` presentatio
 - [Awesome Network Analysis](https://github.com/briatte/awesome-network-analysis?tab=readme-ov-file#datasets)
 - [Awesome Multimodal Urban Computing](https://github.com/yoshall/Awesome-Multimodal-Urban-Computing#taxonomy-and-summary-of-open-sourced-dataset)
 
+**Avoid selecting a dataset that has been extensively explored in the past (e.g., bike data, taxi data), unless you can identify a specific angle that might yield *new* and intriguing insights.**
+
 **Please be aware that merely creating a basic dashboard to visualize limited data is insufficient and does not meet the course expectations. Also be aware that the selection of a dataset is the most important step, as it will directly impact the rest of your project -- a simple dataset will not provide opportunities for new approaches. The selection of your dataset and the way you define your approach will be reflected in your evaluation.**
 
 **Also, be proactive and plan to attend office hours to discuss ideas and papers that might be useful to your team, depending on your topic.**
