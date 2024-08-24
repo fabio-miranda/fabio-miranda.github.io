@@ -124,23 +124,7 @@ Your group should present the final results of your project. The presentation sh
 
 ##### Report
 
-Your group should also submit a 3-page (plus references) report using the [IEEE VGTC Latex template](https://tc.computer.org/vgtc/publications/journal/). The final report should contain the following files: ``01-introduction.tex``, ``02-related.tex``, ``03-data.tex``, ``04-research.tex``, ``05-results.tex``, ``06-conclusion.tex``, and ``proposal.bib`` with the references. You can also add figures inside the ``figs`` repository.
-
-In the ``01-introduction.tex`` file, clearly describe the problem, why it is important, and how you plan to address it.
-
-In the ``02-related.tex`` file, briefly describe prior work, and how the proposal work differs from it.
-
-In the ``03-data.tex`` file, summarize the most important points (e.g., size, attributes) of the dataset you plan to use.
-
-In the ``04-research.tex`` file, discuss how you have tackled the problem. Clearly describe how your project solved (or tried to solve) some of the limitations of related work.
-
-In the ``05-results.tex`` file, detail your results.
-
-In the ``06-conclusion.tex`` file, add a conclusion paying close attention to potential future work discussion.
-
-In this report, you should **clearly** articulate how your work tackled the problem and highlight how your results can point to future research directions. Besides concrete results, it is also important to discuss future work that you were able to identify throughout the semester.
-
-You have three pages to cover **all** of the topics.
+Your group should also submit a 4-page (plus references) report using the [IEEE VGTC Latex template](https://tc.computer.org/vgtc/publications/journal/). It is up to your team to define an appropriate outline for the paper. In this report, you should **clearly** articulate how your work tackled the problem and highlight how your results can point to future research directions. Besides concrete results, it is also important to discuss future work that you were able to identify throughout the semester. The report should contain an adequate number of figures to highlight the problem and approach.
 
 ##### GitHub page
 
@@ -150,7 +134,7 @@ On top of the presentation and project report, you should also create a well-doc
 
 ### Latex
 
-If this is the first time using LaTeX, go through [this](https://www.overleaf.com/learn/latex/Tutorials) tutorial. Please note that GitHub is a version control platform, so simply pushing your final proposal document defeats the purpose of using a management system. The GitHub repository should be a good representation of the evolution of all artifacts of the project, including reports, and contributions from individual members of the team. Therefore, if you use Overleaf, you are expected to link your project with your GitHub repository (see [here](https://www.overleaf.com/learn/how-to/How_do_I_connect_an_Overleaf_project_with_a_repo_on_GitHub%2C_GitLab_or_BitBucket%3F) for instructions how).
+If this is the first time using LaTeX, go through [this](https://www.overleaf.com/learn/latex/Tutorials) tutorial. Please note that GitHub is a version control platform, so simply pushing your final proposal document defeats the purpose of using a management system. The GitHub repository should be a good representation of the evolution of all artifacts of the project.
 
 ---
 
