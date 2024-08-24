@@ -138,21 +138,18 @@ For grades, see Grading Policy. For schedule, see Course Schedule. **Assignments
   - Back-end technologies and libraries.
   - Link: https://github.com/uic-big-data/assignment-2/
 - Research paper presentation:
-  - Two 30-minute presentation.
+  - Two presentations.
   - Link: https://fmiranda.me/courses/cs524-fall-2024/research-presentation/
 - Project proposal:
-  - 5-minute presentation.
   - Link: https://fmiranda.me/courses/cs524-fall-2024/final-project/#milestone-1-project-proposal
 - Final project midterm review:
-  - 15-minute presentation.
   - Link: https://fmiranda.me/courses/cs524-fall-2024/final-project/#milestone-2-midterm-review
 - Final project:
-  - 15-minute presentation and final report.
   - Link: https://fmiranda.me/courses/cs524-fall-2024/final-project/#milestone-3-final-project
 
 
 #### Late Days
-Since students will need to present their projects to the class, it is very important that they are submitted by the deadlines, otherwise it will be difficult to schedule new presentation slots. **If one team member is unable to present, the responsibility will fall to the other team member -- no exceptions will be made. In the unlikely event that all team members are unable to complete the project by the deadline, a documented and compelling excuse, such as illness, hospitalization, is required.**
+Since students will need to present their projects to the class, it is very important that they are submitted by the deadlines, otherwise it will be difficult to schedule new presentation slots. **If one team member is unable to present, the responsibility will fall to the other team members -- no exceptions will be made. In the unlikely event that all team members are unable to complete the project by the deadline, a documented and compelling excuse, such as illness, hospitalization, is required.**
 
 ***
 
