@@ -51,6 +51,7 @@ For a tentative list of topics, please see the ``final-project.pdf`` presentatio
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 - [Awesome Spatial Data](https://github.com/bchapuis/awesome-spatial-data)
 - [Awesome Urban Data](https://github.com/urban-toolkit/awesome-urban-datasets)
+- [Awesome Network Analysis](https://github.com/briatte/awesome-network-analysis?tab=readme-ov-file#datasets)
 - [Awesome Multimodal Urban Computing](https://github.com/yoshall/Awesome-Multimodal-Urban-Computing#taxonomy-and-summary-of-open-sourced-dataset)
 
 **Please be aware that merely creating a basic dashboard to visualize limited data is insufficient and does not meet the course expectations. Also be aware that the selection of a dataset is the most important step, as it will directly impact the rest of your project -- a simple dataset will not provide opportunities for new approaches. The selection of your dataset and the way you define your approach will be reflected in your evaluation.**
