@@ -159,7 +159,7 @@ Since students will need to present their projects to the class, it is very impo
 ### Important Notes
 
 Here is a summary of some key points:
-- Office hours will be held on Fridays from 10 AM to 12 PM. Please email me at least one day in advance to schedule an appointment.
+- Office hours will be held on Fridays from 10 AM to 12 PM. Please email me at least one day in advance to schedule an appointment; I will send you a calendar invite between 10 AM and 12 PM.
 - Please adhere to the maximum number of students allowed per team. No exceptions will be made.
 - Please adhere to the course schedule. Presentations will not be rescheduled unless **all** team members have a valid and documented reason.
 - Attendance is not optional, though justified absences with valid excuses will be understood. It is a crucial component of your learning experience and success in all courses, and it will be reflected in your grades.
