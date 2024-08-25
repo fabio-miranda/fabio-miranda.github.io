@@ -163,6 +163,7 @@ Here is a summary of some key points:
 - Use your own words, anything other than that is plagiarism. That includes copying from ChatGPT and/or slide decks available online.
 - Under no circumstances should you compromise academic integrity. Plagiarizing others' work or cheating in any form is unfair to both your instructors and your peers.
 - Please note that our definitions of academic integrity might differ, so refer to the definition provided below, which will be used throughout the course.
+- The final course activities will take place in week 15. There will be no activities during week 16 (finals week).
 - **Your success in this course will be directly proportional to the effort you invest. As a research-focused course, the more you put in, the more you will get out of it.**
 
 ***
