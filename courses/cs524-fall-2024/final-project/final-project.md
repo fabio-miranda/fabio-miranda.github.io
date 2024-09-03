@@ -74,11 +74,11 @@ I highly recommend you choose a topic (or dataset) that you are personally inter
 
 #### M1 Deliverables
 
-Your team should present the proposal, clearly explaining the problem (e.g., why it is important, how you plan to address it), covering prior work, describing the data, proposal and **timeline**. Each group presentation should last 12 minutes (+3 minutes for questions). Your group will be randomly assigned to present on Tuesday or Thursday, but you are expected to attend *both* presentation days. It is up to you and your teammates to decide how the presentation will be divided between each member of the team. Keep in mind that crafting a good presentation requires time and effort, and this will be carefully considered in your evaluation. Asking questions following teams' presentations will be used to assess class participation.
+Your team should present the proposal, clearly explaining the problem (e.g., why it is important, how you plan to address it), covering prior work, describing the data, proposal and **timeline**. Each group presentation should last 6 minutes. Your group will be randomly assigned to present on Tuesday or Thursday, but you are expected to attend *both* presentation days. It is up to you and your teammates to decide how the presentation will be divided between each member of the team. Keep in mind that crafting a good presentation requires time and effort, and this will be carefully considered in your evaluation. Asking questions following teams' presentations will be used to assess class participation.
 
 Your team is responsible for surveying for interesting datasets, identifying challenges, and crafting a well-thought-out and organized presentation. In this project proposal, you should **clearly** articulate how your proposal will tackle some of the problems related to the dataset, framing it around one of the areas of visualization research. Spend some time thinking and discussing potential challenges and solutions. Make sure that you are comfortable with the problem, dataset, and proposal. 
 
-Proper time management is crucial and will be reflected in your evaluation. Consider rehearsing your presentation to ensure it fits within the time frame; a well-timed and rehearsed presentation should last 12 minutes (not 8 or 15).
+Proper time management is crucial and will be reflected in your evaluation. Consider rehearsing your presentation to ensure it fits within the time frame; a well-timed and rehearsed presentation should last 6 minutes (not 4 or 8).
 
 ---
 
