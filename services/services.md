@@ -20,6 +20,8 @@
 
 #### Invited talks
 
+- *Intersecting Open Data, Public Participation, and Technology Design to Promote EJ*, EPA Office of Research and Development (ORD) (2024)
+- *Interactive Urban Visual Analysis at Scale: Focus on Urban Accessibility*, US Census Bureau (2024)
 - *Interactive Visual Analysis at Scale: From Data to Actionable Insights*, Kavli Frontiers of Science Symposium, Davis, United States (2022)
 - *Visualizing Environmental Justice Issues in Urban Areas with a Community-based Approach*, Green Building Initiative, Chicago, United States (2022)
 - *Interactive Visual Analysis of Urban Data: Immersive Analytics Opportunities*, VRAR CHICAGO, Chicago, United States (2022)
