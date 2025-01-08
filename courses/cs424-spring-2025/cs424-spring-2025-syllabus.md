@@ -91,85 +91,96 @@ The course is divided into three parts: 1) basic principles of visualization and
 
 This schedule will be updated throughout the semester with links for slides and reading material.
 
+
+
+Week 5: Exploratory data analysis (lab)
+Week 6: Interaction & multiple views (lab)
+Week 7: Grammars (lab)
+Week 8: Analytics (lab)
+Week 9: Dataflow (lab)
+Week 10: Spatial
+Week 11: Spatial (lab)
+Week 12: Uncertainty
+Week 13: Data management
+Week 14: Machine learning & data mining
+Week 15: Presentations
+
 ###### Week 1
 - **Topic: Course introduction & Why vis?**
 - Slides: [Introduction and overview](https://fmiranda.me/courses/cs424-slides/01-intro.pdf), [Why visualize data?](https://fmiranda.me/courses/cs424-slides/02-why-vis.pdf)
 - Reading: Munzner (Ch. 1)
 
 ###### Week 2
-- **Topic: Data & attribute types, marks, channels**
-- Slides: [Introduction to visualization](https://fmiranda.me/courses/cs424-slides/03-vis.pdf)
-- Reading: Munzner (Ch. 2, 5)
+- **Topic: Data & attribute types, marks, channels; Task abstraction**
+- Slides: [Introduction to visualization](https://fmiranda.me/courses/cs424-slides/03-vis.pdf), [Task abstraction](https://fmiranda.me/courses/cs424-slides/04-tasks.pdf)
+- Reading: Munzner (Ch. 2, 3), [Best Practices for Data Visualisation](https://royal-statistical-society.github.io/datavisguide/)
 
 ###### Week 3
-- **Topic: Task abstraction**
-- Slides: [Task abstraction](https://fmiranda.me/courses/cs424-slides/04-tasks.pdf)
-- Reading: Munzner (Ch. 3, 5), [Best Practices for Data Visualisation](https://royal-statistical-society.github.io/datavisguide/)
+- **Topic: Data questions**
+- Slides: [Data questions](https://fmiranda.me/courses/cs424-slides/06-data-questions.pdf)
+- Reading: Munzner (Ch. 5), [Heer et al., 2010](https://dl.acm.org/doi/10.1145/1794514.1805128), [Perer and Schneiderman, 2008](https://dl.acm.org/doi/10.1145/1357054.1357101) 
 ![Static Badge](https://img.shields.io/badge/Assignment%201%20released-2171b5)
 
 ###### Week 4
-- **Topic: Data questions & transformations**
-- **Lab: Exploratory data analysis with Pandas**
-- Slides: [Data questions & transformations](https://fmiranda.me/courses/cs424-slides/06-data-questions.pdf), [Pandas](https://fmiranda.me/courses/cs424-slides/04-pandas.pdf)
-- Reading: [Heer et al., 2010](https://dl.acm.org/doi/10.1145/1794514.1805128), [Perer and Schneiderman, 2008](https://dl.acm.org/doi/10.1145/1357054.1357101)  
-![Static Badge](https://img.shields.io/badge/Lab%20session%201%20(Thu)-2f8a70)
+- **Topic: Grammars for visualization**
+- **Lab: Visualization grammars**
+- Slides: [Visualization grammars](https://fmiranda.me/courses/cs424-slides/06-vis-grammars.pdf)
+- Reading: [A Layered Grammar of Graphics](https://vita.had.co.nz/papers/layered-grammar.pdf), [The Grammar of Graphics](https://link.springer.com/book/10.1007/0-387-28695-0), [Vega-Lite](https://ieeexplore.ieee.org/abstract/document/7539624), [Intro to Vega-Lite](https://vega.github.io/vega-lite/tutorials/getting_started.html), [Survey](https://arxiv.org/pdf/2207.07998.pdf), [Grammar tutorial](https://fmiranda.me/publications/pdfs/grammars.pdf)
+![Static Badge](https://img.shields.io/badge/Lab%20session%202%20(Thu)-2f8a70)
 
 ###### Week 5
-- **Topic: Interaction & multiple views**
-- **Lab: Exploratory data analysis with GeoPandas**
-- Slides: [Interaction](https://fmiranda.me/courses/cs424-slides/07-interaction.pdf), [GeoPandas](https://fmiranda.me/courses/cs424-slides/05-geopandas.pdf)
-- Reading: [GeoPandas](https://geopandas.org/en/stable/getting_started.html)
-![Static Badge](https://img.shields.io/badge/Lab%20session%202%20(Thu)-2f8a70)
+- **Topic: Data collection, wrangling & transformations**
+- **Lab: Data collection**
+- Slides: [Data transformations](https://fmiranda.me/courses/cs424-slides/06-data-questions.pdf), [Pandas](https://fmiranda.me/courses/cs424-slides/04-pandas.pdf)
+- Reading:
+![Static Badge](https://img.shields.io/badge/Lab%20session%203%20(Thu)-2f8a70)
 ![Static Badge](https://img.shields.io/badge/Assignment%201%20due-aa2721)
 ![Static Badge](https://img.shields.io/badge/Assignment%202%20released-2171b5)
 ![Static Badge](https://img.shields.io/badge/Written%20critique%20released-2171b5)
 
 ###### Week 6
-- **Lab 1: Sketches evaluation**
-- **Lab 2: Web technologies for visualization**
-- Slides: [Javascript, D3](https://fmiranda.me/courses/cs424-slides/05-d3.pdf)
-- Reading: [D3 getting started](https://d3js.org/getting-started), [D3 paper](http://vis.stanford.edu/files/2011-D3-InfoVis.pdf)
-![Static Badge](https://img.shields.io/badge/Lab%20session%203%20(Tue)-2f8a70)
+- **Topic: Exploratory data analysis**
+- **Lab: Exploratory data analysis with GeoPandas**
+- Slides: [GeoPandas](https://fmiranda.me/courses/cs424-slides/05-geopandas.pdf)
+- Reading: [GeoPandas](https://geopandas.org/en/stable/getting_started.html)
 ![Static Badge](https://img.shields.io/badge/Lab%20session%204%20(Thu)-2f8a70)
 
 ###### Week 7
-- **Topic: Grammars for visualization (Part 1)**
-- **Lab: Visualization grammars**
-- Slides: [Visualization grammars](https://fmiranda.me/courses/cs424-slides/06-vis-grammars.pdf)
-- Reading: [A Layered Grammar of Graphics](https://vita.had.co.nz/papers/layered-grammar.pdf), [The Grammar of Graphics](https://link.springer.com/book/10.1007/0-387-28695-0), [Vega-Lite](https://ieeexplore.ieee.org/abstract/document/7539624), [Intro to Vega-Lite](https://vega.github.io/vega-lite/tutorials/getting_started.html), [Survey](https://arxiv.org/pdf/2207.07998.pdf)
-![Static Badge](https://img.shields.io/badge/Lab%20session%205%20(Thu)-2f8a70)
+- **Topic: Interaction & multiple views**
+- Slides: [Interaction](https://fmiranda.me/courses/cs424-slides/07-interaction.pdf)
+- Reading:
 
 ###### Week 8
-- **Topic: Spatial visualization (Part 1)**
-- Slides: [Spatial vis](https://fmiranda.me/courses/cs424-slides/08-spatial-vis.pdf)
-- Reading: [TaxiVis](https://ieeexplore.ieee.org/abstract/document/6634127)
+- **Topic: Dataflow frameworks**
+- **Lab: Dataflow frameworks**
+- Slides:
+- Reading: [The Urban Toolkit](https://arxiv.org/abs/2308.07769)
+![Static Badge](https://img.shields.io/badge/Lab%20session%205%20(Thu)-2f8a70)
 ![Static Badge](https://img.shields.io/badge/Written%20critique%20due%20-aa2721)
 ![Static Badge](https://img.shields.io/badge/Assignment%202%20due-aa2721)
 ![Static Badge](https://img.shields.io/badge/Assignment%203%20released-2171b5)
 
 ###### Week 9
-- **Topic: Uncertainty visualization**
-- **Lab: Spatial visualization**
-- Slides: [Uncertainty vis](https://fmiranda.me/courses/cs424-slides/09-uncertainty.pdf)
+- **Topic: Spatial visualization**
+- Slides: [Spatial vis](https://fmiranda.me/courses/cs424-slides/08-spatial-vis.pdf)
+- Reading: [TaxiVis](https://ieeexplore.ieee.org/abstract/document/6634127)
+
+###### Week 10
+- **Topic: Visual analytics**
+- **Lab: Visual analytics workflow**
+- Slides:
 - Reading:
 ![Static Badge](https://img.shields.io/badge/Lab%20session%206%20(Thu)-2f8a70)
   
-###### Week 10
-- **Topic: Project updates**
-![Static Badge](https://img.shields.io/badge/Online%20(Zoom)-2f8a70)
-
 ###### Week 11
-- **Topic: Spatial visualization (Part 2)**
-- Slides: [Advanced spatial visualization](https://fmiranda.me/courses/cs424-slides/09-advanced-spatial-vis.pdf)
-- Reading: [The Urban Toolkit](https://arxiv.org/abs/2308.07769), [Grammar tutorial](https://fmiranda.me/publications/pdfs/grammars.pdf)
+- **Topic: Advanced spatial & uncertainty visualization**
+- Slides: [Advanced spatial visualization](https://fmiranda.me/courses/cs424-slides/09-advanced-spatial-vis.pdf), [Uncertainty vis](https://fmiranda.me/courses/cs424-slides/09-uncertainty.pdf)
+- Reading:
 ![Static Badge](https://img.shields.io/badge/Assignment%203%20due-aa2721)
 ![Static Badge](https://img.shields.io/badge/Assignment%204%20released-2171b5)
 
 ###### Week 12
-- **Topic: Visual analytics systems -- integrating visualization and analytics (invited talks)**
-- **Lab: Visualization grammars for spatial visualization**
-- Slides:  
-- Reading:
+- **Topic: Invited talks**
 
 ###### Week 13
 - **Topic: Data management for visualization**
@@ -183,8 +194,6 @@ This schedule will be updated throughout the semester with links for slides and 
 
 ###### Week 15
 - **Topic: Final project presentations**
-- Slides:  
-- Reading:
 ![Static Badge](https://img.shields.io/badge/Assignment%204%20due-aa2721)
 
 
@@ -234,8 +243,8 @@ The assignments of this course require the design and implementation of web-base
 #### Grading Policy
 - Assignment 1: 15%
 - Assignment 2: 20%
-- Assignment 3: 20%
-- Assignment 4 / final project: 25%
+- Assignment 3: 22.5%
+- Assignment 4: 22.5%
 - Vis critique report: 10%
 - Participation: 10%
 
@@ -272,7 +281,7 @@ Letter grades will be based on a straight scale using the following thresholds f
 - Assignment 3:
   - Coordinated views
   - Due week 11
-- Assignment 4 / final project:
+- Assignment 4:
   - Web visualization interface
   - Due week 15
 - Vis critique presentation:
