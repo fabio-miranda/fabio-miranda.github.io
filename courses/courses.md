@@ -1,5 +1,7 @@
 ### Courses
 
+[CS 424 - Visualization and Visual Analytics (Spring 2025)](https://fmiranda.me/courses/cs424-spring-2025/)
+
 [CS 524 - Big Data Visualization and Analytics (Fall 2024)](https://fmiranda.me/courses/cs524-fall-2024/)
 
 [CS 425 - Computer Graphics I (Spring 2024)](https://fmiranda.me/courses/cs425-spring-2024/)
