@@ -249,13 +249,13 @@ For graduate students, tasks marked as optional will be considered required task
 
 #### Participation
 
-This course includes a class participation grade that will consider your contribution to a productive learning environment—whether in the classroom, on Piazza, or during office hours. Attendance will be monitored throughout the semester. Good attendance and consistent engagement will be considered beyond the assigned participation portion of your grade and may also be factored into any potential rounding to higher letter grades.
+This course includes a class participation grade that will consider your contribution to a productive learning environment—whether in the classroom, on Piazza, or during office hours. Attendance will be tracked throughout the semester. Good attendance and consistent engagement will be considered beyond the assigned participation portion of your grade and may also be factored into any potential rounding to higher letter grades.
 
 Note that you do not need to participate in every classroom discussion. However, you are expected to actively engage with the instructor or classmates in some capacity (in class, on Piazza, via email, or during office hours). Rather than focus solely on penalizing absences, this policy rewards those who invest in the learning community by showing up and participating.
 
 Students who may struggle with the course material but take advantage of resources such as office hours or mentoring can still be successful. The key is taking initiative to stay involved and seeking help when needed.
 
-#### Grades
+#### Letter Grades
 Letter grades will be based on a straight scale using the following thresholds for grade cut-offs: A range from 90-100%, B range from 80-89.9%, C range from 70-79.9%, D range from 60-69.9%, and F for 59.9% or lower. However, strong attendance and participation may be taken into account in borderline situations, allowing a slightly lower percentage (e.g., 89.75%) to be rounded up.
 
 **Under no circumstances will grades be adjusted down**. You can use this straight grading scale as an indicator of your minimum grade in the course at any time during the course. You should keep track of your own points so that at any time during the semester you may calculate your minimum grade based on the total number of points possible at that particular time. If and when, for any reason, you have concerns about your grade in the course, please email me to schedule a time for you to speak with me or your TA so that we can discuss study techniques or alternative strategies to help you.
