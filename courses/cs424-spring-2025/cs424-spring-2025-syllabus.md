@@ -263,6 +263,9 @@ Letter grades will be based on a straight scale using the following thresholds f
 **You have two weeks after each grade is released to raise any concerns or questions regarding their marks. Beyond this two-week window, no further inquiries or revisions to the grade will be considered.**
 
 #### Evaluation Schedule
+- Assignment 0:
+  - Dataset selection
+  - Due week 3
 - Assignment 1:
   - Visualization sketching
   - Due week 5
@@ -275,8 +278,8 @@ Letter grades will be based on a straight scale using the following thresholds f
 - Assignment 4:
   - Web visualization interface
   - Due week 15
-- Vis critique presentation:
-  - Written report.
+- Vis critique:
+  - Written report
   - Due week 8
 
 #### Late Days
