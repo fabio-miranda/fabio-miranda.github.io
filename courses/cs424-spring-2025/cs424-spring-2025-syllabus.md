@@ -77,7 +77,7 @@ By the end of the course, you will have a good understanding of the basic princi
 
 #### Deliverables
 
-Students will be required to complete four assignments, where they will implement concepts and techniques covered in class using real-world datasets. Students will need to present their projects to the class, so it is very important that they are finished by the deadlines. The first assignment will cover visualization sketching (using pen and paper). The second assignment will cover exploratory data analysis using interactive computing frameworks (e.g., Jupyter); the third project will cover coordinated views using collaborative environments (e.g., Observable); the fourth project will cover spatial data visualization using web technologies. Project repositories should also contain a ~500-word markdown report, giving an overview of the dataset, approach and detailing findings.
+Students will be required to complete four assignments (plus an assignment zero), where they will implement concepts and techniques covered in class using real-world datasets. Students will need to present their projects to the class, so it is very important that they are finished by the deadlines. The first assignment will cover visualization sketching (using pen and paper). The second assignment will cover exploratory data analysis using interactive computing frameworks (e.g., Jupyter); the third project will cover coordinated views using collaborative environments (e.g., Observable); the fourth project will cover data visualization using web technologies. Project repositories should also contain a ~500-word markdown report, giving an overview of the dataset, approach and detailing findings.
 
 Additionally, students will also need to select one visualization (from a well-known source), critically evaluate it, and present their conclusions through a written report.
 
@@ -100,11 +100,13 @@ This schedule will be updated throughout the semester with links for slides and 
 - **Topic: Data & attribute types, marks, channels; Task abstraction**
 - Slides: [Introduction to visualization](https://fmiranda.me/courses/cs424-slides/03-vis.pdf), [Task abstraction](https://fmiranda.me/courses/cs424-slides/04-tasks.pdf)
 - Reading: Munzner (Ch. 2, 3), [Best Practices for Data Visualisation](https://royal-statistical-society.github.io/datavisguide/)
+![Static Badge](https://img.shields.io/badge/Assignment%200%20released-2171b5)
 
 ###### Week 3
 - **Topic: Data questions**
 - Slides: [Data questions](https://fmiranda.me/courses/cs424-slides/06-data-questions.pdf)
 - Reading: Munzner (Ch. 5), [Heer et al., 2010](https://dl.acm.org/doi/10.1145/1794514.1805128), [Perer and Schneiderman, 2008](https://dl.acm.org/doi/10.1145/1357054.1357101) 
+![Static Badge](https://img.shields.io/badge/Assignment%200%20due-aa2721)
 ![Static Badge](https://img.shields.io/badge/Assignment%201%20released-2171b5)
 
 ###### Week 4
@@ -227,18 +229,19 @@ The assignments of this course require the design and implementation of web-base
 
 ### Evaluation and Grading
 #### Grading Policy
+- Assignment 0: 5%
 - Assignment 1: 15%
 - Assignment 2: 20%
-- Assignment 3: 22.5%
-- Assignment 4: 22.5%
+- Assignment 3: 20%
+- Assignment 4: 20%
 - Vis critique report: 10%
 - Participation: 10%
 
-This course includes four assignments to make sure you are familiar with the main components of visualization and visual analytics systems. The assignments will balance theory and practice, covering both design and implementation aspects. You can either choose a different dataset for each assignment, or re-use the same dataset over the four assignments -- potentially further exploring and augmenting findings, insights, techniques, and/or methods. A list of datasets will be made available. We will use [GitHub Classroom](https://github.com/uic-cs424) for the projects.
+This course includes four assignments (plus an assignment zero) to make sure you are familiar with the main components of visualization and visual analytics systems. The assignments will balance theory and practice, covering both design and implementation aspects. You can either choose a different dataset for each assignment, or re-use the same dataset over all assignments -- potentially further exploring and augmenting findings, insights, techniques, and/or methods. A list of datasets will be made available. We will use [GitHub Classroom](https://github.com/uic-cs424) for the projects.
 
-Assignment 1 will not involve any programming. Assignment 2 will use Python. For Assignments 3 and 4, you will be able to choose between visualization toolkits or Javascript / Typescript.
+Assignments 0 and 1 will not involve any programming. Assignment 2 will use Python. For Assignments 3 and 4, you will be able to choose between visualization toolkits or Javascript / Typescript.
 
-You will present their final assignments to the class, following the course schedule. You will also write a one-page evaluating of two different visualizations, from well-known sources. Detailed instructions will be made available following the evaluation schedule. 
+You will present your final assignment to the class, following the course schedule. Detailed instructions will be made available following the evaluation schedule. 
 
 **You have the option to work in groups; however, team members may receive different grades. Individual grades will be adjusted if a team member's contributions to the project are insufficient. Contributions will be evaluated based on GitHub commits to ensure a fair and accurate assessment of individual effort within the team.**
 
