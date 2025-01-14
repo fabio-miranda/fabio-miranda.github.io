@@ -61,7 +61,7 @@ CS 251 (Data Structures) and solid grasp of programming in a language like C, C+
 
 #### Course objectives
 
-By the end of the course, students will have a good understanding of the basic principles of visualization and visual analytics and will be able to articulate advantages and disadvantages of visual design choices for different data types. They will also be able to design and implement web-based visual analytics systems by combining visualization, data management, data mining and machine learning techniques that work in tandem to enable interactive exploration of multidimensional and heterogeneous datasets.
+By the end of the course, you will have a good understanding of the basic principles of visualization and visual analytics and will be able to articulate advantages and disadvantages of visual design choices for different data types. They will also be able to design and implement web-based visual analytics systems by combining visualization, data management, data mining and machine learning techniques that work in tandem to enable interactive exploration of multidimensional and heterogeneous datasets.
 
 #### Learning outcomes
 
@@ -90,20 +90,6 @@ The course is divided into three parts: 1) basic principles of visualization and
 ### Course Schedule
 
 This schedule will be updated throughout the semester with links for slides and reading material.
-
-
-
-Week 5: Exploratory data analysis (lab)
-Week 6: Interaction & multiple views (lab)
-Week 7: Grammars (lab)
-Week 8: Analytics (lab)
-Week 9: Dataflow (lab)
-Week 10: Spatial
-Week 11: Spatial (lab)
-Week 12: Uncertainty
-Week 13: Data management
-Week 14: Machine learning & data mining
-Week 15: Presentations
 
 ###### Week 1
 - **Topic: Course introduction & Why vis?**
@@ -180,7 +166,7 @@ Week 15: Presentations
 ![Static Badge](https://img.shields.io/badge/Assignment%204%20released-2171b5)
 
 ###### Week 12
-- **Topic: Invited talks**
+- **Topic: Catching up + Invited talks**
 
 ###### Week 13
 - **Topic: Data management for visualization**
@@ -193,7 +179,7 @@ Week 15: Presentations
 - Reading:
 
 ###### Week 15
-- **Topic: Final project presentations**
+- **Topic: Project presentations**
 ![Static Badge](https://img.shields.io/badge/Assignment%204%20due-aa2721)
 
 
@@ -248,11 +234,13 @@ The assignments of this course require the design and implementation of web-base
 - Vis critique report: 10%
 - Participation: 10%
 
-This course includes four assignments to make sure the student is familiar with the main components of visualization and visual analytics systems. The assignments will balance theory and practice, covering both design and implementation aspects. The student can either choose a different dataset for each assignment, or re-use the same dataset over the four assignments -- potentially further exploring and augmenting findings, insights, techniques, and/or methods. A list of datasets will be made available.
+This course includes four assignments to make sure you are familiar with the main components of visualization and visual analytics systems. The assignments will balance theory and practice, covering both design and implementation aspects. You can either choose a different dataset for each assignment, or re-use the same dataset over the four assignments -- potentially further exploring and augmenting findings, insights, techniques, and/or methods. A list of datasets will be made available. We will use [GitHub Classroom](https://github.com/uic-cs424) for the projects.
 
-Assignment 1 will not involve any programming. Assignment 2 will use Python. For Assignments 3 and 4 the student will be able to choose between high-level grammars or Javascript / Typescript.
+Assignment 1 will not involve any programming. Assignment 2 will use Python. For Assignments 3 and 4, you will be able to choose between visualization toolkits or Javascript / Typescript.
 
-Students will present their final assignments to the class, following the course schedule. Students will also write a one-page evaluating of two different visualizations, from well-known sources. *For assignments and visualization evaluations, students can optionally work in groups*. Detailed instructions will be made available following the evaluation schedule. We will use [GitHub Classroom](https://github.com/uic-cs424) for the projects.
+You will present their final assignments to the class, following the course schedule. You will also write a one-page evaluating of two different visualizations, from well-known sources. Detailed instructions will be made available following the evaluation schedule. 
+
+**You have the option to work in groups; however, team members may receive different grades. Individual grades will be adjusted if a team member's contributions to the project are insufficient. Contributions will be evaluated based on GitHub commits to ensure a fair and accurate assessment of individual effort within the team.**
 
 For graduate students, tasks marked as optional will be considered required tasks.
 
@@ -269,7 +257,7 @@ Letter grades will be based on a straight scale using the following thresholds f
 
 **Under no circumstances will grades be adjusted down**. You can use this straight grading scale as an indicator of your minimum grade in the course at any time during the course. You should keep track of your own points so that at any time during the semester you may calculate your minimum grade based on the total number of points possible at that particular time. If and when, for any reason, you have concerns about your grade in the course, please email me to schedule a time for you to speak with me or your TA so that we can discuss study techniques or alternative strategies to help you.
 
-**Students have two weeks after each grade is released to raise any concerns or questions regarding their marks. Beyond this two-week window, no further inquiries or revisions to the grade will be considered.**
+**You have two weeks after each grade is released to raise any concerns or questions regarding their marks. Beyond this two-week window, no further inquiries or revisions to the grade will be considered.**
 
 #### Evaluation Schedule
 - Assignment 1:
@@ -289,7 +277,7 @@ Letter grades will be based on a straight scale using the following thresholds f
   - Due week 8
 
 #### Late Days
-Assignments must be submitted by the deadlines. If you are unable to complete a project by the deadline, a documented compelling excuse (such as illness, hospitalization) is required. If you are unable to complete a project on time, each late day will incur a 10-point deduction per 24-hour period past the deadline.
+Assignments must be submitted by the deadlines. If you are unable to complete a project by the deadline, a documented compelling excuse (such as illness, hospitalization) is required. Teams will have four late days to use during the entire semester. **After the four late days have been used, each late day will result in a 10-point deduction (out of 100 points per assignment) for each day past the deadline.**
 
 ***
 
