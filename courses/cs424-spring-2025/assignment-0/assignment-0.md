@@ -8,7 +8,7 @@ Course webpage: https://fmiranda.me/courses/cs424-spring-2025/
 
 ### Assignment 0: Getting Started
 
-The goal of this assignment is to get familiar with GitHub Classroom, form your project groups, and select datasets for the course. By the end of this assignment, you will be set up to work collaboratively with your colleagues throughout the semester.
+The goal of this assignment is to get familiar with GitHub Classroom, form your project groups, and select a dataset to be used in this course. By the end of this assignment, you will be set up to work collaboratively with your colleagues throughout the semester.
 
 We will use GitHub to manage the deliverable. You should create a repository for your team on GitHub Classroom (see Piazza for the invitation link). Check resources below for pointers regarding GitHub and Markdown documentation.
 
