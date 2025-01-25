@@ -16,17 +16,17 @@ We will use GitHub to manage the deliverable. You should create a repository for
 
 ### Tasks
 
-#### Task 0: Setting up GitHub Classroom
+#### Task 1: Setting up GitHub Classroom
 
 Accept the GitHub Classroom invitation link shared on Piazza. You should create a repository for your team on GitHub Classroom. Ensure all team members are added as collaborators to the repository.
 
-#### Task 1: Forming Groups
+#### Task 2: Forming Groups
 
 Form a group of up to three students. Enter your group information, including names and emails of group members, in the shared spreadsheet (link provided on Piazza).
 
 Note: If you encounter difficulties finding a group, post on Piazza to connect with other students who are also looking for team members.
 
-#### Task 2: Selecting a Dataset
+#### Task 3: Selecting a Dataset
 
 Review the dataset options suggested below. Discuss with your group and select a dataset that aligns with your interests and goals for the course. For this task, ensure that you are comfortable working with the dataset. It is up to you to ensure that you (1) have access to the dataset, (2) are reasonably comfortable working with it, and (3) understand the filtering options available when downloading it. Some of these datasets are reasonably large, so you may need to filter or preprocess them to make them manageable for your analysis. After making your selection, record it in the shared spreadsheet (see Piazza for the link).
 
