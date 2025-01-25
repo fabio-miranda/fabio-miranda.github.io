@@ -30,7 +30,9 @@ Note: If you encounter difficulties finding a group, post on Piazza to connect w
 
 Review the dataset options suggested below. Discuss with your group and select a dataset that aligns with your interests and goals for the course. For this task, ensure that you are comfortable working with the dataset. It is up to you to ensure that you (1) have access to the dataset, (2) are reasonably comfortable working with it, and (3) understand the filtering options available when downloading it. Some of these datasets are reasonably large, so you may need to filter or preprocess them to make them manageable for your analysis. After making your selection, record it in the shared spreadsheet (see Piazza for the link).
 
-Note: No two groups can select the same dataset. Dataset selection will be handled on a first come, first served basis. If your preferred dataset has already been claimed, you will need to select a different one. Groups are also free to select datasets not listed below, but these must be approved by me before they can be finalized. If your group wishes to propose a new dataset, please send me an email with the dataset details for review. When choosing a dataset, take into account its size, attributes, and overall complexity to ensure it is appropriate for the scope of the course. Some of the datasets linked below are accessible only through API calls. It is your responsibility to evaluate whether you are prepared to handle the additional complexity they may introduce during the course.
+No two groups can select the same dataset. Dataset selection will be handled on a first come, first served basis. Check if your preferred dataset has already been claimed; if so, you will need to select a different one. Groups are also free to select datasets not listed below, but these must be approved by me before they can be finalized. If your group wishes to propose a new dataset, please send me an email with the dataset details for review. When choosing a dataset, take into account its size, attributes, and overall complexity to ensure it is appropriate for the scope of the course. Some of the datasets linked below are accessible only through API calls. It is your responsibility to evaluate whether you are prepared to handle the additional complexity they may introduce during the course.
+
+If all of the datasets have already been selected by other groups, you will need to find a new one. Search the [Chicago Data Portal](https://data.cityofchicago.org/), [NYC Open Data](https://opendata.cityofnewyork.us/), [Analyze Boston](https://data.boston.gov/), or other data portals for more datasets. I will need to review your selection.
 
 * [Traffic crashes - crashes](https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if)
 * [Traffic crashes - people](https://data.cityofchicago.org/Transportation/Traffic-Crashes-People/u6pd-qa9d)
@@ -44,12 +46,12 @@ Note: No two groups can select the same dataset. Dataset selection will be handl
 * [CDPH environmental records](https://data.cityofchicago.org/Environment-Sustainable-Development/CDPH-Environmental-Records-Lookup-Table/a9u4-3dwb)
 * [Building violations](https://data.cityofchicago.org/Buildings/Building-Violations/22u3-xenr)
 * [311 service requests](https://data.cityofchicago.org/Service-Requests/311-Service-Requests/v6vf-nfxy)
+* [Flooding Complaints to 311](https://data.cityofchicago.org/Service-Requests/Flooding-Complaints-to-311/qrmr-m89j/about_data)
 * [Income and Unemployment](https://data.cityofchicago.org/Health-Human-Services/Selected-socioeconomic-indicators-by-neighborhood/i9hv-en6g/data)
 * [Crimes](https://catalog.data.gov/dataset/crimes-2001-to-present)
 * [Green Roofs](https://data.cityofchicago.org/Environment-Sustainable-Development/Green-Roofs-Map/u23m-pa73)
 * [Energy Usage](https://data.cityofchicago.org/Environment-Sustainable-Development/Energy-Usage-2010/8yq3-m6wp)
-* [Energy Efficiency of buildings](https://data.cityofchicago.org/Environment-Sustainable-Development/Chicago-Energy-Benchmarking-2020-Data-Reported-in-/ydbk-8hi6)
-* [Environmental Complaints](https://data.cityofchicago.org/Environment-Sustainable-Development/CDPH-Environmental-Complaints/fypr-ksnz/about_data)
+* [Energy Efficiency of Buildings](https://data.cityofchicago.org/Environment-Sustainable-Development/Chicago-Energy-Benchmarking-2020-Data-Reported-in-/ydbk-8hi6)
 * [Flooding Measurements](https://data.cityofchicago.org/Environment-Sustainable-Development/Smart-Green-Infrastructure-Monitoring-Sensors-Hist/ggws-77ih/about_data)
 * [Urban Farms](https://data.cityofchicago.org/Environment-Sustainable-Development/Map-of-Urban-Farms/uti6-fp3f)
 * [Project Sidewalk](https://sidewalk-chicago.cs.washington.edu/api)
