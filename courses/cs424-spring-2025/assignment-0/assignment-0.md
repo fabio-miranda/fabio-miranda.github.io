@@ -54,7 +54,6 @@ If all of the datasets have already been selected by other groups, you will need
 * [Energy usage](https://data.cityofchicago.org/Environment-Sustainable-Development/Energy-Usage-2010/8yq3-m6wp)
 * [Energy efficiency of buildings](https://data.cityofchicago.org/Environment-Sustainable-Development/Chicago-Energy-Benchmarking-2020-Data-Reported-in-/ydbk-8hi6)
 * [Flooding measurements](https://data.cityofchicago.org/Environment-Sustainable-Development/Smart-Green-Infrastructure-Monitoring-Sensors-Hist/ggws-77ih/about_data)
-* [Urban farms](https://data.cityofchicago.org/Environment-Sustainable-Development/Map-of-Urban-Farms/uti6-fp3f)
 * [Project Sidewalk](https://sidewalk-chicago.cs.washington.edu/api)
 
 ---
