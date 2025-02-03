@@ -42,7 +42,7 @@ Check resources below for pointers on sketching.
 
 #### Task 5: Summarizing
 
-Write a paragraph comparing your visualization designs, covering both strengths and weaknesses in relation to each other, as well as originality. Discuss whether they would be effective in answering the domain questions posed in task 2. You should discuss the strengths and weaknesses of your different visualizations, evaluate their effectiveness in answering the domain questions, while considering factors such as readability, complexity, expressiveness, and scalability.
+Write a comparison of your visualization designs, covering both strengths and weaknesses in relation to each other, as well as originality. Discuss whether they would be effective in answering the domain questions posed in task 2. You should discuss the strengths and weaknesses of your different visualizations, evaluate their effectiveness in answering the domain questions, while considering factors such as readability, complexity, expressiveness, and scalability.
 
 Some important questions to keep in mind: Did you explore a wide range of visualization techniques, or did you rely on a small subset of common visual encodings? How does the diversity of your sketches contribute to answering the domain questions in different ways?
 
@@ -50,7 +50,7 @@ Some important questions to keep in mind: Did you explore a wide range of visual
 
 #### Deliverables
 
-Submit your assignment on GitHub. Your writeups and sketches should be compiled into a single Markdown document (intertwining text and images), uploaded to GitHub (see Piazza for the invitation link). Take pictures or scan your sketches, making sure that they are easily readable. Make sure your writeups and sketches are clearly organized.
+Submit your assignment on GitHub. Your writeups and sketches should be compiled into a single Markdown document (intertwining text and images), uploaded to GitHub (see Piazza for the invitation link). Take pictures or scan your sketches, making sure that they are easily readable. **Make sure your writeups and sketches are clearly organized.**
 
 ---
 
