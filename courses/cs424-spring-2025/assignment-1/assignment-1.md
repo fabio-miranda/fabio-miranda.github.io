@@ -1,8 +1,8 @@
-### CS424 - Visualization & Visual Analytics (Fall 2023)
+### CS424 - Visualization & Visual Analytics (Spring 2025)
 
 Instructor: Fabio Miranda
 
-Course webpage: https://fmiranda.me/courses/cs424-fall-2023/
+Course webpage: https://fmiranda.me/courses/cs424-spring-2025/
 
 ---
 
@@ -37,6 +37,8 @@ Design 8 to 16 different visualization sketches (8 for groups with one member, 1
 In this task, brainstorm within your group potential visualizations that you think are effective in answering the questions. Ensure the diversity of the visualization sketches -- it is not enough to come up with a series of well-known bar charts, line charts, etc. (even if they use different attributes), make sure the visualizations are fundamentally different. If you end up with variations of the same idea, think of alternatives and refine your approach.
 
 In this assignment, do not use any tool or library to visualize the data. You are expected to create *hand-drawn* sketches. However, that does not mean that you should hand in an unstructured set of sketches, without reason or rhyme. Even though the process of sketching visualizations is an iterative one, the submitted document should be readable and provide a clear view of your creation process.
+
+Check resources below for pointers on sketching.
 
 #### Task 5: Summarizing
 
