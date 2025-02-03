@@ -49,7 +49,6 @@ If all of the datasets have already been selected by other groups, you will need
 * [311 service requests](https://data.cityofchicago.org/Service-Requests/311-Service-Requests/v6vf-nfxy)
 * [Flooding complaints to 311](https://data.cityofchicago.org/Service-Requests/Flooding-Complaints-to-311/qrmr-m89j/about_data)
 * [Income and unemployment](https://data.cityofchicago.org/Health-Human-Services/Selected-socioeconomic-indicators-by-neighborhood/i9hv-en6g/data)
-* [Crimes](https://catalog.data.gov/dataset/crimes-2001-to-present)
 * [Green roofs](https://data.cityofchicago.org/Environment-Sustainable-Development/Green-Roofs-Map/u23m-pa73)
 * [Energy usage](https://data.cityofchicago.org/Environment-Sustainable-Development/Energy-Usage-2010/8yq3-m6wp)
 * [Energy efficiency of buildings](https://data.cityofchicago.org/Environment-Sustainable-Development/Chicago-Energy-Benchmarking-2020-Data-Reported-in-/ydbk-8hi6)
