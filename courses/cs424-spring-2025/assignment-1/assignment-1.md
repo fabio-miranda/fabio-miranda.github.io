@@ -8,46 +8,15 @@ Course webpage: https://fmiranda.me/courses/cs424-fall-2023/
 
 ### Assignment 1: Sketching visualizations
 
-The goal of this assignment is to get you familiar with visualization sketching. You will have to present an overview of a dataset, discuss data questions and task abstractions, and sketch a few visualizations. Sketching your visualization, before delving too deep into the implementation of the visualization, will allow you to test your ideas early on. Your sketches will serve as the foundation for the visualizations that you will create in the subsequent assignments. The tasks require multiple iterations, so make sure you start early and appreciate the process of brainstorming and discussing ideas. Make sure to go over the resources listed at the end of this document.
+The goal of this assignment is to get you familiar with visualization sketching. You will use the dataset you selected in the previous assignment, discuss data questions and task abstractions, and sketch a few visualizations. Sketching your visualization, before delving too deep into the implementation of the visualization, will allow you to test your ideas early on. Your sketches will serve as the foundation for the visualizations that you will create in the subsequent assignments. The tasks require multiple iterations, so make sure you start early and appreciate the process of brainstorming and discussing ideas. Make sure to go over the resources listed at the end of this document.
 
-This assignment contains six tasks (including an initial task). For tasks 1 through 5, you should write your answers and sketches in a single a [markdown document](https://www.markdownguide.org/getting-started/). Throughout the tasks, you should keep in mind that one of the objectives of sketching is to decouple the design of the visualizations from their implementation. In doing so, you should feel free to explore the design space without being concerned with (and limited by) implementation considerations.
+This assignment contains five tasks. You should write your answers and include your sketches in a single [markdown document](https://www.markdownguide.org/getting-started/). Throughout the tasks, you should keep in mind that one of the objectives of sketching is to decouple the design of the visualizations from their implementation. In doing so, you should feel free to explore the design space without being concerned with (and limited by) implementation considerations.
 
 We will use GitHub to manage the deliverable. You should create a repository for your team on GitHub Classroom (see Piazza for the invitation link).
 
 ---
 
 ### Tasks
-
-#### Task 0: Selecting a dataset
-
-Select a dataset that is of interest to you, from the list below:
-
-* [Traffic crashes - crashes](https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if)
-* [Traffic crashes - people](https://data.cityofchicago.org/Transportation/Traffic-Crashes-People/u6pd-qa9d)
-* [Traffic crashes - vehicles](https://data.cityofchicago.org/Transportation/Traffic-Crashes-Vehicles/68nd-jvt3)
-* [Towed vehicles](https://data.cityofchicago.org/Transportation/Towed-Vehicles/ygr5-vcbg)
-* [Red light camera violations](https://data.cityofchicago.org/Transportation/Red-Light-Camera-Violations/spqx-js37)
-* [Speed camera violations](https://data.cityofchicago.org/Transportation/Speed-Camera-Violations/hhkd-xvj4)
-* [Chicago traffic tracker](https://data.cityofchicago.org/Transportation/Chicago-Traffic-Tracker-Historical-Congestion-Esti/sxs8-h27x)
-* [Chicago traffic tracker estimates](https://data.cityofchicago.org/Transportation/Chicago-Traffic-Tracker-Congestion-Estimates-by-Se/n4j6-wkkf)
-* [Chicago crimes](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2)
-* [CDPH environmental records](https://data.cityofchicago.org/Environment-Sustainable-Development/CDPH-Environmental-Records-Lookup-Table/a9u4-3dwb)
-* [CDPH environmental complaints](https://data.cityofchicago.org/Environment-Sustainable-Development/CDPH-Environmental-Complaints/fypr-ksnz)
-* [Building violations](https://data.cityofchicago.org/Buildings/Building-Violations/22u3-xenr)
-* [311 service requests](https://data.cityofchicago.org/Service-Requests/311-Service-Requests/v6vf-nfxy)
-
-* [Income and Unemployment](https://data.cityofchicago.org/Health-Human-Services/Selected-socioeconomic-indicators-by-neighborhood/i9hv-en6g/data)
-* [Crimes](https://catalog.data.gov/dataset/crimes-2001-to-present)
-* [Green Roofs](https://data.cityofchicago.org/Environment-Sustainable-Development/Green-Roofs-Map/u23m-pa73)
-* [Energy Usage](https://data.cityofchicago.org/Environment-Sustainable-Development/Energy-Usage-2010/8yq3-m6wp)
-* [Energy Efficiency of buildings](https://data.cityofchicago.org/Environment-Sustainable-Development/Chicago-Energy-Benchmarking-2020-Data-Reported-in-/ydbk-8hi6)
-* [Environmental Complaints](https://data.cityofchicago.org/Environment-Sustainable-Development/CDPH-Environmental-Complaints/fypr-ksnz/about_data)
-* [Flooding Measurements](https://data.cityofchicago.org/Environment-Sustainable-Development/Smart-Green-Infrastructure-Monitoring-Sensors-Hist/ggws-77ih/about_data)
-* [Urban Farms](https://data.cityofchicago.org/Environment-Sustainable-Development/Map-of-Urban-Farms/uti6-fp3f)
-
-All of the previous datasets contain metadata with a description of the data attributes, source of the data, gaps, etc. After selecting the dataset, make sure you enter your selection in the shared spreadsheet (see Piazza for link).
-
----
 
 #### Task 1: Data description
 
@@ -71,7 +40,9 @@ In this assignment, do not use any tool or library to visualize the data. You ar
 
 #### Task 5: Summarizing
 
-Write a paragraph comparing your visualization designs, covering both strengths and weaknesses in relation to each other, as well as originality. Discuss whether they would be effective in answering the domain questions posed in task 2.
+Write a paragraph comparing your visualization designs, covering both strengths and weaknesses in relation to each other, as well as originality. Discuss whether they would be effective in answering the domain questions posed in task 2. You should discuss the strengths and weaknesses of your different visualizations, evaluate their effectiveness in answering the domain questions, while considering factors such as readability, complexity, expressiveness, and scalability.
+
+Some important questions to keep in mind: Did you explore a wide range of visualization techniques, or did you rely on a small subset of common visual encodings? How does the diversity of your sketches contribute to answering the domain questions in different ways?
 
 ---
 
@@ -85,20 +56,25 @@ Submit your assignment on GitHub. Your writeups and sketches should be compiled 
 
 Your submission will be graded according to three components:
 
+- Complexity and relevant of domain questions & abstract tasks:
+  - Excellent (A): The domain questions fully consider the complexity of the dataset. Abstract tasks effectively generalize domain questions, correctly applying the typology with insightful reasoning.
+  - Good (B): The domain questions are relevant and well thought-out, but may not fully explore the complexity of the dataset. Abstract tasks are mostly correct, with reasonable generalization, but with some missed opportunities for deeper abstraction.
+  - Poor (C): The domain questions are too simplistic or superficial, missing opportunities for deeper analysis. Abstract tasks lack coherence with domain questions or misapply the typology.
+
 - Design choices:
-  - Excellent (A): design choices are effective, visualizations can be easily read and understood.
-  - Good (B): design choices are effective, with minor problems.
-  - Poor (C): ineffective mark or encoding choices.
+  - Excellent (A): Design choices are effective, and the visualizations are easily read and understood. Encodings match data types well.
+  - Good (B): Design choices are mostly effective, but there are minor readability or effectiveness issues.
+  - Poor (C): Ineffective mark or encoding choices, leading to confusion or misinterpretation.
 
 - Creativity and diversity of visualizations:
-  - Excellent (A): largely original visualizations and designs.
-  - Good (B): visualizations based on well-known designs, but with enough diversity to reasonably cover the design space.
-  - Poor (C): ineffective exploration of the design space, with simple visualizations based on well-known designs and very similar to each other.
+  - Excellent (A): Highly original visualizations demonstrating a broad exploration of the design space.
+  - Good (B): Uses well-known visualization types but applies them creatively and with diversity.
+  - Poor (C): Relies heavily on basic and overly similar visualizations, limiting design space exploration.
 
 - Writeups:
-  - Excellent (A): detailed writeups, with reasonable justifications for all design choices.
-  - Good (B): good justifications, writeups could be more detailed.
-  - Poor (C): missing or incomplete justifications.
+  - Excellent (A): Detailed writeups with strong justifications for all design choices, including insightful discussions on design trade-offs.
+  - Good (B): Writeups provide reasonable justifications but could be more detailed or critical.
+  - Poor (C): Writeups are incomplete or lack sufficient reasoning.
 
 ----
 
