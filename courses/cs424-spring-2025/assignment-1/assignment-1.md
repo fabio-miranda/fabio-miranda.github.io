@@ -59,24 +59,29 @@ Submit your assignment on GitHub. Your writeups and sketches should be compiled 
 Your submission will be graded according to three components:
 
 - Complexity and relevant of domain questions & abstract tasks:
-  - Excellent (A): The domain questions fully consider the complexity of the dataset. Abstract tasks effectively generalize domain questions, correctly applying the typology with insightful reasoning.
-  - Good (B): The domain questions are relevant and well thought-out, but may not fully explore the complexity of the dataset. Abstract tasks are mostly correct, with reasonable generalization, but with some missed opportunities for deeper abstraction.
-  - Poor (C): The domain questions are too simplistic or superficial, missing opportunities for deeper analysis. Abstract tasks lack coherence with domain questions or misapply the typology.
+  - Excellent (A): The domain questions fully consider the complexity of the dataset. Abstract tasks effectively generalize domain questions and correctly apply the typology.
+  - Good (B): The domain questions are relevant and well thought-out, but may not fully explore the complexity of the dataset. Abstract tasks are mostly correct, with reasonable generalization.
+  - Poor (C): The domain questions are too simplistic or superficial. Abstract tasks lack coherence with domain questions or misapply the typology.
 
 - Design choices:
-  - Excellent (A): Design choices are effective, and the visualizations are easily read and understood. Encodings match data types well.
-  - Good (B): Design choices are mostly effective, but there are minor readability or effectiveness issues.
-  - Poor (C): Ineffective mark or encoding choices, leading to confusion or misinterpretation.
+  - Excellent (A): Design choices are effective, and the visualizations are easily read and understood.
+  - Good (B): Design choices are mostly effective, with minor issues.
+  - Poor (C): Ineffective mark or encoding choices.
 
 - Creativity and diversity of visualizations:
-  - Excellent (A): Highly original visualizations demonstrating a broad exploration of the design space.
-  - Good (B): Uses well-known visualization types but applies them creatively and with diversity.
-  - Poor (C): Relies heavily on basic and overly similar visualizations, limiting design space exploration.
+  - Excellent (A): Original visualizations, broad knowledge of the design space.
+  - Good (B): Uses well-known visualization types.
+  - Poor (C): Relies heavily on basic and overly similar visualizations, with limited exploration of the design space.
 
 - Writeups:
-  - Excellent (A): Detailed writeups with strong justifications for all design choices, including insightful discussions on design trade-offs.
-  - Good (B): Writeups provide reasonable justifications but could be more detailed or critical.
-  - Poor (C): Writeups are incomplete or lack sufficient reasoning.
+  - Excellent (A): Detailed writeups with good justifications for all design choices.
+  - Good (B): Writeups provide good justifications but could be more detailed.
+  - Poor (C): Writeups are incomplete.
+ 
+- Clarity and Organization of Writing:
+  - Excellent (A): The writing is clear, concise, and well-structured.
+  - Good (B): The writing is mostly clear and well-organized.
+  - Poor (C): The writing is difficult to follow.
 
 ----
 
