@@ -37,12 +37,13 @@ Piazza will be the main platform for instructor / student communication, please 
 Credit hours: 3 or 4.
 
 #### Course Instructor
-Fabio Miranda (fabiom [at] uic.edu)  
+Fabio Miranda
 https://fmiranda.me/  
 Office hours: Check Piazza for information.
 
 #### Teaching Assistant
-TBA
+Gustavo Moreira
+Office hours: Check Piazza for information.
 
 ***
 
