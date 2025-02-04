@@ -192,6 +192,10 @@ This schedule will be updated throughout the semester with links for slides and 
 
 The assignments of this course require the design and implementation of web-based visualizations. Feel free to use the links below to familiarize yourself with common tools and languages.
 
+- Visualization galleries:
+  - [A Tour through the Visualization Zoo](https://dl.acm.org/doi/10.1145/1794514.1805128)
+  - [Data Viz Project](https://datavizproject.com/)
+
 - Visualization programming toolkits
   - [D3](http://mbostock.github.com/d3): JavaScript library for data-driven DOM manipulation.
   - [Vega](http://vega.github.io/vega): Declarative language for visualizations.
