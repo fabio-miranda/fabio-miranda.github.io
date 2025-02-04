@@ -81,7 +81,8 @@ Your submission will be graded according to three components:
 ----
 
 #### Other resources
-
+* [A Tour through the Visualization Zoo](https://dl.acm.org/doi/10.1145/1794514.1805128)
+* [Data Viz Project](https://datavizproject.com/)
 * [How to Sketch, Doodle, and Draw Data Visualization Drafts by Hand](https://depictdatastudio.com/how-to-sketch-doodle-and-draw-data-visualization-drafts-by-hand/)
 * [Sketching with Data Opens the Mind's Eye](https://medium.com/accurat-in-sight/sketching-with-data-opens-the-mind-s-eye-92d78554565)
 * [A Tour through the Visualization Zoo: A survey of powerful visualization techniques, from the obvious to the obscure](https://dl.acm.org/doi/10.1145/1794514.1805128)
