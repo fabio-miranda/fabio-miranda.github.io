@@ -4,8 +4,8 @@
             "title": "The Urban Toolkit",
             "authors": "Moreira et al.",
             "teaser": "utk.jpg",
-            "where": ["IEEE VIS 2023", "Sibgrapi 2023"],
-            "more": ["publications/pdfs/utk.pdf", "publications/pdfs/grammars.pdf"]
+            "where": ["IEEE VIS 2024", "IEEE VIS 2023", "Sibgrapi 2023"],
+            "more": ["https://urbantk.org/curio", "https://urbantk.org/utk", "https://github.com/urban-toolkit/tutorial"]
         },
         "2": {
             "title": "ProWis",
@@ -16,10 +16,10 @@
         },
         "3": {
             "title": "3D Urban Analytics",
-            "authors": "Mota et al., Miranda et al.",
+            "authors": "Miranda et al., Mota et al., Miranda et al.",
             "teaser": "shadow-accrual-maps/shadow-accrual-maps-teaser.png",
-            "where": ["IEEE VIS 2022", "IEEE TVCG 2019"],
-            "more": ["publications/pdfs/3D_urban_vis_Vis2022.pdf", "publications/shadow-accrual-maps/tvcg-2018-shadowaccrualmaps.pdf"]
+            "where": ["STAR 2024", "IEEE VIS 2022", "IEEE TVCG 2019"],
+            "more": ["https://urbantk.org/survey-3d/", "publications/pdfs/3D_urban_vis_Vis2022.pdf", "publications/shadow-accrual-maps/tvcg-2018-shadowaccrualmaps.pdf"]
         },
         "4": {
             "title": "tile2net + CitySurfaces",
