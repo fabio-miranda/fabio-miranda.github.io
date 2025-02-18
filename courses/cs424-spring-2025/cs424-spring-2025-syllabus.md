@@ -114,6 +114,7 @@ This schedule will be updated throughout the semester with links for slides and 
 - **Topic: Grammars for visualization**
 - **Lab: Visualization grammars**
 - Slides: [Visualization grammars](https://fmiranda.me/courses/cs424-slides/06-vis-grammars.pdf)
+- Lab: [A Tutorial on High-level Grammars for Visualization and Visual Analytics](https://github.com/urban-toolkit/tutorial)
 - Reading: [A Layered Grammar of Graphics](https://vita.had.co.nz/papers/layered-grammar.pdf), [The Grammar of Graphics](https://link.springer.com/book/10.1007/0-387-28695-0), [Vega-Lite](https://ieeexplore.ieee.org/abstract/document/7539624), [Intro to Vega-Lite](https://vega.github.io/vega-lite/tutorials/getting_started.html), [Survey](https://arxiv.org/pdf/2207.07998.pdf), [Grammar tutorial](https://fmiranda.me/publications/pdfs/grammars.pdf)
 ![Static Badge](https://img.shields.io/badge/Lab%20session%202%20(Thu)-2f8a70)
 
