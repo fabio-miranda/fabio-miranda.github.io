@@ -79,7 +79,7 @@ In this task, groups that include at least one graduate student must incorporate
 
 Your goal is to recreate and extend your exploratory data analysis using Vega-Lite, leveraging its declarative nature to facilitate expressive and interactive visualizations. You should:
 
-* Select at least three of your most informative plots from Task 2 and implement them using Vega-Altair. Modify these visualizations so that they provide other insights from your data.
+* Select at least three of your most informative plots from Task 2 and implement them using Vega-Altair. Modify these visualizations so that they reveal additional insights from your data. You can: incorporate interactivity, different encodings, or alternative perspectives.
 
 By the end of this task, your notebook should contain a set of clear and insightful Vega-Lite visualizations that **complement and extend** your previous exploratory analysis.
 
