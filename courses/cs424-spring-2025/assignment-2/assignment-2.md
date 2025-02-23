@@ -79,9 +79,9 @@ In this task, groups that include at least one graduate student must incorporate
 
 Your goal is to recreate and extend your exploratory data analysis using Vega-Lite, leveraging its declarative nature to facilitate expressive and interactive visualizations. You should:
 
-* Reproduce Key Visualizations: Select at least three of your most informative plots from Task 2 and implement them using Vega-Altair.
+* Select at least three of your most informative plots from Task 2 and implement them using Vega-Altair. Modify these visualizations so that they provide other insights from your data.
 
-By the end of this task, your notebook should contain a set of clear and insightful Vega-Lite visualizations that complement and extend your previous exploratory analysis.
+By the end of this task, your notebook should contain a set of clear and insightful Vega-Lite visualizations that **complement and extend** your previous exploratory analysis.
 
 #### Deliverables
 
@@ -111,6 +111,7 @@ Notebooks should be well-documented with:
 
 #### Notes
 
+- Task 3 is mandatory for groups with at least one graduate student. Groups without a graduate student should skip Task 3, as it will not be counted for extra credit.
 - Include a `.gitignore` file to exclude unnecessary files (e.g., large datasets).
 - Ensure that all files and visualizations are **easily accessible and properly linked**.
 - You will lose points for poorly designed visualizations. Some common mistakes include:
