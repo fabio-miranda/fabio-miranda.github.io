@@ -1,8 +1,8 @@
-### CS424 - Visualization & Visual Analytics (Fall 2023)
+### CS424 - Visualization & Visual Analytics (Spring 2025)
 
 Instructor: Fabio Miranda
 
-Course webpage: https://fmiranda.me/courses/cs424-fall-2023/
+Course webpage: https://fmiranda.me/courses/cs424-Spring-2025/
 
 ---
 
@@ -44,9 +44,9 @@ To complete this task, you will need to complete at least three subtasks (depend
 
 * Load the data: Use Pandas and GeoPandas to load and view the data to have an initial idea of what it contains. For instance, what are the columns in the dataset? Is there a spatial or temporal component? What are the categorial and numerical columns? For each data point, if there are multiple categories, is there a specific one you want to focus? What is the spatial and temporal coverage of the dataset? Percentage of missing values? Depending of the size of the data, you will need to filter the data and only consider a more manageable subset (e.g., a month or a week, or a spatial region).
 
-* Profile the data: Compute interesting statistics from the dataset. For example: For a numerical column of interest, compute max, min, std. deviation, etc; For a categorical column, find the unique categories.
+* Profile the data: Compute interesting statistics from the dataset. For example: For a numerical column of interest, compute max, min, std. deviation, etc; For a categorical column, find the unique categories. Generate basic visual summaries (e.g., histograms, boxplots) using Matplotlib.
 
-* Clean the data: Remove data rows with NaN or missing values.
+* Clean the data: Remove data rows with NaN or missing values. Consider imputation strategies if needed (e.g., filling missing values based on means, medians).
 
 These subtasks (as well as the next tasks) should be done inside one (or more) Jupyter notebooks.  Make sure your code is clear, with comments to clearly explain your reasoning behind the operations.
 
@@ -71,16 +71,23 @@ Even though there is no minimum number of visualizations for this task, you shou
 
 ---
 
+#### Task 3: Vega-Lite (for groups with at least one graduate student)
+
+In this task, groups that include at least one graduate student must incorporate Vega-Lite visualizations into their Jupyter Notebooks. Building on the exploratory approach from Task 2, you will use [Vega-Altair](https://altair-viz.github.io/), a Python interface for Vega-Lite, to create visualizations.
+
+Your goal is to recreate and extend your exploratory data analysis using Vega-Lite, leveraging its declarative nature to facilitate expressive and interactive visualizations. You should:
+
+* Reproduce Key Visualizations: Select at least three of your most informative plots from Task 2 and implement them using Vega-Altair.
+
+By the end of this task, your notebook should contain a set of clear and insightful Vega-Lite visualizations that complement and extend your previous exploratory analysis.
 
 #### Deliverables
 
 In this project, there will be three deliverables:
 
-1) A [markdown document](https://www.markdownguide.org/getting-started/) (``.md``), with a short description of the dataset and implemented visualizations, and derived insights. Again, there is no minimum number of visualizations for this assignment, you will be graded on whether the visualizations you implemented reasonably describe the most important aspects of the data. It is reasonable to assume that you won't be able to convey all the most important aspects of a dataset using only one visualization. However, it is also reasonable to assume that you won't need to implement 16 different visualizations to explore a dataset. **You should leverage your sketches as much as possible as a starting point for your visualizations**. The document should be uploaded to the root of your GitHub project, with the name README.md (so that it is displayed by default by GitHub).
+1) A [markdown document](https://www.markdownguide.org/getting-started/) (``.md``), with a description of the dataset and implemented visualizations, and derived insights. Again, there is no minimum number of visualizations for this assignment, you will be graded on whether the visualizations you implemented reasonably describe the most important aspects of the data. It is reasonable to assume that you won't be able to convey all the most important aspects of a dataset using only one visualization. However, it is also reasonable to assume that you won't need to implement 16 different visualizations to explore a dataset. **You should leverage your sketches as much as possible as a starting point for your visualizations**. The document should be uploaded to the root of your GitHub project, with the name README.md (so that it is displayed by default by GitHub).
 
-2) A 5-minute presentation, presenting the dataset, questions, transformations, encodings, interactions, and findings. This presentation should be a combination of the outcomes from assignments 1 and 2. Ideally, you should present a clear path between visualization sketches, actual visualizations and insights. You should upload the presentation (``.pdf`` or ``.pptx``) to your github project. **Check the course schedule for the week that we will have the presentations**. A reasonable presentation should have: (1) short introduction of the dataset and goals of the visualizations (\~1 minute); (2) presentation of sketches, reasoning behind key design decisions (\~2 minutes); (3) presentation of the visualizations, reasoning behind key design decisions (e.g, how they were influenced by the sketches? How was the exploratory data analysis process? Why did you choose these visual encodings?) (\~2 minutes).
-
-3) One or more Jupyter notebooks (``.ipynb``) at the root directory of your git project, with each step of your exploratory process. Make sure it is *easily* reproducible and well documented, including both comments and plots.
+2) One or more Jupyter notebooks (``.ipynb``) at the root directory of your git project, with each step of your exploratory process. Make sure it is *easily* reproducible and well documented, including both comments and plots.
 
 ---
 

@@ -1,8 +1,8 @@
-### CS424 - Visualization & Visual Analytics (Fall 2023)
+### CS424 - Visualization & Visual Analytics (Spring 2025)
 
 Instructor: Fabio Miranda
 
-Course webpage: https://fmiranda.me/courses/cs424-fall-2023/
+Course webpage: https://fmiranda.me/courses/cs424-spring-2025/
 
 ---
 
