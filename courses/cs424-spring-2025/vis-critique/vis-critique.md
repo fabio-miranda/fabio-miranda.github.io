@@ -40,6 +40,10 @@ A visualization can be innefective considering different aspects, such as [poor 
 
 Create a markdown document with your evaluation and submit it using GitHub (see Piazza for invitation link). The document should also contain a link to the visualization, as well as images from the visualization to clearly justify your evaluation. Use the previous topics to help you frame your visualization, but you are free to use other questions if you think they are needed to ground your evaluation.
 
+#### Notes
+
+You are not allowed to use ChatGPT or other AI-based text generators to generate any part of your submission. This assignment requires critical thinking and independent analysis, and the use of AI-generated content will result in a significant grade penalty. Your write-up should reflect your own reasoning, backed by class concepts, readings, and examples.
+
 #### Grading
 
 Your submission will be graded according to your write up:

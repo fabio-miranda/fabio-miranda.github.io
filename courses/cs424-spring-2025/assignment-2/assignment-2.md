@@ -85,11 +85,30 @@ By the end of this task, your notebook should contain a set of clear and insight
 
 In this project, there will be three deliverables:
 
-1) A [markdown document](https://www.markdownguide.org/getting-started/) (``.md``), with a description of the dataset and implemented visualizations, and derived insights. Again, there is no minimum number of visualizations for this assignment, you will be graded on whether the visualizations you implemented reasonably describe the most important aspects of the data. It is reasonable to assume that you won't be able to convey all the most important aspects of a dataset using only one visualization. However, it is also reasonable to assume that you won't need to implement 16 different visualizations to explore a dataset. **You should leverage your sketches as much as possible as a starting point for your visualizations**. The document should be uploaded to the root of your GitHub project, with the name README.md (so that it is displayed by default by GitHub).
+1) A [markdown document](https://www.markdownguide.org/getting-started/) (``.md``), with a description of the dataset and implemented visualizations, and derived insights. Again, there is no minimum number of visualizations for this assignment, you will be graded on whether the visualizations you implemented reasonably describe the most important aspects of the data. It is reasonable to assume that you won't be able to convey all the most important aspects of a dataset using only one visualization. However, it is also reasonable to assume that you won't need to implement 16 different visualizations to explore a dataset. **You should leverage your sketches as much as possible as a starting point for your visualizations**. The document should be uploaded to the root of your GitHub project, with the name README.md (so that it is displayed by default by GitHub). The markdown should contain: (1) the dataset and its key attributes, (2) the exploratory questions you investigated, (3) the visualizations and key findings for each question.
+
+For each question, your README.md should follow this structure:
+
+* State the Question: What aspect of the dataset are you exploring?
+* Provide the Visualizations: Include images (or embed links to notebooks).
+* Summarize Key Findings: Briefly explain insights from the visualization.
 
 2) One or more Jupyter notebooks (``.ipynb``) at the root directory of your git project, with each step of your exploratory process. Make sure it is *easily* reproducible and well documented, including both comments and plots.
 
 ---
+
+#### Notes
+
+- Include a `.gitignore` file to exclude unnecessary files (e.g., large datasets).
+- Ensure that all files and visualizations are **easily accessible and properly linked**.
+- You will lose points for poorly designed visualizations. Some common mistakes include:
+  - Unlabeled Axes: Every plot must have proper axis labels and a title.
+  - Overloaded Legends: If your plot has too many overlapping categories, consider using facet plots or simplifying the legend to improve readability.
+  - Misleading Scales: Always ensure that the scale used is appropriate for the data.
+  - Poor Color Choices: Avoid using too many colors or selecting colors that are difficult to distinguish.
+  - Unclear or Crowded Visuals: If your plot is difficult to interpret due to excessive overlapping points, cluttered labels, or an overcrowded design, consider alternative encodings that make the information clearer.
+- Your goal is to make visualizations clear, readable, and useful for analysis.
+- You are not allowed to use ChatGPT or other AI-based text generators to generate any part of your submission. This assignment requires critical thinking and independent analysis, and the use of AI-generated content will result in a significant grade penalty. Your write-up should reflect your own reasoning, backed by class concepts, readings, and examples.
 
 #### Grading
 
