@@ -9,6 +9,8 @@ Course webpage: https://fmiranda.me/courses/cs424-Spring-2025/
 ### Assignment 2
 The goal of this project is to get you familiar with visual data exploration. We will use Pandas, GeoPandas and Jupyter to import, transform, visualize and analyze a dataset. If you would like to use other libraries, please reach out first. Some of the operations you will need to perform in this exploratory process have been covered in the lectures, other operations have not. Please, familiarize yourself with GeoPandas' [documentation](https://geopandas.org/en/stable/docs.html). Also note that, depending on your selected dataset, you will need to also consider *other* datasets; the most straightforward case is if you want to perform a spatial aggregation over neighborhoods -- in this case you will also need a Shapefile (or GeoJSON) with the description of the shape neighborhoods.
 
+If your dataset is too large to handle efficiently, it is up to you to select an interesting and manageable subset of the data. This could mean filtering by time, geography, or specific attributes of interest. The goal is to focus on a portion of the dataset that allows for meaningful analysis while keeping computations reasonable.
+
 We will use GitHub to manage code and documentation.
 
 ---
@@ -93,7 +95,17 @@ For each question, your README.md should follow this structure:
 * Provide the Visualizations: Include images (or embed links to notebooks).
 * Summarize Key Findings: Briefly explain insights from the visualization.
 
-2) One or more Jupyter notebooks (``.ipynb``) at the root directory of your git project, with each step of your exploratory process. Make sure it is *easily* reproducible and well documented, including both comments and plots.
+2) One or more Jupyter notebooks (``.ipynb``) at the root directory of your git project, with each step of your exploratory process. Make sure it is *easily* reproducible and well documented, including both comments and plots. The notebooks should contain:
+
+* Data loading & transformations (task 1)
+* Exploratory visualizations & analytics (task 2)
+* If applicable, Vega-Lite visualizations (task 3)
+
+Notebooks should be well-documented with:
+
+* Clear markdown cells explaining each step.
+* Commented code to clarify implementation detail.s
+* Well-labeled plots.
 
 ---
 
