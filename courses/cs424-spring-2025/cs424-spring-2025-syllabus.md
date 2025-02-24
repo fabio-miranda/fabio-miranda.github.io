@@ -262,7 +262,7 @@ Note that you do not need to participate in every classroom discussion. However,
 Students who may struggle with the course material but take advantage of resources such as office hours or mentoring can still be successful. The key is taking initiative to stay involved and seeking help when needed.
 
 #### Letter Grades
-Letter grades will be based on a straight scale using the following thresholds for grade cut-offs: A range from 90-100%, B range from 80-89.9%, C range from 70-79.9%, D range from 60-69.9%, and F for 59.9% or lower. However, strong attendance and participation may be taken into account in borderline situations, allowing a slightly lower percentage (e.g., 89.75%) to be rounded up.
+Letter grades will be based on a straight scale using the following thresholds for grade cut-offs: A ranges from 90-100%, B ranges from 80-89.9%, C ranges from 70-79.9%, D ranges from 60-69.9%, and F for 59.9% or lower. However, strong attendance and participation may be taken into account in borderline situations, allowing a slightly lower percentage (e.g., 89.75%) to be rounded up.
 
 **Under no circumstances will grades be adjusted down**. You can use this straight grading scale as an indicator of your minimum grade in the course at any time during the course. You should keep track of your own points so that at any time during the semester you may calculate your minimum grade based on the total number of points possible at that particular time. If and when, for any reason, you have concerns about your grade in the course, please email me to schedule a time for you to speak with me or your TA so that we can discuss study techniques or alternative strategies to help you.
 
