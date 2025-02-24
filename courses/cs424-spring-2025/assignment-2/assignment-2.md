@@ -25,19 +25,6 @@ We will be using Pandas, Geopandas, Matplotlib and Jupyter Notebook (or Jupyter 
 
 [Conda](https://docs.conda.io/en/latest/) provides an easy-to-use source package and environment management system that runs on Windows, macOS and Linux. You can use other systems, but if you prefer Conda you can follow [this](https://docs.anaconda.com/anaconda/install/) installation guide, and [this](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html) guide to get started. Alternatively, you can also use [Miniconda](https://docs.conda.io/en/latest/miniconda.html), a minimal installer for conda.
 
-If you are using Windows, you can use [Git for Windows](https://gitforwindows.org/) to access git and Conda.
-
-[git](https://en.wikipedia.org/wiki/Git) is a version control system, designed to help developers track different versions of your code, synchronize them across different machines, and collaborate with others. Follow the instructions [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) to install git on your computer. [GitHub](https://github.com/) is a website that supports git as a service. [This](https://guides.github.com/activities/hello-world/) a nice tutorial on how to get started with git and GitHub.
-
-We will provide a GitHub Classroom link for each assignment. Follow the link to create a repository. Use `git clone` to get a local copy of the newly created repository. After writing your code, you can push your modifications to the server using `git commit` followed by `git push`. For example, if your username is `uic-user`:
-
-```
-git clone git@github.com:uic-vis/assignment-2-group-name.git
-touch index.html
-git add README.md
-git commit -am "README.md file"
-git push
-```
 ---
 
 #### Task 1: Data importing & transformation
@@ -82,6 +69,8 @@ Your goal is to recreate and extend your exploratory data analysis using Vega-Li
 * Select at least three of your most informative plots from Task 2 and implement them using Vega-Altair. Modify these visualizations so that they reveal additional insights from your data. You can: incorporate interactivity, different encodings, or alternative perspectives.
 
 By the end of this task, your notebook should contain a set of clear and insightful Vega-Lite visualizations that **complement and extend** your previous exploratory analysis.
+
+---
 
 #### Deliverables
 

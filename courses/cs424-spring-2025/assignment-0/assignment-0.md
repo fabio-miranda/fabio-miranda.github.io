@@ -18,7 +18,19 @@ We will use GitHub to manage the deliverable. You should create a repository for
 
 #### Task 1: Setting up GitHub Classroom
 
-Accept the GitHub Classroom invitation link shared on Piazza. You should create a repository for your team on GitHub Classroom. Ensure all team members are added as collaborators to the repository.
+Accept the GitHub Classroom invitation link shared on Piazza. You should create a repository for your team on GitHub Classroom. Ensure all team members are added as collaborators to the repository. If you are using Windows, you can use [Git for Windows](https://gitforwindows.org/) to access git.
+
+[git](https://en.wikipedia.org/wiki/Git) is a version control system, designed to help developers track different versions of your code, synchronize them across different machines, and collaborate with others. Follow the instructions [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) to install git on your computer. [GitHub](https://github.com/) is a website that supports git as a service. [This](https://guides.github.com/activities/hello-world/) a nice tutorial on how to get started with git and GitHub.
+
+We will provide a GitHub Classroom link for each assignment. Follow the link to create a repository. Use `git clone` to get a local copy of the newly created repository. After writing your code, you can push your modifications to the server using `git commit` followed by `git push`. For example, if your username is `uic-user`:
+
+```
+git clone git@github.com:uic-vis/assignment-0-group-name.git
+touch index.html
+git add README.md
+git commit -am "README.md file"
+git push
+```
 
 #### Task 2: Forming Groups
 
