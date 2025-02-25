@@ -102,6 +102,7 @@ Notebooks should be well-documented with:
 
 - Task 3 is mandatory for groups with at least one graduate student. Groups without a graduate student should skip Task 3, as it will not be counted for extra credit.
 - Include a `.gitignore` file to exclude unnecessary files (e.g., large datasets).
+- GitHub commit history will be reviewed to evaluate each group member's contribution to the assignment.
 - Ensure that all files and visualizations are **easily accessible and properly linked**.
 - You will lose points for poorly designed visualizations. Some common mistakes include:
   - Unlabeled Axes: Every plot must have proper axis labels and a title.
@@ -125,3 +126,15 @@ Your submission will be graded according to the quality and coverage of the resu
     - Excellent (A): clearly described the data and the path between sketches and visualizations, good discussion regarding design decisions.
     - Good (B): good description of the data and visualizations, but could be more detailed.
     - Poor (C): missing or incomplete descriptions and / or visualizations.
+ 
+- Design choices:
+  - Excellent (A): Design choices are effective, and the visualizations are easily read and understood.
+  - Good (B): Design choices are mostly effective, with minor issues.
+  - Poor (C): Ineffective mark or encoding choices.
+
+Clarity and Organization of Writing:
+  - Excellent (A): The writing is clear, concise, and well-structured.
+  - Good (B): The writing is mostly clear and well-organized.
+  - Poor (C): The writing is difficult to follow.
+
+
