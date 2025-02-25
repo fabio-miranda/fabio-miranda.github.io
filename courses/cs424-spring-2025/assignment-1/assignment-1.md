@@ -56,7 +56,7 @@ Submit your assignment on GitHub. Your writeups and sketches should be compiled 
 
 #### Grading
 
-Your submission will be graded according to three components:
+Your submission will be graded according to the following components:
 
 - Complexity and relevant of domain questions & abstract tasks:
   - Excellent (A): The domain questions fully consider the complexity of the dataset. Abstract tasks effectively generalize domain questions and correctly apply the typology.
