@@ -134,25 +134,27 @@ This schedule will be updated throughout the semester with links for slides and 
 ![Static Badge](https://img.shields.io/badge/Lab%20session%204%20(Thu)-2f8a70)
 
 ###### Week 7 (Feb 25, Feb 27)
-- **Topic: Interaction & multiple views, Spatial visualization**
+- **Topic: Interaction & multiple views, Spatial visualization I**
 - Slides: [Interaction](https://fmiranda.me/courses/cs424-slides/07-interaction.pdf), [Spatial vis](https://fmiranda.me/courses/cs424-slides/08-spatial-vis.pdf)
 - Reading: Munzner (Ch. 8, 11, 12), [TaxiVis](https://ieeexplore.ieee.org/abstract/document/6634127)
 ![Static Badge](https://img.shields.io/badge/Assignment%202%20released-2171b5)
 ![Static Badge](https://img.shields.io/badge/Written%20critique%20released-2171b5)
 
 ###### Week 8 (Mar 4, Mar 6)
-- **Topic: Color, Graphical Perception**
+- **Topic: Spatial visualization II**
 - **Lab: Spatial visualization**
-- Slides:
-- Reading: Munzner (Ch. 10)
+- Slides: [Spatial vis](https://fmiranda.me/courses/cs424-slides/08-spatial-vis.pdf)
+- Reading: Munzner (Ch. 8), [TaxiVis](https://ieeexplore.ieee.org/abstract/document/6634127)
 ![Static Badge](https://img.shields.io/badge/Lab%20session%205%20(Thu)-2f8a70)
 ![Static Badge](https://img.shields.io/badge/Written%20critique%20due%20-aa2721)
 ![Static Badge](https://img.shields.io/badge/Assignment%202%20due-aa2721)
 ![Static Badge](https://img.shields.io/badge/Assignment%203%20released-2171b5)
 
 ###### Week 9 (Mar 11, Mar 13)
-- **Topic: Invited talks**
+- **Topic: Color, Graphical Perception**
 - **Lab: Multiple views**
+- Slides: 
+- Reading: Munzner (Ch. 10)
 
 ###### Week 10 (Mar 18, Mar 20)
 - **Topic: Uncertainty visualization**
