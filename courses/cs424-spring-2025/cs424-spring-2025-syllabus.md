@@ -134,53 +134,55 @@ This schedule will be updated throughout the semester with links for slides and 
 ![Static Badge](https://img.shields.io/badge/Lab%20session%204%20(Thu)-2f8a70)
 
 ###### Week 7 (Feb 25, Feb 27)
-- **Topic: Interaction & multiple views**
-- Slides: [Interaction](https://fmiranda.me/courses/cs424-slides/07-interaction.pdf)
-- Reading: Munzner (Ch. 11, 12)
+- **Topic: Interaction & multiple views, Spatial visualization**
+- Slides: [Interaction](https://fmiranda.me/courses/cs424-slides/07-interaction.pdf), [Spatial vis](https://fmiranda.me/courses/cs424-slides/08-spatial-vis.pdf)
+- Reading: Munzner (Ch. 8, 11, 12), [TaxiVis](https://ieeexplore.ieee.org/abstract/document/6634127)
 ![Static Badge](https://img.shields.io/badge/Assignment%202%20released-2171b5)
 ![Static Badge](https://img.shields.io/badge/Written%20critique%20released-2171b5)
 
 ###### Week 8 (Mar 4, Mar 6)
-- **Topic: Dataflow frameworks**
-- **Lab: Dataflow frameworks**
+- **Topic: Color, Graphical Perception**
+- **Lab: Spatial visualization**
 - Slides:
-- Reading: [The Urban Toolkit](https://arxiv.org/abs/2308.07769)
+- Reading: Munzner (Ch. 10)
 ![Static Badge](https://img.shields.io/badge/Lab%20session%205%20(Thu)-2f8a70)
 ![Static Badge](https://img.shields.io/badge/Written%20critique%20due%20-aa2721)
 ![Static Badge](https://img.shields.io/badge/Assignment%202%20due-aa2721)
 ![Static Badge](https://img.shields.io/badge/Assignment%203%20released-2171b5)
 
 ###### Week 9 (Mar 11, Mar 13)
-- **Topic: Spatial visualization**
-- Slides: [Spatial vis](https://fmiranda.me/courses/cs424-slides/08-spatial-vis.pdf)
-- Reading: [TaxiVis](https://ieeexplore.ieee.org/abstract/document/6634127)
+- **Topic: Invited talks**
+- **Lab: Multiple views**
 
 ###### Week 10 (Mar 18, Mar 20)
-- **Topic: Visual analytics**
-- **Lab: Visual analytics workflow**
-- Slides:
-- Reading:
+- **Topic: Uncertainty visualization**
+- **Lab: Uncertainty visualization**
+- Slides: [Uncertainty vis](https://fmiranda.me/courses/cs424-slides/09-uncertainty.pdf)
+- Reading: [Uncertainty + Visualization, Explained](https://medium.com/multiple-views-visualization-research-explained/uncertainty-visualization-explained-67e7a73f031b)
 ![Static Badge](https://img.shields.io/badge/Lab%20session%206%20(Thu)-2f8a70)
   
 ###### Week 11 (Apr 1, Apr 3)
-- **Topic: Advanced spatial & uncertainty visualization**
-- Slides: [Advanced spatial visualization](https://fmiranda.me/courses/cs424-slides/09-advanced-spatial-vis.pdf), [Uncertainty vis](https://fmiranda.me/courses/cs424-slides/09-uncertainty.pdf)
-- Reading:
+- **Topic: Dataflow frameworks**
+- **Lab: Dataflow frameworks**
+- Slides: 
+- Reading: [The Urban Toolkit](https://arxiv.org/abs/2308.07769)
 ![Static Badge](https://img.shields.io/badge/Assignment%203%20due-aa2721)
 ![Static Badge](https://img.shields.io/badge/Assignment%204%20released-2171b5)
 
 ###### Week 12 (Apr 8, Apr 10)
-- **Topic: Catching up + Invited talks**
+- **Topic: Advanced spatial visualization,  3D urban visualization**
+- Slides: [Advanced spatial vis](https://fmiranda.me/courses/cs424-slides/09-advanced-spatial-vis.pdf)
+- Reading: [3D urban data](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.15112)
 
 ###### Week 13 (Apr 15, Apr 17)
 - **Topic: Data management for visualization**
 - Slides: [Data management for visualization](https://fmiranda.me/courses/cs424-slides/10-data-vis.pdf)  
-- Reading:
+- Reading: [Connecting Visualization and Data Management Research](https://inria.hal.science/hal-01756799/)
 
 ###### Week 14 (Apr 22, Apr 24)
 - **Topic: Machine learning & data mining for visualization**
 - Slides: [Machine learning for visualization](https://fmiranda.me/courses/cs424-slides/09-ml-vis.pdf)  
-- Reading:
+- Reading: [Machine learning for visualization](https://medium.com/@enjalot/machine-learning-for-visualization-927a9dff1cab)
 
 ###### Week 15 (Apr 29, May 1)
 - **Topic: Project presentations**
