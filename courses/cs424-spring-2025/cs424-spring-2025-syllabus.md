@@ -92,25 +92,25 @@ The course is divided into three parts: 1) basic principles of visualization and
 
 This schedule will be updated throughout the semester with links for slides and reading material.
 
-###### Week 1
+###### Week 1 (Jan 14, Jan 16)
 - **Topic: Course introduction & Why vis?**
 - Slides: [Introduction and overview](https://fmiranda.me/courses/cs424-slides/01-intro.pdf), [Why visualize data?](https://fmiranda.me/courses/cs424-slides/02-why-vis.pdf)
 - Reading: Munzner (Ch. 1)
 
-###### Week 2
+###### Week 2 (Jan 21, Jan 23)
 - **Topic: Data & attribute types, marks, channels; Task abstraction**
 - Slides: [Introduction to visualization](https://fmiranda.me/courses/cs424-slides/03-vis.pdf), [Task abstraction](https://fmiranda.me/courses/cs424-slides/04-tasks.pdf)
 - Reading: Munzner (Ch. 2, 3), [Best Practices for Data Visualisation](https://royal-statistical-society.github.io/datavisguide/)
 ![Static Badge](https://img.shields.io/badge/Assignment%200%20released-2171b5)
 
-###### Week 3
+###### Week 3 (Jan 28, Jan 30)
 - **Topic: Data questions**
 - Slides: [Data questions](https://fmiranda.me/courses/cs424-slides/06-data-questions.pdf)
 - Reading: Munzner (Ch. 5), [Heer et al., 2010](https://dl.acm.org/doi/10.1145/1794514.1805128), [Perer and Schneiderman, 2008](https://dl.acm.org/doi/10.1145/1357054.1357101) 
 ![Static Badge](https://img.shields.io/badge/Assignment%200%20due-aa2721)
 ![Static Badge](https://img.shields.io/badge/Assignment%201%20released-2171b5)
 
-###### Week 4
+###### Week 4 (Feb 4, Feb 6)
 - **Topic: Grammars for visualization**
 - **Lab: Visualization grammars**
 - Slides: [Visualization grammars](https://fmiranda.me/courses/cs424-slides/06-vis-grammars.pdf)
@@ -118,29 +118,29 @@ This schedule will be updated throughout the semester with links for slides and 
 - Reading: [A Layered Grammar of Graphics](https://vita.had.co.nz/papers/layered-grammar.pdf), [The Grammar of Graphics](https://link.springer.com/book/10.1007/0-387-28695-0), [Vega-Lite](https://ieeexplore.ieee.org/abstract/document/7539624), [Intro to Vega-Lite](https://vega.github.io/vega-lite/tutorials/getting_started.html), [Survey](https://arxiv.org/pdf/2207.07998.pdf), [Grammar tutorial](https://fmiranda.me/publications/pdfs/grammars.pdf)
 ![Static Badge](https://img.shields.io/badge/Lab%20session%202%20(Thu)-2f8a70)
 
-###### Week 5
+###### Week 5 (Feb 11, Feb 13)
 - **Topic: Data collection, wrangling & transformations**
 - **Lab: Data collection**
 - Slides: [Data transformations](https://fmiranda.me/courses/cs424-slides/06-data-questions.pdf), [Pandas](https://fmiranda.me/courses/cs424-slides/04-pandas.pdf)
-- Reading:
+- Reading: [Minimalist Data Wrangling with Python](https://datawranglingpy.gagolewski.com/)
 ![Static Badge](https://img.shields.io/badge/Lab%20session%203%20(Thu)-2f8a70)
 ![Static Badge](https://img.shields.io/badge/Assignment%201%20due-aa2721)
-![Static Badge](https://img.shields.io/badge/Assignment%202%20released-2171b5)
-![Static Badge](https://img.shields.io/badge/Written%20critique%20released-2171b5)
 
-###### Week 6
+###### Week 6 (Feb 18, Feb 20)
 - **Topic: Exploratory data analysis**
 - **Lab: Exploratory data analysis with GeoPandas**
 - Slides: [GeoPandas](https://fmiranda.me/courses/cs424-slides/05-geopandas.pdf)
 - Reading: [GeoPandas](https://geopandas.org/en/stable/getting_started.html)
 ![Static Badge](https://img.shields.io/badge/Lab%20session%204%20(Thu)-2f8a70)
 
-###### Week 7
+###### Week 7 (Feb 25, Feb 27)
 - **Topic: Interaction & multiple views**
 - Slides: [Interaction](https://fmiranda.me/courses/cs424-slides/07-interaction.pdf)
-- Reading:
+- Reading: Munzner (Ch. 11, 12)
+![Static Badge](https://img.shields.io/badge/Assignment%202%20released-2171b5)
+![Static Badge](https://img.shields.io/badge/Written%20critique%20released-2171b5)
 
-###### Week 8
+###### Week 8 (Mar 4, Mar 6)
 - **Topic: Dataflow frameworks**
 - **Lab: Dataflow frameworks**
 - Slides:
@@ -150,39 +150,39 @@ This schedule will be updated throughout the semester with links for slides and 
 ![Static Badge](https://img.shields.io/badge/Assignment%202%20due-aa2721)
 ![Static Badge](https://img.shields.io/badge/Assignment%203%20released-2171b5)
 
-###### Week 9
+###### Week 9 (Mar 11, Mar 13)
 - **Topic: Spatial visualization**
 - Slides: [Spatial vis](https://fmiranda.me/courses/cs424-slides/08-spatial-vis.pdf)
 - Reading: [TaxiVis](https://ieeexplore.ieee.org/abstract/document/6634127)
 
-###### Week 10
+###### Week 10 (Mar 18, Mar 20)
 - **Topic: Visual analytics**
 - **Lab: Visual analytics workflow**
 - Slides:
 - Reading:
 ![Static Badge](https://img.shields.io/badge/Lab%20session%206%20(Thu)-2f8a70)
   
-###### Week 11
+###### Week 11 (Apr 1, Apr 3)
 - **Topic: Advanced spatial & uncertainty visualization**
 - Slides: [Advanced spatial visualization](https://fmiranda.me/courses/cs424-slides/09-advanced-spatial-vis.pdf), [Uncertainty vis](https://fmiranda.me/courses/cs424-slides/09-uncertainty.pdf)
 - Reading:
 ![Static Badge](https://img.shields.io/badge/Assignment%203%20due-aa2721)
 ![Static Badge](https://img.shields.io/badge/Assignment%204%20released-2171b5)
 
-###### Week 12
+###### Week 12 (Apr 8, Apr 10)
 - **Topic: Catching up + Invited talks**
 
-###### Week 13
+###### Week 13 (Apr 15, Apr 17)
 - **Topic: Data management for visualization**
 - Slides: [Data management for visualization](https://fmiranda.me/courses/cs424-slides/10-data-vis.pdf)  
 - Reading:
 
-###### Week 14
+###### Week 14 (Apr 22, Apr 24)
 - **Topic: Machine learning & data mining for visualization**
 - Slides: [Machine learning for visualization](https://fmiranda.me/courses/cs424-slides/09-ml-vis.pdf)  
 - Reading:
 
-###### Week 15
+###### Week 15 (Apr 29, May 1)
 - **Topic: Project presentations**
 ![Static Badge](https://img.shields.io/badge/Assignment%204%20due-aa2721)
 
