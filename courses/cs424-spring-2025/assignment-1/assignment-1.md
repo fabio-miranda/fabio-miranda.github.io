@@ -28,7 +28,7 @@ Write one paragraph discussing at least four domain questions that you would lik
 
 #### Task 3: Task abstractions
 
-Translate the domain-specific questions to abstract tasks. For each question, identify *actions* and *targets* that define user goals, making sure to discuss your reasoning behind each decision. You should follow Brehmer and Munzner's [typology](https://www.cs.ubc.ca/labs/imager/tr/2013/MultiLevelTaskTypology/brehmer_infovis13.pdf) of abstract visualization tasks, as seen in class.
+Translate the domain-specific questions to abstract tasks. For each question, identify *actions* and *targets* that define user goals, making sure to discuss your reasoning behind each decision.
 
 #### Task 4: Visualization sketches
 
