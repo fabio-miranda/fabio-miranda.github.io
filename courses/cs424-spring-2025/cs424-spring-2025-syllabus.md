@@ -154,7 +154,7 @@ This schedule will be updated throughout the semester with links for slides and 
 - **Topic: Color, Graphical Perception**
 - **Lab: Multiple views**
 - Slides: 
-- Reading: Munzner (Ch. 10)
+- Reading: Munzner (Ch. 10), [Color Map Advice for Scientific Visualization](https://www.kennethmoreland.com/color-advice/), [Why We Use Bad Color Maps and What You Can Do About It](https://dx.doi.org/10.2352/ISSN.2470-1173.2016.16.HVEI-133)
 
 ###### Week 10 (Mar 18, Mar 20)
 - **Topic: Uncertainty visualization**
