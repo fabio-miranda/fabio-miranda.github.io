@@ -206,7 +206,7 @@ The assignments of this course require the design and implementation of web-base
   - [Vega](http://vega.github.io/vega): Declarative language for visualizations.
   - [Vega-Lite](http://vega.github.io/vega-lite): High-level visualization grammar.
   - [VTK](http://www.vtk.org/): scientific visualization toolkit.
-  - [VTK](http://www.urbantk.org/utk): urban visualization toolkit.
+  - [UTK](http://www.urbantk.org/utk): urban visualization toolkit.
   - [Curio](http://www.urbantk.org/curio): dataflow toolkit.
 
 - HTML, CSS
