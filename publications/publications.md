@@ -1,5 +1,19 @@
 ### Publications
 
+#### 2025
+
+**Automatic gait event detection in older adults during perturbed walking**<br>
+&emsp;S. Wang, K. Omar, F. Miranda, T. Bhatt<br>
+&emsp;*Journal of NeuroEngineering and Rehabilitation 22 (1), 1-10*<br>
+&emsp;[[DOI](https://doi.org/10.1186/s12984-025-01560-9)]
+
+**Curio: A Dataflow-Based Framework for Collaborative Urban Visual Analytics**<br>
+&emsp;G. Moreira, M. Hosseini, C. Veiga, L. Alexandre, N. Colaninno, D. de Oliveira, N. Ferreira, M. Lage, F. Miranda<br>
+&emsp;*IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2024)*<br>
+&emsp;[[Arxiv](https://arxiv.org/abs/2408.06139)] &#x2022;
+[[DOI](https://doi.org/10.1109/TVCG.2024.3456353)] &#x2022;
+[[Webpage](https://urbantk.org/curio/)]
+
 #### 2024
 
 **The State of the Art in Visual Analytics for 3D Urban Data**<br>
@@ -21,7 +35,7 @@
 &emsp;*IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2023)*<br>
 &emsp;[[Arxiv](https://arxiv.org/abs/2308.07769)] &#x2022;
 [[DOI](https://doi.org/10.1109/TVCG.2023.3326598)] &#x2022;
-[[Source code](https://urbantk.org/)]
+[[Source code](https://urbantk.org/utk)]
 
 **ProWis: A Visual Approach for Building, Managing, and Analyzing Weather Simulation Ensembles at Runtime**<br>
 &emsp;C.V.F. de Souza, S.M. Bonnet, D. de Oliveira, M. Cataldi, F. Miranda, M. Lage<br>
