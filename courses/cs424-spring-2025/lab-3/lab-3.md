@@ -106,7 +106,7 @@ To visualize a choropleth map of the aggregated fare data:
 alt.Chart(merged).mark_geoshape().encode(color='Fare').project(type='mercator')
 ```
 
-<img src="vis-1.png" alt="Visualization 1" width="25%"/>
+<img src="vis-1.png" alt="Visualization 1" width="50%"/>
 
 #### Task 4: Creating a bar chart of top ZIP codes by fare
 
@@ -138,7 +138,7 @@ bar = alt.Chart(merged.nlargest(15, "Fare"), title="Top 15 ZIP codes by fare").m
 
 This creates an interactive visualization where clicking a ZIP code on the bar chart will highlight it on the map. The result should be similar to the following image:
 
-<img src="vis-2.png" alt="Visualization 2" width="25%"/>
+<img src="vis-2.png" alt="Visualization 2" width="50%"/>
 
 #### Resources
 
