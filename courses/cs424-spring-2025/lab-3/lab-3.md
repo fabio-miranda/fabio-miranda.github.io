@@ -123,20 +123,17 @@ Additionally, we can add an interactive selection to highlight ZIP codes on both
 
 ```python
 click_zip = alt.selection_point(fields=["zip"])
-opacity = alt.condition(click_zip, alt.value(1), alt.value(0.2))
+opacity = alt.when(click_zip).then(alt.value(1)).otherwise(alt.value(0.2))
 
-choropleth = alt.Chart(merged).mark_geoshape().encode(
-    color='Fare',
-    opacity=opacity
-).project(type='mercator')
+choropleth = alt.Chart(merged).mark_geoshape().encode(color='Fare').project(type='mercator').encode(opacity=opacity)
 
 bar = alt.Chart(merged.nlargest(15, "Fare"), title="Top 15 ZIP codes by fare").mark_bar().encode(
-    x="Fare",
-    opacity=opacity,
-    y=alt.Y("zip").sort("-x"),
-).add_params(click_zip)
+        x="Fare",
+        opacity=opacity,
+        y=alt.Y("zip").sort("-x"),
+    )
 
-(choropleth & bar)
+(choropleth & bar).add_params(click_zip)
 ```
 
 This creates an interactive visualization where clicking a ZIP code on the bar chart will highlight it on the map. The result should be similar to the following image:
