@@ -34,8 +34,8 @@ pip install geopandas altair pandas jupyter
 
 Download the dataset required for this lab:
 
-* [Taxi Trips data](data/Taxi_Trips.csv)
-* [Chicago ZIP code boundaries](data/chicago.geojson)
+* [Taxi Trips data](../../data/Taxi_Trips.csv)
+* [Chicago ZIP code boundaries](../../data/chicago.geojson)
 
 #### Task 1: Loading the data and initial exploration
 
