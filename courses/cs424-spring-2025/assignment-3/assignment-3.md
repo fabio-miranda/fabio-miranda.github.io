@@ -53,11 +53,11 @@ Link the views that you created in Task 2 with the visualization you created in 
 
 In this project, there will be four deliverables:
 
-1) A [markdown document](https://www.markdownguide.org/getting-started/) (``.md``), with a short description, screenshots, videos, or GIFs of each visualization you created in the tasks. The visualization description should cover the attributes being visualized and (for Task 2) the interaction mechanisms and methods that were implemented. **You should leverage your sketches as much as possible as a starting point for your visualizations**. The document should be uploaded to the root of your GitHub project, with the name README.md (so that it is displayed by default by GitHub). The visualization descriptions should cover:
+1) A [markdown document](https://www.markdownguide.org/getting-started/) (``.md``), with a short description, screenshots, videos, or GIFs of each visualization you created in the tasks. The visualization description should cover the attributes being visualized and (for Task 2) the interaction mechanisms and methods that were implemented. Provide pointers to the Jupyter Notebooks that you used to transform or preprocess the data. **You should leverage your sketches as much as possible as a starting point for your visualizations**. The document should be uploaded to the root of your GitHub project, with the name README.md (so that it is displayed by default by GitHub). The visualization descriptions should cover:
 
 - The attributes being visualized.
 - The motivation and rationale for the visualization.
-- The interaction mechanisms and methods implemented (for Task 2).
+- The interaction mechanisms and methods implemented (for the appropriate tasks).
 - The design decisions made, including color choices, encoding strategies, and layout considerations (if appropriate).
 - The experimentation process using Vega-Lite, including different encodings, interaction techniques, and alternative designs that were considered before finalizing the visualizations. **For at least one visualization in each task, you should provide a detailed report on the experimentation process, documenting the design alternatives considered, the rationale behind the final choice, and how different encoding strategies, interactions, and visualization techniques influenced interpretability and insights.**
 
