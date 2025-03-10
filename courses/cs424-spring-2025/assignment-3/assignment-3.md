@@ -53,13 +53,15 @@ Link the views that you created in Task 2 with the visualization you created in 
 
 In this project, there will be four deliverables:
 
-1) A [markdown document](https://www.markdownguide.org/getting-started/) (``.md``), with a short description and screenshot of each visualization you created in the tasks. The visualization description should cover the attributes being visualized and (for task 2) the interaction mechanisms and methods that were implemented. **You should leverage your sketches as much as possible as a starting point for your visualizations**. The document should be uploaded to the root of your GitHub project, with the name README.md (so that it is displayed by default by GitHub). The visualization descriptions should cover:
+1) A [markdown document](https://www.markdownguide.org/getting-started/) (``.md``), with a short description, screenshots, videos, or GIFs of each visualization you created in the tasks. The visualization description should cover the attributes being visualized and (for task 2) the interaction mechanisms and methods that were implemented. **You should leverage your sketches as much as possible as a starting point for your visualizations**. The document should be uploaded to the root of your GitHub project, with the name README.md (so that it is displayed by default by GitHub). The visualization descriptions should cover:
 
 - The attributes being visualized.
 - The motivation and rationale for the visualization.
 - The interaction mechanisms and methods implemented (for Task 2).
 - The design decisions made, including color choices, encoding strategies, and layout considerations (if appropriate).
 - The experimentation process using Vega-Lite, including different encodings, interaction techniques, and alternative designs that were considered before finalizing the visualizations. **For at least one visualization in each task, you should provide a detailed report on the experimentation process, documenting the design alternatives considered, the rationale behind the final choice, and how different encoding strategies, interactions, and visualization techniques influenced interpretability and insights.**
+
+For interactive visualizations, include GIFs or short video recordings demonstrating the interactions. GIFs or videos should be embedded in the markdown (see [here](https://blog.markdowntools.com/posts/how-to-embed-a-video-in-markdown) or [here](https://blog.markdowntools.com/posts/how-to-embed-a-video-in-markdown) for references). Check tools like [ScreenToGif](https://www.screentogif.com/) or [LICEcap](https://www.cockos.com/licecap/) to help you with the recordings. Make sure the size of your GIF files is optimized, keeping each GIF relatively small (ideally below 1 MB) to facilitate sharing and viewing.
 
 2) One or more Jupyter notebooks (``.ipynb``) at the root directory of your git project, with each step of your exploratory process. Make sure it is *easily* reproducible and well documented, including both comments and plots.
 
@@ -78,6 +80,9 @@ In this project, there will be four deliverables:
 - *Reproducibility*: You should double check whether your implementation is easy to reproduce on another computer. It is your responsability to ensure that your work is well-documented and straightforward to set up.
 - *Vega-Lite*: If your dataset is too large, you must preprocess the data into a more manageable format before using Vega-Lite. This may involve aggregating, sampling, or transforming the data to ensure smooth and efficient visualization.
 - *Environment*: You can choose where you will implement your Vega-Lite specifications. Options include using Jupyter Notebook with Altair, embedding Vega-Lite in a web page, using TypeScript, or any other appropriate method. Regardless of the approach, you must ensure that your chosen implementation is well-documented and easy to execute.
+- *Jupyter Notebook*: Jupyter Notebook does not store embedded Vega-Lite visualizations. It is your responsibility to ensure that all Vega-Lite visualizations are properly included in the markdown documentation as images.
+- *Preprocessed data*: If your visualizations require preprocessed data to run correctly, you must include the necessary datasets in your GitHub repository to ensure reproducibility. Do not include the raw data. It is your responsibility to verify that all required data files are available and accessible.
+- *Interactive Visualizations*: For interactive visualizations, you should embed GIFs or short video recordings demonstrating the interactions.
 - You are not allowed to use ChatGPT or other AI-based text generators to generate any part of your submission. This assignment requires critical thinking and independent analysis, and the use of AI-generated content will result in a significant grade penalty. Your write-up should reflect your own reasoning, backed by class concepts, readings, and examples.
 
 #### Grading
