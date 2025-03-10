@@ -1,8 +1,8 @@
-### CS424 - Visualization & Visual Analytics (Fall 2023)
+### CS424 - Visualization & Visual Analytics (Spring 2025)
 
 Instructor: Fabio Miranda
 
-Course webpage: https://fmiranda.me/courses/cs424-fall-2023/
+Course webpage: https://fmiranda.me/courses/cs424-spring-2025/
 
 ---
 
@@ -63,7 +63,7 @@ The result should be similar to the following image:
 <img src="vis-3.png" alt="Visualization 3" width="100%"/>
 
 
-#### Visualization 2 (extra): Correlation between two attributes
+#### Visualization 2: Correlation between two attributes
 
 For this visualization, check the Jupyter notebook for the required steps and comments. It details the creation of four subplots, each displaying a scatter plot of a sociodemographic attribute against deaths per 1000 people. A regression line is fitted (in red) to visualize any trends. The red line in each plot represents the regression line.
 
