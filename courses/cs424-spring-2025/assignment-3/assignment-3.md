@@ -35,7 +35,7 @@ Each linked view must involve at least two visualizations from Task 1. For examp
 
 #### Task 3: Spatial visualization
 
-Create a visualization leveraging the spatial information from your dataset. If your dataset has no spatial information, create an extra visualization using an attribute you have not explored in the previous tasks. Consider different spatial representations such as heatmaps, choropleth maps, dot density maps, or spatial network visualizations. If applicable, explore multi-scale spatial patterns by visualizing data at different levels of granularity (e.g., city, neighborhood, block).
+Create a visualization leveraging the spatial information from your dataset. Consider different spatial representations such as heatmaps, choropleth maps, dot density maps, or spatial network visualizations. If applicable, explore multi-scale spatial patterns by visualizing data at different levels of granularity (e.g., city, neighborhood, block).
 
 If your dataset has no spatial information, create an extra visualization using an attribute you have not explored in the previous tasks.
 
