@@ -27,17 +27,23 @@ In the next assignment, we will combine the visualizations into a single web-bas
 
 In the previous assignments, you have already created a set of visualizations using GeoPandas and Matplotlib covering the following aspects: time, space, space + time, distribution, comparison. From those visualizations, select at least six and create Vega-Lite specifications implementing them. Make sure you select diverse visualizations (i.e., it is not enough to create six bar charts).
 
+Use Vega-Lite to navigate the design space by experimenting with different encodings and/or aggregation techniques. Consider how alternative designs impact the readability and interpretability of the data. For at least one visualization, you should provide a detailed report on this experimentation process. Document any significant insights or design choices that influenced your final visualization set.
+
 #### Task 2: Linked view visualizations
 
 Create four linked view visualizations, using different interaction mechanisms (i.e., manipulating the data, manipulating the visual mapping, manipulating the view) and method (i.e., aggregation, filtering, change mapping, selection, navigation, spatial arrangement). Make sure your visualizations avoid common problems, such as overplotting. These views can be built using visualizations from Task 1. The goal is to explore relationships between different attributes and dimensions of your dataset by linking multiple links together.
 
 Each linked view must involve at least two visualizations from Task 1. For example, users should be able to filter one visualization and see the effects on another, adjust parameters dynamically, etc.
 
+Use Vega-Lite to experiment with different linking strategies and interaction techniques. Consider how variations in filtering behaviors and visual encodings influence the interpretation of the data. For at least one visualization, you should provide a detailed report on this experimentation process. Document your design choices, explaining why specific interactions were chosen and how they improve the usability and insights of the visualizations. 
+
 #### Task 3: Spatial visualization
 
 Create a visualization leveraging the spatial information from your dataset. Consider different spatial representations such as heatmaps, choropleth maps, dot density maps, or spatial network visualizations. If applicable, explore multi-scale spatial patterns by visualizing data at different levels of granularity (e.g., city, neighborhood, block).
 
 If your dataset has no spatial information, create an extra visualization using an attribute you have not explored in the previous tasks.
+
+Use Vega-Lite to explore different spatial encodings. Experiment with alternative spatial visualizations and assess how different design choices impact interpretability. Document at least one experiment in detail, discussing the design alternatives considered, their advantages and limitations, and the rationale behind your final choice.
 
 #### Task 4: Linked spatial visualization (for groups with at least one graduate student)
 
@@ -53,6 +59,7 @@ In this project, there will be four deliverables:
 - The motivation and rationale for the visualization.
 - The interaction mechanisms and methods implemented (for Task 2).
 - The design decisions made, including color choices, encoding strategies, and layout considerations (if appropriate).
+- The experimentation process using Vega-Lite, including different encodings, interaction techniques, and alternative designs that were considered before finalizing the visualizations. **For at least one visualization in each task, you should provide a detailed report on the experimentation process, documenting the design alternatives considered, the rationale behind the final choice, and how different encoding strategies, interactions, and visualization techniques influenced interpretability and insights.**
 
 2) One or more Jupyter notebooks (``.ipynb``) at the root directory of your git project, with each step of your exploratory process. Make sure it is *easily* reproducible and well documented, including both comments and plots.
 
