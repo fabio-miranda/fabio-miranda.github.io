@@ -82,7 +82,7 @@ For interactive visualizations, include GIFs or short video recordings demonstra
 - *Environment*: You can choose where you will implement your Vega-Lite specifications. Options include using Jupyter Notebook with Altair, embedding Vega-Lite in a web page, using TypeScript, or any other appropriate method. Regardless of the approach, you must ensure that your chosen implementation is well-documented and easy to execute.
 - *Jupyter Notebook*: Jupyter Notebook does not store embedded Vega-Lite visualizations. It is your responsibility to ensure that all Vega-Lite visualizations are properly included in the markdown documentation as images.
 - *Preprocessed data*: If your visualizations require preprocessed data to run correctly, you must include the necessary datasets in your GitHub repository to ensure reproducibility. Do not include the raw data. It is your responsibility to verify that all required data files are available and accessible.
-- *Interactive Visualizations*: For interactive visualizations, you should embed GIFs or short video recordings demonstrating the interactions.
+- *Interactive visualizations*: For interactive visualizations, you should embed GIFs or short video recordings in your markdown demonstrating the interactions.
 - You are not allowed to use ChatGPT or other AI-based text generators to generate any part of your submission. This assignment requires critical thinking and independent analysis, and the use of AI-generated content will result in a significant grade penalty. Your write-up should reflect your own reasoning, backed by class concepts, readings, and examples.
 
 ---
