@@ -6,7 +6,7 @@ Course webpage: https://fmiranda.me/courses/cs424-spring-2025/
 
 ---
 
-### Lab 3: Geospatial Data Visualization with GeoPandas and Altair
+### Lab 3: Visualizing data with GeoPandas and Altair
 
 The goal of this lab is to introduce students to geospatial data visualization using GeoPandas and Altair. You will learn how to load, manipulate, and visualize geospatial data using Python libraries. This lab will also cover basic spatial joins and aggregation techniques for creating meaningful geospatial visualizations.
 
