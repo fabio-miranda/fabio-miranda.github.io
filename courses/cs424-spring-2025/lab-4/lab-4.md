@@ -111,7 +111,7 @@ matrix
 
 ```
 
-<img src="vis-1.png" alt="Visualization 1" width="100%"/>
+<img src="vis-1.png" alt="Visualization 1" width="50%"/>
 
 #### Task 4: Link the scatter plots with a visualization of the spatial attributes
 
@@ -135,7 +135,7 @@ brush = alt.selection_interval()
 
 The result should be similar to the following image:
 
-<img src="vis-2.png" alt="Visualization 2" width="100%"/>
+<img src="vis-2.png" alt="Visualization 2" width="50%"/>
 
 #### Resources
 
