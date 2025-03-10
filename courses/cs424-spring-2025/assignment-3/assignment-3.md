@@ -21,8 +21,6 @@ We will use GitHub to manage code and documentation. You can choose where you wi
 
 You should leverage your previous assignment outcomes to facilitate the tasks of assignment 3. If you think you need to modify any of your outcomes, feel free to do so. Make sure that you select appropriate domain and data questions.
 
-In the next assignment, we will combine the visualizations into a single web-based visualization system, so keep that in mind when choosing the visualizations.
-
 #### Task 1: Single view visualizations
 
 In the previous assignments, you have already created a set of visualizations using GeoPandas and Matplotlib covering the following aspects: time, space, space + time, distribution, comparison. From those visualizations, select at least six and create Vega-Lite specifications implementing them. Make sure you select diverse visualizations (i.e., it is not enough to create six bar charts).
@@ -48,6 +46,8 @@ Use Vega-Lite to explore different spatial encodings. Experiment with alternativ
 #### Task 4: Linked spatial visualization (for groups with at least one graduate student)
 
 Link the views that you created in Task 2 with the visualization you created in Task 3. Design meaningful interactions between spatial and non-spatial views, such as brushing and linking, coordinated highlighting, or drill-down exploration.
+
+---
 
 #### Deliverables
 
@@ -84,6 +84,8 @@ For interactive visualizations, include GIFs or short video recordings demonstra
 - *Preprocessed data*: If your visualizations require preprocessed data to run correctly, you must include the necessary datasets in your GitHub repository to ensure reproducibility. Do not include the raw data. It is your responsibility to verify that all required data files are available and accessible.
 - *Interactive Visualizations*: For interactive visualizations, you should embed GIFs or short video recordings demonstrating the interactions.
 - You are not allowed to use ChatGPT or other AI-based text generators to generate any part of your submission. This assignment requires critical thinking and independent analysis, and the use of AI-generated content will result in a significant grade penalty. Your write-up should reflect your own reasoning, backed by class concepts, readings, and examples.
+
+---
 
 #### Grading
 
