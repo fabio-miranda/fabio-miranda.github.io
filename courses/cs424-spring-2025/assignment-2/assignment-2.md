@@ -117,7 +117,7 @@ Notebooks should be well-documented with:
 
 Your submission will be graded according to the quality and coverage of the results and presentation. You need to make sure that both your deliverables (presentation and documentation) and notebooks clearly show your findings. Visualizations need to be well constructed, with good color and font choices and proper labeling. Your submission and presentation will be graded according to the following:
 
-- Writeup:
+- Visualizations:
     - Excellent (A): your visualizations effectively cover the most important aspects of the data, clear design decisions and motivation.
     - Good (B): good visualizations, with minor problems.
     - Poor (C): ineffective visualizations, poor description of the data and/or insights.
