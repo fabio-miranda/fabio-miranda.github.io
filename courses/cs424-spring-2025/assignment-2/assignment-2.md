@@ -132,7 +132,7 @@ Your submission will be graded according to the quality and coverage of the resu
   - Good (B): Design choices are mostly effective, with minor issues.
   - Poor (C): Ineffective mark or encoding choices.
 
-Clarity and Organization of Writing:
+- Clarity and Organization of Writing:
   - Excellent (A): The writing is clear, concise, and well-structured.
   - Good (B): The writing is mostly clear and well-organized.
   - Poor (C): The writing is difficult to follow.
