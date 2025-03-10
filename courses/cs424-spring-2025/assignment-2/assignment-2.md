@@ -74,7 +74,7 @@ By the end of this task, your notebook should contain a set of clear and insight
 
 #### Deliverables
 
-In this project, there will be three deliverables:
+In this project, there will be two deliverables:
 
 1) A [markdown document](https://www.markdownguide.org/getting-started/) (``.md``), with a description of the dataset and implemented visualizations, and derived insights. Again, there is no minimum number of visualizations for this assignment, you will be graded on whether the visualizations you implemented reasonably describe the most important aspects of the data. It is reasonable to assume that you won't be able to convey all the most important aspects of a dataset using only one visualization. However, it is also reasonable to assume that you won't need to implement 16 different visualizations to explore a dataset. **You should leverage your sketches as much as possible as a starting point for your visualizations**. The document should be uploaded to the root of your GitHub project, with the name README.md (so that it is displayed by default by GitHub). The markdown should contain: (1) the dataset and its key attributes, (2) the exploratory questions you investigated, (3) the visualizations and key findings for each question.
 
