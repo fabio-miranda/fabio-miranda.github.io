@@ -129,7 +129,6 @@ scatter = alt.Chart(gdf).mark_circle().encode(
 Additionally, we can add an interactive selection to highlight points in all charts:
 
 ```python
-brush = alt.selection_interval()
 (scatter & matrix).add_params(brush)
 ```
 
