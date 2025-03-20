@@ -303,6 +303,7 @@ Letter grades will be based on a straight scale using the following thresholds f
 - [Lab 2](./lab-2/)
 - [Lab 3](./lab-3/)
 - [Lab 4](./lab-4/)
+- [Lab 5](./lab-5/)
 
 #### Late Days
 Assignments must be submitted by the deadlines. If you are unable to complete a project by the deadline, a documented compelling excuse (such as illness, hospitalization) is required. Teams will have four late days to use during the entire semester. **After the four late days have been used, each late day will result in a 10-point deduction (out of 100 points per assignment) for each day past the deadline.**

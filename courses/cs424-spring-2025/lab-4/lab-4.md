@@ -6,7 +6,7 @@ Course webpage: https://fmiranda.me/courses/cs424-spring-2025/
 
 ---
 
-### Lab 3: Visualizing data with GeoPandas and Altair
+### Lab 5: Visualizing data with GeoPandas and Altair
 
 The goal of this lab is to introduce students to the concept of multiple coordinated views in data visualization using Altair. You will learn how to create linked visualizations that allow users to explore data interactively. This lab will cover scatter plots, bar charts, histograms, line charts, and geospatial visualizations, along with brushing and selection techniques for linking views.
 
@@ -27,8 +27,8 @@ First, install Anaconda by following [these instructions](https://docs.anaconda.
 Next, create a new conda environment and install the required packages:
 
 ```console
-conda create -n lab3 python=3.8
-conda activate lab3
+conda create -n lab4
+conda activate lab4
 pip install geopandas altair pandas jupyter
 ```
 
@@ -77,7 +77,7 @@ Perform a spatial join between taxi trip data and Chicago ZIP codes to aggregate
 
 ```python
 joined = gpd.sjoin(gdf, chicago, predicate='within')
-joined = joined.groupby('zip').mean()
+joined = gdf.groupby('zip').agg({'Fare': 'mean'})
 joined = joined.filter(['Fare'])
 ```
 

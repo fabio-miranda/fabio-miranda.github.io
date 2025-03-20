@@ -27,7 +27,7 @@ First, install Anaconda by following [these instructions](https://docs.anaconda.
 Next, create a new conda environment and install the required packages:
 
 ```console
-conda create -n lab3 python=3.8
+conda create -n lab3
 conda activate lab3
 pip install geopandas altair pandas jupyter
 ```
@@ -75,8 +75,8 @@ chicago = gpd.read_file('data/chicago.geojson')
 Perform a spatial join between taxi trip data and Chicago ZIP codes to aggregate fare data by ZIP code:
 
 ```python
-joined = gpd.sjoin(gdf, chicago, predicate='within')
-joined = joined.groupby('zip').mean()
+gdf = gpd.sjoin(gdf, chicago, predicate='within')
+joined = gdf.groupby('zip').agg({'Fare': 'mean'})
 joined = joined.filter(['Fare'])
 ```
 
