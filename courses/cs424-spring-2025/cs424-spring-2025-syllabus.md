@@ -151,10 +151,10 @@ This schedule will be updated throughout the semester with links for slides and 
 ![Static Badge](https://img.shields.io/badge/Assignment%203%20released-2171b5)
 
 ###### Week 9 (Mar 11, Mar 13)
-- **Topic: Color, Graphical Perception**
+- **Topic: Visual Analytics**
 - **Lab: Multiple views**
 - Slides: 
-- Reading: Munzner (Ch. 10), [Color Map Advice for Scientific Visualization](https://www.kennethmoreland.com/color-advice/), [Why We Use Bad Color Maps and What You Can Do About It](https://dx.doi.org/10.2352/ISSN.2470-1173.2016.16.HVEI-133)
+- Reading: [Introduction to Visual Analytics by an Example](https://link.springer.com/chapter/10.1007/978-3-030-56146-8_1) (Ch. 1)
 
 ###### Week 10 (Mar 18, Mar 20)
 - **Topic: Uncertainty visualization**
