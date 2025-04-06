@@ -18,6 +18,87 @@ function loadMarkdown(fileName, jumphash) {
 
 }
 
+function loadPapers(fileName) {
+	$.getJSON( fileName, function( data ) {
+		var highlights = d3.select("#papers").append("div").attr("class", "papers row no-gutters");
+
+		for(var content in data) {
+			var div = highlights
+		        .append("div")
+		        .attr("class", "col-sm-12")
+		        .attr("id", content.toLowerCase())
+		        // .append("h4")
+
+		    div.append("div")
+				.attr("class", "researchitem font-weight-bold align-item-center")
+				.style("float", "right")
+				.style("padding-left", "5px")
+				.style("padding-top", "3px")
+				.append("a")
+				.attr("href","/publications")
+				.text("See all publications");
+
+		    div.append("div")
+		        .attr("class", "title font-weight-bold")
+				.text(content);
+
+			highlights = highlights.append("div").attr("class","cell row py-0").style("width", "100%").style("height", "350px");
+
+			var items = highlights
+				.selectAll("div")
+				.data(d3.entries(data[content]));
+
+			item = items
+				.enter()
+				.append("span")
+				.attr("class", "col-sm-2 researchitem");
+
+			item.append("div")
+				.attr("class", "font-weight-bold").style("text-align", "center").style("align-content", "center").style("height", "15%")
+				.text(function(d){return d.value["title"]});
+			item.append("div")
+				.attr("class", "text-center text-justify")
+				.append("a").attr("href", function(d){return d.value["link"]})
+				.append("img")
+				.attr("class", "img-rounded")
+				.style("max-width", "100%")
+				.style("height", "55%")
+				.style("object-fit", "contain")
+				.style("border-style", "solid")
+				.style("border-width", "1px")
+				.style("border-color", "#D3D3D3")
+				.attr("src", function(d){return d.value["teaser"]})
+				.attr("alt", function(d){return d.value["description"]})
+
+			item.append("div")
+				// .attr("class", "researchitemauthors")
+				.style("height", "30%")
+				.append("a").attr("href", function(d){return d.value["link"]})
+				.text(function(d){return d.value["description"]})
+			// item.append("div")
+				// .text(function(d){return d.value["text"]})
+
+			// var links = item.append("div");
+			// links.each(function(element) {
+			// 	for(var i=0; i<element.value["where"].length; ++i) {
+			// 		var aux;
+			// 		if(i > 0) {
+			// 			aux = d3.select(this).append("span").text(", ");
+			// 		}
+			// 		else {
+			// 			aux = d3.select(this).append("span");
+			// 		}
+
+			// 		aux.append("span")
+			// 			.style("white-space","nowrap")
+			// 			.html(function(d) {
+			// 				return ' [<a href='+element.value["more"][i]+'>'+element.value["where"][i]+'</a>]';
+			// 			});
+			// 	}
+			// })
+		}
+	});
+}
 
 function loadHeader(fileName, title) {
 
@@ -288,7 +369,7 @@ function loadResearchHighlights(fileName) {
 				.attr("class", "col-sm-3 researchitem");
 
 			item.append("div")
-				.attr("class", "font-weight-bold")
+				.attr("class", "font-weight-bold").style("text-align", "center")
 				.text(function(d){return d.value["title"]});
 			item.append("div")
 				.attr("class", "text-center text-justify")
