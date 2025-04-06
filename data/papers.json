@@ -1,0 +1,40 @@
+{
+	"Selected Latest Papers": {
+		"1": {
+			"title": "Curio",
+			"description": "A Dataflow-Based Framework for Urban Visual Analytics",
+			"teaser": "images/papers/curio.png",
+			"link": "https://urbantk.org/curio"
+		},
+		"2": {
+			"title": "Deep Umbra",
+			"description": "A Generative Approach for Sunlight Access Computation in Urban Spaces",
+			"teaser": "images/papers/deep-umbra.png",
+			"link": "https://urbantk.org/shadows"
+		},
+		"3": {
+			"title": "Survey on tools for urban visual analytics",
+			"description": "Toolkits, frameworks, and authoring tools for urban visual analytics systems",
+			"teaser": "images/papers/landscape.png",
+			"link": "https://www.sciencedirect.com/science/article/pii/S0097849324001481"
+		},
+		"4": {
+			"title": "Survey on 3D urban visual analytics",
+			"description": "The State of the Art in Visual Analytics for 3D Urban Data",
+			"teaser": "images/papers/star-3D.png",
+			"link": "https://urbantk.org/survey-3d"
+		},
+		"5": {
+			"title": "ProWis",
+			"description": "A Visual Approach for Building, Managing, and Analyzing Weather Simulation Ensembles at Runtime",
+			"teaser": "images/papers/prowis.png",
+			"link": "https://ieeexplore.ieee.org/abstract/document/10290915"
+		},
+		"6": {
+			"title": "The Urban Toolkit",
+			"description": "A Grammar-Based Framework for Urban Visual Analytics",
+			"teaser": "images/papers/utk.png",
+			"link": "https://urbantk.org/utk"
+		}
+	}
+}
