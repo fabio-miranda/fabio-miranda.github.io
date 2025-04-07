@@ -4,7 +4,7 @@
 
 Leonardo Ferreira (2023 - )
 
-Gustavo Moreira (2022 - )
+[Gustavo Moreira](https://gmmuller.github.io/) (2022 - )
 
 [Kazi Omar](https://komar41.github.io/) (2021 - )
 
