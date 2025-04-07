@@ -1,15 +1,27 @@
-### CS424 - Visualization & Visual Analytics (Fall 2023)
+### CS424 - Visualization & Visual Analytics (Spring 2025)
 
 Instructor: Fabio Miranda
 
-Course webpage: https://fmiranda.me/courses/cs424-fall-2023/
+Course webpage: https://fmiranda.me/courses/cs424-spring-2025/
 
 ---
 
 ### Assignment 4
-The goal of this project is to build a complete web-based visualization system leveraging outcomes from the previous assignments. We will use JavaScript and a visualization library to visualize and interactively analyze a dataset. Your visualization should be hosted on a publicly available website and you can use any web hosting service you prefer. Options include [GitHub](https://pages.github.com/), [Heroku](https://www.heroku.com/students), and [Google Sites](https://sites.google.com/). Once again, we will use GitHub to manage documentation and code. You should create a repository for your team on GitHub Classroom (see Piazza for invitation link). We will use GitHub to manage code and documentation.
+The goal of this assignment is to create a complete interactive visualization system to explore and analyze a dataset of your choice. This assignment now offers two options:
+
+- [Option 1: Build a dedicated web-based visualization interface using HTML, JavaScript, and Vega/Vega-lite.](#option-1-web-based-visualization-interface)
+- [Option 2: Use the Curio platform to design and implement a dataflow-based visual analytics system.](#option-2-dataflow-system-in-curio)
+
+You will submit different types of deliverables depending on your choice. Pick the option that best suits your interests and background.
+
+> ⚠️ **Important:** Read both options carefully before making your choice. Consider the complexity of each option and any technical risks involved before committing to a direction.
+> Your submission will be graded out of 100 total points. For Option 2, up to 20 extra points can be earned by completing optional subtasks in Tasks 3, 4, and 5.
 
 ---
+
+### Option 1: Web-Based Visualization Interface
+
+The goal of this option is to build a complete web-based visualization system leveraging outcomes from the previous assignments. We will use JavaScript and a visualization library to visualize and interactively analyze a dataset. Your visualization should be hosted on a publicly available website and you can use any web hosting service you prefer. Options include [GitHub](https://pages.github.com/) and [Google Sites](https://sites.google.com/). Once again, we will use GitHub to manage documentation and code. You should create a repository for your team on GitHub Classroom (see Piazza for invitation link). We will use GitHub to manage code and documentation.
 
 #### Tasks
 
@@ -28,7 +40,7 @@ That will serve all files in your folder through the address 0.0.0.0:8000 . Open
 
 #### Task 1: Creating an empty page
 
-Create a web page to host your visualizations. You should start by defining the div elements that will serve as the parament element for your individual visualizations (check [here](https://fmiranda.me/courses/cs424-slides/05-d3.pdf) to refresh your memories). Ideally, you should also define the *size* of each element in a style sheet -- make sure you use percentage as opposed to size in pixels. After you have outlined the position of your visualization elements in your screen, create a JavaScript file (main.js) that will contain the code to (1) load your data and (2) generate your visualizations. Again, revisit [this](https://fmiranda.me/courses/cs424-slides/05-d3.pdf) lecture to make sure you are familiar with the interaction between HTML and JavaScript.
+Create a web page to host your visualizations. You should start by defining the div elements that will serve as the parament element for your individual visualizations (check [here](https://fmiranda.me/courses/cs424-slides/05-d3.pdf)). Ideally, you should also define the *size* of each element in a style sheet -- make sure you use percentage as opposed to size in pixels. After you have outlined the position of your visualization elements in your screen, create a JavaScript file (main.js) that will contain the code to (1) load your data and (2) generate your visualizations. Again, check [this](https://fmiranda.me/courses/cs424-slides/05-d3.pdf) lecture to make sure you are familiar with the interaction between HTML and JavaScript.
 
 For a possible starting point, you can check [this](template.zip) template. This is just a template, and you should not expect it to satisfy *all* the requirements of the assignment. In other words, do not simply paste your previous Vega-lite specifications into the .js file, without adequately addressing questions of interaction, size, and positioning. The zip file contains three files: ``index.html`` containing six div elements, ``style.css`` defining the position of the divs, and ``script.js`` with the code to generate the Vega-lite visualizations.
 
@@ -68,17 +80,11 @@ Migrate or create a new visualization leveraging the spatial information from yo
 
 #### Task 6: Web deployment
 
-Select a web hosting service and make yourself familiar with the steps needed in order to upload files to the service. Free options include [GitHub](https://pages.github.com/), [Heroku](https://www.heroku.com/students), and [Google Sites](https://sites.google.com/). Make sure you upload your final results to the hosting service so that they are publicly available.
-
-#### Task 7: UTK (extra)
-
-Now that you have created Vega-lite visualizations, explore the possibility of migrating them to the [UTK framework](http://urbantk.org). As a starting point, check the [quick start guide](http://urbantk.org/getting-started/) and [tutorials](http://urbantk.org/home-tutorials/). For 5 extra points in the assignment, you should successfully (1) load your data or a subset of it into UTK, (2) create a map-based visualization, and (3) create a linked 2D visualization within the environment using Vega-lite. If you are not able to create new visualizations using UTK, you can simply write the steps (and errors) encountered in the process. You do not need to upload your UTK-based visualizations to the web hosting service; instead, simply add your screenshots (and JSON specifications) to the GitHub.
-
----
+Select a web hosting service and make yourself familiar with the steps needed in order to upload files to the service. Free options include [GitHub](https://pages.github.com/) and [Google Sites](https://sites.google.com/). Make sure you upload your final results to the hosting service so that they are publicly available.
 
 #### Deliverables
 
-In this project, there will be four deliverables:
+In this option, there will be five deliverables:
 
 1) A [markdown document](https://www.markdownguide.org/getting-started/) (``.md``), with a clear description of the dataset, summarizing the most important points, questions, data transformations, encodings, interactions and initial findings (feel free to re-use text from previous assignments). Also include a link to your visualization solution (see deliverable 4). You should include screenshots with meaningful captions. **Please put some effort into it as outcomes like this can be helpful when building up a portfolio.**
 
@@ -89,6 +95,90 @@ In this project, there will be four deliverables:
 4) A web page hosting your visualization interface. The web page should be publicly accessible.
 
 5) A ~5 minute presentation, presenting your visualization interface. For the presentation, you should present your interface, interactions and findings, **without** relying on a Powerpoint presentation. In other words, for your presentation you should simply open the webpage hosting your visualization (see task 1) and present it live.
+
+---
+
+### Option 2: Dataflow system in Curio
+
+In this second option, you will use [Curio](https://urbantk.org/curio), an open-source dataflow-based visual analytics system. You’ll build an interactive dataflow by:
+
+- Loading and preparing your dataset in Curio.
+- Designing a dataflow with multiple visual encodings.
+- Building coordinated views using Curio's modules.
+- Optionally incorporating Python logic and spatial data.
+
+Curio allows you to create linked visualizations and reuse your Vega-lite specifications. This option is a great fit if you want to work in a more modular visual analytics environment.
+
+You can earn up to 20 extra points in this assignment by going beyond the minimum requirements in Option 2. These extra points are tied to specific tasks:
+
+- Task 3: Reusing and integrating previous visualizations
+    - +5 points: Successfully reimplement one of your previous interactive single-view visualizations using Curio.
+    - +5 points: Successfully reimplement one of your previous multiple-view visualizations with linked interaction using Curio modules.
+- Task 4: New linked view with different interaction
+    - +5 points: Create a new multi-view visualization that uses a different interaction method from Task 3 (e.g., navigation instead of filtering, or different spatial arrangement techniques).
+- Task 5: Spatial visualization
+    - +5 points: Add a meaningful spatial visualization to your dataflow.
+
+#### Task 0: Setting up Curio locally
+
+Follow the instructions in the [Curio documentation](https://github.com/urban-toolkit/curio) to clone and run the system locally. You may use either Docker or manual setup. Ensure you can run the frontend, backend, and Python sandbox.
+
+> 💡 Tip: Before you begin building your own system, spend time exploring the examples and dataflows provided in Curio’s GitHub repository. These examples demonstrate how different modules are connected and can help you understand how to create interactive and linked visualizations within Curio.
+
+#### Task 1: Importing or preparing your dataset
+
+Decide which dataset you will use — ideally the same as in previous assignments. Use either the built-in Curio modules to load your data or write a custom Python preprocessing step using the sandbox. Create cleaned or aggregated versions of your dataset if needed.
+
+#### Task 2: Designing a basic dataflow
+
+Create your initial dataflow in Curio using available modules. Your dataflow must include:
+
+- A data source module.
+- At least one visualization module.
+- A connection between them.
+
+Use this as a foundation to build more complex views.
+
+#### Task 3: Reusing and integrating previous visualizations
+
+Recreate at least one visualization from your previous assignments inside Curio. Choose one of the following, with the last two having extra points attached to them:
+
+- One single-view visualization.
+- One single-view interactive visualization (+5 extra points)
+- One multiple-view visualization with coordinated interaction (e.g., brushing, filtering, selection) (+5 extra points)
+
+You can reuse your Vega-lite specifications by adapting them to Curio's Vega-lite module. Make sure the interactivity still works as expected.
+
+#### Task 4: New linked view with different interaction (+5 extra points)
+
+Add a new multiple-view visualization to your dataflow that uses a different interaction mechanism or analytical method from Task 3. For example, if you previously used brushing, try selection filtering or view navigation.
+
+This new view should demonstrate your ability to design a complementary interaction pattern using Curio’s modular design.
+
+#### Task 5: Spatial visualization (+5 extra points)
+
+Include at least one spatial visualization (e.g., a map or geospatial encoding). You can use UTK's map module, or embed a Vega-lite visualization with geographic data. You may reuse work from earlier assignments, but make sure it's integrated into your dataflow and linked to other views.
+
+#### Task 6: Exporting your system
+
+Export your dataflow as a JSON file using Curio's export feature. You should also capture a screenshot of your complete interface, showing the system in use.
+
+You do not need to host your system online, but your exported files must run in a local Curio environment.
+
+#### Deliverables:
+
+In this option, there will be five deliverables:
+
+1) A [markdown document](https://www.markdownguide.org/getting-started/) (``.md``), with a clear description of the dataset, summarizing the most important points, questions, data transformations, encodings, interactions and initial findings (feel free to re-use text from previous assignments). Summarize your design decisions and how your Curio dataflow supports them. Include annotated screenshots and a discussion of the challenges and advantages of using Curio. **Please put some effort into it as outcomes like this can be helpful when building up a portfolio.**
+
+2) Export your complete Curio dataflow as a .json file. Include any raw or preprocessed datasets you used (e.g., CSV, JSON).
+
+3) A well-framed PNG image of your full Curio workspace, with your dataflow and visualizations active. This screenshot may be featured in class notes, so make it representative of your final product.
+
+4) Custom modules or Python scripts that you used.
+
+5) A ~5 minute presentation, presenting your visualization interface. For the presentation, you should present your interface, interactions and findings. You can use PowerPoint and screenshots of your dataflow. You do not need to run it live.
+
 
 ---
 
@@ -106,6 +196,9 @@ Your submission will be graded according to the quality and coverage of the resu
     - Good (B): good description of the data and visualizations, but could be more detailed.
     - Poor (C): missing or incomplete descriptions and / or visualizations.
 
-Points will be deducted if your visualizations suffer from errors or broken features, overly simplistic designs, incomplete write-up.
+- Clarity and Organization of Writing:
+    - Excellent (A): The writing is clear, concise, and well-structured.
+    - Good (B): The writing is mostly clear and well-organized.
+    - Poor (C): The writing is difficult to follow.
 
-If you successfully create visualizations using UTK, you will get 5 extra points in the assignment. If you document your process of using UTK (even if not successful), you will get 5 extra points.
+
