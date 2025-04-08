@@ -179,10 +179,18 @@ In this option, there will be five deliverables:
 
 5) A ~5 minute presentation, presenting your visualization interface. For the presentation, you should present your interface, interactions and findings. You can use PowerPoint and screenshots of your dataflow. You do not need to run it live.
 
+---
+
+### Notes
+
+- Curio is a research prototype currently under active development. While it provides an environment for exploring data through modular visual analytics, you may encounter bugs or limitations. We encourage you to document these experiences in your report — doing so is part of the learning process and will be rewarded.
+- Carefully read through both options before choosing. Option 1 provides full control over layout and customization through HTML/CSS/JS, while Option 2 allows for rapid prototyping of analytical workflows via dataflows in Curio.
+- If you get stuck or encounter an error, refer to the Curio documentation and examples on GitHub, and reach out on Piazza or office hours for help. Extra office hours will be made available during the assignment period specifically to support Option 2.
+- The same notes from previous assignments also apply to assignment 4.
 
 ---
 
-#### Grading
+### Grading
 
 Your submission will be graded according to the quality and coverage of the results and presentation. You need to make sure that both your deliverables (presentation and documentation) clearly show your findings. Visualizations need to be well constructed, with good color and font choices and proper labeling. Your submission and presentation will be graded according to the following:
 
