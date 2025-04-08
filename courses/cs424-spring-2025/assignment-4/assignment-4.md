@@ -78,7 +78,11 @@ Even though the template provides you with a starting point, you should go beyon
 
 Migrate or create a new visualization leveraging the spatial information from your dataset. For extra points, you should link the spatial view with a reasonable subset of the views from the previous tasks.
 
-#### Task 6: Web deployment
+#### Task 6: Formal description of your system (+5 extra points)
+
+Describe your final system using the formal notation for interactive visualization systems presented in [this paper](https://link.springer.com/chapter/10.1007/978-3-540-71080-6_6). You should clearly describe the functions implemented in your system according to their formalization of the visual analytics process. Include this formal description as a section in your markdown report. If you're using Curio (see Option 2), this process should be straightforward -- each module in your dataflow can be mapped to an operator, making it easier to surface the functions involved in your system.
+
+#### Task 7: Web deployment
 
 Select a web hosting service and make yourself familiar with the steps needed in order to upload files to the service. Free options include [GitHub](https://pages.github.com/) and [Google Sites](https://sites.google.com/). Make sure you upload your final results to the hosting service so that they are publicly available.
 
@@ -94,7 +98,7 @@ In this option, there will be five deliverables:
 
 4) A web page hosting your visualization interface. The web page should be publicly accessible.
 
-5) A ~5 minute presentation, presenting your visualization interface. For the presentation, you should present your interface, interactions and findings, **without** relying on a Powerpoint presentation. In other words, for your presentation you should simply open the webpage hosting your visualization (see task 1) and present it live.
+5) A ~10 minute presentation, presenting your visualization interface. For the presentation, you should present your interface, interactions and findings, **without** relying on a Powerpoint presentation. In other words, for your presentation you should simply open the webpage hosting your visualization (see task 1) and present it live.
 
 ---
 
@@ -109,7 +113,7 @@ In this second option, you will use [Curio](https://urbantk.org/curio), an open-
 
 Curio allows you to create linked visualizations and reuse your Vega-lite specifications. This option is a great fit if you want to work in a more modular visual analytics environment.
 
-You can earn up to 20 extra points in this assignment by going beyond the minimum requirements in Option 2. These extra points are tied to specific tasks:
+You can earn up to 25 extra points in this assignment by going beyond the minimum requirements in Option 2. These extra points are tied to specific tasks:
 
 - Task 3: Reusing and integrating previous visualizations
     - +5 points: Successfully reimplement one of your previous interactive single-view visualizations using Curio.
@@ -118,6 +122,8 @@ You can earn up to 20 extra points in this assignment by going beyond the minimu
     - +5 points: Create a new multi-view visualization that uses a different interaction method from Task 3 (e.g., navigation instead of filtering, or different spatial arrangement techniques).
 - Task 5: Spatial visualization
     - +5 points: Add a meaningful spatial visualization to your dataflow.
+- Task 6: Formal description of your system
+    - +5 points: Create a formal description of your system.
 
 #### Task 0: Setting up Curio locally
 
@@ -159,7 +165,11 @@ This new view should demonstrate your ability to design a complementary interact
 
 Include at least one spatial visualization (e.g., a map or geospatial encoding). You can use UTK's map module, or embed a Vega-lite visualization with geographic data. You may reuse work from earlier assignments, but make sure it's integrated into your dataflow and linked to other views.
 
-#### Task 6: Exporting your system
+#### Task 6: Formal description of your system (+5 extra points)
+
+Describe your final system using the formal notation for interactive visualization systems presented in [this paper](https://link.springer.com/chapter/10.1007/978-3-540-71080-6_6). You should clearly describe the functions implemented in your system according to their formalization of the visual analytics process. Include this formal description as a section in your markdown report. If you're using Curio, this process should be straightforward -- each module in your dataflow can be mapped to an operator, making it easier to surface the functions involved in your system.
+
+#### Task 7: Exporting your system
 
 Export your dataflow as a JSON file using Curio's export feature. You should also capture a screenshot of your complete interface, showing the system in use.
 
@@ -177,7 +187,7 @@ In this option, there will be five deliverables:
 
 4) Custom modules or Python scripts that you used.
 
-5) A ~5 minute presentation, presenting your visualization interface. For the presentation, you should present your interface, interactions and findings. You can use PowerPoint and screenshots of your dataflow. You do not need to run it live.
+5) A ~10 minute presentation, presenting your visualization interface. For the presentation, you should present your interface, interactions and findings. You can use PowerPoint and screenshots of your dataflow. You do not need to run it live.
 
 ---
 
