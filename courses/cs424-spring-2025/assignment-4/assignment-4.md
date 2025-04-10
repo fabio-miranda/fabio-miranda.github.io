@@ -15,7 +15,7 @@ The goal of this assignment is to create a complete interactive visualization sy
 You will submit different types of deliverables depending on your choice. Pick the option that best suits your interests and background.
 
 > ⚠️ **Important:** Read both options carefully before making your choice. Consider the complexity of each option and any technical risks involved before committing to a direction.
-> Your submission will be graded out of 100 total points. For Option 2, up to 20 extra points can be earned by completing optional subtasks in Tasks 3, 4, and 5.
+> Your submission will be graded out of 100 total points. For Option 2, up to 30 extra points can be earned by completing optional subtasks in Tasks 3, 4, 5, 6, and 7.
 
 ---
 
@@ -124,6 +124,8 @@ You can earn up to 25 extra points in this assignment by going beyond the minimu
     - +5 points: Add a meaningful spatial visualization to your dataflow.
 - Task 6: Formal description of your system
     - +5 points: Create a formal description of your system.
+- Task 7: Step-by-step guide
+    - +5 points: Create a step-by-step guide with descriptions, images, and code.
 
 #### Task 0: Setting up Curio locally
 
@@ -169,7 +171,11 @@ Include at least one spatial visualization (e.g., a map or geospatial encoding).
 
 Describe your final system using the formal notation for interactive visualization systems presented in [this paper](https://link.springer.com/chapter/10.1007/978-3-540-71080-6_6). You should clearly describe the functions implemented in your system according to their formalization of the visual analytics process. Include this formal description as a section in your markdown report. If you're using Curio, this process should be straightforward -- each module in your dataflow can be mapped to an operator, making it easier to surface the functions involved in your system.
 
-#### Task 7: Exporting your system
+#### Task 7: Step-by-step guide (+5 extra points)
+
+Following the examples shown [here](https://github.com/urban-toolkit/curio/tree/main/docs), create a step-by-step guide detailing each step of your dataflow. Add images to the steps, as well as the Python code of the node.
+
+#### Task 8: Exporting your system
 
 Export your dataflow as a JSON file using Curio's export feature. You should also capture a screenshot of your complete interface, showing the system in use.
 
