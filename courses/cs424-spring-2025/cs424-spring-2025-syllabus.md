@@ -298,6 +298,8 @@ Letter grades will be based on a straight scale using the following thresholds f
 - [Assignment 0](./assignment-0/)
 - [Assignment 1](./assignment-1/)
 - [Assignment 2](./assignment-2/)
+- [Assignment 3](./assignment-3/)
+- [Assignment 4](./assignment-4/)
 
 - [Lab 1](./lab-1/)
 - [Lab 2](./lab-2/)
