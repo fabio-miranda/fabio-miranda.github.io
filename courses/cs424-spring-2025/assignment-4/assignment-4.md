@@ -113,7 +113,7 @@ In this second option, you will use [Curio](https://urbantk.org/curio), an open-
 
 Curio allows you to create linked visualizations and reuse your Vega-lite specifications. This option is a great fit if you want to work in a more modular visual analytics environment.
 
-You can earn up to 25 extra points in this assignment by going beyond the minimum requirements in Option 2. These extra points are tied to specific tasks:
+You can earn up to 30 extra points in this assignment by going beyond the minimum requirements in Option 2. These extra points are tied to specific tasks:
 
 - Task 3: Reusing and integrating previous visualizations
     - +5 points: Successfully reimplement one of your previous interactive single-view visualizations using Curio.
