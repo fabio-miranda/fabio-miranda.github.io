@@ -98,7 +98,7 @@ In this option, there will be five deliverables:
 
 4) A web page hosting your visualization interface. The web page should be publicly accessible.
 
-5) A ~10 minute presentation, presenting your visualization interface. For the presentation, you should present your interface, interactions and findings, **without** relying on a Powerpoint presentation. In other words, for your presentation you should simply open the webpage hosting your visualization (see task 1) and present it live.
+5) A ~10 minute presentation, presenting your visualization interface. For the presentation, you should present your interface, interactions and findings. For your presentation, you should consider opening the webpage hosting your visualization (see task 1) and present it live.
 
 ---
 
