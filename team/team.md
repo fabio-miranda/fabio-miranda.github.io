@@ -2,14 +2,10 @@
 
 #### PhD students
 
-Leonardo Ferreira (2023 - )
-
-[Gustavo Moreira](https://gmmuller.github.io/) (2022 - )
-
-[Kazi Omar](https://komar41.github.io/) (2021 - )
-
-[Stefan Cobeli](https://stefancobeli.github.io) (2021 - )
-
+Leonardo Ferreira (2023 - )  
+[Gustavo Moreira](https://gmmuller.github.io/) (2022 - )  
+[Kazi Omar](https://komar41.github.io/) (2021 - )  
+[Stefan Cobeli](https://stefancobeli.github.io) (2021 - )  
 [Sanjana Srabanti](https://sanjanasrabanti16.github.io/) (2020 - )
 
 
