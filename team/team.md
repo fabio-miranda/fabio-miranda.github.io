@@ -15,22 +15,28 @@ Leonardo Ferreira (2023 - )
 
 #### MSc students
 
-Sajal Chandra (2023 - 2024)</br>
+ Venkata Pidaparthi (2025)  
+ *Introducing and Enhancing User Provenance in the Curio Framework*
+
+ Durga Venkata Kashyap Munukutla (2025)  
+ *Enhancing Collaborative Urban Analytics in Curio*
+
+Sajal Chandra (2023 - 2024)  
 *Data management optimizations for the Urban Toolkit*
 
-Soham Pradhan (2021 - 2022)</br>
+Soham Pradhan (2021 - 2022)  
 *Transportation Scenario Planning with Graph Neural Networks*
 
-Davide Bartoletti (2022 - 2023)</br>
+Davide Bartoletti (2022 - 2023)  
 *Using computer vision for the automatic classification of building facades*
 
 #### Undergraduate students
 
-Daniel Hodczak
-
+Shaun Shannon  
+Daniel Hodczak  
 Jayanth Podapati
 
 #### High-school students
 
-Carissa Chen (2023 - 2024)</br>
+Carissa Chen (2023 - 2024)  
 *Investigating environmental justice through urban data visualization*
