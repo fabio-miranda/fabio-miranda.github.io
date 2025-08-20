@@ -275,7 +275,7 @@ Letter grades will be based on a straight scale using the following thresholds f
 
 
 #### Late Days
-Assignments must be submitted by the deadlines. No assignments will be accepted after the deadline unless there is a documented compelling excuse (such as illness or hospitalization).
+Assignments must be submitted by the deadlines. No assignments will be accepted after the deadline unless there is a documented compelling excuse (such as illness or hospitalization). Assignment 1 is designed to ensure students are comfortable with GitHub. To avoid problems, make sure to commit your work early and often rather than waiting until the last minute. Excuses such as "GitHub was not working" or "I forgot to push my changes" will not be accepted. It is your responsibility to ensure that your changes are properly committed and reflected in the repository.
 
 ***
 
