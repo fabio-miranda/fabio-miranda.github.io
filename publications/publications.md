@@ -3,17 +3,17 @@
 For a complete list of papers, check [here](https://scholar.google.com/citations?user=9fR0LqAAAAAJ&hl=en).
 
 #### 2026
-**Urbanite: A Dataflow-Based Framework for Human-AI Interactive Alignment in Urban Visual Analytics**
+**Urbanite: A Dataflow-Based Framework for Human-AI Interactive Alignment in Urban Visual Analytics**<br>
 &emsp;G. Moreira, L. Ferreira, C. Veiga, M. Hosseini, F. Miranda<br>
 &emsp;*IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2025)*<br>
 &emsp;[[Arxiv](https://arxiv.org/abs/2508.07390)] &#x2022; [[Webpage](https://urbantk.org/urbanite/)]
 
-**VA-Blueprint: Uncovering Building Blocks for Visual Analytics System Design**
+**VA-Blueprint: Uncovering Building Blocks for Visual Analytics System Design**<br>
 &emsp;L. Ferreira, G. Moreira, F. Miranda<br>
 &emsp;*IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2025)*<br>
 &emsp;[[Arxiv](https://arxiv.org/abs/2508.07497)] &#x2022; [[Webpage](https://urbantk.org/va-blueprint/)]
 
-**StreetWeave: A Declarative Grammar for Street-Overlaid Visualization of Multivariate Data**
+**StreetWeave: A Declarative Grammar for Street-Overlaid Visualization of Multivariate Data**<br>
 &emsp;S. Srabanti, G. E. Marai, F. Miranda<br>
 &emsp;*IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2025)*<br>
 &emsp;[[Arxiv](https://arxiv.org/abs/2508.07496)] &#x2022; [[Webpage](https://urbantk.org/streetweave/)]
@@ -21,7 +21,7 @@ For a complete list of papers, check [here](https://scholar.google.com/citations
 
 #### 2025
 
-**VIGMA: An Open-Access Framework for Visual Gait and Motion Analytics**
+**VIGMA: An Open-Access Framework for Visual Gait and Motion Analytics**<br>
 &emsp;K.S. Omar, S. Wang, R. Kungumaraju, T. Bhatt, F. Miranda<br>
 &emsp;*IEEE Transactions on Visualization and Computer Graphics*<br>
 &emsp;[[Arxiv](https://arxiv.org/abs/2504.17960)] &#x2022; [[DOI](https://doi.org/10.1109/TVCG.2025.3564866)] &#x2022; [[Source code](https://github.com/komar41/VIGMA)]

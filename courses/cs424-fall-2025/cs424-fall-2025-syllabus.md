@@ -226,10 +226,11 @@ The assignments of this course require the design and implementation of web-base
 #### Grading Policy
 - Assignment 0: 5%
 - Assignment 1: 15%
-- Assignment 2: 20%
+- Assignment 2: 15%
 - Assignment 3: 20%
 - Assignment 4: 20%
-- Vis critique report: 10%
+- Vis critique report: 5%
+- Quizzes: 10%
 - Participation: 10%
 
 This course includes four assignments (plus an assignment zero) to make sure you are familiar with the main components of visualization and visual analytics systems. The assignments will balance theory and practice, covering both design and implementation aspects. You can either choose a different dataset for each assignment, or re-use the same dataset over all assignments -- potentially further exploring and augmenting findings, insights, techniques, and/or methods. A list of datasets will be made available. We will use [GitHub Classroom](https://github.com/uic-cs424) for the projects.
@@ -238,13 +239,19 @@ Assignments 0 and 1 will not involve any programming. Assignment 2 will use Pyth
 
 You will present your final assignment to the class, following the course schedule. Detailed instructions will be made available following the evaluation schedule. 
 
+Quizzes will be given throughout the semester.
+
 **You have the option to work in groups; however, team members may receive different grades. Individual grades will be adjusted if a team member's contributions to the project are insufficient. Contributions will be evaluated based on GitHub commits to ensure a fair and accurate assessment of individual effort within the team.**
 
 For graduate students, tasks marked as optional will be considered required tasks.
 
+##### Grading in the Era of AI
+
+You are expected to complete assignments independently, without relying heavily on large language models (LLMs). *Vibe coding* (producing code without a clear understanding of its purpose or function) is certainly **not** the goal of this course. To make sure you are genuinely engaging with both the foundational and practical aspects of the material, I will use several strategies. These include in-class quizzes, oral check-ins and code reviews to confirm your understanding and ability to clearly articulate design and implementation choices, as well as progress checkpoints documented through GitHub commits.
+
 #### Participation
 
-This course includes a class participation grade that will consider your contribution to a productive learning environment—whether in the classroom, on Piazza, or during office hours. Attendance will be tracked throughout the semester. Good attendance and consistent engagement will be considered beyond the assigned participation portion of your grade and may also be factored into any potential rounding to higher letter grades.
+This course includes a class participation grade that will consider your contribution to a productive learning environment—whether in the classroom, on Piazza, or during office hours. Attendance will be tracked through a mix of iClicker responses, attendance sheets, and occasional roll calls. Good attendance and consistent engagement will be considered beyond the assigned participation portion of your grade and may also be factored into any potential rounding to higher letter grades.
 
 Note that you do not need to participate in every classroom discussion. However, you are expected to actively engage with the instructor or classmates in some capacity (in class, on Piazza, via email, or during office hours). Rather than focus solely on penalizing absences, this policy rewards those who invest in the learning community by showing up and participating.
 
