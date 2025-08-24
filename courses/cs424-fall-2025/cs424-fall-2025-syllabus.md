@@ -20,7 +20,7 @@
 4. [Resources](#resources)
 5. [Evaluation and Grading](#evaluation-and-grading)
     1. [Grading Policy](#grading-policy)
-    2. [Evaluation Philosophy](#evaluation-philosofy)
+    2. [Evaluation Philosophy](#evaluation-philosophy)
     3. [Participation](#participation)
     4. [Letter Grades](#letter-grades)
     5. [Evaluation Schedule](#evaluation-schedule)
