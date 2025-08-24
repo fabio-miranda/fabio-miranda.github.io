@@ -20,10 +20,11 @@
 4. [Resources](#resources)
 5. [Evaluation and Grading](#evaluation-and-grading)
     1. [Grading Policy](#grading-policy)
-    2. [Participation](#participation)
-    3. [Letter Grades](#letter-grades)
-    4. [Evaluation Schedule](#evaluation-schedule)
-    5. [Late Days](#late-days)
+    2. [Evaluation Philosophy](#evaluation-philosofy)
+    3. [Participation](#participation)
+    4. [Letter Grades](#letter-grades)
+    5. [Evaluation Schedule](#evaluation-schedule)
+    6. [Late Days](#late-days)
 6. [Academic Integrity](#academic-integrity)
 7. [Inclusive Learning Environment](#inclusive-learning-environment)
 8. [Disability Accommodation Procedures](#disability-accomodation-procedures)
@@ -127,7 +128,6 @@ This schedule will be updated throughout the semester with links for slides and 
 - Slides:
 - Reading: Munzner (Ch. 8, 11, 12), [TaxiVis](https://ieeexplore.ieee.org/abstract/document/6634127)
 ![Static Badge](https://img.shields.io/badge/Assignment%202%20released-2171b5)
-![Static Badge](https://img.shields.io/badge/Written%20critique%20released-2171b5)
 
 ##### Week 7: Visual analytics
 - Slides:
@@ -137,7 +137,6 @@ This schedule will be updated throughout the semester with links for slides and 
 - Slides:
 - Reading: Munzner (Ch. 8), [TaxiVis](https://ieeexplore.ieee.org/abstract/document/6634127)
 ![Static Badge](https://img.shields.io/badge/Lab%20session%203%20(Thu)-2f8a70)
-![Static Badge](https://img.shields.io/badge/Written%20critique%20due%20-aa2721)
 ![Static Badge](https://img.shields.io/badge/Assignment%202%20due-aa2721)
 ![Static Badge](https://img.shields.io/badge/Assignment%203%20released-2171b5)
 
@@ -226,10 +225,9 @@ The assignments of this course require the design and implementation of web-base
 #### Grading Policy
 - Assignment 0: 5%
 - Assignment 1: 15%
-- Assignment 2: 15%
+- Assignment 2: 20%
 - Assignment 3: 20%
 - Assignment 4: 20%
-- Vis critique report: 5%
 - Quizzes: 10%
 - Participation: 10%
 
@@ -243,11 +241,22 @@ Quizzes will be given throughout the semester.
 
 **You have the option to work in groups; however, team members may receive different grades. Individual grades will be adjusted if a team member's contributions to the project are insufficient. Contributions will be evaluated based on GitHub commits to ensure a fair and accurate assessment of individual effort within the team.**
 
-For graduate students, tasks marked as optional will be considered required tasks.
 
-##### Grading in the Era of AI
+
+#### Evaluation Philosophy
 
 You are expected to complete assignments independently, without relying heavily on large language models (LLMs). *Vibe coding* (producing code without a clear understanding of its purpose or function) is certainly **not** the goal of this course. To make sure you are genuinely engaging with both the foundational and practical aspects of the material, I will use several strategies. These include in-class quizzes, oral check-ins and code reviews to confirm your understanding and ability to clearly articulate design and implementation choices, as well as progress checkpoints documented through GitHub commits.
+
+For the assignments, evaluation will consider your thinking, process, and design judgement not just outputs. It will focus on: (1) integration (how well did you connect data, design, interpretation? Not necessarily how well you completed parts); (2) process (how well did you iterate, reflect, and justify your partial and final design choices?). Note that there are many ways to excel: through conceptual depth, visual craft, narrative, or reflection.
+
+In this course, evaluation emphasizes human-centered inquiry rather than a checklist of tasks. This means you are graded not only on the final visualization product, but also on how you: frame meaningful problems and questions; make thoughtful and justified design choices; reflect on and iterate your work; engage with your data and your own assumptions. 
+
+A core requirement throughout all assignments is documenting your process. You should show how your ideas developed through sketches, drafts, and iterations. You should explain why you made key design decisions. And you should reflect on challenges, failed attempts , and what you learned from them. This documentation is key as it will demonstrate your thinking and growth as a computer scientist creating visualization artifacts.
+
+This approach is a deliberate response to the overuse of LLMs. LLMs can produce polished but shallow outputs; they cannot demonstrate your unique reasoning, process, and reflective judgement. By documenting your process, you will make your learning process visible and tractable, as well as highlight the value of your own perspective.
+
+> [!NOTE]
+> **In short: We are not grading whether you can tick the boxes. We are grading whether you can pose, explore, and reflect on problems as a thoughtful computer scientist. Your unique pespective, your reflective judgement, and your dialogue with the data cannot be outsourced to a machine.**
 
 #### Participation
 
@@ -277,8 +286,6 @@ Letter grades will be based on a straight scale using the following thresholds f
   - Coordinated views
 - Assignment 4:
   - Web visualization interface
-- Vis critique:
-  - Written report
 
 
 #### Late Days
