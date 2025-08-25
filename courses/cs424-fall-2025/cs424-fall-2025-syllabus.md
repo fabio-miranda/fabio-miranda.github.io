@@ -236,9 +236,9 @@ Projects 0 and 1 will not involve any programming. Project 2 will use Python. Fo
 
 You will present your final project to the class, following the course schedule. Detailed instructions will be made available following the evaluation schedule. 
 
-Quizzes will be given throughout the semester.
+Quizzes will be given throughout the semester. Your lowest quiz grade will be dropped.
 
-**You have the option to work in groups; however, team members may receive different grades. Individual grades will be adjusted if a team member's contributions to the project are insufficient. Contributions will be evaluated based on GitHub commits to ensure a fair and accurate assessment of individual effort within the team.**
+**For the projects, you have the option to work in groups; however, team members may receive different grades. Individual grades will be adjusted if a team member's contributions to the project are insufficient. Contributions will be evaluated based on GitHub commits to ensure a fair and accurate assessment of individual effort within the team.**
 
 > 🖋️ You should treat your GitHub repositories as the central hubs for your projects, using them to track changes in code and documentation, and to store and share artifacts. Use GitHub to facilitate reflection and iteration.
 
