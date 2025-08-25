@@ -82,9 +82,7 @@ By the end of the course, you will have a good understanding of the basic princi
 
 #### Deliverables
 
-Students will be required to complete four assignments (plus an assignment zero), where they will implement concepts and techniques covered in class using real-world datasets. Students will need to present their projects to the class, so it is very important that they are finished by the deadlines. The first assignment will cover visualization sketching (using pen and paper). The second assignment will cover exploratory data analysis using interactive computing frameworks (e.g., Jupyter); the third project will cover coordinated views using collaborative environments (e.g., Observable); the fourth project will cover data visualization using web technologies. Project repositories should also contain a ~500-word markdown report, giving an overview of the dataset, approach and detailing findings.
-
-Additionally, students will also need to select one visualization (from a well-known source), critically evaluate it, and present their conclusions through a written report.
+Students will be required to complete four projects (plus a project zero), where they will implement concepts and techniques covered in class using real-world datasets. Students will need to present their projects to the class, so it is very important that they are finished by the deadlines. The first project will cover visualization sketching (using pen and paper). The second project will cover exploratory data analysis using interactive computing frameworks (e.g., Jupyter); the third project will cover coordinated views using collaborative environments (e.g., Observable); the fourth project will cover data visualization using web technologies. Project repositories should include detailed documentation of the processes of reflection and iteration, supported by artifacts, sketches, screenshots, code snippets, meeting records, and notes.
 
 #### Format and Teaching Methods
 
@@ -104,13 +102,13 @@ This schedule will be updated throughout the semester with links for slides and 
 ##### Week 2: Data, attributes, marks, and tasks
 - Slides:
 - Reading: Munzner (Ch. 2, 3), [Best Practices for Data Visualisation](https://royal-statistical-society.github.io/datavisguide/)
-![Static Badge](https://img.shields.io/badge/Assignment%200%20released-2171b5)
+![Static Badge](https://img.shields.io/badge/Project%200%20released-2171b5)
 
 ##### Week 3: Data questions & analytical tasks
 - Slides:
 - Reading: Munzner (Ch. 5), [Heer et al., 2010](https://dl.acm.org/doi/10.1145/1794514.1805128), [Perer and Schneiderman, 2008](https://dl.acm.org/doi/10.1145/1357054.1357101) 
-![Static Badge](https://img.shields.io/badge/Assignment%200%20due-aa2721)
-![Static Badge](https://img.shields.io/badge/Assignment%201%20released-2171b5)
+![Static Badge](https://img.shields.io/badge/Project%200%20due-aa2721)
+![Static Badge](https://img.shields.io/badge/Project%201%20released-2171b5)
 
 ##### Week 4: Grammars for visualization
 - Slides:
@@ -122,12 +120,12 @@ This schedule will be updated throughout the semester with links for slides and 
 - Slides:
 - Reading: [Minimalist Data Wrangling with Python](https://datawranglingpy.gagolewski.com/), [GeoPandas](https://geopandas.org/en/stable/getting_started.html)
 ![Static Badge](https://img.shields.io/badge/Lab%20session%202%20(Thu)-2f8a70)
-![Static Badge](https://img.shields.io/badge/Assignment%201%20due-aa2721)
+![Static Badge](https://img.shields.io/badge/Project%201%20due-aa2721)
 
 ##### Week 6: Interaction & multiple coordinated views
 - Slides:
 - Reading: Munzner (Ch. 8, 11, 12), [TaxiVis](https://ieeexplore.ieee.org/abstract/document/6634127)
-![Static Badge](https://img.shields.io/badge/Assignment%202%20released-2171b5)
+![Static Badge](https://img.shields.io/badge/Project%202%20released-2171b5)
 
 ##### Week 7: Visual analytics
 - Slides:
@@ -137,8 +135,8 @@ This schedule will be updated throughout the semester with links for slides and 
 - Slides:
 - Reading: Munzner (Ch. 8), [TaxiVis](https://ieeexplore.ieee.org/abstract/document/6634127)
 ![Static Badge](https://img.shields.io/badge/Lab%20session%203%20(Thu)-2f8a70)
-![Static Badge](https://img.shields.io/badge/Assignment%202%20due-aa2721)
-![Static Badge](https://img.shields.io/badge/Assignment%203%20released-2171b5)
+![Static Badge](https://img.shields.io/badge/Project%202%20due-aa2721)
+![Static Badge](https://img.shields.io/badge/Project%203%20released-2171b5)
 
 ##### Week 9: Data pipelines & management for visualization
 - Slides:
@@ -154,8 +152,8 @@ This schedule will be updated throughout the semester with links for slides and 
 - Slides:
 - Reading: [Uncertainty + Visualization, Explained](https://medium.com/multiple-views-visualization-research-explained/uncertainty-visualization-explained-67e7a73f031b)
 ![Static Badge](https://img.shields.io/badge/Lab%20session%205%20(Thu)-2f8a70)
-![Static Badge](https://img.shields.io/badge/Assignment%203%20due-aa2721)
-![Static Badge](https://img.shields.io/badge/Assignment%204%20released-2171b5)
+![Static Badge](https://img.shields.io/badge/Project%203%20due-aa2721)
+![Static Badge](https://img.shields.io/badge/Project%204%20released-2171b5)
 
 ##### Week 12: Inner workings of AI & embeddings
 - Slides:
@@ -173,13 +171,13 @@ This schedule will be updated throughout the semester with links for slides and 
 ##### Week 15: Capstone week, project presentations
 - Slides:
 - Reading:
-![Static Badge](https://img.shields.io/badge/Assignment%204%20due-aa2721)
+![Static Badge](https://img.shields.io/badge/Project%204%20due-aa2721)
 
 ***
 
 ### Resources
 
-The assignments of this course require the design and implementation of web-based visualizations. Feel free to use the links below to familiarize yourself with common tools and languages.
+The projects of this course require the design and implementation of web-based visualizations. Feel free to use the links below to familiarize yourself with common tools and languages.
 
 - Visualization galleries:
   - [A Tour through the Visualization Zoo](https://dl.acm.org/doi/10.1145/1794514.1805128)
@@ -223,40 +221,42 @@ The assignments of this course require the design and implementation of web-base
 
 ### Evaluation and Grading
 #### Grading Policy
-- Assignment 0: 5%
-- Assignment 1: 15%
-- Assignment 2: 20%
-- Assignment 3: 20%
-- Assignment 4: 20%
+- Project 0: 5%
+- Project 1: 15%
+- Project 2: 15%
+- Project 3: 20%
+- Project 4: 25%
 - Quizzes: 10%
 - Participation: 10%
 
-This course includes four assignments (plus an assignment zero) to make sure you are familiar with the main components of visualization and visual analytics systems. The assignments will balance theory and practice, covering both design and implementation aspects. You can either choose a different dataset for each assignment, or re-use the same dataset over all assignments -- potentially further exploring and augmenting findings, insights, techniques, and/or methods. A list of datasets will be made available. We will use [GitHub Classroom](https://github.com/uic-cs424) for the projects.
+This course includes four projects (plus a project zero) to make sure you are familiar with the main components of visualization and visual analytics systems. The projects will balance theory and practice, covering both design and implementation aspects. You can either choose a different dataset for each project, or re-use the same dataset over all projects -- potentially further exploring and augmenting findings, insights, techniques, and/or methods. A list of datasets will be made available. We will use [GitHub Classroom](https://github.com/uic-cs424) for the projects.
 
-Assignments 0 and 1 will not involve any programming. Assignment 2 will use Python. For Assignments 3 and 4, you will be able to choose between visualization toolkits or Javascript / Typescript.
+Projects 0 and 1 will not involve any programming. Project 2 will use Python. For Projects 3 and 4, you will be able to choose between visualization toolkits or Javascript / Typescript.
 
-You will present your final assignment to the class, following the course schedule. Detailed instructions will be made available following the evaluation schedule. 
+You will present your final project to the class, following the course schedule. Detailed instructions will be made available following the evaluation schedule. 
 
 Quizzes will be given throughout the semester.
 
 **You have the option to work in groups; however, team members may receive different grades. Individual grades will be adjusted if a team member's contributions to the project are insufficient. Contributions will be evaluated based on GitHub commits to ensure a fair and accurate assessment of individual effort within the team.**
 
+> [!NOTE]
+> You should treat your GitHub respositories as the central hubs for their projects, using them to track changes in code and documentation, and to store and share artifacts. Use GitHub to facilitate reflection and iteration.
 
 
 #### Evaluation Philosophy
 
-You are expected to complete assignments independently, without relying heavily on large language models (LLMs). *Vibe coding* (producing code without a clear understanding of its purpose or function) is certainly **not** the goal of this course. To make sure you are genuinely engaging with both the foundational and practical aspects of the material, I will use several strategies. These include in-class quizzes, oral check-ins and code reviews to confirm your understanding and ability to clearly articulate design and implementation choices, as well as progress checkpoints documented through GitHub commits.
+You are expected to complete projects without relying heavily on large language models (LLMs). *Vibe coding* (producing code without a clear understanding of its purpose or function) is certainly **not** the goal of this course. To make sure you are genuinely engaging with both the foundational and practical aspects of the material, I will use several strategies. These include in-class quizzes, oral check-ins and code reviews to confirm your understanding and ability to clearly articulate design and implementation choices, as well as progress checkpoints documented through GitHub commits.
 
-For the assignments, evaluation will consider your thinking, process, and design judgement not just outputs. It will focus on: (1) integration (how well did you connect data, design, interpretation? Not necessarily how well you completed parts); (2) process (how well did you iterate, reflect, and justify your partial and final design choices?).
+For the projects, evaluation will consider your thinking, process, and design judgement not just outputs. It will focus on: (1) integration (how well did you connect data, design, interpretation? Not necessarily how well you completed parts); (2) process (how well did you iterate, reflect, and justify your partial and final design choices?). **For the final project, beyond the usual deliverables, each group will present to the class and meet with the instructor and teaching assistant to walk through their documentation and code as needed.**
 
-In this course, evaluation emphasizes human-centered inquiry rather than a checklist of tasks. This means you are graded not only on the final visualization product, but also on how you: frame meaningful problems and questions; make thoughtful and justified design choices; reflect on and iterate your work; engage with your data and your own assumptions. **A core requirement throughout all assignments is documenting your process. You should show how your ideas developed through sketches, drafts, and iterations. You should explain why you made key design decisions. And you should reflect on challenges, failed attempts , and what you learned from them. This documentation is key as it will demonstrate your thinking and growth as a computer scientist creating visualization artifacts.**
+In this course, evaluation emphasizes human-centered inquiry rather than a checklist of tasks. This means you are graded not only on the final visualization product, but also on how you: frame meaningful problems and questions; make thoughtful and justified design choices; reflect on and iterate your work; engage with your data and your own assumptions. **A core requirement throughout all projects is documenting your process. You should show how your ideas developed through sketches, drafts, and iterations. You should explain why you made key design decisions. And you should reflect on challenges, failed attempts, and what you learned from them. This documentation is key as it will demonstrate your thinking and growth as a computer scientist creating visualization artifacts.**
 
 This approach is a deliberate response to the overuse of LLMs. LLMs can produce polished but shallow outputs; they cannot demonstrate your unique reasoning, process, and reflective judgement. By documenting your process, you will make your learning process visible and tractable, as well as highlight the value of your own perspective.
 
 > [!NOTE]
 > In short: We are not grading whether you can tick the boxes. We are grading whether you can pose, explore, and reflect on problems as a thoughtful computer scientist. Your unique pespective, your reflective judgement, and your dialogue with the data cannot be outsourced to a machine.
 
-Be mindful that a single day of work does not count as a process. If you don’t engage with the assignments in a consistent and meaningful way throughout the semester, you won’t have a process to document or anything substantial to reflect on. Trying to pull everything together at the very end will fall short of what this course is designed to help you achieve. **Think of this course as a marathon, not a sprint—the real value comes from steady engagement, not last-day rushes.**
+Be mindful that a single day of work does not count as a process. If you don't engage with the projects in a consistent and meaningful way throughout the semester, you won’t have a process to document or anything substantial to reflect on. Trying to pull everything together at the very end will fall short of what this course is designed to help you achieve. **Think of this course as a marathon, not a sprint—the real value comes from steady engagement, not last-day rushes.**
 
 Throughout the semester, keep in mind that there are many ways to excel: through conceptual depth, visual craft, narrative clarity, reflective insight, etc. At the end of the day, what will matter most is not just the outcome itself, but how you share the process that led you there. That process should be documented and made visible so others can learn from it too.
 
@@ -268,7 +268,7 @@ Note that you do not need to participate in every classroom discussion. However,
 
 Students who may struggle with the course material but take advantage of resources such as office hours or mentoring can still be successful. The key is taking initiative to stay involved and seeking help when needed.
 
-For group assignments, GitHub contributions will be tracked and used to assess individual participation. Group grades will reflect these contributions to ensure fairness, with adjustments made if participation within a team is uneven.
+For group projects, GitHub contributions will be tracked and used to assess individual participation. Group grades will reflect these contributions to ensure fairness, with adjustments made if participation within a team is uneven.
 
 #### Letter Grades
 Letter grades will be based on a straight scale using the following thresholds for grade cut-offs: A ranges from 90-100%, B ranges from 80-89.9%, C ranges from 70-79.9%, D ranges from 60-69.9%, and F for 59.9% or lower. However, strong attendance and participation may be taken into account in borderline situations, allowing a slightly lower percentage (e.g., 89.75%) to be rounded up.
@@ -278,20 +278,20 @@ Letter grades will be based on a straight scale using the following thresholds f
 **You have two weeks after each grade is released to raise any concerns or questions regarding their marks. Beyond this two-week window, no further inquiries or revisions to the grade will be considered.**
 
 #### Evaluation Schedule
-- Assignment 0:
+- Project 0:
   - Dataset selection
-- Assignment 1:
+- Project 1:
   - Visualization sketching
-- Assignment 2:
+- Project 2:
   - Exploratory data analysis
-- Assignment 3:
+- Project 3:
   - Coordinated views
-- Assignment 4:
+- Project 4:
   - Web visualization interface
 
 
 #### Late Days
-Assignments must be submitted by the deadlines. No assignments will be accepted after the deadline unless there is a documented compelling excuse (such as illness or hospitalization). Assignment 1 is designed to ensure students are comfortable with GitHub. To avoid problems, make sure to commit your work early and often rather than waiting until the last minute. Excuses such as "GitHub was not working" or "I forgot to push my changes" will not be accepted. It is your responsibility to ensure that your changes are properly committed and reflected in the repository.
+Projects must be submitted by the deadlines. No projects will be accepted after the deadline unless there is a documented compelling excuse (such as illness or hospitalization). Project 1 is designed to ensure students are comfortable with GitHub. To avoid problems, make sure to commit your work early and often rather than waiting until the last minute. Excuses such as "GitHub was not working" or "I forgot to push my changes" will not be accepted. It is your responsibility to ensure that your changes are properly committed and reflected in the repository.
 
 ***
 
@@ -301,7 +301,7 @@ UIC is an academic community committed to providing an environment in which rese
 
 As a student and member of the UIC community, you are expected to adhere to the [Community Standards](https://dos.uic.edu/community-standards/) of integrity, accountability, and respect in all of your academic endeavors. When [accusations of academic dishonesty](https://dos.uic.edu/community-standards/academic-integrity/) occur, the Office of the Dean of Students investigates and adjudicates suspected violations of this student code. Unacceptable behavior includes cheating, unauthorized collaboration, fabrication or falsification, plagiarism, multiple submissions without instructor permission, using unauthorized study aids, coercion regarding grading or evaluation of coursework, and facilitating academic misconduct. Please review the [UIC Student Disciplinary Policy](https://dos.uic.edu/wp-content/uploads/sites/262/2018/10/DOS-Student-Disciplinary-Policy-2018-2019-FINAL.pdf) for additional information about the process by which instances of academic misconduct are handled towards the goal of developing responsible student behavior.
 
-By submitting your assignments for grading you acknowledge these terms, you declare that your work is solely your own, and you promise that, unless authorized by the instructor or proctor, you have not communicated with anyone in any way during an exam or other online assessment. Let's embrace what it means to be a UIC community member and together be committed to the values of integrity.
+By submitting your projects for grading you acknowledge these terms, you declare that your work is solely your own, and you promise that, unless authorized by the instructor or proctor, you have not communicated with anyone in any way during an exam or other online assessment. Let's embrace what it means to be a UIC community member and together be committed to the values of integrity.
 
 Our class (in person and online) will follow the [CS Code of Conduct](https://www.cs.uic.edu/~grad/CS_Code_of_Conduct.pdf).   If you are not adhering to our course norms, a case of behavior misconduct will be submitted to the Dean of Students and to the Director of Undergraduate Studies in the department of Computer Science.  If you are not adhering to our course norms, you will not get full credit for your work in this class.  For extreme cases of violating the course norms, credit for the course will not be given. 
 
