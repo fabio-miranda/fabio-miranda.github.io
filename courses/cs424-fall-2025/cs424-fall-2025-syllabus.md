@@ -25,6 +25,7 @@
     4. [Letter Grades](#letter-grades)
     5. [Evaluation Schedule](#evaluation-schedule)
     6. [Late Days](#late-days)
+7. [FAQ](#faq)
 6. [Academic Integrity](#academic-integrity)
 7. [Inclusive Learning Environment](#inclusive-learning-environment)
 8. [Disability Accommodation Procedures](#disability-accomodation-procedures)
@@ -293,6 +294,91 @@ Projects must be submitted by the deadlines. No projects will be accepted after 
 
 ***
 
+### FAQ
+
+#### Deadlines & Submissions
+***I wasn’t able to push to GitHub before the deadline. Can I have an extension?***  
+No.
+
+***Can I send my project by email to you or the TA instead?***  
+No.
+
+***I made a mistake in my GitHub push. Can I push again after the deadline?***  
+No.
+
+***The deadline is inconvenient for me. Can you move it?***  
+No.
+
+***My WiFi went down right before the deadline. Can I get an exception?***  
+No.
+
+***The server/GitHub was slow. Can I have extra time?***  
+No.
+
+***Can you grade my assignment early so I know before the deadline?***  
+No.
+
+***I lost points because I didn’t follow the submission instructions. Can you give them back?***  
+No.
+
+***Can I redo or resubmit an assignment for a better grade?***  
+No.
+
+#### Attendance & Participation
+***I can’t join class on date X. Can I be excused from participation?***  
+Only with a documented excuse. Otherwise, no.
+
+***Can you count me present if I join for five minutes? Or if I join after you took attendance?***  
+No.
+
+***I forgot to sign the attendance sheet. Can you mark me as here?***  
+No.
+
+
+#### Grading & Grades
+***It’s the end of the semester, and I have an 87.3. Can you round me up to 90?***  
+No.
+
+***Can you "round generously" since I worked hard?***  
+No.
+
+***Is there any extra credit?***  
+Maybe. Don’t plan your grade around it.
+
+
+#### Projects & Teamwork
+***Can my teammate just push everything to GitHub for us?***  
+No, everyone must contribute individually.
+
+***My teammate did more work than me. Will we get the same grade?***  
+No, contributions are tracked individually, to the best of our ability.
+
+***Can I email you saying "I helped" if my commits aren’t visible?***  
+No.
+
+***My grade is lower than my teammate's, but I did a lot of work that isn't visible in the commits. Can I get credit for that?***  
+No. You already know that evaluation is based on visible contributions (commits and documented activity). It's your responsibility to create a natural trail of work throughout the process. If you choose not to, you accept the risk that your contributions will not be credited.
+
+#### Office Hours & Support
+***Can I schedule an office hour outside the posted times with you or the TA?***  
+No.
+
+***Can you debug my code for me?***  
+No.
+
+#### AI & Academic Integrity
+***Can I copy code or text from ChatGPT and submit it as my own?***  
+No. That’s plagiarism. You have to understand and explain everything.
+
+***The AI gave me the wrong answer. Can I get points back?***  
+No.
+
+***Will you be able to tell if I used ChatGPT?***  
+Probably, yes.
+
+
+
+***
 
 ### Academic Integrity
 UIC is an academic community committed to providing an environment in which research, learning, and scholarship can flourish and in which all endeavors are guided by academic and professional integrity. In this community, all members including faculty, administrators, staff, and students alike share the responsibility to uphold the highest standards of academic honesty and quality of academic work so that such a collegial and productive environment exists. 
