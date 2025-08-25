@@ -239,8 +239,7 @@ Quizzes will be given throughout the semester.
 
 **You have the option to work in groups; however, team members may receive different grades. Individual grades will be adjusted if a team member's contributions to the project are insufficient. Contributions will be evaluated based on GitHub commits to ensure a fair and accurate assessment of individual effort within the team.**
 
-> [!NOTE]
-> You should treat your GitHub repositories as the central hubs for your projects, using them to track changes in code and documentation, and to store and share artifacts. Use GitHub to facilitate reflection and iteration.
+> 🖋️ You should treat your GitHub repositories as the central hubs for your projects, using them to track changes in code and documentation, and to store and share artifacts. Use GitHub to facilitate reflection and iteration.
 
 
 #### Evaluation Philosophy
@@ -253,8 +252,7 @@ In this course, evaluation emphasizes human-centered inquiry rather than a check
 
 This approach is a deliberate response to the overuse of LLMs. LLMs can produce polished but shallow outputs; they cannot demonstrate your unique reasoning, process, and reflective judgement. By documenting your process, you will make your learning process visible and tractable, as well as highlight the value of your own perspective.
 
-> [!NOTE]
-> In short: We are not grading whether you can tick the boxes. We are grading whether you can pose, explore, and reflect on problems as a thoughtful computer scientist. Your unique pespective, your reflective judgement, and your dialogue with the data cannot be outsourced to a machine.
+> 🖋️ In short: We are not grading whether you can tick the boxes. We are grading whether you can pose, explore, and reflect on problems as a thoughtful computer scientist. Your unique pespective, your reflective judgement, and your dialogue with the data cannot be outsourced to a machine.
 
 Be mindful that a single day of work does not count as a process. If you don't engage with the projects in a consistent and meaningful way throughout the semester, you won’t have a process to document or anything substantial to reflect on. Trying to pull everything together at the very end will fall short of what this course is designed to help you achieve. **Think of this course as a marathon, not a sprint—the real value comes from steady engagement, not last-day rushes.**
 
