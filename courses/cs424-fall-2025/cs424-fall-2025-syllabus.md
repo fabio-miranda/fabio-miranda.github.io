@@ -223,12 +223,12 @@ The projects of this course require the design and implementation of web-based v
 ### Evaluation and Grading
 #### Grading Policy
 - Project 0: 5%
-- Project 1: 15%
+- Project 1: 12.5%
 - Project 2: 15%
-- Project 3: 20%
+- Project 3: 17.5%
 - Project 4: 25%
-- Quizzes: 10%
-- Participation: 10%
+- Quizzes: 12.5%
+- Participation: 12.5%
 
 This course includes four projects (plus a project zero) to make sure you are familiar with the main components of visualization and visual analytics systems. The projects will balance theory and practice, covering both design and implementation aspects. You can either choose a different dataset for each project, or re-use the same dataset over all projects -- potentially further exploring and augmenting findings, insights, techniques, and/or methods. A list of datasets will be made available. We will use [GitHub Classroom](https://github.com/uic-cs424) for the projects.
 
