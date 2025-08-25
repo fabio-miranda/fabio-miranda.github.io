@@ -240,7 +240,7 @@ Quizzes will be given throughout the semester.
 **You have the option to work in groups; however, team members may receive different grades. Individual grades will be adjusted if a team member's contributions to the project are insufficient. Contributions will be evaluated based on GitHub commits to ensure a fair and accurate assessment of individual effort within the team.**
 
 > [!NOTE]
-> You should treat your GitHub respositories as the central hubs for their projects, using them to track changes in code and documentation, and to store and share artifacts. Use GitHub to facilitate reflection and iteration.
+> You should treat your GitHub repositories as the central hubs for their projects, using them to track changes in code and documentation, and to store and share artifacts. Use GitHub to facilitate reflection and iteration.
 
 
 #### Evaluation Philosophy
