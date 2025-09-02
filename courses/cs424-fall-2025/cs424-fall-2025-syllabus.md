@@ -97,11 +97,11 @@ This schedule will be updated throughout the semester with links for slides and 
 
 #### Theme 1: Foundations of Visualization
 ##### Week 1: Course introduction & Why visualization in the age of AI?
-- Slides:
+- Slides: [Introduction and overview](https://fmiranda.me/courses/cs424-slides/01-intro.pdf), [Why visualize data?](https://fmiranda.me/courses/cs424-slides/02-why-vis.pdf)
 - Reading: Munzner (Ch. 1)
 
 ##### Week 2: Data, attributes, marks, and tasks
-- Slides:
+- Slides: [Introduction to visualization](https://fmiranda.me/courses/cs424-slides/03-vis.pdf), [Task abstraction](https://fmiranda.me/courses/cs424-slides/04-tasks.pdf)
 - Reading: Munzner (Ch. 2, 3), [Best Practices for Data Visualisation](https://royal-statistical-society.github.io/datavisguide/)
 ![Static Badge](https://img.shields.io/badge/Project%200%20released-2171b5)
 
