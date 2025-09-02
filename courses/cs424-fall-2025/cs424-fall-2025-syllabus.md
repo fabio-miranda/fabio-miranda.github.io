@@ -106,21 +106,21 @@ This schedule will be updated throughout the semester with links for slides and 
 ![Static Badge](https://img.shields.io/badge/Project%200%20released-2171b5)
 
 ##### Week 3: Data questions & analytical tasks
-- Slides:
+- Slides: [Data questions](https://fmiranda.me/courses/cs424-slides/06-data-questions.pdf)
 - Reading: Munzner (Ch. 5), [Heer et al., 2010](https://dl.acm.org/doi/10.1145/1794514.1805128), [Perer and Schneiderman, 2008](https://dl.acm.org/doi/10.1145/1357054.1357101) 
 ![Static Badge](https://img.shields.io/badge/Project%200%20due-aa2721)
 ![Static Badge](https://img.shields.io/badge/Project%201%20released-2171b5)
 
 ##### Week 4: Grammars for visualization
-- Slides:
+- Slides: [Visualization grammars](https://fmiranda.me/courses/cs424-slides/06-vis-grammars.pdf)
 - Reading: [Intro to Vega-Lite](https://vega.github.io/vega-lite/tutorials/getting_started.html), [Survey](https://arxiv.org/pdf/2207.07998.pdf)
-![Static Badge](https://img.shields.io/badge/Lab%20session%201%20(Thu)-2f8a70)
+![Static Badge](https://img.shields.io/badge/Lab%20session%201%20(Wed)-2f8a70)
 
 #### Theme 2: Visual Data Analysis Workflows
 ##### Week 5: Exploratory data analysis & transformations
 - Slides:
 - Reading: [Minimalist Data Wrangling with Python](https://datawranglingpy.gagolewski.com/), [GeoPandas](https://geopandas.org/en/stable/getting_started.html)
-![Static Badge](https://img.shields.io/badge/Lab%20session%202%20(Thu)-2f8a70)
+![Static Badge](https://img.shields.io/badge/Lab%20session%202%20(Wed)-2f8a70)
 ![Static Badge](https://img.shields.io/badge/Project%201%20due-aa2721)
 
 ##### Week 6: Interaction & multiple coordinated views
@@ -135,14 +135,14 @@ This schedule will be updated throughout the semester with links for slides and 
 ##### Week 8: Maps, space, and spatial visualization
 - Slides:
 - Reading: Munzner (Ch. 8), [TaxiVis](https://ieeexplore.ieee.org/abstract/document/6634127)
-![Static Badge](https://img.shields.io/badge/Lab%20session%203%20(Thu)-2f8a70)
+![Static Badge](https://img.shields.io/badge/Lab%20session%203%20(Wed)-2f8a70)
 ![Static Badge](https://img.shields.io/badge/Project%202%20due-aa2721)
 ![Static Badge](https://img.shields.io/badge/Project%203%20released-2171b5)
 
 ##### Week 9: Data pipelines & management for visualization
 - Slides:
 - Reading:
-![Static Badge](https://img.shields.io/badge/Lab%20session%204%20(Thu)-2f8a70)
+![Static Badge](https://img.shields.io/badge/Lab%20session%204%20(Wed)-2f8a70)
 
 #### Theme 3: AI + Visualization
 ##### Week 10: ML for visualization: Interactive machine learning
@@ -152,7 +152,7 @@ This schedule will be updated throughout the semester with links for slides and 
 ##### Week 11: Uncertainty visualization & model behaviors
 - Slides:
 - Reading: [Uncertainty + Visualization, Explained](https://medium.com/multiple-views-visualization-research-explained/uncertainty-visualization-explained-67e7a73f031b)
-![Static Badge](https://img.shields.io/badge/Lab%20session%205%20(Thu)-2f8a70)
+![Static Badge](https://img.shields.io/badge/Lab%20session%205%20(Wed)-2f8a70)
 ![Static Badge](https://img.shields.io/badge/Project%203%20due-aa2721)
 ![Static Badge](https://img.shields.io/badge/Project%204%20released-2171b5)
 
