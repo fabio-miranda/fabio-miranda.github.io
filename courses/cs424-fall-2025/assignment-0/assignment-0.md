@@ -44,7 +44,7 @@ Discuss with your group and select a dataset that aligns with your interests and
 
 No two groups can select the same dataset. Dataset selection will be handled on a first come, first served basis. Check if your preferred dataset has already been claimed in the shared spreadsheet; if so, you will need to select a different one.
 
-**Some datasets may not be used in this class**: traffic crashes, towed vehicles, red light camera violations, crimes, traffic trackers, 311 service requests (or similar datasets), energy usage, green roofs, flooding measurements, and building violations.
+**Some datasets may not be used in this class**: taxi trips, bike trips, traffic crashes, towed vehicles, red light camera violations, crimes, traffic trackers, 311 service requests (or similar datasets), energy usage, green roofs, flooding measurements, and building violations.
 
 It is up to you to find a dataset. Search the [Chicago Data Portal](https://data.cityofchicago.org/), [NYC Open Data](https://opendata.cityofnewyork.us/), [Analyze Boston](https://data.boston.gov/), or other data portals for potential datasets.
 
