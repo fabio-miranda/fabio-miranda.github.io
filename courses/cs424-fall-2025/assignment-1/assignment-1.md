@@ -48,6 +48,17 @@ Write a comparison of your visualization designs, covering both strengths and we
 
 Discuss the relative strengths and weaknesses of your sketches in terms of process: what felt generative, what felt repetitive, and how exploring different directions expanded your design space.
 
+
+#### Task 6: Collaboration process
+
+For groups, document how your group collaborated during this assignment. Write 1–2 paragraphs covering: 
+  - How you communicated (e.g., in-person meetings, online chats, video calls).
+  - How you shared sketches and artifacts (e.g., scanned images, photos, GitHub uploads, shared drives).
+  - How you divided or rotated tasks (e.g., brainstorming together, each sketching different versions, reviewing and iterating).
+  - What worked well in your collaboration, and what challenges you encountered.
+
+Treat this as another kind of reflection: How did the group process shape the design process?
+
 ---
 
 #### Deliverables
@@ -58,7 +69,7 @@ Submit your assignment on GitHub. Your writeups and sketches should be compiled 
 
 #### Grading
 
-Your submission will be graded according to the following components:
+Your submission starts with 100 points. Points will be deducted according to:
 
 - Complexity and relevant of domain questions & abstract tasks:
   - Up to -20 if domain questions are superficial, disconnected from the dataset, or show little thought.
@@ -70,10 +81,13 @@ Your submission will be graded according to the following components:
   - Up to –20 if sketches are repetitive, rely too heavily on a narrow set of visualizations, or show little exploration.
 
 - Writeups:
-  - Up to –20 if explanations for sketches and design choices are missing, incomplete, or not well justified.
+  - Up to –15 if explanations for sketches and design choices are missing, incomplete, or not well justified.
  
 - Clarity and organization:
-  - Up to –20 if the Markdown document is unclear, disorganized, or difficult to follow.
+  - Up to –15 if the Markdown document is unclear, disorganized, or difficult to follow.
+ 
+- Collaboration process:
+  - Up to -10 if the collaboration process is missing, vague, or superficial (e.g., "we met" with no detail).
 
 **Important**: The emphasis is on process and reflection. Small flaws in drawing quality, neatness, or "correctness" of visualization design will not be penalized as long as your process is thoughtful and documented. And remember: the prompts in each task are guides for reflection, not checklists.
 
