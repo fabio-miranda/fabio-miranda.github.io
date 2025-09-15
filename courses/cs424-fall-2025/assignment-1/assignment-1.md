@@ -34,7 +34,11 @@ Translate the domain-specific questions to abstract tasks. For each question, id
 
 #### Task 4: Visualization sketches
 
-Design 8 to 16 different visualization sketches (8 for groups with one member, 12 for groups with two members and 16 otherwise). Each domain question should be covered by at least two visualization sketches. For each visualization sketch, write a paragraph detailing its main idea, the rationale behind your design decisions (Treat these as prompts for reflection: What was the motivation behind the sketch? What worked well and what didn't work so well? What aspects felt confusing, limited, or not quite right? How does it differ from other sketches?).
+Design 8 to 16 different visualization sketches (8 for groups with one member, 12 for groups with two members and 16 otherwise). Each domain question should be covered by at least two visualization sketches. For each visualization sketch, write a paragraph detailing its main idea, the rationale behind your design decisions. Use these as prompts for reflection:
+  - What was the motivation behind the sketch?
+  - What worked well and what didn't work so well?
+  - What aspects felt confusing, limited, or not quite right?
+  - How does it differ from other sketches?.
 
 In this task, brainstorm within your group potential visualizations that you think are effective in answering the questions. Ensure the diversity of the visualization sketches -- it is not enough to come up with a series of well-known bar charts, line charts, etc. (even if they use different attributes), make sure the visualizations are fundamentally different. If you end up with variations of the same idea, think of alternatives and refine your approach.
 
@@ -44,14 +48,19 @@ All sketches must be hand-drawn. Treat them as a creative logbook of your iterat
 
 #### Task 5: Summarizing
 
-Write a comparison of your visualization designs, covering both strengths and weaknesses in relation to each other, as well as originality. Discuss whether they would be effective in answering the domain questions posed in task 2. You should discuss the strengths and weaknesses of your different visualizations, evaluate their effectiveness in answering the domain questions, while considering factors such as readability, complexity, expressiveness, and scalability. Treat these as prompts for reflection: What kinds of design directions did you explore? What did you learn from trying different ideas? How did your perspective on the questions shift as you sketched? Were there moments of surprise, frustration, or breakthrough? Did you explore a wide range of visualization techniques, or did you rely on a small subset of common visual encodings? How does the diversity of your sketches contribute to answering the domain questions in different ways?
+Write a comparison of your visualization designs, covering both strengths and weaknesses in relation to each other, as well as originality. Discuss whether they would be effective in answering the domain questions posed in task 2. You should discuss the strengths and weaknesses of your different visualizations, evaluate their effectiveness in answering the domain questions, while considering factors such as readability, complexity, expressiveness, and scalability. Treat these as prompts for reflection: 
+  - What kinds of design directions did you explore?
+  - What did you learn from trying different ideas?
+  - How did your perspective on the questions shift as you sketched?
+  - Did you explore a wide range of visualization techniques, or did you rely on a small subset of common visual encodings?
+  - How does the diversity of your sketches contribute to answering the domain questions in different ways?
 
 Discuss the relative strengths and weaknesses of your sketches in terms of process: what felt generative, what felt repetitive, and how exploring different directions expanded your design space.
 
 
 #### Task 6: Collaboration process
 
-For groups, document how your group collaborated during this assignment. Write 1–2 paragraphs covering: 
+For groups, document how your group collaborated during this assignment. You should cover:
   - How you communicated (e.g., in-person meetings, online chats, video calls).
   - How you shared sketches and artifacts (e.g., scanned images, photos, GitHub uploads, shared drives).
   - How you divided or rotated tasks (e.g., brainstorming together, each sketching different versions, reviewing and iterating).
