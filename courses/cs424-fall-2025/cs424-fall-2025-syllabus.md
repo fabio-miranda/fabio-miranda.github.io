@@ -118,7 +118,7 @@ This schedule will be updated throughout the semester with links for slides and 
 
 #### Theme 2: Visual Data Analysis Workflows
 ##### Week 5: Exploratory data analysis & transformations
-- Slides:
+- Slides: [Data exploration with GeoPandas](https://fmiranda.me/courses/cs424-slides/05-geopandas.pdf)
 - Reading: [Minimalist Data Wrangling with Python](https://datawranglingpy.gagolewski.com/), [GeoPandas](https://geopandas.org/en/stable/getting_started.html)
 ![Static Badge](https://img.shields.io/badge/Lab%20session%202%20(Wed)-2f8a70)
 ![Static Badge](https://img.shields.io/badge/Project%201%20due-aa2721)
