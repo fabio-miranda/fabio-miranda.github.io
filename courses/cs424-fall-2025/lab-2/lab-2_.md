@@ -31,7 +31,7 @@ Verify command line access:
 Next, create a new conda environment and install the required packages:
 
 ```console
-conda create -n lab2
+conda create -n lab2 python=3.9
 conda activate lab2
 pip install geopandas altair pandas jupyter
 ```
