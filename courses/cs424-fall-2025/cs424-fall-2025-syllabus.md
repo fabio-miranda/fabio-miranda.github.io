@@ -124,7 +124,7 @@ This schedule will be updated throughout the semester with links for slides and 
 ![Static Badge](https://img.shields.io/badge/Project%201%20due-aa2721)
 
 ##### Week 6: Interaction & multiple coordinated views
-- Slides:
+- Slides: [Interaction & multiple views](https://fmiranda.me/courses/cs424-slides/07-interaction.pdf)
 - Reading: Munzner (Ch. 8, 11, 12), [TaxiVis](https://ieeexplore.ieee.org/abstract/document/6634127)
 ![Static Badge](https://img.shields.io/badge/Project%202%20released-2171b5)
 
