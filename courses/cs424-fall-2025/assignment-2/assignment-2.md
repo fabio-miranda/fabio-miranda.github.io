@@ -124,7 +124,9 @@ Notebooks should be well-documented with:
 
 #### Grading
 
-Your submission will be graded according to the quality and coverage of the results and presentation. You need to make sure that both your deliverables (presentation and documentation) and notebooks clearly show your findings. Visualizations need to be well constructed, with good color and font choices and proper labeling. Your submission and presentation will be graded according to the following:
+Your submission will be graded according to the quality and coverage of the results and presentation. You need to make sure that both your deliverables (presentation and documentation) and notebooks clearly show your findings. Visualizations need to be well constructed, with good color and font choices and proper labeling. 
+
+Your submission starts with 100 points. Points will be deducted according to:
 
 - Visualizations:
     - Up to -25 if visualizations are ineffective, poor descriptions of the data and/or insights.
