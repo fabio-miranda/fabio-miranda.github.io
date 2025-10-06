@@ -33,7 +33,7 @@ Recommended packages:
 
 #### Task 1: Data importing & transformation
 
-To complete this task, you will need to complete at least three subtasks (depending of your data):
+To complete this task, you will need to complete the following subtasks:
 
 * Load the data: Use Pandas and GeoPandas to load and view the data to have an initial idea of what it contains. For instance, what are the columns in the dataset? Is there a spatial or temporal component? What are the categorial and numerical columns? For each data point, if there are multiple categories, is there a specific one you want to focus? What is the spatial and temporal coverage of the dataset? Percentage of missing values? Depending of the size of the data, you will need to filter the data and only consider a more manageable subset (e.g., a month or a week, or a spatial region).
 
@@ -47,7 +47,7 @@ These subtasks (as well as the next tasks) should be done inside one (or more) J
 
 #### Task 2: Data visualization & analytics
 
-In this task, you will need to visualize attributes of interest of the dataset for exploratory data analysis. You must implement at least 50% of the visualizations you sketched in Assignment 1. You may add new views beyond the sketched ones as needed for thorough analysis. The visualizations should cover important aspects of the data, for example:
+In this task, you will need to visualize attributes of interest of the dataset for exploratory data analysis. You must implement at least 50% of the visualizations you sketched in Assignment 1 (on top of the visualizations implemented in Task 1). You may add new views beyond the sketched ones as needed for thorough analysis. The visualizations should cover important aspects of the data, for example:
 
 * Time: If your dataset has a temporal attribute, aggregate and plot the data at a chosen level (e.g., days, weeks, months). If you don't notice any noticeable pattern, try a different aggregation level, or different subset of the data. Are there any trends? Outliers?
 
@@ -83,7 +83,7 @@ By the end of this task, your notebook should contain a set of clear and insight
 
 In this project, there will be two deliverables:
 
-1) A [markdown document](https://www.markdownguide.org/getting-started/) (``.md``), with a description of the dataset and implemented visualizations, and derived insights. Again, there is no minimum number of visualizations for this assignment, you will be graded on whether the visualizations you implemented reasonably describe the most important aspects of the data. It is reasonable to assume that you won't be able to convey all the most important aspects of a dataset using only one visualization. However, it is also reasonable to assume that you won't need to implement 16 different visualizations to explore a dataset. **You should leverage your sketches as much as possible as a starting point for your visualizations**. The document should be uploaded to the root of your GitHub project, with the name README.md (so that it is displayed by default by GitHub). The markdown should contain: (1) the dataset and its key attributes, (2) the exploratory questions you investigated, (3) the visualizations and key findings for each question.
+1) A [markdown document](https://www.markdownguide.org/getting-started/) (``.md``), with a description of the dataset and implemented visualizations, and derived insights. You will be graded on whether the visualizations you implemented reasonably describe the most important aspects of the data. It is reasonable to assume that you won't be able to convey all the most important aspects of a dataset using only one visualization. However, it is also reasonable to assume that you won't need to implement 16 different visualizations to explore a dataset. **You should leverage your sketches as much as possible as a starting point for your visualizations and discuss how you translated sketches to visualizations**. The document should be uploaded to the root of your GitHub project, with the name README.md (so that it is displayed by default by GitHub). The markdown should contain: (1) the dataset and its key attributes, (2) the exploratory questions you investigated, (3) the visualizations and key findings for each question.
 
 For each question, your README.md should follow this structure:
 
@@ -91,11 +91,13 @@ For each question, your README.md should follow this structure:
 * Provide the Visualizations: Include images from the visualizations. If visualizations are interactive, include a GIF.
 * Summarize Key Findings: Briefly explain insights from the visualization.
 
-2) One or more Jupyter notebooks (``.ipynb``) at the root directory of your git project, with each step of your exploratory process. Make sure it is *easily* reproducible and well documented, including both comments and plots. The notebooks should contain:
+**For each visualization, you should clearly articulate how you transformed a sketch into a visualization, including images of the evolution.**
+
+2) One or more Jupyter notebooks (``.ipynb``) at the root directory of your git project, with each step of your exploratory process. Make sure it is *easily* reproducible and well documented, including both comments and plots. The notebooks should be commented and contain:
 
 * Data loading & transformations (task 1)
 * Exploratory visualizations & analytics (task 2)
-* If applicable, Vega-Lite visualizations (task 3)
+* Vega-Lite visualizations (task 3)
 
 Notebooks should be well-documented with:
 
@@ -129,19 +131,19 @@ Your submission will be graded according to the quality and coverage of the resu
 Your submission starts with 100 points. Points will be deducted according to:
 
 - Visualizations:
-    - Up to -25 if visualizations are ineffective, poor descriptions of the data and/or insights.
+    - Up to -20 if visualizations are ineffective, poor descriptions of the data and/or insights.
 
 - Presentation:
-    - Up to -25 if presentation is missing descriptions and/or visualizations.
+    - Up to -20 if presentation is missing descriptions and/or visualizations.
  
 - Design choices:
-    - Up to -25 if mark and encoding choices are ineffective.
+    - Up to -15 if mark and encoding choices are ineffective.
 
 - Clarity and Organization of Writing:
-    - Up to -25 if document is unclear, disorganized, or difficult to follow.
+    - Up to -15 if document is unclear, disorganized, or difficult to follow.
 
 - Sketch coverage:
-    - Up to -20 if fewer than 50% of Assignment 1 sketches are implemented in Task 2.
+    - Up to -15 if fewer than 50% of Assignment 1 sketches are implemented in Task 2.
 
 - Interactive coverage:
     - Up to -15 if fewer than 3 enhanced Vega-Lite visualizations are implemented in Task 3.
