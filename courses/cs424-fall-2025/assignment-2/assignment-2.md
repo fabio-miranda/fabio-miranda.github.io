@@ -93,7 +93,7 @@ For each question, your README.md should follow this structure:
 
 **For each visualization, you should clearly articulate how you transformed a sketch into a visualization, including images of the evolution.**
 
-2) One or more Jupyter notebooks (``.ipynb``) at the root directory of your git project, with each step of your exploratory process. Make sure it is *easily* reproducible and well documented, including both comments and plots. The notebooks should be commented and contain:
+2) One or more computational environment notebooks (e.g., ``.ipynb`` if you use Jupyter Notebooks) at the root directory of your git project, with each step of your exploratory process. Make sure it is *easily* reproducible and well documented, including both comments and plots. The notebooks should be commented and contain:
 
 * Data loading & transformations (task 1)
 * Exploratory visualizations & analytics (task 2)
