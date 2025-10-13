@@ -129,11 +129,11 @@ This schedule will be updated throughout the semester with links for slides and 
 ![Static Badge](https://img.shields.io/badge/Project%202%20released-2171b5)
 
 ##### Week 7: Visual analytics
-- Slides:
+- Slides: [Visual analytics](https://fmiranda.me/courses/cs424-slides/09-visual-analytics.pdf)
 - Reading: [Introduction to Visual Analytics by an Example](https://link.springer.com/chapter/10.1007/978-3-030-56146-8_1) (Ch. 1)
 
 ##### Week 8: Maps, space, and spatial visualization
-- Slides:
+- Slides: [Visual analytics](https://fmiranda.me/courses/cs424-slides/08-spatial-vis.pdf)
 - Reading: Munzner (Ch. 8), [TaxiVis](https://ieeexplore.ieee.org/abstract/document/6634127)
 ![Static Badge](https://img.shields.io/badge/Lab%20session%203%20(Wed)-2f8a70)
 ![Static Badge](https://img.shields.io/badge/Project%202%20due-aa2721)
