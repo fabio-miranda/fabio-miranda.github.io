@@ -45,7 +45,7 @@ Link the views that you created in Task 1 with the visualization you created in 
 
 In this project, there will be three deliverables:
 
-1) A [markdown document](https://www.markdownguide.org/getting-started/) (``.md``), with a short description, screenshots, and videos or GIFs of each visualization you created in the tasks. The visualization description should cover the attributes being visualized and the interaction mechanisms and methods that were implemented. Provide pointers to the Jupyter Notebooks that you used to transform or preprocess the data. The document should be uploaded to the root of your GitHub project, with the name README.md (so that it is displayed by default by GitHub). The visualization descriptions should cover:
+1) A [markdown document](https://www.markdownguide.org/getting-started/) (``.md``), with descriptions, screenshots, and videos or GIFs of each visualization you created in the tasks. The visualization description should cover the attributes being visualized and the interaction mechanisms and methods that were implemented (see tasks for details). Provide pointers to the Jupyter Notebooks that you used to transform or preprocess the data. The document should be uploaded to the root of your GitHub project, with the name README.md (so that it is displayed by default by GitHub). The visualization descriptions should cover:
 
 - The attributes being visualized.
 - The motivation and rationale for the visualization.
