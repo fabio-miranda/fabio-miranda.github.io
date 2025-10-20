@@ -135,14 +135,12 @@ This schedule will be updated throughout the semester with links for slides and 
 ##### Week 8: Maps, space, and spatial visualization
 - Slides: [Spatial visualization](https://fmiranda.me/courses/cs424-slides/08-spatial-vis.pdf)
 - Reading: Munzner (Ch. 8), [TaxiVis](https://ieeexplore.ieee.org/abstract/document/6634127)
-![Static Badge](https://img.shields.io/badge/Lab%20session%203%20(Wed)-2f8a70)
 ![Static Badge](https://img.shields.io/badge/Project%202%20due-aa2721)
 ![Static Badge](https://img.shields.io/badge/Project%203%20released-2171b5)
 
 ##### Week 9: Data pipelines & management for visualization
-- Slides:
-- Reading:
-![Static Badge](https://img.shields.io/badge/Lab%20session%204%20(Wed)-2f8a70)
+- Slides: [Data pipelines and management for visualization](https://fmiranda.me/courses/cs424-slides/10-data-vis.pdf)
+- Reading: [Connecting Visualization and Data Management Research](https://inria.hal.science/hal-01756799/), [VisTrails](https://dl.acm.org/doi/abs/10.1145/1142473.1142574), [Curio](https://arxiv.org/abs/2408.06139)
 
 #### Theme 3: AI + Visualization
 ##### Week 10: ML for visualization: Interactive machine learning
