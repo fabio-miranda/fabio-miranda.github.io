@@ -85,8 +85,6 @@ Your submission will be evaluated on the quality and coverage of your results an
 
 Scoring: You start with 100 points. Points will be deducted as follows:
 
-Your submission will be graded according to the quality and coverage of the results and presentation. You need to make sure that both your deliverables (presentation and documentation) and notebooks clearly show your findings. Visualizations need to be well constructed, with good color and font choices and proper labeling. Your submission and presentation will be graded according to the following:
-
 - Visualizations: Up to −20 for ineffective visuals and/or poor description of the data and insights.
 - Presentation: Up to −20 if descriptions and/or visuals in the presentation are missing or incomplete.
 - Design choices: Up to −15 for ineffective mark or encoding choices (e.g., misleading scales, poor color usage, weak labeling).
