@@ -156,7 +156,7 @@ Include screenshots (with meaningful captions) showing:
 
 4) A web page hosting your visualization interface. The web page should be publicly accessible.
 
-5) A ~10 minute presentation, presenting your visualization interface. For the presentation, you should present how you built the embeddings and projections, your standalone interface, interactions, and findings, interesting structures in the embedding space (clusters, transitions, anomalies). For your presentation, you should consider opening the webpage hosting your visualization and present it live.
+5) A final presentation where you should present how you built the embeddings and projections, your standalone interface, interactions, and findings, interesting structures in the embedding space (clusters, transitions, anomalies). For your presentation, you should consider opening the webpage hosting your visualization and present it live.
 
 
 ---
