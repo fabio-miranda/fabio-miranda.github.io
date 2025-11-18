@@ -158,7 +158,7 @@ This schedule will be updated throughout the semester with links for slides and 
 - Reading: [VA + Embeddings STAR](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14859)
 
 ##### Week 13: Visualization for ML: Explainability & interpretability
-- Slides: [Visualization for machine learning (vis4ml)](https://fmiranda.me/courses/cs424-slides/09-ml-vis.pdf)
+- Slides: [Visualization for machine learning (vis4ml)](https://fmiranda.me/courses/cs424-slides/11-vis-ml.pdf)
 - Reading: [A survey of visual analytics techniques for machine learning](https://ieeexplore.ieee.org/abstract/document/10897409), [Visual Analytics for Machine Learning](https://ieeexplore.ieee.org/abstract/document/10412199), [VIS4ML: An Ontology for Visual Analytics Assisted Machine Learning](https://ieeexplore.ieee.org/abstract/document/8440124)
 
 #### Theme 4: Frontiers
