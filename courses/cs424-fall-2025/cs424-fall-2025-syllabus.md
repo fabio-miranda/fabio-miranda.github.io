@@ -167,8 +167,6 @@ This schedule will be updated throughout the semester with links for slides and 
 - Reading:
 
 ##### Week 15: Capstone week, project presentations
-- Slides:
-- Reading:
 ![Static Badge](https://img.shields.io/badge/Project%204%20due-aa2721)
 
 ***
