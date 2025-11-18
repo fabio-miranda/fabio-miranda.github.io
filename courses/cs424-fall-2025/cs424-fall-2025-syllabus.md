@@ -144,23 +144,22 @@ This schedule will be updated throughout the semester with links for slides and 
 
 #### Theme 3: AI + Visualization
 ##### Week 10: ML for visualization: Interactive machine learning
-- Slides:
-- Reading: [Machine learning for visualization](https://medium.com/@enjalot/machine-learning-for-visualization-927a9dff1cab)
+- Slides: [Machine learning for visualization (ml4vis)](https://fmiranda.me/courses/cs424-slides/09-ml-vis.pdf)
+- Reading: [A Survey on ML4VIS](https://ieeexplore.ieee.org/abstract/document/9523770), [Machine learning for visualization](https://medium.com/@enjalot/machine-learning-for-visualization-927a9dff1cab)
 
 ##### Week 11: Uncertainty visualization & model behaviors
-- Slides:
-- Reading: [Uncertainty + Visualization, Explained](https://medium.com/multiple-views-visualization-research-explained/uncertainty-visualization-explained-67e7a73f031b)
-![Static Badge](https://img.shields.io/badge/Lab%20session%205%20(Wed)-2f8a70)
+- Slides: [Uncertainty visualization](https://fmiranda.me/courses/cs424-slides/09-uncertainty.pdf)
+- Reading: [Recent advances and challenges in uncertainty visualization](https://link.springer.com/article/10.1007/s12650-021-00755-1), [Uncertainty + Visualization, Explained](https://medium.com/multiple-views-visualization-research-explained/uncertainty-visualization-explained-67e7a73f031b)
 ![Static Badge](https://img.shields.io/badge/Project%203%20due-aa2721)
 ![Static Badge](https://img.shields.io/badge/Project%204%20released-2171b5)
 
 ##### Week 12: Inner workings of AI & embeddings
-- Slides:
-- Reading:
+- Slides: [Embeddings for visual analytics](https://fmiranda.me/courses/cs424-slides/10-embeddings.pdf)
+- Reading: [VA + Embeddings STAR](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14859)
 
-##### Week 13: Visualization for ML: Interpretability
-- Slides:
-- Reading:
+##### Week 13: Visualization for ML: Explainability & interpretability
+- Slides: [Visualization for machine learning (vis4ml)](https://fmiranda.me/courses/cs424-slides/09-vis-ml.pdf)
+- Reading: [A survey of visual analytics techniques for machine learning](https://ieeexplore.ieee.org/abstract/document/10897409), [Visual Analytics for Machine Learning](https://ieeexplore.ieee.org/abstract/document/10412199), [VIS4ML: An Ontology for Visual Analytics Assisted Machine Learning](https://ieeexplore.ieee.org/abstract/document/8440124)
 
 #### Theme 4: Frontiers
 ##### Week 14: Human–AI collaboration in visualization
