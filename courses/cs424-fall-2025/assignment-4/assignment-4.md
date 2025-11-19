@@ -169,7 +169,7 @@ Scoring: You start with 100 points. Points will be deducted as follows:
 
 - Embeddings & Projections: Up to −20 for weak or unjustified embedding design (e.g., unclear feature choices, missing explanation of preprocessing or dimensionality reduction), poor-quality projections (e.g., misuse of methods), or failing to clearly relate structures in the embedding space back to the original data.
 - Visualizations & Linked Views: Up to −20 for ineffective visuals, missing or incomplete linked views, poor support for exploring clusters/neighborhoods/outliers in the embedding, or weak description of the data and insights revealed by the visualizations.
-- Presentation: Up to −20 if descriptions and/or visuals in the presentation are missing, incomplete, or do not clearly explain (1) How embeddings were constructed, (2) How the interface or dataflow works, (3) What insights were obtained from the embedding space.
+- Presentation: Up to −20 if descriptions and/or visuals in the presentation are missing, incomplete. The presentation should cover at the very least: (1) A brief overview of the dataset, (2) How embeddings were constructed, (3) How the interface works, and main visualizations and interactions, (4) What insights and findings were obtained from the visualizations and embedding space.
 - Clarity and Organization of Writing: Up to −15 if the markdown document is unclear, disorganized, or difficult to follow; lacks structure; or does not adequately explain the data, embedding pipeline, visual encodings, and findings.
 
 Additional points may be deducted if:
