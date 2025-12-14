@@ -256,7 +256,7 @@ Throughout the semester, keep in mind that there are many ways to excel: through
 
 #### Participation
 
-This course includes a class participation grade that will consider your contribution to a productive learning environment—whether in the classroom, on Piazza, or during office hours. Attendance will be tracked through a mix of iClicker responses, attendance sheets, and occasional roll calls. Good attendance and consistent engagement will be considered beyond the assigned participation portion of your grade and may also be factored into any potential rounding to higher letter grades.
+This course includes a class participation grade that will consider your contribution to a productive learning environment, whether in the classroom, on Piazza, or during office hours. Attendance will be tracked through a mix of iClicker responses, attendance sheets, and occasional roll calls. Good attendance and consistent engagement will be considered beyond the assigned participation portion of your grade and may also be factored into any potential rounding to higher letter grades.
 
 Note that you do not need to participate in every classroom discussion. However, you are expected to actively engage with the instructor or classmates in some capacity (in class, on Piazza, via email, or during office hours). Rather than focus solely on penalizing absences, this policy rewards those who invest in the learning community by showing up and participating.
 
