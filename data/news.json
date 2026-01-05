@@ -1,6 +1,11 @@
 {
 	"Recent Updates": [
     {
+        "text": "The website for CS 524 - Big Data Visualization and Analytics website is now live.",
+        "date": "01/2026",
+        "more": "https://fmiranda.me/courses/cs424-fall-2026/"
+    },
+    {
         "text": "'A Neural Field-Based Approach for View Computation & Data Exploration in 3D Urban Environments' accepted to TVCG!",
         "date": "11/2025",
         "more": "https://urbantk.org/neural-3d"

@@ -162,9 +162,8 @@ This schedule will be updated throughout the semester with links for slides and 
 - Reading: [A survey of visual analytics techniques for machine learning](https://ieeexplore.ieee.org/abstract/document/10897409), [Visual Analytics for Machine Learning](https://ieeexplore.ieee.org/abstract/document/10412199), [VIS4ML: An Ontology for Visual Analytics Assisted Machine Learning](https://ieeexplore.ieee.org/abstract/document/8440124)
 
 #### Theme 4: Frontiers
-##### Week 14: Human–AI collaboration in visualization
-- Slides:
-- Reading:
+##### Week 14: Advanced topics
+- Slides: [Advanced topics](https://fmiranda.me/courses/cs424-slides/11-conclusion-future.pdf)
 
 ##### Week 15: Capstone week, project presentations
 ![Static Badge](https://img.shields.io/badge/Project%204%20due-aa2721)
@@ -292,7 +291,7 @@ Projects must be submitted by the deadlines. No projects will be accepted after 
 ### FAQ
 
 #### Deadlines & Submissions
-***I wasn’t able to push to GitHub before the deadline. Can I have an extension?***  
+***I wasn't able to push to GitHub before the deadline. Can I have an extension?***  
 No.
 
 ***Can I send my project by email to you or the TA instead?***  
@@ -313,14 +312,14 @@ No.
 ***Can you grade my assignment early so I know before the deadline?***  
 No.
 
-***I lost points because I didn’t follow the submission instructions. Can you give them back?***  
+***I lost points because I didn't follow the submission instructions. Can you give them back?***  
 No.
 
 ***Can I redo or resubmit an assignment for a better grade?***  
 No.
 
 #### Attendance & Participation
-***I can’t join class on date X. Can I be excused from participation?***  
+***I can't join class on date X. Can I be excused from participation?***  
 Only with a documented excuse. Otherwise, no.
 
 ***Can you count me present if I join for five minutes? Or if I join after you took attendance?***  
@@ -331,14 +330,14 @@ No.
 
 
 #### Grading & Grades
-***It’s the end of the semester, and I have an 87.3. Can you round me up to 90?***  
+***It's the end of the semester, and I have an 87.3. Can you round me up to 90?***  
 No.
 
 ***Can you "round generously" since I worked hard?***  
 No.
 
 ***Is there any extra credit?***  
-Maybe. Don’t plan your grade around it.
+Maybe. Don't plan your grade around it.
 
 
 #### Projects & Teamwork
@@ -348,7 +347,7 @@ No, everyone must contribute individually.
 ***My teammate did more work than me. Will we get the same grade?***  
 No, contributions are tracked individually, to the best of our ability.
 
-***Can I email you saying "I helped" if my commits aren’t visible?***  
+***Can I email you saying "I helped" if my commits aren't visible?***  
 No.
 
 ***My grade is lower than my teammate's, but I did a lot of work that isn't visible in the commits. Can I get credit for that?***  
@@ -363,7 +362,7 @@ No.
 
 #### AI & Academic Integrity
 ***Can I copy code or text from ChatGPT and submit it as my own?***  
-No. That’s plagiarism. You have to understand and explain everything.
+No. That's plagiarism. You have to understand and explain everything.
 
 ***The AI gave me the wrong answer. Can I get points back?***  
 No.

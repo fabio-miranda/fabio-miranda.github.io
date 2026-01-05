@@ -3,6 +3,11 @@
 For a complete list of papers, check [here](https://scholar.google.com/citations?user=9fR0LqAAAAAJ&hl=en).
 
 #### 2026
+**A Neural Field-Based Approach for View Computation & Data Exploration in 3D Urban Environments**<br>
+&emsp;S Cobeli, KS Omar, R Valença, N Ferreira, F Miranda<br>
+&emsp;*IEEE Transactions on Visualization and Computer Graphics*<br>
+&emsp;[[Arxiv](https://arxiv.org/abs/2511.14742)] &#x2022; [[Webpage](https://urbantk.org/neural-3d/)]
+
 **Urbanite: A Dataflow-Based Framework for Human-AI Interactive Alignment in Urban Visual Analytics**<br>
 &emsp;G. Moreira, L. Ferreira, C. Veiga, M. Hosseini, F. Miranda<br>
 &emsp;*IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2025)*<br>
