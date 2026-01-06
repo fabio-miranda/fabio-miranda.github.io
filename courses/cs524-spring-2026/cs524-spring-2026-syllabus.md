@@ -158,8 +158,6 @@ In addition, each group will prepare and deliver two research presentations (app
 
 **Students will need to work in teams of three members for the project and research paper presentations.**
 
-This course also includes a class participation grade that will take into consideration the student's contribution to a productive environment, either in the classroom, Piazza or office hours. This is a holistic evaluation and may include attendance, participation, engagement in discussions, questions after presentations, and support for colleagues.
-
 
 #### Evaluation Philosophy
 
@@ -173,9 +171,9 @@ There are many ways to excel: conceptual depth, methodological rigor, visual cra
 
 #### Participation
 
-This course includes a class participation grade that will consider your contribution to a productive learning environment, whether in the classroom, on Piazza, or during office hours. Attendance will be tracked through a mix of iClicker responses, attendance sheets, and occasional roll calls. Good attendance and consistent engagement will be considered beyond the assigned participation portion of your grade and may also be factored into any potential rounding to higher letter grades.
+This course includes a class participation grade that will consider your contribution to a productive learning environment, whether in the classroom, online, or during office hours. Attendance will be tracked through attendance sheets and occasional roll calls. Good attendance and consistent engagement will be considered beyond the assigned participation portion of your grade and may also be factored into any potential rounding to higher letter grades.
 
-Note that you do not need to participate in every classroom discussion. However, you are expected to actively engage with the instructor or classmates in some capacity (in class, on Piazza, via email, or during office hours). Rather than focus solely on penalizing absences, this policy rewards those who invest in the learning community by showing up and participating.
+Note that you do not need to participate in every classroom discussion. However, you are expected to actively engage with the instructor or classmates in some capacity (in class, online, via email, or during office hours). Rather than focus solely on penalizing absences, this policy rewards those who invest in the learning community by showing up and participating.
 
 Students who may struggle with the course material but take advantage of resources such as office hours or mentoring can still be successful. The key is taking initiative to stay involved and seeking help when needed.
 
