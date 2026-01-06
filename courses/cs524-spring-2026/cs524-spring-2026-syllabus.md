@@ -101,11 +101,15 @@ The course themes are spread across 13 weeks through 10 instructional sessions, 
 
 ##### Session 2: Web-first big-data visualization
 - Topic: How modern web stacks deliver scalable visualization when data is large and latency matters
-- Reading: 
+- Reading:
+  - "From WebGL to WebGPU: A Reality Check of Browser-Based GPU Acceleration", [PDF](https://dl.acm.org/doi/abs/10.1145/3730567.3764504)
+  - "Interactive Visualization of Terascale Data in the Browser: Fact or Fiction?", [PDF](https://ieeexplore.ieee.org/abstract/document/9308044?)
 
 ##### Session 3: Database-backed visualization systems (+research presentation)
 - Topic: Database-backed visualization, where query processing, indexing, and data layout shape interactive visual performance.
-- Reading: 
+- Reading:
+  - "Mosaic: An Architecture for Scalable & Interoperable Data Views", [PDF](https://ieeexplore.ieee.org/abstract/document/10297587)
+  - "Mosaic Selections: Managing and Optimizing User Selections for Scalable Data Visualization Systems", [PDF](https://arxiv.org/abs/2507.19690)
 
 ##### Proposal presentations (Week 5)
 
@@ -114,7 +118,8 @@ The course themes are spread across 13 weeks through 10 instructional sessions, 
 
 ##### Session 4: Benchmarking & evaluating systems (+research presentation)
 - Topic: How to benchmark and evaluate systems rigorously, including metrics, baselines, reproducibility, and fair comparisons.
-- Reading: 
+- Reading:
+  - "ReVISit 2: A Full Experiment Life Cycle User Study Framework", [PDF](https://arxiv.org/abs/2508.03876)
 
 ##### Session 5: System building in the age of AI (+research presentation)
 - Topic: How system-building changes with LLMs and agents, from prototyping and debugging to architecture and reliability.
