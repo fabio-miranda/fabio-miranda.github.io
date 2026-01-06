@@ -89,10 +89,9 @@ The course will be driven by lectures paired with in-class discussion centered o
 
 ### Course Schedule
 
-The course themes are spread across 13 weeks through 9 instructional sessions, with an additional two weeks reserved for the final project proposal and final project presentations. In addition, 7 class meetings are dedicated to student research presentations. This is a tentative schedule and will be adjusted along the way. Each session includes a few required readings to make sure you have a comprehensive understanding of the topic.
+The course themes are spread across 13 weeks through 10 instructional sessions, with an additional two weeks reserved for the final project proposal and final project presentations. In addition, 8 class meetings are dedicated to student research presentations. This is a tentative schedule and will be adjusted along the way. Each session includes a few required readings to make sure you have a comprehensive understanding of the topic.
 
 **Important: Sessions are not aligned one-to-one with weeks.**
-
 
 #### Theme 1: Data-to-viz systems foundations
 *How visualization is delivered in an end-to-end fashion when the data lives "behind" a system.*
@@ -137,8 +136,13 @@ The course themes are spread across 13 weeks through 9 instructional sessions, w
 - Reading: 
 
 ##### Session 9: Computational topology (+research presentation)
-- Topic: Computational topology tools for summarizing and reasoning about shape/structure in complex data.
-- Reading: 
+- Topic: Computational topology techniques for summarizing and reasoning about shape/structure in complex data.
+- Reading:
+
+##### Session 10: Computational frameworks for large-scale visual analytics (+research presentation)
+- Topic: Neural fields, encoder-decoder models, and other advanced techniques to support large-scale visual analytics.
+- Reading:
+
 
 ##### Project presentations (Week 15)
 
@@ -156,7 +160,7 @@ This course includes a cumulative final project, where the student will need to 
 
 In addition, each group will prepare and deliver two research presentations (approximately 20 minutes each) on relevant topics. This involves reading and synthesizing research papers, identifying the main contributions and limitations, and presenting the material in a clear, well-organized, and engaging way to facilitate class discussion.
 
-**Students will need to work in teams of three members for the project and research paper presentations.**
+**Students will need to work in teams for the project and research paper presentations.**
 
 
 #### Evaluation Philosophy
