@@ -121,20 +121,26 @@ The course themes are spread across 13 weeks through 10 instructional sessions, 
 - Reading:
   - "ReVISit 2: A Full Experiment Life Cycle User Study Framework", [PDF](https://arxiv.org/abs/2508.03876)
 
-##### Session 5: System building in the age of AI (+research presentation)
+##### Session 5: VA system building (+research presentation)
 - Topic: How system-building changes with LLMs and agents, from prototyping and debugging to architecture and reliability.
-- Reading: 
+- Reading:
+  - "ProWis: A Visual Approach for Building, Managing, and Analyzing Weather Simulation Ensembles at Runtime", [PDF](https://doi.org/10.1109/TVCG.2023.3326514)
+  - "Urbanite: A Dataflow-Based Framework for Human-AI Interactive Alignment in Urban Visual Analytics", [PDF](https://arxiv.org/abs/2508.07390)
+  - "VA-Blueprint: Uncovering Building Blocks for Visual Analytics System Design", [PDF](https://arxiv.org/abs/2508.07497)
 
 ##### Session 6: Intelligent agents in Visual Analytics (+research presentation)
 - Topic: How intelligent agents can support visual analytics workflows and what effective human–AI collaboration looks like in practice.
-- Reading: 
+- Reading:
+  - "A Design Space for Intelligent Agents in Mixed-Initiative Visual Analytics", [PDF](https://arxiv.org/abs/2512.23372)
 
 #### Theme 3: Pipelines + representations for exploration
 *Techniques for large data summarization and to support real-time visual data exploration.*
 
 ##### Session 7: Streaming + learned + online transformation pipelines (+research presentation)
 - Topic: Streaming and online/learned pipelines for large data.
-- Reading: 
+- Reading:
+  - "Nanocubes for Real-Time Exploration of Spatiotemporal Datasets", [PDF](https://ieeexplore.ieee.org/abstract/document/6634137)
+  - "NeuralCubes: Deep Representations for Visual Data Exploration", [PDF](https://ieeexplore.ieee.org/abstract/document/9671390)
 
 ##### Session 8: Progressive + uncertainty visualization (+research presentation)
 - Topic: Progressive and uncertainty visualization techniques for large data.
@@ -143,11 +149,13 @@ The course themes are spread across 13 weeks through 10 instructional sessions, 
 ##### Session 9: Computational topology (+research presentation)
 - Topic: Computational topology techniques for summarizing and reasoning about shape/structure in complex data.
 - Reading:
+  - "The Topology ToolKit", [PDF](https://ieeexplore.ieee.org/abstract/document/8017627)
 
 ##### Session 10: Computational frameworks for large-scale visual analytics (+research presentation)
 - Topic: Neural fields, encoder-decoder models, and other advanced techniques to support large-scale visual analytics.
 - Reading:
-
+  - "A Neural Field-Based Approach for View Computation & Data Exploration in 3D Urban Environments", [PDF](https://doi.org/10.1109/TVCG.2025.3635528)
+  - "Deep Umbra: A Generative Approach for Sunlight Access Computation in Urban Spaces", [PDF](https://doi.org/10.1109/TBDATA.2024.3382964)
 
 ##### Project presentations (Week 15)
 
