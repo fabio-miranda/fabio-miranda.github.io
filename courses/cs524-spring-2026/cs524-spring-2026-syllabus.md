@@ -97,7 +97,7 @@ The course themes are spread across 13 weeks through 10 instructional sessions, 
 *How visualization is delivered in an end-to-end fashion when the data lives "behind" a system.*
 
 ##### Session 1: Introduction to the course
-- Topic: Introduction to the course, goals, expectations, key themes
+- Topic: Introduction to the course, goals, expectations, key themes, EVL overview.
 
 ##### Session 2: Web-first big-data visualization
 - Topic: How modern web stacks deliver scalable visualization when data is large and latency matters
