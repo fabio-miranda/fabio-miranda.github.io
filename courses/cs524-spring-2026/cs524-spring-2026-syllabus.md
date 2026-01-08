@@ -116,7 +116,7 @@ The course themes are spread across 13 weeks through 10 instructional sessions, 
   - "Mosaic: An Architecture for Scalable & Interoperable Data Views", [PDF](https://ieeexplore.ieee.org/abstract/document/10297587)
   - "Mosaic Selections: Managing and Optimizing User Selections for Scalable Data Visualization Systems", [PDF](https://arxiv.org/abs/2507.19690)
 
-##### Proposal presentations (Week 5)
+##### ▷ Proposal presentations (Week 5)
 
 #### ► Theme 2: Building and evaluating systems in the age of AI
 *Modern system-building and evaluation practices when LLMs / agents change the tooling, workflows, and architecture.*
