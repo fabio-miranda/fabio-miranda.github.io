@@ -180,7 +180,7 @@ The course themes are spread across 13 weeks through 10 instructional sessions, 
 
 This course includes a cumulative project, where the student will need to demonstrate their research skills for interactive data exploration. There will be three milestones for this project spread throughout the semester that will allow the student to receive feedback: a project proposal, mid-term review, and final presentation and report. Evaluation will emphasize overall quality (e.g., clarity, rigor, and soundness of design choices) rather than mechanical correctness. Detailed instructions for assignments and project deliverables will be released in alignment with the course evaluation schedule.
 
-In addition, each group will prepare and deliver two research presentations (approximately 20 minutes each) on relevant topics. This involves reading and synthesizing research papers, identifying the main contributions and limitations, and presenting the material in a clear, well-organized, and engaging way to facilitate class discussion.
+In addition, each group will prepare and deliver two research presentations on relevant topics. This involves reading and synthesizing research papers, identifying the main contributions and limitations, and presenting the material in a clear, well-organized, and engaging way to facilitate class discussion.
 
 **Students will need to work in teams for the project and research paper presentations.**
 
