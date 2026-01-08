@@ -1,8 +1,0 @@
-taxi
-chicago 311
-buildings
-google street view
-ustd sonyc
-mobility
-land use
-street network
