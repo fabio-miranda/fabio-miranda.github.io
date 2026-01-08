@@ -11,7 +11,7 @@
 
 ### General Information
 
-The goal of the project is to familiarize you with the core components of big data visual analytics systems. You will also demonstrate your research skills by identifying, defining, and tackling a research problem within a course-related topic. There will be three milestones for this project spread throughout the semester: [project proposal](#milestone-1-project-proposal), [midterm review](#milestone-2-midterm-review), and [final presentation and report](#milestone-3-final-report-and-presentation).
+The goal of the project is to familiarize you with the core components of big data visual analytics systems. You will also demonstrate your research skills by identifying, defining, and tackling a research problem within a course-related topic. There will be three milestones for this project spread throughout the semester: [project proposal](#milestone-1-project-proposal), [midterm review](#milestone-2-midterm-review), and [final presentation and report](#milestone-3-final-deliverables).
 
 We will use GitHub to manage code and documentation. You should create a repository for your team on GitHub Classroom, and include **all** deliverables throughout the semester. Please note that GitHub is a version control platform, so simply pushing your final proposal document defeats the purpose of using a management system. The GitHub repository should be a good representation of the evolution of all artifacts of the project.
 
