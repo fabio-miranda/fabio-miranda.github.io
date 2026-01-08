@@ -49,9 +49,11 @@ Office hours: Friday 10am - 12pm, by appointment. Please email me at least one d
 ### Course Description
 
 #### Rationale
-In the past decade, technological innovations have enabled the automatic collection of a diverse set of very large datasets, from user-generated content, such as tweets, to sensor data, such as noise decibel level or aerial surveys. Today, data is not only free but ubiquitous, and the ability to understand, process, extract value from, and visualize it, is going to be hugely important in the next decades. As data grows in size and complexity, however, siloed solutions become less capable of conveying all the structure and information hidden in the data. Visual analytics systems have been successful at enabling users to obtain insights from large data; Well-designed large-scale data visual analytics systems merge domain expertise and analytics techniques, enabling users to gain actionable insights into real-world problems by formulating and testing hypotheses, and to address domain-specific challenges.
+In the past decade, technological innovations have enabled the automatic collection of a diverse set of very large and complex datasets, from user-generated content, such as tweets, to sensor data, such as noise decibel level or aerial surveys. As data grows in size and complexity, however, siloed solutions become less capable of conveying all the structure and information hidden in the data. Visual analytics systems have been successful at enabling users to obtain insights from large data; Well-designed large-scale data visual analytics systems merge domain expertise and analytics techniques, enabling users to gain actionable insights into real-world problems by formulating and testing hypotheses, and to address domain-specific challenges.
 
-This course will introduce students to big data visualization and analytics, focusing on the connections between visualization, data management, machine learning, and data mining. We will cover potential sources of big data, including audio, image, graph, geometry, and mobile data, both structured or unstructured. The course will discuss effective metaphors to visualize data that might span billions of records; data mining and machine learning techniques that can summarize the data, or extract patterns to guide users in their visual exploration; and the data management techniques that can effectively drive interactivity in the visual exploration of big data.
+This course will introduce students to big data visualization and analytics, with a focus on the systems aspect of the end-to-end pipeline, emphasizing the connections between visualization, data management, machine learning, and data mining. We will cover potential sources of big data, including audio, image, graph, geometry, and mobile data, both structured or unstructured. The course will discuss effective metaphors to visualize data that might span billions of records; data mining and machine learning techniques that can summarize the data, or extract patterns to guide users in their visual exploration; and the data management techniques that can effectively drive interactivity in the visual exploration of big data.
+
+*In the context of this course, big data refers to datasets that are too large, too complex, or too fast-changing for traditional tools and small tabular workflows, then requiring scalable storage, processing, and analytics (often all three) to extract value beyond simple tables.*
 
 #### Course Pre-requisites
 Students are expected to be proficient in programming, capable of learning new programming languages as needed for assignments and projects, and skilled in writing short technical documentation. While CS 424 (Visualization) is not a strict prerequisite, students should be independently comfortable with its core concepts, such as visual encoding, interaction, perception, and design principles (see [here](../) for examples of 424 syllabi). These visualization fundamentals will be briefly summarized in Week 1 to ensure everyone starts with a shared baseline.
@@ -76,7 +78,7 @@ Students will also be required to review and present published papers to class.
 #### Textbook
 
 - T. Munzner, 2014. Visualization Analysis and Design, AK Peters (Optional)
-- Research papers from conferences and journals, including visualization (VIS, EuroVis, IEEE TVCG), database (SIGMOD, VLDB, IEEE Big Data), and related fields (IEEE TITS, AAAI).
+- Research papers from conferences and journals, including visualization (VIS, EuroVis, IEEE TVCG), database (SIGMOD, VLDB, IEEE Big Data), and related fields (IEEE TITS, IEEE TBD, AAAI).
 
 
 #### Format and Teaching Methods
@@ -93,19 +95,22 @@ The course themes are spread across 13 weeks through 10 instructional sessions, 
 
 **Important: Sessions are not aligned one-to-one with weeks.**
 
-#### Theme 1: Data-to-viz systems foundations
+#### ► Theme 1: Data-to-viz systems foundations
 *How visualization is delivered in an end-to-end fashion when the data lives "behind" a system.*
 
-##### Session 1: Introduction to the course
-- Topic: Introduction to the course, goals, expectations, key themes, EVL overview.
+##### ▷ Session 1: Introduction to the course
+- Topic: Introduction to the course, goals, expectations, key themes, what is big data, EVL overview.
+- Reading:
+  - "Urban Mosaic: Visual Exploration of Streetscapes Using Large-Scale Image Data", [PDF](https://dl.acm.org/doi/abs/10.1145/3313831.3376399)
+  - "Urban Rhapsody: Large-scale exploration of urban soundscapes", [PDF](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14534)
 
-##### Session 2: Web-first big-data visualization
+##### ▷ Session 2: Web-first big-data visualization
 - Topic: How modern web stacks deliver scalable visualization when data is large and latency matters
 - Reading:
   - "From WebGL to WebGPU: A Reality Check of Browser-Based GPU Acceleration", [PDF](https://dl.acm.org/doi/abs/10.1145/3730567.3764504)
   - "Interactive Visualization of Terascale Data in the Browser: Fact or Fiction?", [PDF](https://ieeexplore.ieee.org/abstract/document/9308044?)
 
-##### Session 3: Database-backed visualization systems (+research presentation)
+##### ▷ Session 3: Database-backed visualization systems (+research presentation)
 - Topic: Database-backed visualization, where query processing, indexing, and data layout shape interactive visual performance.
 - Reading:
   - "Mosaic: An Architecture for Scalable & Interoperable Data Views", [PDF](https://ieeexplore.ieee.org/abstract/document/10297587)
@@ -113,51 +118,51 @@ The course themes are spread across 13 weeks through 10 instructional sessions, 
 
 ##### Proposal presentations (Week 5)
 
-#### Theme 2: Building and evaluating systems in the age of AI
+#### ► Theme 2: Building and evaluating systems in the age of AI
 *Modern system-building and evaluation practices when LLMs / agents change the tooling, workflows, and architecture.*
 
-##### Session 4: Benchmarking & evaluating systems (+research presentation)
+##### ▷ Session 4: Benchmarking & evaluating systems (+research presentation)
 - Topic: How to benchmark and evaluate systems rigorously, including metrics, baselines, reproducibility, and fair comparisons.
 - Reading:
   - "ReVISit 2: A Full Experiment Life Cycle User Study Framework", [PDF](https://arxiv.org/abs/2508.03876)
 
-##### Session 5: VA system building (+research presentation)
+##### ▷ Session 5: VA system building (+research presentation)
 - Topic: How system-building changes with LLMs and agents, from prototyping and debugging to architecture and reliability.
 - Reading:
   - "ProWis: A Visual Approach for Building, Managing, and Analyzing Weather Simulation Ensembles at Runtime", [PDF](https://doi.org/10.1109/TVCG.2023.3326514)
   - "Urbanite: A Dataflow-Based Framework for Human-AI Interactive Alignment in Urban Visual Analytics", [PDF](https://arxiv.org/abs/2508.07390)
   - "VA-Blueprint: Uncovering Building Blocks for Visual Analytics System Design", [PDF](https://arxiv.org/abs/2508.07497)
 
-##### Session 6: Intelligent agents in Visual Analytics (+research presentation)
+##### ▷ Session 6: Intelligent agents in Visual Analytics (+research presentation)
 - Topic: How intelligent agents can support visual analytics workflows and what effective human–AI collaboration looks like in practice.
 - Reading:
   - "A Design Space for Intelligent Agents in Mixed-Initiative Visual Analytics", [PDF](https://arxiv.org/abs/2512.23372)
 
-#### Theme 3: Pipelines + representations for exploration
+#### ► Theme 3: Pipelines + representations for exploration
 *Techniques for large data summarization and to support real-time visual data exploration.*
 
-##### Session 7: Streaming + learned + online transformation pipelines (+research presentation)
+##### ▷ Session 7: Streaming + learned + online transformation pipelines (+research presentation)
 - Topic: Streaming and online/learned pipelines for large data.
 - Reading:
   - "Nanocubes for Real-Time Exploration of Spatiotemporal Datasets", [PDF](https://ieeexplore.ieee.org/abstract/document/6634137)
   - "NeuralCubes: Deep Representations for Visual Data Exploration", [PDF](https://ieeexplore.ieee.org/abstract/document/9671390)
 
-##### Session 8: Progressive + uncertainty visualization (+research presentation)
+##### ▷ Session 8: Progressive + uncertainty visualization (+research presentation)
 - Topic: Progressive and uncertainty visualization techniques for large data.
 - Reading: 
 
-##### Session 9: Computational topology (+research presentation)
+##### ▷ Session 9: Computational topology (+research presentation)
 - Topic: Computational topology techniques for summarizing and reasoning about shape/structure in complex data.
 - Reading:
   - "The Topology ToolKit", [PDF](https://ieeexplore.ieee.org/abstract/document/8017627)
 
-##### Session 10: Computational frameworks for large-scale visual analytics (+research presentation)
+##### ▷ Session 10: Computational frameworks for large-scale visual analytics (+research presentation)
 - Topic: Neural fields, encoder-decoder models, and other advanced techniques to support large-scale visual analytics.
 - Reading:
   - "A Neural Field-Based Approach for View Computation & Data Exploration in 3D Urban Environments", [PDF](https://doi.org/10.1109/TVCG.2025.3635528)
   - "Deep Umbra: A Generative Approach for Sunlight Access Computation in Urban Spaces", [PDF](https://doi.org/10.1109/TBDATA.2024.3382964)
 
-##### Project presentations (Week 15)
+##### ▷ Project presentations (Week 15)
 
 ***
 
@@ -178,7 +183,9 @@ In addition, each group will prepare and deliver two research presentations (app
 
 #### Evaluation Philosophy
 
-This is a research-oriented course. You are not just building software or producing visualizations, you are practicing how to think and work like a researcher: framing questions, making defensible design choices, connecting evidence to claims, and communicating tradeoffs and limitations. For projects, evaluation emphasizes your thinking, process, and research judgement. For the final project, evaluation goes beyond standard deliverables. Each group will present to the class and also meet with the instructor/TA for a walkthrough of documentation and code as needed, with an emphasis on how your evidence supports your claims.
+This is a research-oriented course. You are not just building software or producing visualizations, you are practicing how to think and work like a researcher: framing questions, making defensible design choices, connecting evidence to claims, and communicating tradeoffs and limitations. For projects, evaluation emphasizes your thinking, process, and research judgement. For the final project, evaluation goes beyond standard deliverables. Each group will present to the class and also meet with the instructor for a walkthrough of documentation and code as needed, with an emphasis on how your evidence supports your claims.
+
+Note that your project *must* go beyond a simple dashboard: your work should engage with the underlying data, models, and systems constraints, and demonstrate why your approach is appropriate for a well-defined research problem.
 
 A core requirement throughout all projects is documenting your research process. You should show how ideas evolved through sketches, prototypes, experiments, and iterations; explain key decisions; and reflect on challenges, failed attempts, and what you learned. This documentation is essential because it makes your reasoning visible (exactly what matters in research).
 
@@ -210,7 +217,7 @@ Since students will need to present their projects to the class, it is very impo
 ### Important Notes
 
 Here is a summary of some key points:
-- Office hours will be held on Fridays from 10 AM to 12 PM. Please email me at least one day in advance to schedule an appointment; I will send you a calendar invite between 10 AM and 12 PM.
+- Office hours will be held on Fridays from 10 AM to 12 PM. Please email me at least one day in advance to schedule an appointment; I will send you a calendar invite to a slot between 10 AM and 12 PM.
 - Please adhere to the maximum number of students allowed per team. No exceptions will be made.
 - Please adhere to the course schedule. Presentations will not be rescheduled unless **all** team members have a valid and documented reason.
 - Attendance is not optional, though justified absences with valid excuses will be understood. It is a crucial component of your learning experience and success in all courses, and it will be reflected in your grades.
