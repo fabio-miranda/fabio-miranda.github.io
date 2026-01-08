@@ -1,17 +1,17 @@
-### CS524 Big Data Visualization and Analytics - Final Projects
+### CS524 Big Data Visualization and Analytics - Project
 
 #### Table of Contents
 1. [General Information](#general-information)
 2. [Submission of Deliverables](#submission-of-deliverables)
 3. [Milestone 1: Project Proposal](#milestone-1-project-proposal)
 4. [Milestone 2: Midterm Review](#milestone-2-midterm-review)
-5. [Milestone 3: Final Report and Presentation](#milestone-3-final-project)
+5. [Milestone 3: Final Report and Presentation](#milestone-3-final-deliverables)
 6. [Latex](#latex)
 7. [Evaluation and Grading](#evaluation)
 
 ### General Information
 
-The goal of the final project is to familiarize you with the core components of big data visual analytics systems. You will also demonstrate your research skills by identifying, defining, and tackling a research problem within a course-related topic. There will be three milestones for this project spread throughout the semester: [project proposal](#milestone-1-project-proposal), [midterm review](#milestone-2-midterm-review), and [final presentation and report](#milestone-3-final-report-and-presentation).
+The goal of the project is to familiarize you with the core components of big data visual analytics systems. You will also demonstrate your research skills by identifying, defining, and tackling a research problem within a course-related topic. There will be three milestones for this project spread throughout the semester: [project proposal](#milestone-1-project-proposal), [midterm review](#milestone-2-midterm-review), and [final presentation and report](#milestone-3-final-report-and-presentation).
 
 We will use GitHub to manage code and documentation. You should create a repository for your team on GitHub Classroom, and include **all** deliverables throughout the semester. Please note that GitHub is a version control platform, so simply pushing your final proposal document defeats the purpose of using a management system. The GitHub repository should be a good representation of the evolution of all artifacts of the project.
 
@@ -23,7 +23,7 @@ You are expected to submit your deliverables using GitHub. You should create a r
 
 ### Milestone 1: Project Proposal
 
-The first milestone for the final project is proposing what you and your team will work on. You should start by brainstorming ideas with your teammate, and then reaching out for feedback. Milestone 1 is where your team commits to a project direction that is feasible, data-backed, and technically meaningful. Think of this as a lightweight "engineering + research pitch": you should convince us you can build something non-trivial, evaluate it, and explain why it matters.
+The first milestone for the project is proposing what you and your team will work on. You should start by brainstorming ideas with your teammate, and then reaching out for feedback. Milestone 1 is where your team commits to a project direction that is feasible, data-backed, and technically meaningful. Think of this as a lightweight "engineering + research pitch": you should convince us you can build something non-trivial, evaluate it, and explain why it matters.
 
 #### M1 Objectives
 
@@ -109,7 +109,7 @@ By M2, most teams should have: (1) the dataset fully acquired and processed (or 
 
 ---
 
-### Milestone 3: Final Project
+### Milestone 3: Final Deliverables
 
 Milestone 3 is your final delivery: a clear story, a working artifact, and evidence that your approach solves a real problem better than obvious alternatives. Treat this like a mini conference-style submission: demo + paper + reproducible project page.
 
