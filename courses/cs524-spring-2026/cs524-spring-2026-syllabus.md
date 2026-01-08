@@ -91,7 +91,7 @@ The course will be driven by lectures paired with in-class discussion centered o
 
 ### Course Schedule
 
-The course themes are spread across 13 weeks through 10 instructional sessions, with an additional two weeks reserved for the final project proposal and final project presentations. In addition, 8 class meetings are dedicated to student research presentations. This is a tentative schedule and will be adjusted along the way. Each session includes a few required readings to make sure you have a comprehensive understanding of the topic.
+The course themes are spread across 13 weeks through 10 instructional sessions, with an additional two weeks reserved for the project proposal and project presentations. In addition, 8 class meetings are dedicated to student research presentations. This is a tentative schedule and will be adjusted along the way. Each session includes a few required readings to make sure you have a comprehensive understanding of the topic.
 
 **Important: Sessions are not aligned one-to-one with weeks.**
 
@@ -167,14 +167,18 @@ The course themes are spread across 13 weeks through 10 instructional sessions, 
 ***
 
 ### Evaluation and Grading
+
+- [Research presentations](./research-presentation/)
+- [Project](./project)
+
 #### Grading Policy
 - Research paper presentations: 30% (15% each presentation)
 - Project proposal: 10%
-- Final project midterm review: 15%
-- Final project: 30%
+- Project midterm review: 15%
+- Final project deliverables: 30%
 - Participation: 15%
 
-This course includes a cumulative final project, where the student will need to demonstrate their research skills for interactive data exploration. There will be three milestones for this project spread throughout the semester that will allow the student to receive feedback: a project proposal, mid-term review, and final presentation and report. Evaluation will emphasize overall quality (e.g., clarity, rigor, and soundness of design choices) rather than mechanical correctness. Detailed instructions for assignments and project deliverables will be released in alignment with the course evaluation schedule.
+This course includes a cumulative project, where the student will need to demonstrate their research skills for interactive data exploration. There will be three milestones for this project spread throughout the semester that will allow the student to receive feedback: a project proposal, mid-term review, and final presentation and report. Evaluation will emphasize overall quality (e.g., clarity, rigor, and soundness of design choices) rather than mechanical correctness. Detailed instructions for assignments and project deliverables will be released in alignment with the course evaluation schedule.
 
 In addition, each group will prepare and deliver two research presentations (approximately 20 minutes each) on relevant topics. This involves reading and synthesizing research papers, identifying the main contributions and limitations, and presenting the material in a clear, well-organized, and engaging way to facilitate class discussion.
 
@@ -183,7 +187,7 @@ In addition, each group will prepare and deliver two research presentations (app
 
 #### Evaluation Philosophy
 
-This is a research-oriented course. You are not just building software or producing visualizations, you are practicing how to think and work like a researcher: framing questions, making defensible design choices, connecting evidence to claims, and communicating tradeoffs and limitations. For projects, evaluation emphasizes your thinking, process, and research judgement. For the final project, evaluation goes beyond standard deliverables. Each group will present to the class and also meet with the instructor for a walkthrough of documentation and code as needed, with an emphasis on how your evidence supports your claims.
+This is a research-oriented course. You are not just building software or producing visualizations, you are practicing how to think and work like a researcher: framing questions, making defensible design choices, connecting evidence to claims, and communicating tradeoffs and limitations. For projects, evaluation emphasizes your thinking, process, and research judgement. For the project, evaluation goes beyond standard deliverables. Each group will present to the class and also meet with the instructor for a walkthrough of documentation and code as needed, with an emphasis on how your evidence supports your claims.
 
 Note that your project *must* go beyond a simple dashboard: your work should engage with the underlying data, models, and systems constraints, and demonstrate why your approach is appropriate for a well-defined research problem.
 
