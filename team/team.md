@@ -1,8 +1,8 @@
 ### Team
 
-#### PhD students
+#### PhD students & candidates
 
-Keira Wang (2025 - )
+Keira Wang (2025 - )  
 [Leonardo Ferreira](https://www.linkedin.com/in/leo-vsferreira/) (2023 - )  
 [Gustavo Moreira](https://gmmuller.github.io/) (2022 - )  
 *Supporting Multi-Stakeholder Collaboration in Urban Data Analysis*
@@ -35,16 +35,16 @@ Davide Bartoletti (2022 - 2023)
 
 #### Undergraduate students
 
-Henry Nguyen
-Ahmad Nadeem
+Henry Nguyen  
+Ahmad Nadeem  
 Shaun Shannon  
 Daniel Hodczak  
-Jayanth Podapati
+Jayanth Podapati  
 
-Shanmukh Upadhyayula (GPIP, 2025)
-Henry Nguyen (GPIP, 2025)
-Ilyan Pang (GPIP, 2025)
-James Mahia (GPIP, 2025)
+Shanmukh Upadhyayula (GPIP, 2025)  
+Henry Nguyen (GPIP, 2025)  
+Ilyan Pang (GPIP, 2025)  
+James Mahia (GPIP, 2025)  
 
 
 #### High-school students
