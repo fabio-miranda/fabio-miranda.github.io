@@ -21,6 +21,9 @@ Keira Wang (2025 - )
 
 #### MSc students
 
+Vamsi Dath Meka (2026)  
+*Knowledge graph-based methods for visual analytics*
+
 Venkata Pidaparthi (2025)  
 *Introducing and Enhancing User Provenance in the Curio Framework*
 
