@@ -2,11 +2,18 @@
 
 #### PhD students
 
+Keira Wang (2025 - )
 [Leonardo Ferreira](https://www.linkedin.com/in/leo-vsferreira/) (2023 - )  
 [Gustavo Moreira](https://gmmuller.github.io/) (2022 - )  
+*Supporting Multi-Stakeholder Collaboration in Urban Data Analysis*
+
 [Kazi Omar](https://komar41.github.io/) (2021 - )  
+*Toward Efficient Computational Frameworks and Modular Urban Visual Analytics Toolkits: Supporting Scenarios and Counterfactuals Reasoning*
+
 [Stefan Cobeli](https://stefancobeli.github.io) (2021 - )  
-[Sanjana Srabanti](https://sanjanasrabanti16.github.io/) (2020 - )
+[Sanjana Srabanti](https://sanjanasrabanti16.github.io/) (2020 - )  
+*Unveiling Inequities: Visualization Frameworks for Multivariate Social Disparities Research*
+
 
 
 #### MSc students
@@ -28,9 +35,17 @@ Davide Bartoletti (2022 - 2023)
 
 #### Undergraduate students
 
+Henry Nguyen
+Ahmad Nadeem
 Shaun Shannon  
 Daniel Hodczak  
 Jayanth Podapati
+
+Shanmukh Upadhyayula (GPIP, 2025)
+Henry Nguyen (GPIP, 2025)
+Ilyan Pang (GPIP, 2025)
+James Mahia (GPIP, 2025)
+
 
 #### High-school students
 
