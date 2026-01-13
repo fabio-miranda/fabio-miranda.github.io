@@ -101,11 +101,13 @@ The course themes are spread across 13 weeks through 10 instructional sessions, 
 ##### ▷ Session 1: Introduction to the course
 - Topic: Introduction to the course, goals, expectations, key themes, what is big data, EVL overview.
 - Reading:
+  - "What makes Big Data, Big Data? Exploring the ontological characteristics of 26 datasets", [PDF](https://journals.sagepub.com/doi/10.1177/2053951716631130)
+  - "The fifth era of science: Artificial scientific intelligence", [PDF](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003230)
   - "Urban Mosaic: Visual Exploration of Streetscapes Using Large-Scale Image Data", [PDF](https://dl.acm.org/doi/abs/10.1145/3313831.3376399)
   - "Urban Rhapsody: Large-scale exploration of urban soundscapes", [PDF](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14534)
 
 ##### ▷ Session 2: Web-first big-data visualization
-- Topic: How modern web stacks deliver scalable visualization when data is large and latency matters
+- Topic: How modern web stacks deliver scalable visualization when data is large and latency matters.
 - Reading:
   - "From WebGL to WebGPU: A Reality Check of Browser-Based GPU Acceleration", [PDF](https://dl.acm.org/doi/abs/10.1145/3730567.3764504)
   - "Interactive Visualization of Terascale Data in the Browser: Fact or Fiction?", [PDF](https://ieeexplore.ieee.org/abstract/document/9308044?)
