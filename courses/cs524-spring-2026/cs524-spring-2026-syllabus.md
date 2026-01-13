@@ -104,6 +104,7 @@ Class notes can be found [here](./notes/)
 
 ##### ▷ Session 1: Introduction to the course
 - Topic: Introduction to the course, goals, expectations, key themes, what is big data, EVL overview.
+- Slides: [Introduction](../cs524-slides/01-intro-new.pdf)
 - Reading:
   - "What makes Big Data, Big Data? Exploring the ontological characteristics of 26 datasets", [PDF](https://journals.sagepub.com/doi/10.1177/2053951716631130)
   - "The fifth era of science: Artificial scientific intelligence", [PDF](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003230)
