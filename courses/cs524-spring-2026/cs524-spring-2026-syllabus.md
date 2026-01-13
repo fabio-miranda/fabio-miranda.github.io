@@ -69,6 +69,8 @@ After successful completion of this course, students will be able to:
 -	Combine visualization and data mining techniques, data structures and algorithms that work in tandem to enable interactive data exploration.
 -	Understand and apply data management, data mining, and machine learning techniques specifically designed for visualization and visual analytics.
 
+Class notes can be found [here](./notes/)
+
 #### Deliverables
 
 Students will be required to complete one project, where they will implement concepts and techniques presented in class using large datasets. In this project, students will have to identify a research problem under my guidance, and propose and implement a small-scale system for the interactive exploration of a large dataset (or multiple datasets). Students will be able to use external datasets, or select from a list of available datasets, including spatiotemporal audio, image, graph, and geometry data. Students will have to produce a short paper reporting preliminary results, and give a brief final presentation in class. Ideally, a project will have produced the initial stages of a research paper, capable of being accepted at a workshop.
@@ -93,9 +95,9 @@ The course will be driven by lectures paired with in-class discussion centered o
 
 The course themes are spread across 13 weeks through 10 instructional sessions, with an additional two weeks reserved for the project proposal and project presentations. In addition, 8 class meetings are dedicated to student research presentations. This is a tentative schedule and will be adjusted along the way. Each session includes a few required readings to make sure you have a comprehensive understanding of the topic.
 
-**Important: Sessions are not aligned one-to-one with weeks.**
-
 Class notes can be found [here](./notes/)
+
+**Important: Sessions are not aligned one-to-one with weeks.**
 
 #### ► Theme 1: Data-to-viz systems foundations
 *How visualization is delivered in an end-to-end fashion when the data lives "behind" a system.*
