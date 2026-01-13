@@ -95,6 +95,8 @@ The course themes are spread across 13 weeks through 10 instructional sessions, 
 
 **Important: Sessions are not aligned one-to-one with weeks.**
 
+Class notes can be found [here](./notes/)
+
 #### ► Theme 1: Data-to-viz systems foundations
 *How visualization is delivered in an end-to-end fashion when the data lives "behind" a system.*
 
