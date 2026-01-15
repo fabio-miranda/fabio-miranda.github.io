@@ -102,7 +102,7 @@ Class notes can be found [here](./notes/)
 #### ► Theme 1: Data-to-viz systems foundations
 *How visualization is delivered in an end-to-end fashion when the data lives "behind" a system.*
 
-##### ▷ Session 1: Introduction to the course
+##### ▷ Session 1: Introduction to the course & big data visual analytics
 - Topic: Introduction to the course, goals, expectations, key themes, what is big data, EVL overview.
 - Slides: [Introduction](../cs524-slides/01-intro-new.pdf), [Big data visual analytics](../cs524-slides/02-va-systems.pdf)
 - Reading:

@@ -4,9 +4,11 @@
 Note: This is a living document and will be updated throughout the semester to reflect what we discuss in class.
 
 <details>
-<summary>Week 1</summary>
+<summary>Session 1: Introduction to the course & big data visual analytics</summary>
 
-### Week 1
+## Session 1: Introduction to the course & big data visual analytics
+
+### Class 1 notes
 
 #### What counts as "Big Data" in this course?
 
@@ -95,6 +97,62 @@ Quick "To Do" checklist for students:
 - Start scanning the reading list each week; come prepared to discuss papers. 
 - Start forming a project direction before Week 5 and use office hours to scope it well. 
 - Aim beyond a dashboard: define the "technique/methodology/system contribution" you want to deliver. 
+
+***
+
+### Class 2 notes
+
+#### Dashboards vs. VA systems: the "cube" spectrum
+
+- A VA system is a combination of:
+  - Data management (backend / wrangling),
+  - Analytics (models/algorithms),
+  - Visualization (interactive views),
+- A VA system should support "discovery of the unexpected."
+
+- Conrow et al., 2022 place dashboards vs VA systems along three dimensions:
+  - Input data complexity
+    - Dashboards: typically rely on standardized / already-prepared data.
+    - VA systems: include data handling + wrangling as part of the workflow.
+  - User interaction
+    - Dashboards: repeatable tasks (monitoring, selection/filtering/comparison).
+    - VA systems: open-ended, exploratory workflows.
+  - Analytical complexity
+    - Dashboards: primarily informational display and predefined outputs.
+    - VA systems: iterative, loop-based hypothesis testing with richer analysis.
+  
+- Mislabeling a VA contribution as a dashboard signals misunderstanding of the spectrum.
+
+#### Practical challenges in big-data VA systems (the "top-right corner of the cube" problems)
+
+- Several obstacles to moving toward high analytical complexity + high interaction + complex data:
+  - Unstructured & heterogeneous data:
+    - Real-world data is messy; VA systems must wrangle and align multimodal inputs so exploration and comparison are even possible.
+    - Challenge: making messy, multimodal, real-world data "line up" so interaction + comparison is possible.
+    - Example you discussed: Miranda et al., 2020 supporting street-level image exploration, where users drill into images, select architectural façade features, and compare results across space and time, which only works if the data is aligned consistently.
+  - Advanced visualizations & interactions:
+    - Complex phenomena often require new encodings and interactions beyond standard charts to reveal patterns.
+    - Challenge: standard charts often aren't enough; complex phenomena and data need new encodings.
+    - Example: Mota et al., 2026 contribute a novel façade "sunlight access" visualization that shows multiple time steps to enable comparisons across time.
+  - Customizable visualizations:
+    - Users need to iterate over a visualization design space to match tasks, data, and hypotheses.
+    - Challenge: different users/tasks need different visual forms; the system should support rapid iteration in a design space. Visualization grammars are a mechanism to support "small changes → big shifts" (e.g., bar chart → scatterplot), but this gets harder with big/complex data.
+    - Example: Moreira et al., 2023 propose a grammar designed for visualizations in urban environments.
+  - Real-time & interactive queries (latency):
+    - Low latency is essential; as latency rises, the number of hypotheses a user can test collapses.
+    - Challenge: latency directly limits hypothesis generation; high latency reduces how many questions users can ask.
+    - Example: Wang et al., 2021 accelerate interactive querying via a learned / ML-based structure rather than a purely database-style execution path.
+  - Analytical integration (models/ML inside the loop):
+    - Embedding models/ML means surfacing parameters, assumptions, and failure cases with explainable controls, not just running code.
+    - Challenge: integrating analytics isn't just "call a model"; it introduces parameters, assumptions, and failure cases that must be surfaced with explainable controls.
+    - Example: Doraiswamy et al., 2015 contribute a system for exploring a building design space with many competing objectives/parameters (e.g., views toward parks/landmarks).
+  - Multi-resolution reasoning:
+    - Systems must support scale shifts (space/time hierarchies) without breaking the user's analytical flow.
+    - Challenge: supporting fluid transitions across spatial/temporal scales (city → neighborhood → street; year → minute) without breaking analytical flow.
+    - Example: Miranda et al., 2019 contribute a system for sunlight-access that supports neighborhood-level views and drill-down behavior.
+
+- Landmark paper:
+  - "Visual Exploration of Big Data: A Study of New York City Taxi Trips" (2013) is a foundational paper for the area, supporting a wide range of spatiotemporal queries, and received a Test of Time Award (2023).
 
 </details>
 
