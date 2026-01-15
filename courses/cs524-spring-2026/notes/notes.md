@@ -102,6 +102,11 @@ Quick "To Do" checklist for students:
 
 ### Class 2 notes
 
+#### Visual analytics process
+
+- The visual analytics process is an iterative, human-in-the-loop loop where people steer computation and visualizations. Keim et al., 2008 describe visual analytics as a loop rather than a one-pass pipeline: start with an initial representation, then interactively manipulate the data and the view to gain insights.
+- Visual analytics mantra: Analyze first, show the important, zoom/filter and analyze further, details on demand.
+
 #### Dashboards vs. VA systems: the "cube" spectrum
 
 - A VA system is a combination of:
