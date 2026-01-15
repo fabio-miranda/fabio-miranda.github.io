@@ -6,7 +6,7 @@ Note: This is a living document and will be updated throughout the semester to r
 <details>
 <summary>Session 1: Introduction to the course & big data visual analytics</summary>
 
-## Session 1: Introduction to the course & big data visual analytics
+### Session 1: Introduction to the course & big data visual analytics
 
 ### Class 1 notes
 

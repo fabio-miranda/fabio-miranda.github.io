@@ -93,11 +93,9 @@ The course will be driven by lectures paired with in-class discussion centered o
 
 ### Course Schedule
 
-The course themes are spread across 13 weeks through 10 instructional sessions, with an additional two weeks reserved for the project proposal and project presentations. In addition, 8 class meetings are dedicated to student research presentations. This is a tentative schedule and will be adjusted along the way. Each session includes a few required readings to make sure you have a comprehensive understanding of the topic.
+The course themes are spread across 13 weeks through 10 instructional sessions, with an additional two weeks reserved for the project proposal and project presentations. In addition, 8 class meetings are dedicated to student research presentations. This is a tentative schedule and will be adjusted along the way. Each session includes a few required readings to make sure you have a comprehensive understanding of the topic. Important: Sessions are not aligned one-to-one with weeks.
 
-Class notes can be found [here](./notes/)
-
-**Important: Sessions are not aligned one-to-one with weeks.**
+**Class notes can be found [here](./notes/)**
 
 #### ► Theme 1: Data-to-viz systems foundations
 *How visualization is delivered in an end-to-end fashion when the data lives "behind" a system.*
