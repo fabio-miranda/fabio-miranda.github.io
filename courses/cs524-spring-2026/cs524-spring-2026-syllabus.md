@@ -104,10 +104,14 @@ Class notes can be found [here](./notes/)
 
 ##### ▷ Session 1: Introduction to the course
 - Topic: Introduction to the course, goals, expectations, key themes, what is big data, EVL overview.
-- Slides: [Introduction](../cs524-slides/01-intro-new.pdf)
+- Slides: [Introduction](../cs524-slides/01-intro-new.pdf), [Big data visual analytics](../cs524-slides/02-va-systems.pdf)
 - Reading:
   - "What makes Big Data, Big Data? Exploring the ontological characteristics of 26 datasets", [PDF](https://journals.sagepub.com/doi/10.1177/2053951716631130)
   - "The fifth era of science: Artificial scientific intelligence", [PDF](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003230)
+  - "Visual Analytics: Scope and Challenges", [PDF](https://link.springer.com/chapter/10.1007/978-3-540-71080-6_6)
+  - "A conceptual framework for developing dashboards for big mobility data", [PDF](https://www.tandfonline.com/doi/full/10.1080/15230406.2023.2190164)
+  - "Visual Exploration of Big Spatio-Temporal Urban Data: A Study of New York City Taxi Trips", [PDF](https://doi.org/10.1109/TVCG.2013.226)
+  - "Grand Challenges in Visual Analytics Applications", [PDF](https://doi.org/10.1109/MCG.2023.3284620)
   - "Urban Mosaic: Visual Exploration of Streetscapes Using Large-Scale Image Data", [PDF](https://dl.acm.org/doi/abs/10.1145/3313831.3376399)
   - "Urban Rhapsody: Large-scale exploration of urban soundscapes", [PDF](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14534)
 
