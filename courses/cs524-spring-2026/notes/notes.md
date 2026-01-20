@@ -159,11 +159,24 @@ Quick "To Do" checklist for students:
 - Landmark paper:
   - "Visual Exploration of Big Data: A Study of New York City Taxi Trips" (2013) is a foundational paper for the area, supporting a wide range of spatiotemporal queries, and received a Test of Time Award (2023).
 
+***
+
+### Class 3 notes
+
+#### TaxiVis
+- Why TaxiVis matters: cornerstone of big-data visual analytics and received a Test of Time Award in 2023 (10-year impact window).
+- The committee highlighted it as a landmark in urban data visualization, with strong contributions in query language and real-world large-scale data querying, with impact inside and outside VIS.
+- Core idea: "taxi as a sensor for city life." Taxi pickups/drop-offs can be treated as signals to detect events and anomalies in the city (e.g., unusual drops in activity; blocked streets during a parade).
+- Scale challenge (why systems design is required): ~500,000 trips/day, plus multiple attributes beyond location, even simple aggregation creates too many slices (e.g., 365×24 hourly slices/year), so the system must guide users toward interesting slices rather than expecting manual browsing.
+- VA system operationalizes the "data → insight" framing, with explicit emphasis on hypothesis generation and exploration.
+- Visual query model ("what / where / when"): TaxiVis emphasizes a visual query model where users can visually specify what, where, and when as part of query formulation. It also includes a custom database engine to keep those queries real-time.
+- High-level contributions highlighted: multi-dimensional exploration, coordinated views over spatiotemporal slices, interactive query refinement, parameter sweeps, and adaptive level-of-detail rendering for clutter-free views.
+
 </details>
 
 <details>
-<summary>Week 2</summary>
+<summary>Session 2</summary>
 
-Coming during week 2
+Coming during session 2
 
 </details>
