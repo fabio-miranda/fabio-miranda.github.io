@@ -175,8 +175,40 @@ Quick "To Do" checklist for students:
 </details>
 
 <details>
-<summary>Session 2</summary>
+<summary>Session 2: Web-first big-data visualization</summary>
 
-Coming during session 2
+### Session 2: Web-first big-data visualization
+
+### Class 4 notes
+
+#### Shifting the VA system center of gravity:
+- A visual analytics system is often split into front-end (visualization/interaction) and back-end (data management + heavy analytics), with communication via HTTP requests.
+- Trending away from the classic "server does the work, browser only displays" model, toward low-latency computation inside the browser when possible.
+- Key motivation: simpler development/deployment (fewer moving parts than a full client+server stack) and lower interaction latency (less reliance on round trips).
+- Most real systems mix multiple components. The core system-design skill: making intentional choices about what runs where, based on latency needs, scalability, and flexibility.
+- Interactive big data VA is largely a problem of latency engineering and placing computation intelligently.
+ 
+#### Back-end approaches: Databases vs Data Cubes
+- Database-backed querying (Postgres/MySQL/PostGIS, etc.)
+  - You store raw data in a DBMS and execute queries on demand.
+  - Strength: flexibility (new columns, new indices, evolving schemas, many query types).
+  - Cost: queries can be slow in worst cases (especially without the "right" indices), because computation may require scanning many rows.
+- Data cube / OLAP-style precomputation
+  - You preprocess raw data into a multidimensional structure that stores precomputed aggregates for a known query family.
+  - Strength: extremely fast lookup of precomputed results.
+  - Costs: Storage can grow quickly (many combinations of dimensions); Rigidity: if you add a new dimension or need new query support, you often must rebuild / recompute the cube.
+  - Nanocubes (2013): Introduced as a data-cube approach tailored to real-time exploration of spatiotemporal datasets. Supports interactive queries over datasets up to ~billions of points with sub-0.1s latency (contrasted with much slower latencies in traditional DB setups for similar workloads).
+- Database vs data cube is a fundamental design choice: flexibility vs speed (plus storage/rigidity tradeoffs).
+
+#### Front-end approaches
+- WebGL:
+  - Web-facing version of OpenGL-style rendering.
+  - Primarily designed around a rendering pipeline.
+- WebGPU:
+  - Modern web API modeled after low-level GPU APIs (e.g., DirectX 12 / Vulkan / Metal families). Supports compute pipelines.
+- WebAssembly
+  - Enables compiling C/C++/Rust into a browser-executable format.
+  - Part of the toolkit for pushing more computation client-side.
+ 
 
 </details>
