@@ -17,8 +17,8 @@ We will use GitHub to manage code and documentation. You should create a reposit
 
 ### Potential paths
 There are two paths that you can take for a project:
-1. **Research path:** Scope an interesting research problem and contribute towards a solution; the deliverables should emphasize a narrative of your journey (what worked, what didn't, what you'd do with more time).
-2. **Practical path:** Build a functional, "high-impact" (context-dependent) method/tool that provides immediate utility (even if it doesn't look like a traditional research paper).
+1. **Research path:** Scope an interesting research problem and contribute towards a solution; the deliverables should emphasize a narrative of your journey. A good approach is to anchor your work in an existing research thread (e.g., extend a paper/system, replicate and stress-test a method, or add a missing capability) so you can make a clear contribution and tell a coherent story (what worked, what didn’t, and what you’d do with more time
+2. **Artifact path:** Build a functional, "high-impact" (context-dependent) method/tool that provides immediate utility (even if it doesn't look like a traditional research paper). A good approach is to contribute to already existing tools (see my website for examples) so you can build on a proven foundation and make a clear, concrete impact.
 
 Keep in mind that scoping and getting feedback early on is essential to the project. Too trivial (or too hard) will impact your outcomes; you're expected to interact with me to converge on a well-defined project.
 
@@ -39,7 +39,7 @@ By the end of this milestone, your team should be able to answer:
 
 **2. What data will we use and can we actually get it working?** Confirm you have access, permissions (if needed), and a plan for cleaning/processing at scale.
 
-**3. What is the "technical contribution"?** Your proposal must go beyond a basic dashboard. Examples include: a scalable data pipeline, new interaction workflow, novel visual encoding for complex data, evaluation of tradeoffs, or an integrated analytics loop with ML.
+**3. What is the "technical contribution"?** Your proposal must go beyond a basic dashboard. Examples include: a scalable data pipeline, new interaction workflow, novel visual encoding for complex data, evaluation of tradeoffs, new features in a tool, or an integrated analytics loop with ML.
 
 **4. How will we measure success?** Include a practical evaluation plan: performance metrics, usability testing, case study, comparison to baselines, etc.
 
@@ -47,7 +47,7 @@ By the end of this milestone, your team should be able to answer:
 
 There are several topics that cover visualization, analytics, and data management of big data. You should frame your proposal in terms of how your contribution effectively tackles data problems from one (or more) of the angles covered in the course. For a concrete description of the types of contributions expected from a visualization researcher, read Lee et al.'s [Broadening Intellectual Diversity in Visualization Research Papers](https://cmci.colorado.edu/visualab/papers/19-CGA-ContributionTypes.pdf).
 
-At the very least, you should articulate your proposal around *one* of the six visualization areas (defined [here](https://ieeevis.org/year/2024/info/call-participation/area-model#the-vis-area-model)), broadly reviewing limitations with current approaches and how your potential contributions will advance an area. Broadly speaking, your project should fit in one of the following areas:
+At the very least, you should articulate your proposal around *one* of the six visualization areas (defined [here](https://ieeevis.org/year/2025/info/call-participation/area-model#the-vis-area-model)), broadly reviewing limitations with current approaches and how your potential contributions will advance an area. Broadly speaking, your project should fit in one of the following areas:
 
 - Systems & Rendering: Building a visual analytics system that handles large datasets (streaming, GPU, indexing, caching, progressive loading).
 - Data Transformations: Designing efficient transformations (sampling, aggregation, dimensionality reduction, graph summarization) that enable interactive exploration.
@@ -55,25 +55,13 @@ At the very least, you should articulate your proposal around *one* of the six v
 - Analytics & Decisions: Integrating ML/analytics into an end-to-end workflow (e.g., anomaly detection + explanation + interactive refinement).
 - Applications: A domain-driven problem where you adapt general methods into a specialized solution and show why it works.
 
+How well you fit into one of these areas will depend on the path you choose (research or artifact). However, irrespective of the path, you should *clearly* articulate the problem and/or tools to which you will contribute. A strong approach is to contribute to already existing tools (see my website for examples), so you can build on a proven foundation and make a clear, concrete impact.
+
 Please refer to the course schedule for required and optional readings that can give you a better idea for topics, as well as recent publications (see [here](../research-presentation/) for pointers, or [here](https://ieeevis.org/year/2025/info/call-participation/area-model) for examples).
-
-#### M1 Data Selection
-
-Pick a dataset that is large (or complex) enough to force design/engineering choices and rich enough to support real analysis questions. Your team is responsible for finding data, understanding its limitations, and identifying the main challenges. Select a dataset that could present challenges to current methods while also creating opportunities for innovative ideas and approaches. 
-
-A good dataset should have a combination of: (1) multiple attributes and/or modalities (time + geo + text + graph, etc.), (2) messy/heterogeneous data that requires transformation, (3) scale that prevents "load it into Excel" solutions, (4) supports multiple real questions (not just one plot).
-
-Here is a list of potential datasets, but don't limit your survey to just these websites:
-
-- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
-- [Awesome Spatial Data](https://github.com/bchapuis/awesome-spatial-data)
-- [Awesome Urban Data](https://github.com/urban-toolkit/awesome-urban-datasets)
-- [Awesome Network Analysis](https://github.com/briatte/awesome-network-analysis?tab=readme-ov-file#datasets)
-- [Awesome Multimodal Urban Computing](https://github.com/yoshall/Awesome-Multimodal-Urban-Computing#taxonomy-and-summary-of-open-sourced-dataset)
 
 What is not enoug? Your project proposal should not lead to: (1) "a dashboard that shows charts" with minimal analysis, (2) a small dataset with simple filtering, (3) only a data cleaning exercise, (4) only a model-training project with a couple of plots. Your work should involve at least one substantial technical challenge (scale, interaction, system design, algorithmic transformation, or evaluation).
 
-**Avoid selecting a dataset that has been extensively explored in the past (e.g., bike data, taxi data), unless you can identify a specific angle that might yield *new* and intriguing research problems.**
+**Avoid selecting a problem that has been extensively explored in the past, unless you can identify a specific angle that might yield *new* and intriguing problems.**
 
 **Please be aware that merely creating a basic dashboard to visualize limited data is insufficient and does not meet the course expectations. Similarly, simply doing some data analysis is not enough. Also, be aware that the selection of a problem (and/or dataset) is the most important step, as it will directly impact the rest of your project -- a simple problem (and/or dataset) will not provide opportunities for new approaches. The selection of your dataset and the way you define your approach will be reflected in your evaluation.**
 
