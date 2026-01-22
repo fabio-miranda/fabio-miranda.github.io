@@ -79,7 +79,7 @@ Proper time management is crucial and will be reflected in your evaluation. Cons
 
 ### Milestone 2: Midterm Review
 
-In the second milestone, you will present your proposal and intermediate results. The goal is to show that your project is no longer just an idea: you have a working pipeline and early results that reduce risk for the rest of the semester.
+In the second milestone, you will submit a document with your intermediate results. The goal is to show that your project is no longer just an idea: you have a working pipeline and early results that reduce risk for the rest of the semester.
 
 #### M2 Objectives
 
@@ -87,7 +87,7 @@ By the midterm review, your team should be able to demonstrate:
 
 1. A crisp recap of the project direction: Restate the problem, target users/tasks, and your planned contribution (system/algorithm/interaction/workflow).
 2. Working data + infrastructure: You should have data access confirmed and a functioning pipeline.
-3. A functional prototype (not slides-only): At minimum, a working end-to-end “vertical slice” that supports one core task on real data.
+3. A functional prototype (not slides-only): At minimum, a working end-to-end "vertical slice" that supports one core task on real data.
 4. Intermediate results that inform decisions: For example, performance measurements, early design iterations, baseline comparisons, ablation results, pilot user feedback, or a case study walkthrough.
 5. A revised plan based on what you learned: What changed since M1? What’s the new scope, risks, and next steps?
 
@@ -95,11 +95,13 @@ A "pretty UI" without a working pipeline, or a pipeline without any interactive/
 
 #### M2 Deliverables
 
-Your group should present the proposal and intermediate results. The presentation should again clearly explain the problem, describe the data, proposal and intermediate results. Your group will be randomly assigned to present on Tuesday or Thursday, but again you are expected to attend *both* presentation days. It is up to you and your teammates to decide how the presentation will be divided between each member of the team. Asking questions following teams' presentations will be used to assess class participation.
+Your group should submit a document giving an overview of the proposal and intermediate results. The document should again clearly explain the problem, describe the data (if you are using a specific dataset), proposal and intermediate results.
 
-Note that this midterm review will be an opportunity to assess the progress of your team, so optimize your time to ensure that you have meaningful results by the day of your presentation.
+By M2, most teams should have: (1) the dataset fully acquired and processed (or a justified subset + scaling plan), (2) a prototype that supports at least one core analysis task end-to-end, (3) at least one meaningful evaluation artifact (even preliminary), (4) a revised scope that reflects reality (not just the original plan), (5) a GitHub repository.
 
-By M2, most teams should have: (1) the dataset fully acquired and processed (or a justified subset + scaling plan), (2) a prototype that supports at least one core analysis task end-to-end, (3) at least one meaningful evaluation artifact (even preliminary), (4) a revised scope that reflects reality (not just the original plan).
+Make sure your GitHub repo is populated and actively maintained by M2, not just created. You should be pushing your code, data-processing scripts (or download instructions), experiments, documentation, etc. as you go. Regular commits over time will be considered as part of grading, so consistent progress in the commit history matters (not a last-minute dump).
+
+The M2 document should be treated as an initial draft of the final 4-page report (see M3 below for details). In other words, what you submit for M2 is a preliminary version of the conference-style paper you will submit at the end, covering the same core sections (problem, data, approach), but with intermediate results and a revised scope based on what you've actually built and evaluated so far.
 
 ---
 
