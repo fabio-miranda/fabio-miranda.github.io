@@ -11,10 +11,16 @@
 
 ### General Information
 
-The goal of the project is to familiarize you with the core components of big data visual analytics systems. You will also demonstrate your research skills by identifying, defining, and tackling a research problem within a course-related topic. There will be three milestones for this project spread throughout the semester: [project proposal](#milestone-1-project-proposal), [midterm review](#milestone-2-midterm-review), and [final presentation and report](#milestone-3-final-deliverables).
+The goal of the project is to familiarize you with the core components of big data visual analytics systems. You will also demonstrate your research skills by identifying, defining, and tackling either (1) a research problem within a course-related topic, or (2) a practical method / tool that provides immediate utility. There will be three milestones for this project spread throughout the semester: [project proposal](#milestone-1-project-proposal), [midterm review](#milestone-2-midterm-review), and [final presentation and report](#milestone-3-final-deliverables).
 
 We will use GitHub to manage code and documentation. You should create a repository for your team on GitHub Classroom, and include **all** deliverables throughout the semester. Please note that GitHub is a version control platform, so simply pushing your final proposal document defeats the purpose of using a management system. The GitHub repository should be a good representation of the evolution of all artifacts of the project.
 
+### Potential paths
+There are two paths that you can take for a project:
+1. **Research path:** Scope an interesting research problem and contribute towards a solution; the deliverables should emphasize a narrative of your journey (what worked, what didn't, what you'd do with more time).
+2. **Practical path:** Build a functional, "high-impact" (context-dependent) method/tool that provides immediate utility (even if it doesn't look like a traditional research paper).
+
+Keep in mind that scoping and getting feedback early on is essential to the project. Too trivial (or too hard) will impact your outcomes; you're expected to interact with me to converge on a well-defined project.
 
 ### Submission of Deliverables
 You are expected to submit your deliverables using GitHub. You should create a repository for your team on GitHub Classroom. Make sure you organize the different deliverables, including code, in different folders. **The GitHub project should contain a well-written description of the project.**
@@ -53,7 +59,7 @@ Please refer to the course schedule for required and optional readings that can 
 
 #### M1 Data Selection
 
-Pick a dataset that is large enough to force design/engineering choices and rich enough to support real analysis questions. Your team is responsible for finding data, understanding its limitations, and identifying the main challenges. Select a dataset that could present challenges to current methods while also creating opportunities for innovative ideas and approaches. 
+Pick a dataset that is large (or complex) enough to force design/engineering choices and rich enough to support real analysis questions. Your team is responsible for finding data, understanding its limitations, and identifying the main challenges. Select a dataset that could present challenges to current methods while also creating opportunities for innovative ideas and approaches. 
 
 A good dataset should have a combination of: (1) multiple attributes and/or modalities (time + geo + text + graph, etc.), (2) messy/heterogeneous data that requires transformation, (3) scale that prevents "load it into Excel" solutions, (4) supports multiple real questions (not just one plot).
 
@@ -69,7 +75,7 @@ What is not enoug? Your project proposal should not lead to: (1) "a dashboard th
 
 **Avoid selecting a dataset that has been extensively explored in the past (e.g., bike data, taxi data), unless you can identify a specific angle that might yield *new* and intriguing research problems.**
 
-**Please be aware that merely creating a basic dashboard to visualize limited data is insufficient and does not meet the course expectations. Also be aware that the selection of a problem and dataset is the most important step, as it will directly impact the rest of your project -- a simple dataset will not provide opportunities for new approaches. The selection of your dataset and the way you define your approach will be reflected in your evaluation.**
+**Please be aware that merely creating a basic dashboard to visualize limited data is insufficient and does not meet the course expectations. Similarly, simply doing some data analysis is not enough. Also, be aware that the selection of a problem (and/or dataset) is the most important step, as it will directly impact the rest of your project -- a simple problem (and/or dataset) will not provide opportunities for new approaches. The selection of your dataset and the way you define your approach will be reflected in your evaluation.**
 
 **Also, be proactive and plan to attend office hours to discuss ideas and papers that might be useful to your team, depending on your topic.**
 
