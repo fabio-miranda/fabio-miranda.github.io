@@ -119,7 +119,7 @@ The course themes are spread across 13 weeks through 10 instructional sessions, 
   - "From WebGL to WebGPU: A Reality Check of Browser-Based GPU Acceleration", [PDF](https://dl.acm.org/doi/abs/10.1145/3730567.3764504)
   - "Interactive Visualization of Terascale Data in the Browser: Fact or Fiction?", [PDF](https://ieeexplore.ieee.org/abstract/document/9308044?)
 
-##### ▷ Session 3: Database-backed visualization systems (+research presentation)
+##### ▷ Session 3: Database-backed visualization systems
 - Topic: Database-backed visualization, where query processing, indexing, and data layout shape interactive visual performance.
 - Reading:
   - "Mosaic: An Architecture for Scalable & Interoperable Data Views", [PDF](https://ieeexplore.ieee.org/abstract/document/10297587)
