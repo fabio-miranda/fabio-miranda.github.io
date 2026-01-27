@@ -115,6 +115,7 @@ The course themes are spread across 13 weeks through 10 instructional sessions, 
 
 ##### ▷ Session 2: Web-first big-data visualization
 - Topic: How modern web stacks deliver scalable visualization when data is large and latency matters.
+- Slides: [Web-first big data visualization & analytics](../cs524-slides/03-web-va.pdf)
 - Reading:
   - "From WebGL to WebGPU: A Reality Check of Browser-Based GPU Acceleration", [PDF](https://dl.acm.org/doi/abs/10.1145/3730567.3764504)
   - "Interactive Visualization of Terascale Data in the Browser: Fact or Fiction?", [PDF](https://ieeexplore.ieee.org/abstract/document/9308044?)
@@ -124,8 +125,8 @@ The course themes are spread across 13 weeks through 10 instructional sessions, 
 - Reading:
   - "Mosaic: An Architecture for Scalable & Interoperable Data Views", [PDF](https://ieeexplore.ieee.org/abstract/document/10297587)
   - "Mosaic Selections: Managing and Optimizing User Selections for Scalable Data Visualization Systems", [PDF](https://arxiv.org/abs/2507.19690)
-
-##### ▷ Proposal presentations (Week 5)
+  - "GPU Rasterization for Real-Time Spatial Aggregation over Arbitrary Polygons", [PDF](http://www.vldb.org/pvldb/vol11/p352-zacharatou.pdf)
+  - "Interactive Visual Exploration of Spatio-Temporal Urban Data Sets using Urbane", [PDF](https://dl.acm.org/doi/abs/10.1145/3183713.3193559)
 
 #### ► Theme 2: Building and evaluating systems in the age of AI
 *Modern system-building and evaluation practices when LLMs / agents change the tooling, workflows, and architecture.*
@@ -134,6 +135,8 @@ The course themes are spread across 13 weeks through 10 instructional sessions, 
 - Topic: How to benchmark and evaluate systems rigorously, including metrics, baselines, reproducibility, and fair comparisons.
 - Reading:
   - "ReVISit 2: A Full Experiment Life Cycle User Study Framework", [PDF](https://arxiv.org/abs/2508.03876)
+
+##### ▷ Proposal presentations (Week 5)
 
 ##### ▷ Session 5: VA system building (+research presentation)
 - Topic: How system-building changes with LLMs and agents, from prototyping and debugging to architecture and reliability.

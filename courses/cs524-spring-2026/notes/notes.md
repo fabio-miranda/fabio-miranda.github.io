@@ -187,10 +187,12 @@ Quick "To Do" checklist for students:
 - Key motivation: simpler development/deployment (fewer moving parts than a full client+server stack) and lower interaction latency (less reliance on round trips).
 - Most real systems mix multiple components. The core system-design skill: making intentional choices about what runs where, based on latency needs, scalability, and flexibility.
 - Interactive big data VA is largely a problem of latency engineering and placing computation intelligently.
- 
+- A "real" VA system is a stack of technologies (not a single one): e.g., mixing database tech, indexing, WebGL/WebGPU, and possibly WebAssembly depending on the design.
+
 #### Back-end approaches: Databases vs Data Cubes
 - Database-backed querying (Postgres/MySQL/PostGIS, etc.)
   - You store raw data in a DBMS and execute queries on demand.
+  - More flexible than cubes, but can struggle to hit cube-like latency without careful indexing/caching/GPU acceleration.
   - Strength: flexibility (new columns, new indices, evolving schemas, many query types).
   - Cost: queries can be slow in worst cases (especially without the "right" indices), because computation may require scanning many rows.
 - Data cube / OLAP-style precomputation
@@ -198,6 +200,13 @@ Quick "To Do" checklist for students:
   - Strength: extremely fast lookup of precomputed results.
   - Costs: Storage can grow quickly (many combinations of dimensions); Rigidity: if you add a new dimension or need new query support, you often must rebuild / recompute the cube.
   - Nanocubes (2013): Introduced as a data-cube approach tailored to real-time exploration of spatiotemporal datasets. Supports interactive queries over datasets up to ~billions of points with sub-0.1s latency (contrasted with much slower latencies in traditional DB setups for similar workloads).
+  - Uses a tree-like cube/index structure to support fast, interactive aggregation queries.
+  - Memory can trend toward a bounded/plateau behavior: the structure can share links/nodes rather than duplicating everything as dimensionality grows.
+  - Strengths: very fast interactive aggregations once built.
+  - Limitations:
+    - Works best when data maps cleanly to a tabular / attribute model.
+    - Schema evolution is painful: adding a new column/dimension often implies rebuilding the cube/tree.
+    - Building cubes over very large datasets can be expensive, even if query time is great.
 - Database vs data cube is a fundamental design choice: flexibility vs speed (plus storage/rigidity tradeoffs).
 
 #### Front-end approaches
@@ -209,6 +218,25 @@ Quick "To Do" checklist for students:
 - WebAssembly
   - Enables compiling C/C++/Rust into a browser-executable format.
   - Part of the toolkit for pushing more computation client-side.
- 
+
+***
+
+### Class 5 notes
+
+#### GPU acceleration beyond rendering (query processing)
+- Raster Join for speeding up spatial join queries by leveraging GPU-style processing.
+  - Spatial join: match spatial objects/points by spatial relationship (intersection/containment/etc.).
+- Historical constraint that GPU compute used to need to be "embarrassingly parallel" (minimal inter-thread communication).
+- Modern GPU programming increasingly relies on primitives like atomic operations.
+- Older technique using a per-pixel linked list (order-independent transparency) as a conceptual building block for handling many fragments per pixel. Useful as a mental model for "GPU-side data structures," with its own performance caveats.
+
+#### WebGL vs WebGPU: what changes for VA systems
+- WebGL
+  - Essentially brings OpenGL-style rendering to the browser.
+  - Good for graphics, but constrained for general compute-heavy pipelines.
+- WebGPU
+  - A more modern web API inspired by explicit graphics APIs (e.g., Vulkan/Metal/DX12 style).
+  - Key conceptual shift: less "global state machine," more explicit pipelines/resources/commands.
+  - Opens the door to tighter compute + rendering integration (important for interactive VA workflows that want GPU-accelerated analytics).
 
 </details>
