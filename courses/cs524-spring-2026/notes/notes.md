@@ -234,9 +234,66 @@ Quick "To Do" checklist for students:
 - WebGL
   - Essentially brings OpenGL-style rendering to the browser.
   - Good for graphics, but constrained for general compute-heavy pipelines.
+  - Mental model: you write shaders and feed geometry/data, GPU rasterizes, pixels on screen.
+  - Limitation framing: WebGL is mainly built around rendering (vertex/fragment shaders), not general computing.
 - WebGPU
   - A more modern web API inspired by explicit graphics APIs (e.g., Vulkan/Metal/DX12 style).
   - Key conceptual shift: less "global state machine," more explicit pipelines/resources/commands.
+  - Not limited to just vertex + fragment shader stages.
   - Opens the door to tighter compute + rendering integration (important for interactive VA workflows that want GPU-accelerated analytics).
+
+</details>
+
+<details>
+<summary>Session 3: Database-backed visualization systems</summary>
+
+
+### Class 6 notes
+
+#### WebAssembly (Wasm): bringing "native-ish" CPU compute to the browser
+- WebAssembly compiles languages like C/C++/Rust into a browser-executable bytecode.
+- Typical architecture:
+  - JavaScript handles UI + events + glue code.
+  - Wasm module does heavy computation (called from JS).
+- Can get close to native for many compute workloads.
+- It's not always "compile and done", dependencies matter (native libs need to be compatible/portable).
+- Data/memory exchange requires attention (typed arrays, memory layout, copying overhead, etc.).
+
+- The bigger point: moving computation to the client reduces latency.
+- Framing of a classic tradeoff:
+  - Server-side: high efficiency, but potentially high latency (network + backend query round-trips).
+  - Old browser-only: low latency, but often low efficiency (JS limits).
+- New reality (with WebGPU + Wasm):
+  - You can often get low latency + high efficiency by doing more locally in the browser.
+
+- Examples:
+  - Running segmentation / ML workloads in-browser (WebGPU).
+  - Running pieces of LLMs or other models client-side (WebGPU/Wasm).
+
+#### DuckDB-Wasm
+- DuckDB-Wasm: port a full columnar analytics database to the browser using Wasm.
+- DuckDB's key execution idea:
+  - Vectorized / chunk-at-a-time processing (vs row-at-a-time).
+  - Enables many CPU/cache-friendly optimizations.
+- Columnar storage benefits:
+  - Better for analytics queries that touch a subset of columns.
+- Apache Arrow:
+  - Shared columnar memory format used across tools (Spark/Pandas/etc.).
+  - Helps interoperability and efficient data exchange between systems.
+
+#### Latency in interactive visualization
+- Liu and Heer, 2014: Empirical result showing that adding ~500ms latency measurably harms exploration:
+  - People interact less, cover less of the space, generate fewer observations/generalizations/hypotheses.
+  - This finding pushed the field towards systems and data structures that minimize latency.
+
+#### Datacube lineage:
+- Motivation for datacubes:
+  - Precompute / index enough aggregates so interactive queries are fast.
+  - But cubes have real issues, such as hard to change schema, precomputation costs.
+- Mosaic: "new wave" (2024-era) architecture:
+  - Adds a layer between the application and the database.
+  - Core idea:
+    - Interactive dashboards have multiple coordinated views issuing related queries.
+    - Instead of issuing many separate queries, Mosaic can merge/consolidate queries and reduce redundant work.
 
 </details>
