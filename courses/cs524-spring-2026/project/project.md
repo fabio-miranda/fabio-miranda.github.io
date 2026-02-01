@@ -8,6 +8,7 @@
 5. [Milestone 3: Final Report and Presentation](#milestone-3-final-deliverables)
 6. [Latex](#latex)
 7. [Evaluation and Grading](#evaluation)
+8. [Tentative projects](#tentative-projects)
 
 ### General Information
 
@@ -196,3 +197,26 @@ Overall, I am looking for a project that is well-motivated, technically sound, e
   - Honest assessment of strengths and weaknesses (what worked, what didn’t, and why).
   - Lessons learned.
   - Specific future work: realistic next steps and research directions grounded in your results (not generic statements).
+
+
+### Tentative Projects
+1. Strengthen Curio's Visualization Grammar Integration (UTK + Vega-Lite)
+  -  Curio's current integration with multiple visualization grammars feels ad-hoc. This project would redesign the interface between Curio and external grammars so that adding/maintaining grammars is cleaner and less error-prone.
+  - Deliverables: Refactored integration layer, updated UTK + Vega-Lite backends, tests/examples, brief design doc.
+  - Estimated difficulty: Low to moderate.
+2. Port DuckDB into Curio's Backend + Benchmarking
+  - Curio currently relies on pandas DataFrames for backend data operations. This project would integrate DuckDB and Apache Arrow as alternative execution engine and data structure, and evaluate performance tradeoffs.
+  - Deliverables: DuckDB integration, benchmark scripts + results writeup, recommendations on when to use which backend.
+  - Estimated difficulty: Low to moderate.
+3. Migrate Curio from Client–Server to Pure Client-Side Execution
+  - Curio's client-server architecture adds complexity and deployment friction. A pure client-based model could simplify the system and improve usability.
+  - Deliverables: Client-only prototype, architecture notes, comparison of limitations/tradeoffs vs current model.
+  - Estimated difficulty: Moderate.
+4. Integrate Autark into Curio
+  - Autark isn’t integrated into Curio yet. This project would connect Autark to Curio in a usable, documented way.
+  - Deliverables: Initial integration layer, example demos, documentation.
+  - Estimated difficulty: Moderate.
+5. Jupyter Notebook and Curio Interoperability
+  - Improve the workflow between Jupyter and Curio, e.g., smoother embedding, data exchange, interactive control, or export/import of artifacts.
+  - Deliverables: Notebook converter to Curio or helper API, demo notebook(s), docs for typical workflows.
+  - Estimated difficulty: Low to moderate.
