@@ -100,7 +100,7 @@ The course themes are spread across 13 weeks through 10 instructional sessions, 
 #### ► Theme 1: Data-to-viz systems foundations
 *How visualization is delivered in an end-to-end fashion when the data lives "behind" a system.*
 
-##### ▷ Session 1: Introduction to the course & big data visual analytics
+##### ▷ Week 1: Introduction to the course & big data visual analytics
 - Topic: Introduction to the course, goals, expectations, key themes, what is big data, EVL overview.
 - Slides: [Introduction](../cs524-slides/01-intro-new.pdf), [Big data visual analytics](../cs524-slides/02-va-systems.pdf)
 - Reading:
@@ -113,14 +113,14 @@ The course themes are spread across 13 weeks through 10 instructional sessions, 
   - "Urban Mosaic: Visual Exploration of Streetscapes Using Large-Scale Image Data", [PDF](https://dl.acm.org/doi/abs/10.1145/3313831.3376399)
   - "Urban Rhapsody: Large-scale exploration of urban soundscapes", [PDF](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14534)
 
-##### ▷ Session 2: Web-first big-data visualization
+##### ▷ Week 2: Web-first big-data visualization
 - Topic: How modern web stacks deliver scalable visualization when data is large and latency matters.
 - Slides: [Web-first big data visualization & analytics](../cs524-slides/03-web-va.pdf)
 - Reading:
   - "From WebGL to WebGPU: A Reality Check of Browser-Based GPU Acceleration", [PDF](https://dl.acm.org/doi/abs/10.1145/3730567.3764504)
   - "Interactive Visualization of Terascale Data in the Browser: Fact or Fiction?", [PDF](https://ieeexplore.ieee.org/abstract/document/9308044?)
 
-##### ▷ Session 3: Database-backed visualization systems
+##### ▷ Week 3: Database-backed visualization systems
 - Topic: Database-backed visualization, where query processing, indexing, and data layout shape interactive visual performance.
 - Slides: [Database-backed visualization systems](../cs524-slides/04-db-va.pdf)
 - Reading:
@@ -132,50 +132,52 @@ The course themes are spread across 13 weeks through 10 instructional sessions, 
 #### ► Theme 2: Building and evaluating systems in the age of AI
 *Modern system-building and evaluation practices when LLMs / agents change the tooling, workflows, and architecture.*
 
-##### ▷ Session 4: Benchmarking & evaluating systems (+research presentation)
+##### ▷ Week 4: Benchmarking & evaluating systems
 - Topic: How to benchmark and evaluate systems rigorously, including metrics, baselines, reproducibility, and fair comparisons.
 - Reading:
   - "ReVISit 2: A Full Experiment Life Cycle User Study Framework", [PDF](https://arxiv.org/abs/2508.03876)
 
-##### ▷ Proposal presentations (Week 5)
+##### ▷ Week 5: Proposal presentations
 
-##### ▷ Session 5: VA system building (+research presentation)
+##### ▷ Week 6 & 7: VA system building (+research presentation)
 - Topic: How system-building changes with LLMs and agents, from prototyping and debugging to architecture and reliability.
 - Reading:
   - "ProWis: A Visual Approach for Building, Managing, and Analyzing Weather Simulation Ensembles at Runtime", [PDF](https://doi.org/10.1109/TVCG.2023.3326514)
   - "Urbanite: A Dataflow-Based Framework for Human-AI Interactive Alignment in Urban Visual Analytics", [PDF](https://arxiv.org/abs/2508.07390)
   - "VA-Blueprint: Uncovering Building Blocks for Visual Analytics System Design", [PDF](https://arxiv.org/abs/2508.07497)
 
-##### ▷ Session 6: Intelligent agents in Visual Analytics (+research presentation)
+##### ▷ Week 8 & 9: Intelligent agents in Visual Analytics (+research presentation)
 - Topic: How intelligent agents can support visual analytics workflows and what effective human–AI collaboration looks like in practice.
 - Reading:
   - "A Design Space for Intelligent Agents in Mixed-Initiative Visual Analytics", [PDF](https://arxiv.org/abs/2512.23372)
 
+##### ▷ Week 10: Invited talks & Project updates
+
 #### ► Theme 3: Pipelines + representations for exploration
 *Techniques for large data summarization and to support real-time visual data exploration.*
 
-##### ▷ Session 7: Streaming + learned + online transformation pipelines (+research presentation)
+##### ▷ Week 11: Streaming + learned + online transformation pipelines (+research presentation)
 - Topic: Streaming and online/learned pipelines for large data.
 - Reading:
   - "Nanocubes for Real-Time Exploration of Spatiotemporal Datasets", [PDF](https://ieeexplore.ieee.org/abstract/document/6634137)
   - "NeuralCubes: Deep Representations for Visual Data Exploration", [PDF](https://ieeexplore.ieee.org/abstract/document/9671390)
 
-##### ▷ Session 8: Progressive + uncertainty visualization (+research presentation)
+##### ▷ Week 12: Progressive + uncertainty visualization (+research presentation)
 - Topic: Progressive and uncertainty visualization techniques for large data.
 - Reading: 
 
-##### ▷ Session 9: Computational topology (+research presentation)
+##### ▷ Week 13: Computational topology (+research presentation)
 - Topic: Computational topology techniques for summarizing and reasoning about shape/structure in complex data.
 - Reading:
   - "The Topology ToolKit", [PDF](https://ieeexplore.ieee.org/abstract/document/8017627)
 
-##### ▷ Session 10: Computational frameworks for large-scale visual analytics (+research presentation)
+##### ▷ Week 14: Computational frameworks for large-scale visual analytics (+research presentation)
 - Topic: Neural fields, encoder-decoder models, and other advanced techniques to support large-scale visual analytics.
 - Reading:
   - "A Neural Field-Based Approach for View Computation & Data Exploration in 3D Urban Environments", [PDF](https://doi.org/10.1109/TVCG.2025.3635528)
   - "Deep Umbra: A Generative Approach for Sunlight Access Computation in Urban Spaces", [PDF](https://doi.org/10.1109/TBDATA.2024.3382964)
 
-##### ▷ Project presentations (Week 15)
+##### ▷ Week 15: Project presentations
 
 ***
 
