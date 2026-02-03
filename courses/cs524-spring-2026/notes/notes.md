@@ -289,11 +289,36 @@ Quick "To Do" checklist for students:
 #### Datacube lineage:
 - Motivation for datacubes:
   - Precompute / index enough aggregates so interactive queries are fast.
+  - These are systems and data structures built to avoid expensive per-interaction recomputation by using pre-aggregation, indexing, or approximation.
+    - Example: Top-K Interactive queries (TopKube):
+      - Strategy: keep summaries of ranked lists, and answer interactive queries by merging those ranked lists.
+      - Key algorithmic idea: useThreshold Algorithm (TA): don’t fully merge everything; focus on the items likely to make the top-K, and allow controlled approximation (e.g., "95% correct").
   - But cubes have real issues, such as hard to change schema, precomputation costs.
 - Mosaic: "new wave" (2024-era) architecture:
   - Adds a layer between the application and the database.
   - Core idea:
     - Interactive dashboards have multiple coordinated views issuing related queries.
     - Instead of issuing many separate queries, Mosaic can merge/consolidate queries and reduce redundant work.
+
+### Class 7 notes
+
+- Mosaic: a middle tier that coordinates views and databases
+  - Typical interactive interfaces have multiple coordinated views; naively, each view fires its own queries.
+  - Mosaic inserts a Coordinator layer between the UI components ("clients") and the database:
+    - Clients publish declarative queries (their data needs).
+    - The Coordinator manages these queries, handles linked interaction state, and applies optimizations before hitting the data source.
+- Mosaic Selections: optimizing selection-dependent query workloads
+  - A follow-on direction discussed was Mosaic Selections, which goes deeper into how linked selections / predicates across views should be represented and optimized.
+  - Pixel constraint as a first-class driver:
+    - Selections/aggregations can be optimized by binning at the resolution implied by the number of pixels, because you never need more bins than the display can show.
+- Big picture takeaways
+  - Latency changes cognition. Even “small” delays can reduce hypothesis generation and dataset coverage.
+  - Interactivity at scale is a systems problem, not just a visualization problem:
+    - multi-view coordination,
+    - workload-aware optimization,
+    - caching/prefetching,
+    - and selective pre-aggregation are all part of the same loop.
+  - Hybrid approaches: databases for generality + automatic cube/index building for interaction paths.
+ 
 
 </details>
