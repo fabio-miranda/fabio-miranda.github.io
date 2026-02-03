@@ -162,9 +162,10 @@ The course themes are spread across 13 weeks through 10 instructional sessions, 
   - "Nanocubes for Real-Time Exploration of Spatiotemporal Datasets", [PDF](https://ieeexplore.ieee.org/abstract/document/6634137)
   - "NeuralCubes: Deep Representations for Visual Data Exploration", [PDF](https://ieeexplore.ieee.org/abstract/document/9671390)
 
-##### ▷ Week 12: Progressive + uncertainty visualization (+research presentation)
-- Topic: Progressive and uncertainty visualization techniques for large data.
-- Reading: 
+##### ▷ Week 12: Provenance for visualization and visualization for provenance (+research presentation)
+- Topic: Intersection between provenance, visualization, and visual analytics.
+- Reading:
+  - "Characterizing Provenance in Visualization and Data Analysis: An Organizational Framework", [PDF](https://doi.org/10.1109/TVCG.2015.2511718)
 
 ##### ▷ Week 13: Computational topology (+research presentation)
 - Topic: Computational topology techniques for summarizing and reasoning about shape/structure in complex data.
