@@ -12,14 +12,14 @@
 
 ### General Information
 
-The goal of the project is to familiarize you with the core components of big data visual analytics systems. You will also demonstrate your research skills by identifying, defining, and tackling either (1) a research problem within a course-related topic, or (2) a practical method / tool that provides immediate utility. There will be three milestones for this project spread throughout the semester: [project proposal](#milestone-1-project-proposal), [midterm review](#milestone-2-midterm-review), and [final presentation and report](#milestone-3-final-deliverables).
+The goal of the project is to familiarize you with the core components of big data visual analytics systems. You will need to identify, define, and either (1) tackle a research problem within a course-related topic, or (2) implement a practical function in an already-existing tool or framework and provide immediate utility. There will be three milestones for this project spread throughout the semester: [project proposal](#milestone-1-project-proposal), [midterm review](#milestone-2-midterm-review), and [final presentation and report](#milestone-3-final-deliverables).
 
 We will use GitHub to manage code and documentation. You should create a repository for your team on GitHub Classroom, and include **all** deliverables throughout the semester. Please note that GitHub is a version control platform, so simply pushing your final proposal document defeats the purpose of using a management system. The GitHub repository should be a good representation of the evolution of all artifacts of the project.
 
 ### Potential paths
 There are two paths that you can take for a project:
 1. **Research path:** Scope an interesting research problem and contribute towards a solution; the deliverables should emphasize a narrative of your journey. A good approach is to anchor your work in an existing research thread (e.g., extend a paper/system, replicate and stress-test a method, or add a missing capability) so you can make a clear contribution and tell a coherent story (what worked, what didn’t, and what you’d do with more time
-2. **Artifact path:** Build a functional, "high-impact" (context-dependent) method/tool that provides immediate utility (even if it doesn't look like a traditional research paper). A good approach is to contribute to already existing tools (see my website for examples) so you can build on a proven foundation and make a clear, concrete impact.
+2. **Artifact path:** Build a functional, "high-impact" (context-dependent) method within an already-existing tool or framework as to provide immediate utility (even if it doesn't look like a traditional research paper). A good approach is to contribute to already existing tools (see my website for examples) so you can build on a proven foundation and make a clear, concrete impact.
 
 Keep in mind that scoping and getting feedback early on is essential to the project. Too trivial (or too hard) will impact your outcomes; you're expected to interact with me to converge on a well-defined project.
 
@@ -38,9 +38,9 @@ By the end of this milestone, your team should be able to answer:
 
 **1. What are you building or investigating and why?** Define a concrete problem and who it helps (analyst, decision maker, developer, scientist, etc.).
 
-**2. What data will we use and can we actually get it working?** Confirm you have access, permissions (if needed), and a plan for cleaning/processing at scale.
+**2. What data, framework, or tool will you use and can you actually get it working?** Confirm you have access, permissions (if needed).
 
-**3. What is the "technical contribution"?** Your proposal must go beyond a basic dashboard. Examples include: a scalable data pipeline, new interaction workflow, novel visual encoding for complex data, evaluation of tradeoffs, new features in a tool, or an integrated analytics loop with ML.
+**3. What is the "technical contribution"?** Your proposal must go beyond a basic dashboard. Examples include: a scalable data pipeline, new interaction workflow, novel visual encoding for complex data, evaluation of tradeoffs, new features in an already-existing tool, or an integrated analytics loop with ML.
 
 **4. How will we measure success?** Include a practical evaluation plan: performance metrics, usability testing, case study, comparison to baselines, etc.
 
@@ -50,7 +50,7 @@ There are several topics that cover visualization, analytics, and data managemen
 
 At the very least, you should articulate your proposal around *one* of the six visualization areas (defined [here](https://ieeevis.org/year/2025/info/call-participation/area-model#the-vis-area-model)), broadly reviewing limitations with current approaches and how your potential contributions will advance an area. Broadly speaking, your project should fit in one of the following areas:
 
-- Systems & Rendering: Building a visual analytics system that handles large datasets (streaming, GPU, indexing, caching, progressive loading).
+- Systems & Rendering: Building a visual analytics system that handles large and complex datasets (streaming, GPU, indexing, caching, progressive loading).
 - Data Transformations: Designing efficient transformations (sampling, aggregation, dimensionality reduction, graph summarization) that enable interactive exploration.
 - Representation & Interaction: Creating interaction techniques or visual encodings for challenging data (high-dimensional, temporal, geospatial, multimodal, graphs).
 - Analytics & Decisions: Integrating ML/analytics into an end-to-end workflow (e.g., anomaly detection + explanation + interactive refinement).
@@ -72,7 +72,7 @@ What is not enoug? Your project proposal should not lead to: (1) "a dashboard th
 
 Your team should present the proposal, clearly explaining the problem (e.g., why it is important, how you plan to address it), covering prior work, describing the data, proposal, and **timeline**. Your group will be randomly assigned to present on Tuesday or Thursday, but you are expected to attend *both* presentation days. It is up to you and your teammates to decide how the presentation will be divided between each member of the team. Keep in mind that crafting a good presentation requires time and effort, and this will be carefully considered in your evaluation. Asking questions following teams' presentations will be used to assess class participation.
 
-Your team is responsible for surveying for interesting datasets, identifying challenges, and crafting a well-thought-out and organized presentation. In this project proposal, you should **clearly** articulate how your proposal will tackle some of the problems related to the dataset, framing it around one of the areas of visualization research. Spend some time thinking and discussing potential challenges and solutions. Make sure that you are comfortable with the problem, dataset, and proposal. 
+Your team is responsible for surveying relevant topics and crafting a well-thought-out and organized presentation. In this project proposal, you should **clearly** articulate how your proposal will tackle the identified problem, framing it around one of the areas of visualization research. Spend some time thinking and discussing potential challenges and solutions.
 
 Proper time management is crucial and will be reflected in your evaluation. Consider rehearsing your presentation to ensure it fits within the time frame. Asking thoughtful questions after other teams’ presentations contributes to participation assessment.
 
@@ -80,14 +80,14 @@ Proper time management is crucial and will be reflected in your evaluation. Cons
 
 ### Milestone 2: Midterm Review
 
-In the second milestone, you will submit a document with your intermediate results. The goal is to show that your project is no longer just an idea: you have a working pipeline and early results that reduce risk for the rest of the semester.
+In the second milestone, you will submit a document and present your intermediate results. The goal is to show that your project is no longer just an idea: you have a working pipeline and early results that reduce risk for the rest of the semester.
 
 #### M2 Objectives
 
 By the midterm review, your team should be able to demonstrate:
 
 1. A crisp recap of the project direction: Restate the problem, target users/tasks, and your planned contribution (system/algorithm/interaction/workflow).
-2. Working data + infrastructure: You should have data access confirmed and a functioning pipeline.
+2. Working infrastructure: You should have access to the required data and/or tools.
 3. A functional prototype (not slides-only): At minimum, a working end-to-end "vertical slice" that supports one core task on real data.
 4. Intermediate results that inform decisions: For example, performance measurements, early design iterations, baseline comparisons, ablation results, pilot user feedback, or a case study walkthrough.
 5. A revised plan based on what you learned: What changed since M1? What’s the new scope, risks, and next steps?
@@ -96,9 +96,9 @@ A "pretty UI" without a working pipeline, or a pipeline without any interactive/
 
 #### M2 Deliverables
 
-Your group should submit a document giving an overview of the proposal and intermediate results. The document should again clearly explain the problem, describe the data (if you are using a specific dataset), proposal and intermediate results.
+Your group should submit a document giving an overview of the proposal and intermediate results, as well as present your intermediate results to class. The document should again clearly explain the problem, describe the data (if you are using a specific dataset), proposal and intermediate results.
 
-By M2, most teams should have: (1) the dataset fully acquired and processed (or a justified subset + scaling plan), (2) a prototype that supports at least one core analysis task end-to-end, (3) at least one meaningful evaluation artifact (even preliminary), (4) a revised scope that reflects reality (not just the original plan), (5) a GitHub repository.
+By M2, most teams should have: (1) a prototype, (2) at least one meaningful evaluation artifact (even preliminary), (3) a revised scope that reflects reality (not just the original plan), (4) a GitHub repository.
 
 Make sure your GitHub repo is populated and actively maintained by M2, not just created. You should be pushing your code, data-processing scripts (or download instructions), experiments, documentation, etc. as you go. Regular commits over time will be considered as part of grading, so consistent progress in the commit history matters (not a last-minute dump).
 
@@ -129,7 +129,7 @@ Your group should present the final results of your project. The presentation sh
 
 Your group should also submit a 4-page (plus references) report using the [IEEE VGTC Latex template](https://tc.computer.org/vgtc/publications/journal/). It is up to your team to define an appropriate outline for the paper. In this report, you should **clearly** articulate how your work tackled the problem and highlight how your results can point to future research directions. Besides concrete results, it is also important to discuss future work that you were able to identify throughout the semester. The report should contain an adequate number of figures to highlight the problem and approach.
 
-You can use the following as a suggested outline:
+You can use the following as a suggested outline (these might change depending on whether you chose the research or artifact path):
 - Abstract (≈150–200 words): problem, method, key result.
 - Introduction: task + motivation + summary of contributions.
 - Related Work: ~20 relevant works; connect directly to your approach.
@@ -163,7 +163,7 @@ If this is the first time using LaTeX, go through [this](https://www.overleaf.co
 
 ### Evaluation
 
-Overall, I am looking for a project that is well-motivated, technically sound, evidence-driven, and clearly communicated. In each milestone, you will be evaluated based on several key areas:
+Overall, I am looking for a project that is well-motivated, technically sound, evidence-driven, and clearly communicated. In each milestone, you will be evaluated based on several key areas, depending on the path you chose (research or artifact):
 
 1. Problem definition and scope.
   - Clarity of the research/engineering problem: what exactly are you trying to enable or improve?
@@ -198,6 +198,7 @@ Overall, I am looking for a project that is well-motivated, technically sound, e
   - Lessons learned.
   - Specific future work: realistic next steps and research directions grounded in your results (not generic statements).
 
+**Important: These evaluation areas will depend on whether you chose the research or artifact path.**
 
 ### Tentative Projects
 1. Strengthen Curio's Visualization Grammar Integration (UTK + Vega-Lite)
