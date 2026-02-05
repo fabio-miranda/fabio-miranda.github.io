@@ -135,6 +135,9 @@ The course themes are spread across 13 weeks through 10 instructional sessions, 
 ##### ▷ Week 4: Benchmarking & evaluating systems
 - Topic: How to benchmark and evaluate systems rigorously, including metrics, baselines, reproducibility, and fair comparisons.
 - Reading:
+  - "An Ontological Framework for Supporting the Design and Evaluation of Visual Analytics Systems", [PDF](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.13677)
+  - "The Validity, Generalizability and Feasibility of Summative Evaluation Methods in Visual Analytics", [PDF](https://ieeexplore.ieee.org/abstract/document/8805439)
+  - "In Defence of Visual Analytics Systems: Replies to Critics", [PDF](https://ieeexplore.ieee.org/document/9906559)
   - "ReVISit 2: A Full Experiment Life Cycle User Study Framework", [PDF](https://arxiv.org/abs/2508.03876)
 
 ##### ▷ Week 5: Proposal presentations
