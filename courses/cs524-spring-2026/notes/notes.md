@@ -322,3 +322,65 @@ Quick "To Do" checklist for students:
  
 
 </details>
+
+<details>
+<summary>Session 3: Benchmarking & evaluating systems</summary>
+
+
+### Class 8 notes
+
+#### Why evaluation is the recurring pain point in VA systems
+- VA systems are often complex end-to-end pipelines (data → transforms → models → visuals → interaction → decisions), so it’s hard to isolate what "worked" and why.
+- A common critique in visualization/VA is that system papers can feel like:
+  - Anecdotal ("we built it and someone liked it")
+  - Hard to generalize (great in one domain, unclear transfer)
+  - Under-instrumented (insufficient evidence that the system improves outcomes)
+ 
+#### What the literature criticizes (and why it matters)
+- Many VA papers rely heavily on summative evaluation (end-of-project reflection / scenarios / demonstrations) and sometimes without human-subject studies, which weakens claims about usability, insight, or decision support.
+- The field keeps asking:
+  - What generalizable knowledge did we learn beyond a one-off tool?
+  - What is the evidence that the system improves analysis or decisions?
+ 
+#### Summative evaluation for VA systems
+- Different approaches:
+  - Theoretical methods
+  - Quantitative user testing
+  - Quantitative user opinion
+  - Quantitative automation testing
+  - Insight-based evaluations
+  - Case studies
+  - Inspection methods
+- Khayat et al., 2020 provide a survey, taxonomy and risk-based breakdown and analysis of evaluation methods used in summative evaluation of VA solutions.
+
+#### An ontology for improving VA systems
+- Chen and Ebert, 2019 propose the IVAS ontology (Improving Visual Analytics Systems)
+- An ontology that records symptoms → causes → remedies → side-effects and supports abstract reasoning over a small set of abstract entities built from stats, algorithms, vis, and interaction.
+- Designing a VA workflow is viewed as an optimization of the cost-benefit ratio.
+- The ontology’s core entities (medical-style reasoning):
+  - Symptoms: what goes wrong / what users experience (e.g., confusion, slow analysis, interaction friction, lack of trust)
+  - Causes: why it happens (e.g., too much information loss, poor encoding, workflow mismatch, high interaction cost)
+  - Remedies: what you change in the system (e.g., redesign interaction, add provenance, change aggregation, restructure workflow)
+  - Side effects: what you might break by applying a remedy (e.g., added complexity, slower runtime, increased cognitive load)
+- This structure is meant to support systematic critique and more generalizable design knowledge.
+- Modeling the VA pipeline as "processes" with information trade-offs:
+  - Each process is characterized by trade-offs among:
+    - Alphabet compression: How much entropy / uncertainty is reduced by the process.
+    - Potential distortion: Error introduced due to information loss or imperfect modeling.
+    - Cost: Computational cost, interaction cost, cognitive cost, time cost
+- VA workflow design can be framed as optimizing a cost–benefit ratio, where "benefit" relates to useful compression (reducing uncertainty) while controlling distortion, under acceptable cost.
+- Instead of evaluating “the whole system” in a vague way, the framework suggests:
+  - Identify a symptom (e.g., "interaction feels slow")
+  - Hypothesize causes using the trade-off language
+  - Propose a remedy and predict side effects
+- This ontology can be operationalizable:
+  - As a checklist for system iteration ("what symptom are we fixing?")
+  - As a structured evaluation plan ("what measure reflects cost vs distortion vs benefit?")
+  - As a way to produce generalizable claims (mapping design decisions to reusable reasoning patterns)
+
+#### Takeaways
+- VA evaluation isn’t "one study", it’s layered evidence across components + system outcomes.
+- The information trade-off lens (compression / distortion / cost) gives a common vocabulary to justify design decisions and structure evaluation beyond anecdotes.
+
+
+</details>
