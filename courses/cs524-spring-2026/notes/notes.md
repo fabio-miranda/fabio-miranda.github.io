@@ -324,7 +324,7 @@ Quick "To Do" checklist for students:
 </details>
 
 <details>
-<summary>Session 3: Benchmarking & evaluating systems</summary>
+<summary>Session 4: Benchmarking & evaluating systems</summary>
 
 
 ### Class 8 notes
