@@ -3,6 +3,11 @@
 For a complete list of papers, check [here](https://scholar.google.com/citations?user=9fR0LqAAAAAJ&hl=en).
 
 #### 2026
+**Occlusion-Free Conformal Lensing for Spatiotemporal Visualization in 3D Urban Analytics**<br>
+&emsp;R. Mota, J. D. Silva, F. Miranda, U. Alim, E. Sharlin, N. Ferreira<br>
+&emsp;*IEEE Transactions on Visualization and Computer Graphics (IEEE VR 2026)*<br>
+&emsp;[[Arxiv]([https://arxiv.org/abs/2511.14742](https://arxiv.org/abs/2602.03743))]
+
 **A Neural Field-Based Approach for View Computation & Data Exploration in 3D Urban Environments**<br>
 &emsp;S Cobeli, KS Omar, R Valença, N Ferreira, F Miranda<br>
 &emsp;*IEEE Transactions on Visualization and Computer Graphics*<br>
