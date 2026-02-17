@@ -151,7 +151,7 @@ The course themes are spread across 13 weeks through 10 instructional sessions, 
   - "From Requirement to Solution: Unveiling Problem-Driven Design Patterns in Visual Analytics", [PDF](https://ieeexplore.ieee.org/document/10874217)
   - "A Multimodal Framework for Understanding Collaborative Design Processes", [PDF](https://ieeexplore.ieee.org/abstract/document/11357538)
   - "Visualizationary: Automating Design Feedback for Visualization Designers Using LLMs", [PDF](https://ieeexplore.ieee.org/abstract/document/11034749)
-  - "VA-Blueprint: Uncovering Building Blocks for Visual Analytics System Design", [PDF](https://arxiv.org/abs/2508.07497)
+  - "VA-Blueprint: Uncovering Building Blocks for Visual Analytics System Design", [PDF](https://ieeexplore.ieee.org/document/11278107)
 
 ##### ▷ Week 8 & 9: Intelligent agents in Visual Analytics (+research presentation)
 - Topic: How intelligent agents can support visual analytics workflows and what effective human–AI collaboration looks like in practice.
@@ -159,7 +159,7 @@ The course themes are spread across 13 weeks through 10 instructional sessions, 
   - "A Design Space for Intelligent Agents in Mixed-Initiative Visual Analytics", [PDF](https://arxiv.org/abs/2512.23372)
   - "LightVA: Lightweight Visual Analytics With LLM Agent-Based Task Planning and Execution", [PDF](https://ieeexplore.ieee.org/abstract/document/10753451)
   - "ProactiveVA: Proactive Visual Analytics with LLM-Based UI Agent", [PDF](https://ieeexplore.ieee.org/abstract/document/11300819)
-  - "Urbanite: A Dataflow-Based Framework for Human-AI Interactive Alignment in Urban Visual Analytics", [PDF](https://arxiv.org/abs/2508.07390)
+  - "Urbanite: A Dataflow-Based Framework for Human-AI Interactive Alignment in Urban Visual Analytics", [PDF](https://ieeexplore.ieee.org/document/11279988)
 
 ##### ▷ Week 10: Invited talks & Project updates
 
