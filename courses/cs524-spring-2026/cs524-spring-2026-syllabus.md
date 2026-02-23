@@ -147,7 +147,7 @@ The course themes are spread across 13 weeks through 10 instructional sessions, 
 - Topic: How system-building changes with LLMs and agents, from prototyping and debugging to architecture and reliability.
 - Reading:
   - "Qualitative Study for LLM-assisted Design Study Process: Strategies, Challenges, and Roles", [PDF](https://ieeexplore.ieee.org/abstract/document/11292849)
-  - "LEVA: Using Large Language Models to Enhance Visual Analytics", [PDF](https://ieeexplore.ieee.org/abstract/document/10458347)
+  - "LightVA: Lightweight Visual Analytics With LLM Agent-Based Task Planning and Execution", [PDF](https://ieeexplore.ieee.org/abstract/document/10753451)
   - "From Requirement to Solution: Unveiling Problem-Driven Design Patterns in Visual Analytics", [PDF](https://ieeexplore.ieee.org/document/10874217)
   - "A Multimodal Framework for Understanding Collaborative Design Processes", [PDF](https://ieeexplore.ieee.org/abstract/document/11357538)
   - "Visualizationary: Automating Design Feedback for Visualization Designers Using LLMs", [PDF](https://ieeexplore.ieee.org/abstract/document/11034749)
@@ -157,7 +157,7 @@ The course themes are spread across 13 weeks through 10 instructional sessions, 
 - Topic: How intelligent agents can support visual analytics workflows and what effective human–AI collaboration looks like in practice.
 - Reading:
   - "A Design Space for Intelligent Agents in Mixed-Initiative Visual Analytics", [PDF](https://arxiv.org/abs/2512.23372)
-  - "LightVA: Lightweight Visual Analytics With LLM Agent-Based Task Planning and Execution", [PDF](https://ieeexplore.ieee.org/abstract/document/10753451)
+  - "LEVA: Using Large Language Models to Enhance Visual Analytics", [PDF](https://ieeexplore.ieee.org/abstract/document/10458347)
   - "ProactiveVA: Proactive Visual Analytics with LLM-Based UI Agent", [PDF](https://ieeexplore.ieee.org/abstract/document/11300819)
   - "Urbanite: A Dataflow-Based Framework for Human-AI Interactive Alignment in Urban Visual Analytics", [PDF](https://ieeexplore.ieee.org/document/11279988)
 
