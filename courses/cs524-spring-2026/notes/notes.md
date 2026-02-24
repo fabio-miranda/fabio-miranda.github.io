@@ -4,9 +4,9 @@
 Note: This is a living document and will be updated throughout the semester to reflect what we discuss in class.
 
 <details>
-<summary>Session 1: Introduction to the course & big data visual analytics</summary>
+<summary>Week 1: Introduction to the course & big data visual analytics</summary>
 
-### Session 1: Introduction to the course & big data visual analytics
+### Week 1: Introduction to the course & big data visual analytics
 
 ### Class 1 notes
 
@@ -175,9 +175,9 @@ Quick "To Do" checklist for students:
 </details>
 
 <details>
-<summary>Session 2: Web-first big-data visualization</summary>
+<summary>Week 2: Web-first big-data visualization</summary>
 
-### Session 2: Web-first big-data visualization
+### Week 2: Web-first big-data visualization
 
 ### Class 4 notes
 
@@ -245,8 +245,9 @@ Quick "To Do" checklist for students:
 </details>
 
 <details>
-<summary>Session 3: Database-backed visualization systems</summary>
+<summary>Week 3: Database-backed visualization systems</summary>
 
+### Week 3: Database-backed visualization systems
 
 ### Class 6 notes
 
@@ -324,8 +325,9 @@ Quick "To Do" checklist for students:
 </details>
 
 <details>
-<summary>Session 4: Benchmarking & evaluating systems</summary>
+<summary>Week 4: Benchmarking & evaluating systems</summary>
 
+### Week 4: Benchmarking & evaluating systems
 
 ### Class 8 notes
 
@@ -383,4 +385,104 @@ Quick "To Do" checklist for students:
 - The information trade-off lens (compression / distortion / cost) gives a common vocabulary to justify design decisions and structure evaluation beyond anecdotes.
 
 
+</details>
+
+<details>
+<summary>Week 6 & 7: Benchmarking & evaluating systems</summary>
+
+### Week 6 & 7: Benchmarking & evaluating systems
+
+### Class 11
+
+#### Big picture
+- Visual Analytics (VA) systems are usually built via design study methodologies: a structured, iterative collaboration between computer scientists and domain experts.
+- Different papers name the phases differently, but most map cleanly to four recurring stages:
+  - Understand (problem framing + task/goal elicitation + requirements)
+  - Ideate (explore possibilities + sketch + early prototypes)
+  - Make (implementation + integration + iteration)
+  - Evaluate (does it work for tasks/users?)
+ 
+#### Understand: problem framing → tasks → requirements
+- Problem framing / scoping is make-or-break:
+  - Decide what’s in scope vs out of scope.
+  - If the scope is wrong, later success is capped no matter how good the implementation is.
+  - Explicitly tied to the course project: scoping the project well determines how far you can get later.
+- Typical methods for understanding:
+  - Interviews, observations, workshops, and early low-fidelity prototyping to surface: goals, tasks, requirements
+ 
+#### Ideate: exploration → sketching → prototyping
+- Generate candidate solutions and rapidly test assumptions.
+- Activities:
+  - Early designs/illustrations
+  - Interactive prototypes
+  - Validating data abstractions, visual encodings, and interaction mechanisms
+- AI hook: using LLMs to support iteration on designs (e.g., critique and suggest improvements).
+
+#### Make: implementation → integration → iteration
+- Building real systems is hard: often tens of thousands of lines of code + multiple components.
+- "Making" isn’t just coding a chart:
+  - integration across modules,
+  - testing,
+  - repeated iteration as requirements and understanding evolve.
+ 
+### Class 12
+
+- Overview of AI uses in design studies: "Qualitative Study for LLM-assisted Design Study Process: Strategies, Challenges, and Roles"
+
+#### Understand: Problem → Tasks → Requirements
+- Build a shared understand of the domain + users + data + tasks + constraints, and decide what “success” of a VA system means.
+- Pain points:
+  - Labor intensive, with interviews, observations, workshops, but it’s where most of the downstream success is determined.
+
+- "A Multimodal Framework for Understanding Collaborative Design Processes"
+  - "How can we capture, summarize, and communicate important findings and the way they were derived from a collaborative design process?"
+  - Multimodal framework for workshop conductors to collect, consolidate, and analyze resulting multimodal data.
+  - Researchers can revisit important events from different perspectives of the multimodal data.
+  - Overview of all data streams, and drill-down into each individual stream.
+
+- "From Requirement to Solution: Unveiling Problem-Driven Design Patterns in Visual Analytics"
+  - Surveyed VA papers and extract "material units" from each work.
+  - Codified each unit into a typology centered on: requirements, data, solutions (visualization/interaction techniques, etc.)
+  - Defined relationships between units.
+  - From these, derived:
+    - Solution paths
+    - Solution graphs
+    - Recurring subgraphs → treated as design patterns (explicit analogy to software engineering patterns)
+  - Practical usage:
+    - Given a new project’s requirements (+ possibly data): traverse the knowledge base to find solution components and sequences that appeared successfully in prior VA systems.
+    - Also useful as a “panoramic view” of the VA solution landscape: helps you see what’s common, what's rare, and how solutions connect across domains/problems.
+
+#### Ideate: Data exploration → Sketching → Prototyping
+- Produce multiple plausible solution directions.
+- Pain points:
+  - The space of possible solutions is huge.
+  - Early design gets anchored to whatever you explore first (local optimum).
+  - Iteration trash: ideas bounce around without tracking what changed and why; teams repeat mistakes.
+- "Visualizationary: Automating Design Feedback for Visualization Designers Using LLMs"
+  - an LLM- and VLM-based tool to support visualization iteration.
+  - Design knowledge is incorporated as preambles in the prompt.
+
+#### Make: Implementation → Integration → Iteration
+- Turn sketches and prototypes into a working VA system.
+- Pain points:
+  - Architecture drift: implemented system diverges from the intended design.
+  - Integration complexity: wiring components is complex.
+  - Regression risk: every change breaks something else.
+- "LightVA: Lightweight Visual Analytics With LLM Agent-Based Task Planning and Execution"
+  - High-level structure emphasized:
+    - User provides a high-level goal + dataset
+    - System supports moving from: goal → tasks → views → insights
+    - Explicit human-in-the-loop stages:
+      - agent proposes plans / decompositions
+      - human reviews
+      - agent executes/summarizes insights
+     
+#### Takeaways
+- Design studies give the lifecycle structure (Understand → Ideate → Make → Evaluate).
+- AI opportunities aren’t just “generate a chart”:
+  - expand your consideration space (knowledge bases / patterns),
+  - guide analysis and decomposition (agent pipelines),
+  - accelerate iteration (LLM/VLM feedback),
+  - and connect back to requirements so the process stays problem-driven.
+  
 </details>
