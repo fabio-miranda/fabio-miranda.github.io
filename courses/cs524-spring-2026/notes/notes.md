@@ -381,7 +381,7 @@ Quick "To Do" checklist for students:
   - As a way to produce generalizable claims (mapping design decisions to reusable reasoning patterns)
 
 #### Takeaways
-- VA evaluation isn’t "one study", it’s layered evidence across components + system outcomes.
+- VA evaluation isn't "one study", it’s layered evidence across components + system outcomes.
 - The information trade-off lens (compression / distortion / cost) gives a common vocabulary to justify design decisions and structure evaluation beyond anecdotes.
 
 
@@ -430,7 +430,7 @@ Quick "To Do" checklist for students:
 - Overview of AI uses in design studies: "Qualitative Study for LLM-assisted Design Study Process: Strategies, Challenges, and Roles"
 
 #### Understand: Problem → Tasks → Requirements
-- Build a shared understand of the domain + users + data + tasks + constraints, and decide what “success” of a VA system means.
+- Build a shared understand of the domain + users + data + tasks + constraints, and decide what "success" of a VA system means.
 - Pain points:
   - Labor intensive, with interviews, observations, workshops, but it’s where most of the downstream success is determined.
 
