@@ -145,6 +145,7 @@ The course themes are spread across 13 weeks through 10 instructional sessions, 
 
 ##### ▷ Week 6 & 7: VA system building (+research presentation)
 - Topic: How system-building changes with LLMs and agents, from prototyping and debugging to architecture and reliability.
+- Slides: [VA system building](../cs524-slides/06-va-system-building.pdf)
 - Reading:
   - "Qualitative Study for LLM-assisted Design Study Process: Strategies, Challenges, and Roles", [PDF](https://ieeexplore.ieee.org/abstract/document/11292849)
   - "LightVA: Lightweight Visual Analytics With LLM Agent-Based Task Planning and Execution", [PDF](https://ieeexplore.ieee.org/abstract/document/10753451)
