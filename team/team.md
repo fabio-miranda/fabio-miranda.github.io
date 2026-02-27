@@ -1,5 +1,9 @@
 ### Team
 
+#### Research software engineer
+
+Karla Falcao (2026 - )
+
 #### PhD students & candidates
 
 Keira Wang (2025 - )
