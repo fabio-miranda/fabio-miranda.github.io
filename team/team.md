@@ -41,7 +41,7 @@ Davide Bartoletti (2022 - 2023)
 
 #### Undergraduate students
 
-Logan Loch
+Logan Loch  
 Henry Nguyen  
 Ahmad Nadeem  
 Shaun Shannon  
