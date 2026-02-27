@@ -41,6 +41,7 @@ Davide Bartoletti (2022 - 2023)
 
 #### Undergraduate students
 
+Logan Loch
 Henry Nguyen  
 Ahmad Nadeem  
 Shaun Shannon  
@@ -52,8 +53,3 @@ Henry Nguyen (GPIP, 2025)
 Ilyan Pang (GPIP, 2025)  
 James Mahia (GPIP, 2025)  
 
-
-#### High-school students
-
-Carissa Chen (2023 - 2024)  
-*Investigating environmental justice through urban data visualization*
