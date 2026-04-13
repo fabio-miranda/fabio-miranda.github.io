@@ -58,6 +58,11 @@ For a complete list of papers, check [here](https://scholar.google.com/citations
 [[DOI](https://doi.org/10.1111/cgf.15112)] &#x2022;
 [[Webpage](https://urbantk.org/survey-3d/)]
 
+**Assessing the landscape of toolkits, frameworks, and authoring tools for urban visual analytics systems**<br>
+&emsp;L. Ferreira, G. Moreira, M. Hosseini, M. Lage, N. Ferreira, F. Miranda<br>
+&emsp;*Computers & Graphics*<br>
+&emsp;[[DOI](https://doi.org/10.1016/j.cag.2024.104013)]
+
 **Deep Umbra: A Generative Approach for Sunlight Access Computation in Urban Spaces**<br>
 &emsp;K. Omar, G. Moreira, D. Hodczak, M. Hosseini, N. Colaninno, M. Lage, F. Miranda<br>
 &emsp;*IEEE Transactions on Big Data*<br>
