@@ -45,7 +45,7 @@ Credit hours: 3 or 4.
 #### Course Instructor
 Fabio Miranda
 https://fmiranda.me/  
-Office hours: Check Canvas for information.
+Office hours: Fri 2 - 4 PM (send me an email to schedule an appointment)
 
 #### Teaching Assistant
 TBA
