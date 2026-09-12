@@ -250,6 +250,97 @@ Your submission starts with 100 points. Points will be deducted according to:
 
 ---
 
+#### Frequently asked questions
+
+**Can I work by myself?**
+Yes. You may work individually or in groups of up to three students.
+
+**Do we need to collect all of the data ourselves?**
+The primary dataset for this assignment should come from your own data collection process. You may use external data as supplementary information, but downloading an existing analysis-ready dataset does not satisfy the main goal of the assignment.
+
+**What counts as "collecting data"?**
+You might make observations in the physical world, take measurements, record images or video, collect GPS traces, use sensors, or gather other forms of raw data. What matters is that your group designs and carries out the collection process and then turns what you collect into data that can support meaningful questions.
+
+**Can our raw data be images or videos instead of a CSV file?**
+Yes. Your raw data can be images, videos, audio, GPS traces, sensor measurements, or other formats. However, you should be prepared to do the work required to transform that raw data into structured information that you can analyze and visualize. For example, if you record videos while walking along streets, you might manually annotate them or use computer vision models to extract sidewalk conditions, objects, pedestrian counts, or other attributes.
+
+**Can we use computer vision or machine learning models to extract data?**
+Yes. Models may be part of your data-processing pipeline. You should consider what the model outputs mean, what errors it may make, and whether the extracted data is appropriate for your questions.
+
+**How much data do we need to collect?**
+There is no fixed number that works for every project. But the dataset should support meaningful questions.
+
+**Can we collect everything on one day?**
+Usually not. Your dataset should be meaningful enough to support interesting comparisons and questions. For many projects, collecting data across multiple locations, days, times, conditions, or categories will be necessary. There may be projects where a single day is appropriate, but you should be able to justify why the resulting dataset provides sufficient variation.
+
+**What if we start collecting data and realize that our idea is bad?**
+Pivot. This assignment is intentionally iterative. If your data turns out to be uninformative, lacks variation, or cannot support interesting questions, do not continue collecting weak data just because you already started. Revise your attributes, collection strategy, questions, or project altogether. Recognizing that an approach is not working and changing it is part of the assignment.
+
+**Will the way we collect the data be graded, or only the final dataset?**
+Both. **Your data collection approach is itself part of the assignment and will be evaluated.** The collection should be thoughtful, systematic, appropriate for your questions, capable of capturing meaningful variation, and clearly documented.
+
+A large dataset produced through a poorly designed collection process is not necessarily a strong submission.
+
+**Do we need to ask the instructor to approve our project first?**
+Approval is not required, but you are encouraged to reach out before doing substantial collection if you are unsure about the scope or approach. The instructor is happy to give feedback on whether your proposed project, attributes, and collection strategy seem appropriate.
+
+**What is the pilot for?**
+The pilot is a small test of your collection approach before you commit to the full collection. Use it to find ambiguous attributes, missing information, inconsistent interpretations between group members, logistical problems, or weaknesses in your original questions. The expectation is that you learn something from the pilot and revise your approach when appropriate.
+
+**Does our pilot data count toward the final dataset?**
+It can, as long as the observations were collected using a procedure that remains compatible with your final protocol. If you substantially change what or how you collect after the pilot, it may make more sense to keep the pilot observations separate.
+
+**What is one "observation"?**
+That depends on your project, and defining it is part of the assignment. An observation might be one sidewalk segment, one intersection, one product, one visit to a study space, one time interval, or one frame or event extracted from a video. You should clearly explain what one row or record in your structured dataset represents.
+
+**Can we collect data about people?**
+You should focus on places, objects, environments, or aggregate behavior. Do not collect sensitive or personally identifiable information such as names, identifiable faces, license plates, or private conversations.
+
+**Do we need exactly four domain questions?**
+You should discuss at least four. The questions are intended to help you explore what your data can support, and they may change after you begin collecting and examining the data.
+
+**Are the questions listed under each task questions we need to answer one by one?**
+No. The questions within each task are **guides for reflection, not a checklist**. Your Markdown document should contain a concise, coherent discussion for each task rather than copying each prompt and answering it individually.
+
+**How long should the writeup be?**
+There is no fixed word count. Be concise. Focus on important decisions, reasoning, changes, limitations, and lessons learned. Longer does not mean better, and unnecessary repetition or overly verbose descriptions may hurt the clarity of your submission.
+
+**How many sketches do we need?**
+Each student should create at least three substantially different initial sketches. The group should then discuss the alternatives and produce the required refined sketches. The goal is to explore different design directions, not generate minor variations of the same chart.
+
+**Do the sketches have to look polished?**
+No. They must be understandable, but they are meant to capture ideas and iteration rather than artistic quality. All required sketches should be hand-drawn, either on paper or with a tablet/stylus.
+
+**Can we use visualization software to make the sketches?**
+No. The point of this stage is to separate visualization design from implementation. You should sketch by hand before worrying about how the visualization will eventually be implemented.
+
+**Can we use generative AI for the sketches?**
+No. AI-generated images do not count as hand-drawn visualization sketches.
+
+**Can we use generative AI elsewhere in the assignment?**
+You remain responsible for the intellectual work of the assignment, including deciding what to collect, defining attributes, interpreting your data, formulating questions, and making visualization design decisions. AI must not be used to fabricate observations, data, results, or reflections.
+
+**Do all group members have to collect data?**
+Not necessarily in exactly equal amounts, but the group should have a deliberate plan for dividing the work, and all members should meaningfully contribute to the assignment. Your collaboration process and GitHub history should make those contributions visible.
+
+**What should be in the Markdown document?**
+Your single Markdown document should be organized by Tasks 1–7 and contain the required writeups, tables, reflections, and visualization sketches. Images and other artifacts should appear near the discussion they support rather than being collected at the end.
+
+**What files should be outside the Markdown document?**
+Your repository should also contain the actual dataset, relevant raw or intermediate data when appropriate, and any files necessary to understand or reproduce your collection and processing workflow.
+
+**Can our GitHub repository be private?**
+Yes. If it is private, you must add the instructor and TA as collaborators before submitting it.
+
+**How do we submit?**
+Email the URL of your GitHub repository to both the instructor and TA by the deadline. Make sure they can access the repository before sending the link.
+
+**What matters most for getting a good grade?**
+A strong submission shows a thoughtful collection strategy, meaningful data, evidence of iteration, well-motivated questions, varied visualization exploration, clear reasoning, and concise reflection. The assignment evaluates both **what you produced and how you got there**.
+
+
+---
+
 #### Other resources
 
 * [A Tour through the Visualization Zoo](https://dl.acm.org/doi/10.1145/1794514.1805128)
