@@ -22,6 +22,9 @@ The process is not necessarily linear. Your questions may change once you start 
 
 This assignment contains seven tasks. You should write your answers and include your data, photographs when appropriate, and sketches in a single [markdown document](https://www.markdownguide.org/getting-started/). The document should tell the story of your process: why you made certain decisions, what you tried, what didn't work, and how your ideas evolved.
 
+> [!IMPORTANT]  
+> This assignment is intentionally iterative. If you begin collecting data and realize that the data is not meaningful, does not contain enough variation, or cannot support interesting questions, you should not continue collecting it just to complete the assignment. Reconsider your collection strategy, revise your attributes or questions, or pivot to a different project. Recognizing that a collection plan is not working and changing direction is part of the process.
+
 You will work in groups of up to **three students**. Your group should create a GitHub repository using one of your own GitHub accounts. The repository may be public or private. If you make it private, **make sure to add the instructor and TA as collaborators** so that we can access your submission. All group members should also be added to the repository and contribute using their own GitHub accounts.
 
 ---
@@ -109,6 +112,9 @@ For example:
 If you would like feedback on your proposed data collection project before beginning the collection itself, feel free to reach out. I am happy to give you my opinion on whether the scope, attributes, and collection plan seem appropriate for the assignment.
 
 Be thoughtful when collecting observations involving other people. You should generally collect information about places, objects, environments, or aggregate behavior rather than information that identifies individuals. **Do not collect sensitive or personally identifiable information**, such as names, faces, license plates, or private conversations.
+
+> [!IMPORTANT]  
+> Your data collection approach is itself part of the assignment and will be evaluated. We will consider whether your collection strategy is thoughtful, systematic, appropriate for your questions, likely to capture meaningful variation, and clearly documented. A large dataset collected with a weak or poorly justified methodology is not necessarily a strong submission.
 
 #### Task 2: Pilot and data collection
 
@@ -218,7 +224,7 @@ Your submission starts with 100 points. Points will be deducted according to:
 
 * Data collection and documentation:
 
-  * Up to -20 if the data collection is poorly motivated, too limited in scope or coverage, inconsistent, insufficient for the proposed questions, important attributes or collection decisions are undocumented, or there is little evidence of piloting and refinement.
+  * Up to -20 if the collection strategy is poorly designed or justified, too limited in scope or coverage, inconsistent across group members, unlikely to capture meaningful variation, insufficient for the proposed questions, or poorly documented. Evaluation will consider both the quality of the resulting dataset and the quality of the approach used to collect it, including sampling choices, coverage, attribute definitions, piloting, consistency, and iteration.
 
 * Complexity and relevance of domain questions & abstract tasks:
 
