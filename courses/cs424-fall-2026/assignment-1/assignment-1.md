@@ -277,9 +277,7 @@ Usually not. Your dataset should be meaningful enough to support interesting com
 Pivot. This assignment is intentionally iterative. If your data turns out to be uninformative, lacks variation, or cannot support interesting questions, do not continue collecting weak data just because you already started. Revise your attributes, collection strategy, questions, or project altogether. Recognizing that an approach is not working and changing it is part of the assignment.
 
 **Will the way we collect the data be graded, or only the final dataset?**
-Both. **Your data collection approach is itself part of the assignment and will be evaluated.** The collection should be thoughtful, systematic, appropriate for your questions, capable of capturing meaningful variation, and clearly documented.
-
-A large dataset produced through a poorly designed collection process is not necessarily a strong submission.
+Both. **Your data collection approach is itself part of the assignment and will be evaluated.** The collection should be thoughtful, systematic, appropriate for your questions, capable of capturing meaningful variation, and clearly documented. A large dataset produced through a poorly designed collection process is not necessarily a strong submission.
 
 **Do we need to ask the instructor to approve our project first?**
 Approval is not required, but you are encouraged to reach out before doing substantial collection if you are unsure about the scope or approach. The instructor is happy to give feedback on whether your proposed project, attributes, and collection strategy seem appropriate.
