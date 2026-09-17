@@ -48,7 +48,8 @@ https://fmiranda.me/
 Office hours: Fri 2 - 4 PM (send me an email to schedule an appointment)
 
 #### Teaching Assistant
-TBA
+Leonardo Ferreira  
+Office hours: Check Canvas for info  
 
 ***
 
