@@ -130,32 +130,34 @@ This schedule will be updated throughout the semester with links for slides and 
 
 #### Theme 2: Visual Data Analysis Workflows
 ##### Week 5: Exploratory data analysis & transformations
-**Assignment 1 due**
-**Assignment 2 released: Sketching and Visualization**
 - Slides: [Data exploration with GeoPandas](https://fmiranda.me/courses/cs424-slides/05-geopandas.pdf)
 - Reading: [Minimalist Data Wrangling with Python](https://datawranglingpy.gagolewski.com/), [GeoPandas](https://geopandas.org/en/stable/getting_started.html)
 
 ##### Week 6: Interaction & multiple coordinated views
+**Assignment 1 due**
+**Assignment 2 released: Sketching and Visualization**
+**Quiz 1**
 - Slides: [Interaction & multiple views](https://fmiranda.me/courses/cs424-slides/07-interaction.pdf)
 - Reading: Munzner (Ch. 8, 11, 12), [TaxiVis](https://ieeexplore.ieee.org/abstract/document/6634127)
 
 ##### Week 7: Visual analytics
+**Quiz 2**
 - Slides: [Visual analytics](https://fmiranda.me/courses/cs424-slides/09-visual-analytics.pdf)
 - Reading: [Introduction to Visual Analytics by an Example](https://link.springer.com/chapter/10.1007/978-3-030-56146-8_1) (Ch. 1)
 
 ##### Week 8: Maps, space, and spatial visualization
-**Midterm Exam: Closed book and cumulative, covering all material presented up to the exam date**
 - Slides: [Spatial visualization](https://fmiranda.me/courses/cs424-slides/08-spatial-vis.pdf)
 - Reading: Munzner (Ch. 8), [TaxiVis](https://ieeexplore.ieee.org/abstract/document/6634127)
 
 ##### Week 9: Data pipelines & management for visualization
-**Assignment 2 due**
-**Assignment 3 released: Evaluation**
+**Midterm Exam: Closed book and cumulative, covering all material presented up to the exam date**
 - Slides: [Data pipelines and management for visualization](https://fmiranda.me/courses/cs424-slides/10-data-vis.pdf)
 - Reading: [Connecting Visualization and Data Management Research](https://inria.hal.science/hal-01756799/), [VisTrails](https://dl.acm.org/doi/abs/10.1145/1142473.1142574), [Curio](https://arxiv.org/abs/2408.06139)
 
 #### Theme 3: AI + Visualization
 ##### Week 10: ML for visualization: Interactive machine learning
+**Assignment 2 due**
+**Assignment 3 released: Evaluation**
 - Slides: [Machine learning for visualization (ml4vis)](https://fmiranda.me/courses/cs424-slides/09-ml-vis.pdf)
 - Reading: [A Survey on ML4VIS](https://ieeexplore.ieee.org/abstract/document/9523770), [Machine learning for visualization](https://medium.com/@enjalot/machine-learning-for-visualization-927a9dff1cab)
 
@@ -166,6 +168,7 @@ This schedule will be updated throughout the semester with links for slides and 
 ##### Week 12: Inner workings of AI & embeddings
 **Assignment 3 due**
 **Assignment 4 released: Findings**
+**Quiz 3**
 - Slides: [Embeddings for visual analytics](https://fmiranda.me/courses/cs424-slides/10-embeddings.pdf)
 - Reading: [VA + Embeddings STAR](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14859)
 
@@ -175,6 +178,7 @@ This schedule will be updated throughout the semester with links for slides and 
 
 #### Theme 4: Frontiers
 ##### Week 14: Advanced topics
+**Quiz 4**
 - Slides: [Advanced topics](https://fmiranda.me/courses/cs424-slides/11-conclusion-future.pdf)
 
 ##### Week 15: Capstone week, final presentations
