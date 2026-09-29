@@ -115,7 +115,7 @@ This schedule will be updated throughout the semester with links for slides and 
 - Reading: Munzner (Ch. 1)
 
 ##### Week 2: Data, attributes, marks, and tasks
-:exclamation: **Assignment 1 released: Data Collection**  
+❗**Assignment 1 released: Data Collection**  
 - Slides: [Introduction to visualization](https://fmiranda.me/courses/cs424-slides/03-vis.pdf), [Task abstraction](https://fmiranda.me/courses/cs424-slides/04-tasks.pdf)
 - Reading: Munzner (Ch. 2, 3), [Best Practices for Data Visualisation](https://royal-statistical-society.github.io/datavisguide/)
 
@@ -133,14 +133,14 @@ This schedule will be updated throughout the semester with links for slides and 
 - Reading: [Minimalist Data Wrangling with Python](https://datawranglingpy.gagolewski.com/), [GeoPandas](https://geopandas.org/en/stable/getting_started.html)
 
 ##### Week 6: Interaction & multiple coordinated views
-:exclamation: **Assignment 1 due**  
-:exclamation: **Assignment 2 released: Sketching and Visualization**  
-:exclamation: **Quiz 1**  
+❗ **Assignment 1 due**  
+❗ **Assignment 2 released: Sketching and Visualization**  
+❗ **Quiz 1**  
 - Slides: [Interaction & multiple views](https://fmiranda.me/courses/cs424-slides/07-interaction.pdf)
 - Reading: Munzner (Ch. 8, 11, 12), [TaxiVis](https://ieeexplore.ieee.org/abstract/document/6634127)
 
 ##### Week 7: Visual analytics
-:exclamation: **Quiz 2**  
+❗ **Quiz 2**  
 - Slides: [Visual analytics](https://fmiranda.me/courses/cs424-slides/09-visual-analytics.pdf)
 - Reading: [Introduction to Visual Analytics by an Example](https://link.springer.com/chapter/10.1007/978-3-030-56146-8_1) (Ch. 1)
 
@@ -149,14 +149,14 @@ This schedule will be updated throughout the semester with links for slides and 
 - Reading: Munzner (Ch. 8), [TaxiVis](https://ieeexplore.ieee.org/abstract/document/6634127)
 
 ##### Week 9: Data pipelines & management for visualization
-:exclamation: **Midterm Exam: Closed book and cumulative, covering all material presented up to the exam date**  
+❗ **Midterm Exam: Closed book and cumulative, covering all material presented up to the exam date**  
 - Slides: [Data pipelines and management for visualization](https://fmiranda.me/courses/cs424-slides/10-data-vis.pdf)
 - Reading: [Connecting Visualization and Data Management Research](https://inria.hal.science/hal-01756799/), [VisTrails](https://dl.acm.org/doi/abs/10.1145/1142473.1142574), [Curio](https://arxiv.org/abs/2408.06139)
 
 #### Theme 3: AI + Visualization
 ##### Week 10: ML for visualization: Interactive machine learning
-:exclamation: **Assignment 2 due**  
-:exclamation: **Assignment 3 released: Evaluation**  
+❗ **Assignment 2 due**  
+❗ **Assignment 3 released: Evaluation**  
 - Slides: [Machine learning for visualization (ml4vis)](https://fmiranda.me/courses/cs424-slides/09-ml-vis.pdf)
 - Reading: [A Survey on ML4VIS](https://ieeexplore.ieee.org/abstract/document/9523770), [Machine learning for visualization](https://medium.com/@enjalot/machine-learning-for-visualization-927a9dff1cab)
 
@@ -165,9 +165,9 @@ This schedule will be updated throughout the semester with links for slides and 
 - Reading: [Recent advances and challenges in uncertainty visualization](https://link.springer.com/article/10.1007/s12650-021-00755-1), [Uncertainty + Visualization, Explained](https://medium.com/multiple-views-visualization-research-explained/uncertainty-visualization-explained-67e7a73f031b)
 
 ##### Week 12: Inner workings of AI & embeddings
-:exclamation: **Assignment 3 due**  
-:exclamation: **Assignment 4 released: Findings**  
-:exclamation: **Quiz 3**  
+❗ **Assignment 3 due**  
+❗ **Assignment 4 released: Findings**  
+❗ **Quiz 3**  
 - Slides: [Embeddings for visual analytics](https://fmiranda.me/courses/cs424-slides/10-embeddings.pdf)
 - Reading: [VA + Embeddings STAR](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14859)
 
@@ -177,11 +177,11 @@ This schedule will be updated throughout the semester with links for slides and 
 
 #### Theme 4: Frontiers
 ##### Week 14: Advanced topics
-:exclamation: **Quiz 4**  
+❗ **Quiz 4**  
 - Slides: [Advanced topics](https://fmiranda.me/courses/cs424-slides/11-conclusion-future.pdf)
 
 ##### Week 15: Capstone week, final presentations, review for final exam
-:exclamation: **Assignment 4 due**  
+❗ **Assignment 4 due**  
 
 ***
 
