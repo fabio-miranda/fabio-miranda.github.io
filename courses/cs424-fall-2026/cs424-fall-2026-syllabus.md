@@ -140,13 +140,13 @@ This schedule will be updated throughout the semester with links for slides and 
 - Reading: Munzner (Ch. 8, 11, 12), [TaxiVis](https://ieeexplore.ieee.org/abstract/document/6634127)
 
 ##### Week 7: Visual analytics
-❗ **Quiz 2**  
 - Slides: [Visual analytics](https://fmiranda.me/courses/cs424-slides/09-visual-analytics.pdf)
 - Reading: [Introduction to Visual Analytics by an Example](https://link.springer.com/chapter/10.1007/978-3-030-56146-8_1) (Ch. 1)
 
 ##### Week 8: Maps, space, and spatial visualization
-- Slides: [Spatial visualization](https://fmiranda.me/courses/cs424-slides/08-spatial-vis.pdf)
-- Reading: Munzner (Ch. 8), [TaxiVis](https://ieeexplore.ieee.org/abstract/document/6634127)
+❗ **Quiz 2**  
+- Slides: [Spatial visualization](https://fmiranda.me/courses/cs424-slides/08-spatial-vis.pdf), [Advanced spatial visualization](https://fmiranda.me/courses/cs424-slides/09-advanced-spatial-vis.pdf)
+- Reading: Munzner (Ch. 8), [TaxiVis](https://ieeexplore.ieee.org/abstract/document/6634127), [Urban Mosaic](https://dl.acm.org/doi/10.1145/3313831.3376399)
 
 ##### Week 9: Data pipelines & management for visualization
 ❗ **Midterm Exam: Closed book and cumulative, covering all material presented up to the exam date**  
