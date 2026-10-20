@@ -148,10 +148,10 @@ This schedule will be updated throughout the semester with links for slides and 
 - Slides: [Spatial visualization](https://fmiranda.me/courses/cs424-slides/08-spatial-vis.pdf), [Advanced spatial visualization](https://fmiranda.me/courses/cs424-slides/09-advanced-spatial-vis.pdf)
 - Reading: Munzner (Ch. 8), [TaxiVis](https://ieeexplore.ieee.org/abstract/document/6634127), [Urban Mosaic](https://dl.acm.org/doi/10.1145/3313831.3376399)
 
-##### Week 9: Data pipelines & management for visualization
+##### Week 9: Uncertainty visualization & model behaviors
 ❗ **Midterm Exam: Closed book and cumulative, covering all material presented up to the exam date**  
-- Slides: [Data pipelines and management for visualization](https://fmiranda.me/courses/cs424-slides/10-data-vis.pdf)
-- Reading: [Connecting Visualization and Data Management Research](https://inria.hal.science/hal-01756799/), [VisTrails](https://dl.acm.org/doi/abs/10.1145/1142473.1142574), [Curio](https://arxiv.org/abs/2408.06139)
+- Slides: [Uncertainty visualization](https://fmiranda.me/courses/cs424-slides/09-uncertainty.pdf)
+- Reading: [Uncertainty Visualization](https://onlinelibrary.wiley.com/doi/10.1002/9781118445112.stat08296), [Recent advances and challenges in uncertainty visualization](https://link.springer.com/article/10.1007/s12650-021-00755-1), [Uncertainty + Visualization, Explained](https://medium.com/multiple-views-visualization-research-explained/uncertainty-visualization-explained-67e7a73f031b)
 
 #### Theme 3: AI + Visualization
 ##### Week 10: ML for visualization: Interactive machine learning
@@ -160,9 +160,9 @@ This schedule will be updated throughout the semester with links for slides and 
 - Slides: [Machine learning for visualization (ml4vis)](https://fmiranda.me/courses/cs424-slides/09-ml-vis.pdf)
 - Reading: [A Survey on ML4VIS](https://ieeexplore.ieee.org/abstract/document/9523770), [Machine learning for visualization](https://medium.com/@enjalot/machine-learning-for-visualization-927a9dff1cab)
 
-##### Week 11: Uncertainty visualization & model behaviors
-- Slides: [Uncertainty visualization](https://fmiranda.me/courses/cs424-slides/09-uncertainty.pdf)
-- Reading: [Recent advances and challenges in uncertainty visualization](https://link.springer.com/article/10.1007/s12650-021-00755-1), [Uncertainty + Visualization, Explained](https://medium.com/multiple-views-visualization-research-explained/uncertainty-visualization-explained-67e7a73f031b)
+##### Week 11: Data pipelines & management for visualization
+- Slides: [Data pipelines and management for visualization](https://fmiranda.me/courses/cs424-slides/10-data-vis.pdf)
+- Reading: [Connecting Visualization and Data Management Research](https://inria.hal.science/hal-01756799/), [VisTrails](https://dl.acm.org/doi/abs/10.1145/1142473.1142574), [Curio](https://arxiv.org/abs/2408.06139)
 
 ##### Week 12: Inner workings of AI & embeddings
 ❗ **Assignment 3 due**  
