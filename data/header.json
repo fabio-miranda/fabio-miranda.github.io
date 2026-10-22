@@ -4,12 +4,11 @@
 	"main": "https://fmiranda.me/",
 	"links": {
 		"CV": "https://fmiranda.me/fabio_miranda_cv.pdf",
-		"Research": "https://fmiranda.me/research/",
 		"Publications": "https://fmiranda.me/publications/",
 		"Grants": "https://fmiranda.me/grants/",
         "Courses": "https://fmiranda.me/courses/",
         "Activities": "https://fmiranda.me/services/",
-        "Team": "https://fmiranda.me/team/",
+        "Team": "https://urbantk.org/team/",
         "UTK": "https://urbantk.org/"
 	}
 }
