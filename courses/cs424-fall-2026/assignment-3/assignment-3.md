@@ -25,11 +25,11 @@ This assignment contains five required tasks and one optional extra-credit task.
 Select one visualization from Assignment 2 and implement an interactive version of it. Your implementation must include **at least one meaningful interaction** that supports one or more of your analytical questions. Possible interactions include filtering, selection, brushing and linking, zooming and panning, details-on-demand, or dynamic aggregation. You are free to use any suitable visualization library or framework. You should have two versions of the selected visualization:
 
 - **Static version:** A non-interactive visualization based on your design from Assignment 2.
-- **Interactive version:** The same visualization, extended with at least one meaningful interaction.
+- **Interactive version:** A visualization with at least one meaningful interaction.
 
 This is very important: **The static version must be a meaningful alternative to the interactive version**. It does not need to consist of a single chart. You may use multiple static visualizations, such as small multiples, to present information that the interactive version makes accessible through filtering, selection, or other interactions. Both versions must provide the information necessary to complete the evaluation tasks. You should not intentionally make the static version less informative to favor the interactive version.
 
-Both versions must use the same underlying dataset and comparable visual encodings. The main difference between them should be the interaction. Explain which visualization you selected, how you implemented the interaction, and why you expect it to help users complete particular analytical tasks. **The interaction must serve an analytical purpose.** For example, adding a tooltip that simply repeats information already visible in the chart is not sufficient. On the other hand, introducing filtering that allows users to compare subsets of the data could support analytical tasks that would otherwise require more effort. Your implementations must be functional and accessible to participants during the evaluation.
+Both versions must use the same underlying dataset. Explain which visualization you selected, how you implemented the interaction, and why you expect it to help users complete particular analytical tasks. **Note that the interaction must serve an analytical purpose.** For example, adding a tooltip that simply repeats information already visible in the chart is not sufficient. On the other hand, introducing filtering that allows users to compare subsets of the data could support analytical tasks that would otherwise require more effort. Your implementations must be functional and accessible to participants during the evaluation.
 
 #### Task 2: Evaluation design (20%)
 
@@ -37,7 +37,6 @@ Design an experiment to compare the static and interactive versions of your visu
 
 - Condition 1. Static: Participants use the static visualization developed in Task 1, without interaction.
 - Condition 2. Interactive: Participants use the interactive version of the same visualization, with the interaction implemented in Task 1.
-
 
 Your evaluation must use a within-subject design, meaning that every participant evaluates both conditions. You will compare their performance to investigate whether interaction makes a difference. Start by defining at least one evaluation question and a corresponding hypothesis. For example, you might hypothesize that allowing users to filter data by time reduces the time required to identify patterns across different periods. You must then define at least two analytical tasks, each with two comparable variants (four questions in total). Each participant will perform two tasks using the static visualization and two using the interactive visualization. Importantly, **the tasks should assess the same analytical abilities but use different subsets or aspects of the data to reduce memorization effects.**
 
