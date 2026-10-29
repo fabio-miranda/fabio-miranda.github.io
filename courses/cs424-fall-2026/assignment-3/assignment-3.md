@@ -45,12 +45,12 @@ For example, consider the following two analytical tasks, each with two variants
 
 | Analytical task | Static condition (example assignment) | Interactive condition (example assignment) |
 |---|---|---|
-| Task 1: Identify a maximum | Which neighborhood had the most crashes on weekdays? | Which neighborhood had the most crashes on weekends? |
-| Task 2: Compare categories | Which had more crashes: cars or bicycles in 2024? | Which had more crashes: cars or bicycles in 2025? |
-
-**Your analytical tasks must require more than identifying an obvious value in a chart.** At least one task must involve comparing multiple values, categories, locations, or time periods. For example, identifying the tallest bar in a chart is generally too simple, while identifying which neighborhood experienced the largest change between two periods requires a more meaningful comparison. Your tasks should require some analysis while remaining answerable using either visualization. During your pilot study, check whether the tasks are too obvious, too difficult, or unfairly favor one condition.
+| Identify a maximum | Which neighborhood had the most crashes on weekdays? | Which neighborhood had the most crashes on weekends? |
+| Compare categories | Which had more crashes: cars or bicycles in 2024? | Which had more crashes: cars or bicycles in 2025? |
 
 Notice that the **tasks assess the same analytical abilities but use different subsets of the data**. This helps prevent participants from simply remembering their answers when moving from one condition to the other.
+
+**Your analytical tasks must require more than identifying an obvious value in a chart.** At least one task must involve comparing multiple values, categories, locations, or time periods. For example, identifying the tallest bar in a chart is generally too simple, while identifying which neighborhood experienced the largest change between two periods requires a more meaningful comparison. Your tasks should require some analysis while remaining answerable using either visualization. During your pilot study, check whether the tasks are too obvious, too difficult, or unfairly favor one condition.
 
 The assignment of question variants to conditions must also be balanced. For example, some participants should answer the weekday question using the static visualization and the weekend question using the interactive visualization, while others should do the reverse. This avoids consistently assigning easier questions to one condition. Your analytical tasks should be connected to the domain and data questions developed in Assignment 2 and should have objectively assessable outcomes.
 
@@ -59,9 +59,7 @@ Your evaluation must include at least two quantitative measurements:
 - **Task accuracy:** Whether participants correctly complete each task.
 - **Task completion time:** The time, in seconds, required to complete each task.
 
-You may include additional measurements, such as confidence, perceived difficulty, or the number of interactions performed.
-
-To reduce potential learning effects, you must:
+You may include additional measurements, such as confidence, perceived difficulty, or the number of interactions performed. To reduce potential learning effects, you must:
 
 - Use comparable, but not identical, analytical tasks across the two conditions.
 - Counterbalance the presentation order: approximately half of the participants should use the static version first, while the other half should use the interactive version first.
