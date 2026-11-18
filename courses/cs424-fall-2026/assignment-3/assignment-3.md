@@ -179,7 +179,6 @@ We will consider the following criteria:
 - **Quantitative analysis:** The calculations and visualizations are correct, the comparisons are meaningful, and the conclusions are supported by evidence.
 - **Reflection:** The discussion identifies limitations and proposes specific improvements motivated by the evaluation.
 
-A technically sophisticated visualization will not compensate for a poorly designed evaluation. Similarly, reporting numerical results without explaining how they were collected or what they mean will not receive full credit.
 ---
 
 ### Frequently asked questions
