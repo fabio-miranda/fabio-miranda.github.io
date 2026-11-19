@@ -1,10 +1,12 @@
-### CS424: Visualization and Visual Analytics (Fall 2026)
+### CS424 - Visualization & Visual Analytics (Fall 2026)
 
 Instructor: Fabio Miranda
 
 Course webpage: https://fmiranda.me/courses/cs424-fall-2026/
 
-# Assignment 4: Findings
+---
+
+### Assignment 4: Findings
 
 Throughout this semester, you have worked on a visualization project that evolved through three assignments. In Assignment 1, you identified a phenomenon or question of interest and collected your own dataset. In Assignment 2, you developed analytical questions, explored alternative visualization designs, and implemented initial visualizations. In Assignment 3, you evaluated your visualizations with participants, comparing static and interactive approaches and identifying opportunities for improvement.
 
@@ -14,7 +16,7 @@ Your goal is to move beyond individual visualizations and build a system that su
 
 Also important, you should demonstrate how your project evolved throughout the semester, including the decisions, technical challenges, and iterations that shaped your final work.
 
-## Task 1: Build Your Final Visual Analytics Interface (35%)
+#### Task 1: Build Your Final Visual Analytics Interface (35%)
 
 Develop a complete, working visual analytics interface that integrates and extends the visualizations you created in previous assignments.
 
@@ -28,7 +30,7 @@ Your interface must satisfy the following requirements:
 
 **Simply placing independent charts next to each other is not sufficient.** Your visualizations should work together to support the exploration of your data. For example, suppose you collected pedestrian activity data across different locations and time periods. Your final interface might combine a map showing observation locations, a temporal visualization showing changes throughout the day, and a chart comparing pedestrian counts across locations.
 
-### Implementation options
+#### Implementation options
 
 You are free to choose the technologies used to build your final interface. You are encouraged to reuse and extend code developed in previous assignments rather than implementing everything from scratch.
 
@@ -38,11 +40,11 @@ Whatever framework you choose, your application must satisfy the integration and
 
 **We will evaluate the functionality and analytical capabilities of your interface, not your choice of framework.**
 
-### Evaluation-driven refinement
+#### Evaluation-driven refinement
 
 Your final interface should incorporate what you learned in Assignment 3. Identify at least two observations or design decisions informed by your evaluation results. Explain how these influenced the final system, and provide before-and-after examples where appropriate. You are not required to conduct another user study.
 
-## Task 2: Investigate Your Data and Report Findings (30%)
+### Task 2: Investigate Your Data and Report Findings (30%)
 
 Now that you have developed your final interface, use it to investigate the domain questions you identified in previous assignments. You must report **at least three substantive findings** supported by your data and visualizations. For each finding, include:
 
@@ -58,7 +60,7 @@ You should also discuss at least one question or hypothesis that your data could
 
 Remember that **findings about your data** and **findings about the effectiveness of your visualization** are different. Your main findings in this task should concern the phenomenon you investigated, not simply whether participants liked or understood your interface.
 
-## Task 3: Document the Evolution of Your Project (20%)
+### Task 3: Document the Evolution of Your Project (20%)
 
 Your final submission should demonstrate how your project evolved across the four assignments. Discuss the main changes in your analytical questions, data, visualizations, and understanding of the problem.
 
@@ -71,15 +73,9 @@ In particular, address:
 
 Support your discussion with artifacts from previous assignments, such as sketches, screenshots, code, evaluation results, and development notes. Your goal is not to repeat the previous assignment reports, but to explain **how and why your approach evolved**.
 
-## Task 4: Development Process and Individual Contributions (15%)
+### Task 4: Development Process and Individual Contributions (15%)
 
-Demonstrate your understanding of the system you developed and the technical decisions involved in its implementation. In addition to the final working interface, you must document your development process. To do this, (1) describe **at least two substantive technical challenges** encountered while developing your final system. For each challenge, explain:
-
-1. What was the technical problem?
-2. Why was it challenging?
-3. What approaches or alternatives did you consider or attempt?
-4. How did you resolve the problem, or what limitations remain?
-5. What did you learn from the experience?
+Demonstrate your understanding of the system you developed and the technical decisions involved in its implementation. In addition to the final working interface, you must document your development process. To do this, (1) describe **at least two substantive technical challenges** encountered while developing your final system. For each challenge, explain what was the technical problem, why was it challenging, what approaches or alternatives did you consider or attempt, how did you resolve the problem, or what limitations remain, and finally what did you learn from the experience.
 
 Include relevant evidence, such as code snippets, screenshots, error messages, or GitHub commits. The challenges should reflect actual difficulties encountered during development, not hypothetical problems or superficial implementation details.
 
@@ -87,13 +83,11 @@ Also (2) document your individual contributions. Clearly identify each group mem
 
 Your documentation should reflect work performed throughout the assignment rather than a retrospective assembled immediately before the deadline.
 
-## Extra Credit (Up to 10%)
+### Extra Credit (Up to 10%)
 
-### Advanced Analytics or AI Integration
+#### Advanced Analytics or AI Integration
 
-Extend your interface with an analytical capability that goes beyond the visualizations and interactions required in Task 1.
-
-Possible directions include:
+Extend your interface with an analytical capability that goes beyond the visualizations and interactions required in Task 1. Possible directions include:
 
 - **Machine learning:** Integrate clustering, classification, anomaly detection, or another appropriate analytical model.
 - **Interactive analytics:** Allow users to modify analytical parameters, such as density estimation bandwidth or clustering thresholds, and observe how the results change.
@@ -103,7 +97,7 @@ The functionality must be directly connected to your domain questions and integr
 
 **Deliverable:** A working implementation, at least one analytical example demonstrating its usefulness, and a discussion of its limitations.
 
-## Deliverables and Submission
+### Deliverables and Submission
 
 Continue using the same GitHub repository from Assignments 1-3. Create an `assignment-4/` directory containing the following:
 
@@ -114,6 +108,6 @@ Continue using the same GitHub repository from Assignments 1-3. Create an `assig
 
 Your README must include clear instructions for installing dependencies and running your application locally. If your application uses Curio, include the dataflow and relevant files needed to reproduce your system.
 
-## Grading
+### Grading
 
 We will evaluate the quality of your analytical reasoning, the functionality of your system, and the evidence supporting your design decisions and conclusions. Your final submission should make both the results of your investigation and the process that produced them visible.
