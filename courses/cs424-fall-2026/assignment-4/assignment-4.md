@@ -89,7 +89,7 @@ Your documentation should reflect work performed throughout the assignment rathe
 
 ## Extra Credit (Up to 10%)
 
-### Advanced Analytics or AI Integration (+5%)
+### Advanced Analytics or AI Integration
 
 Extend your interface with an analytical capability that goes beyond the visualizations and interactions required in Task 1.
 
@@ -105,11 +105,9 @@ The functionality must be directly connected to your domain questions and integr
 
 ## Deliverables and Submission
 
-Continue using the same GitHub repository from Assignments 1–3.
+Continue using the same GitHub repository from Assignments 1-3. Create an `assignment-4/` directory containing the following:
 
-Create an `assignment-4/` directory containing the following:
-
-1. **README.md:** A self-contained report documenting Tasks 1–4, including your interface, findings, design evolution, technical challenges, and individual contributions.
+1. **README.md:** A self-contained report documenting Tasks 1-4, including your interface, findings, design evolution, technical challenges, and individual contributions.
 2. **Final application:** All source code, configuration files, and other artifacts necessary to run your visual analytics interface.
 3. **Data and analysis:** The dataset and any scripts or transformations necessary to reproduce your findings.
 6. **Extra credit (if applicable):** The implementation and documentation of your optional extensions.
